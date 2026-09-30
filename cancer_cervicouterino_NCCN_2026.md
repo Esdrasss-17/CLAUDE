@@ -2,6 +2,96 @@
 
 > † = complemento farmacológico, fisiológico o clínico general, no contenido en la guía fuente de la National Comprehensive Cancer Network (NCCN). Todo lo demás proviene de la guía (algoritmos y discusión). La guía no incluye dosis de quimioterapia, inmunoterapia ni terapia dirigida (salvo los esquemas de nivolumab e ipilimumab); las dosis marcadas con † proceden de los protocolos de los ensayos pivote que la guía cita y a los que remite. Categorías de evidencia y consenso de la NCCN: 1 (evidencia alta, consenso ≥85%), 2A (evidencia menor, consenso ≥85%; categoría por defecto), 2B (consenso 50–85%), 3 (desacuerdo mayor del Panel). Categorías de preferencia: preferido (eficacia, seguridad y evidencia superiores y, cuando procede, asequibilidad), otro recomendado (algo menos eficaz, más tóxico, con datos menos maduros o menos asequible) y útil en ciertas circunstancias (poblaciones seleccionadas). Estadificación: Federación Internacional de Ginecología y Obstetricia (FIGO) 2018 salvo indicación; los ensayos citados usaron mayoritariamente FIGO 2009. Los códigos entre paréntesis (CERV-1 a CERV-14 y CERV-A a CERV-G) identifican las páginas del algoritmo de la guía.
 
+**Índice**
+
+- [1. Epidemiología, etiología, factores de riesgo y genética viral](#1-epidemiología-etiología-factores-de-riesgo-y-genética-viral)
+    - [1.1 Epidemiología](#11-epidemiología)
+    - [1.2 Infección por el virus del papiloma humano y genética viral](#12-infección-por-el-virus-del-papiloma-humano-y-genética-viral)
+    - [1.3 Factores de riesgo y cofactores](#13-factores-de-riesgo-y-cofactores)
+- [2. Prevención primaria y secundaria](#2-prevención-primaria-y-secundaria)
+    - [2.1 Prevención primaria: vacunación contra el virus del papiloma humano y control de cofactores](#21-prevención-primaria-vacunación-contra-el-virus-del-papiloma-humano-y-control-de-cofactores)
+    - [2.2 Prevención secundaria: tamizaje y detección de lesiones precursoras](#22-prevención-secundaria-tamizaje-y-detección-de-lesiones-precursoras)
+- [3. Histopatología y subtipos tumorales](#3-histopatología-y-subtipos-tumorales)
+    - [3.1 Clasificación y alcance de la guía](#31-clasificación-y-alcance-de-la-guía)
+    - [3.2 Carcinoma escamoso](#32-carcinoma-escamoso)
+    - [3.3 Adenocarcinoma endocervical](#33-adenocarcinoma-endocervical)
+    - [3.4 Carcinoma adenoescamoso](#34-carcinoma-adenoescamoso)
+    - [3.5 Carcinoma neuroendocrino del cuello uterino (NECC)](#35-carcinoma-neuroendocrino-del-cuello-uterino-necc)
+    - [3.6 Informe anatomopatológico y estudio ganglionar](#36-informe-anatomopatológico-y-estudio-ganglionar)
+    - [3.7 Biomarcadores pronósticos y predictivos: cuándo solicitarlos](#37-biomarcadores-pronósticos-y-predictivos-cuándo-solicitarlos)
+- [4. Manifestaciones clínicas](#4-manifestaciones-clínicas)
+    - [4.1 Presentación inicial](#41-presentación-inicial)
+    - [4.2 Particularidades de presentación por histología](#42-particularidades-de-presentación-por-histología)
+    - [4.3 Manifestaciones de recurrencia](#43-manifestaciones-de-recurrencia)
+- [5. Diagnóstico y estudio inicial](#5-diagnóstico-y-estudio-inicial)
+    - [5.1 Confirmación diagnóstica: biopsia y conización](#51-confirmación-diagnóstica-biopsia-y-conización)
+    - [5.2 Estudio inicial (CERV-1)](#52-estudio-inicial-cerv-1)
+    - [5.3 Imagen inicial (CERV-B)](#53-imagen-inicial-cerv-b)
+- [6. Estadificación FIGO 2018 y estratificación del riesgo](#6-estadificación-figo-2018-y-estratificación-del-riesgo)
+    - [6.1 Reglas de estadificación](#61-reglas-de-estadificación)
+    - [6.2 Estadios FIGO 2018](#62-estadios-figo-2018)
+    - [6.3 FIGO 2014 frente a FIGO 2018: implicaciones para pembrolizumab](#63-figo-2014-frente-a-figo-2018-implicaciones-para-pembrolizumab)
+    - [6.4 Estratificación del riesgo para decidir cirugía y tratamiento adyuvante](#64-estratificación-del-riesgo-para-decidir-cirugía-y-tratamiento-adyuvante)
+- [7. Organización general del tratamiento](#7-organización-general-del-tratamiento)
+    - [7.1 Esquema general por estadio](#71-esquema-general-por-estadio)
+    - [7.2 Principios transversales](#72-principios-transversales)
+    - [7.3 Modificadores por histología](#73-modificadores-por-histología)
+- [8. Tratamiento del carcinoma escamoso, adenocarcinoma y carcinoma adenoescamoso por estadio](#8-tratamiento-del-carcinoma-escamoso-adenocarcinoma-y-carcinoma-adenoescamoso-por-estadio)
+    - [8.1 Estadio IA1 sin invasión linfovascular, con preservación de fertilidad (CERV-2)](#81-estadio-ia1-sin-invasión-linfovascular-con-preservación-de-fertilidad-cerv-2)
+    - [8.2 Estadio IA1 con invasión linfovascular, con preservación de fertilidad (CERV-2)](#82-estadio-ia1-con-invasión-linfovascular-con-preservación-de-fertilidad-cerv-2)
+    - [8.3 Estadio IA2–IB1 con todos los criterios de cirugía conservadora, con preservación de fertilidad (CERV-2)](#83-estadio-ia2ib1-con-todos-los-criterios-de-cirugía-conservadora-con-preservación-de-fertilidad-cerv-2)
+    - [8.4 Estadio IB1 sin criterios de cirugía conservadora e IB2 seleccionado, con preservación de fertilidad (CERV-2)](#84-estadio-ib1-sin-criterios-de-cirugía-conservadora-e-ib2-seleccionado-con-preservación-de-fertilidad-cerv-2)
+    - [8.5 Estadio IA1 sin invasión linfovascular, sin preservación de fertilidad (CERV-3)](#85-estadio-ia1-sin-invasión-linfovascular-sin-preservación-de-fertilidad-cerv-3)
+    - [8.6 Estadio IA1 con invasión linfovascular, sin preservación de fertilidad (CERV-3)](#86-estadio-ia1-con-invasión-linfovascular-sin-preservación-de-fertilidad-cerv-3)
+    - [8.7 Estadio IA2–IB1 con todos los criterios de cirugía conservadora, sin preservación de fertilidad (CERV-4)](#87-estadio-ia2ib1-con-todos-los-criterios-de-cirugía-conservadora-sin-preservación-de-fertilidad-cerv-4)
+    - [8.8 Estadio IB1 sin criterios de cirugía conservadora, IB2 y IIA1, sin preservación de fertilidad (CERV-5)](#88-estadio-ib1-sin-criterios-de-cirugía-conservadora-ib2-y-iia1-sin-preservación-de-fertilidad-cerv-5)
+    - [8.9 Estadios IB3 y IIA2 (CERV-5)](#89-estadios-ib3-y-iia2-cerv-5)
+    - [8.10 Tratamiento adyuvante según los hallazgos quirúrgicos (CERV-6)](#810-tratamiento-adyuvante-según-los-hallazgos-quirúrgicos-cerv-6)
+    - [8.11 Estadios IIB–IVA (CERV-7)](#811-estadios-iibiva-cerv-7)
+    - [8.12 Estadio IVB o recurrencia con metástasis a distancia (CERV-12)](#812-estadio-ivb-o-recurrencia-con-metástasis-a-distancia-cerv-12)
+    - [8.13 Hallazgo incidental de carcinoma invasor tras histerectomía simple o total (CERV-8, CERV-9)](#813-hallazgo-incidental-de-carcinoma-invasor-tras-histerectomía-simple-o-total-cerv-8-cerv-9)
+    - [8.14 Recurrencia locorregional (CERV-11)](#814-recurrencia-locorregional-cerv-11)
+    - [8.15 Cáncer cervicouterino durante el embarazo](#815-cáncer-cervicouterino-durante-el-embarazo)
+- [9. Carcinoma neuroendocrino de células pequeñas del cuello uterino (NECC; CERV-13, CERV-14)](#9-carcinoma-neuroendocrino-de-células-pequeñas-del-cuello-uterino-necc-cerv-13-cerv-14)
+    - [9.1 Estudio y principios](#91-estudio-y-principios)
+    - [9.2 Enfermedad confinada al cuello uterino](#92-enfermedad-confinada-al-cuello-uterino)
+    - [9.3 Enfermedad localmente avanzada (IIA–IVA; CERV-14)](#93-enfermedad-localmente-avanzada-iiaiva-cerv-14)
+    - [9.4 Esquemas sistémicos en el carcinoma neuroendocrino (CERV-F 2 de 4)](#94-esquemas-sistémicos-en-el-carcinoma-neuroendocrino-cerv-f-2-de-4)
+- [10. Principios de cirugía y estadificación quirúrgica (CERV-C)](#10-principios-de-cirugía-y-estadificación-quirúrgica-cerv-c)
+    - [10.1 Tipos de histerectomía (clasificación de Querleu y Morrow)](#101-tipos-de-histerectomía-clasificación-de-querleu-y-morrow)
+    - [10.2 Procedimientos con preservación de fertilidad](#102-procedimientos-con-preservación-de-fertilidad)
+    - [10.3 Vía de abordaje de la histerectomía radical](#103-vía-de-abordaje-de-la-histerectomía-radical)
+    - [10.4 Mapeo de ganglio centinela](#104-mapeo-de-ganglio-centinela)
+    - [10.5 Linfadenectomía pélvica y paraaórtica; estadificación quirúrgica](#105-linfadenectomía-pélvica-y-paraaórtica-estadificación-quirúrgica)
+    - [10.6 Preservación y transposición ovárica](#106-preservación-y-transposición-ovárica)
+    - [10.7 Exenteración pélvica](#107-exenteración-pélvica)
+- [11. Tratamiento sistémico: fármacos, esquemas, dosis y criterios de elección (CERV-F)](#11-tratamiento-sistémico-fármacos-esquemas-dosis-y-criterios-de-elección-cerv-f)
+    - [11.1 Mecanismos de acción y toxicidades de los fármacos](#111-mecanismos-de-acción-y-toxicidades-de-los-fármacos)
+    - [11.2 Quimiorradiación: radiosensibilización en enfermedad localmente avanzada y adyuvante](#112-quimiorradiación-radiosensibilización-en-enfermedad-localmente-avanzada-y-adyuvante)
+    - [11.3 Primera línea en enfermedad recurrente o metastásica](#113-primera-línea-en-enfermedad-recurrente-o-metastásica)
+    - [11.4 Segunda línea y posteriores](#114-segunda-línea-y-posteriores)
+    - [11.5 Terapia dirigida por biomarcadores (útil en ciertas circunstancias, segunda línea o posteriores)](#115-terapia-dirigida-por-biomarcadores-útil-en-ciertas-circunstancias-segunda-línea-o-posteriores)
+    - [11.6 Consideraciones generales de administración y seguridad](#116-consideraciones-generales-de-administración-y-seguridad)
+    - [11.7 Susceptibilidad del tumor y de la paciente: criterios de elección](#117-susceptibilidad-del-tumor-y-de-la-paciente-criterios-de-elección)
+- [12. Principios de radioterapia (CERV-D)](#12-principios-de-radioterapia-cerv-d)
+    - [12.1 Principios generales e indicaciones](#121-principios-generales-e-indicaciones)
+    - [12.2 Volúmenes blanco y campos de radioterapia externa](#122-volúmenes-blanco-y-campos-de-radioterapia-externa)
+    - [12.3 Radioterapia externa: técnica y dosis](#123-radioterapia-externa-técnica-y-dosis)
+    - [12.4 Radioterapia definitiva con cuello uterino intacto](#124-radioterapia-definitiva-con-cuello-uterino-intacto)
+    - [12.5 Braquiterapia](#125-braquiterapia)
+    - [12.6 Radioterapia adyuvante tras histerectomía](#126-radioterapia-adyuvante-tras-histerectomía)
+    - [12.7 Radioterapia intraoperatoria, radioterapia estereotáctica y reirradiación](#127-radioterapia-intraoperatoria-radioterapia-estereotáctica-y-reirradiación)
+    - [12.8 Restricciones de dosis a tejidos normales](#128-restricciones-de-dosis-a-tejidos-normales)
+    - [12.9 Toxicidad de la radioterapia y consideraciones de tejido normal](#129-toxicidad-de-la-radioterapia-y-consideraciones-de-tejido-normal)
+- [13. Principios de imagen en la respuesta, el seguimiento y la recurrencia (CERV-B)](#13-principios-de-imagen-en-la-respuesta-el-seguimiento-y-la-recurrencia-cerv-b)
+    - [13.1 Seguimiento por estadio](#131-seguimiento-por-estadio)
+    - [13.2 Sospecha de recurrencia o metástasis](#132-sospecha-de-recurrencia-o-metástasis)
+- [14. Vigilancia, supervivencia y cuidados de soporte (CERV-10, CERV-G)](#14-vigilancia-supervivencia-y-cuidados-de-soporte-cerv-10-cerv-g)
+    - [14.1 Vigilancia](#141-vigilancia)
+    - [14.2 Estudio de la enfermedad persistente o recurrente](#142-estudio-de-la-enfermedad-persistente-o-recurrente)
+    - [14.3 Supervivencia ginecológica](#143-supervivencia-ginecológica)
+    - [14.4 Mejor tratamiento de soporte](#144-mejor-tratamiento-de-soporte)
+
 **Abreviaturas**
 
 - **ACTH**: hormona adrenocorticotrópica
@@ -106,7 +196,7 @@
 
 - Considerar el cáncer cervicouterino una enfermedad de alta carga global: 4.º cáncer más frecuente en personas asignadas al sexo femenino al nacer; 85% de los casos ocurre en países en desarrollo, donde es causa principal de muerte por cáncer.
 - En EE. UU. la incidencia desciende desde la introducción del tamizaje, pero se mantiene alta en poblaciones hispanas/latinas, negras y asiáticas.
-- El carcinoma escamoso (~80%) disminuye; el adenocarcinoma (~20%) y el carcinoma adenoescamoso aumentan porque el tamizaje citológico es menos eficaz para lesiones endocervicales profundas (ver 2.2).
+- El carcinoma escamoso (~80%) disminuye; el adenocarcinoma (~20%) y el carcinoma adenoescamoso aumentan porque el tamizaje citológico es menos eficaz para lesiones endocervicales profundas (ver [2.2](#22-prevención-secundaria-tamizaje-y-detección-de-lesiones-precursoras)).
 - El tratamiento es el mismo para carcinoma escamoso, adenocarcinoma y carcinoma adenoescamoso, aunque sus características clínicas y su pronóstico difieren de forma considerable.
 
 **Fundamento**
@@ -119,8 +209,8 @@
 - Histologías: carcinoma escamoso ~80% (80–90% en los principios de patología), adenocarcinoma ~20%, adenoescamoso 5–6%.
     - El descenso del carcinoma escamoso en países desarrollados se atribuye al tamizaje eficaz y a una mayor cobertura de vacunación contra virus del papiloma humano (VPH), con disparidades raciales, étnicas y geográficas.
     - El adenocarcinoma y el adenoescamoso aumentaron en las últimas 3 décadas, probablemente porque la citología es menos eficaz para ellos: las lesiones se localizan más profundas que el exocérvix.
-- Embarazo: el cáncer cervicouterino es la neoplasia ginecológica diagnosticada con mayor frecuencia en gestantes; la mayoría en estadio I (ver 8.15).
-- Carcinoma neuroendocrino del cuello uterino (NECC): 1–1.5% de los cánceres cervicouterinos según la discusión; <5% según los principios de patología (ver 3.5).
+- Embarazo: el cáncer cervicouterino es la neoplasia ginecológica diagnosticada con mayor frecuencia en gestantes; la mayoría en estadio I (ver [8.15](#815-cáncer-cervicouterino-durante-el-embarazo)).
+- Carcinoma neuroendocrino del cuello uterino (NECC): 1–1.5% de los cánceres cervicouterinos según la discusión; <5% según los principios de patología (ver [3.5](#35-carcinoma-neuroendocrino-del-cuello-uterino-necc)).
 
 ### 1.2 Infección por el virus del papiloma humano y genética viral
 
@@ -132,7 +222,7 @@
     - adenocarcinoma: 18, 16 y 45;
     - NECC: 16 y 18, con predominio del 18.
 - Alrededor del 5% de los tumores es independiente de VPH: carcinoma escamoso independiente de VPH (5–7% de los escamosos) y adenocarcinomas de tipo gástrico, de células claras, mesonéfrico y endometrioide.
-- Determinar el estado de virus del papiloma humano (VPH) en todo adenocarcinoma (hibridación in situ [ISH] de VPH o prueba molecular preferidas; p16 por inmunohistoquímica [IHQ] aceptable si no hay prueba de VPH; ver 3.3 y 3.7).
+- Determinar el estado de virus del papiloma humano (VPH) en todo adenocarcinoma (hibridación in situ [ISH] de VPH o prueba molecular preferidas; p16 por inmunohistoquímica [IHQ] aceptable si no hay prueba de VPH; ver [3.3](#33-adenocarcinoma-endocervical) y [3.7](#37-biomarcadores-pronósticos-y-predictivos-cuándo-solicitarlos)).
 
 **Fundamento**
 
@@ -175,7 +265,7 @@
 **Fundamento**
 
 - La guía enumera estos cofactores como "otros factores de riesgo epidemiológicos" asociados al cáncer cervicouterino, además de la infección por virus del papiloma humano (VPH).
-- La inmunosupresión también modifica la vigilancia: la citología periódica se considera en pacientes inmunocomprometidas (ver 14.1).
+- La inmunosupresión también modifica la vigilancia: la citología periódica se considera en pacientes inmunocomprometidas (ver [14.1](#141-vigilancia)).
 - † Los cofactores actúan sobre todo favoreciendo la persistencia viral y la progresión: el tabaco concentra carcinógenos en el moco cervical y reduce la inmunidad local; la inmunosupresión (incluida la infección por virus de la inmunodeficiencia humana [VIH]) disminuye la eliminación del VPH; la multiparidad y los anticonceptivos orales se han relacionado con la exposición prolongada de la zona de transformación y con efectos hormonales sobre la expresión viral.
 
 ---
@@ -187,8 +277,8 @@
 **Conducta**
 
 - Vacunación contra virus del papiloma humano (VPH): previene la infección por los tipos incluidos en la vacuna y, por ello, se espera que prevenga los cánceres asociados a esos tipos; puede disminuir la incidencia tanto de carcinoma escamoso como de adenocarcinoma.
-- Cesación tabáquica (ver 1.3).
-- En supervivientes: mantener las vacunaciones recomendadas dentro de la atención médica general (ver 14.3).
+- Cesación tabáquica (ver [1.3](#13-factores-de-riesgo-y-cofactores)).
+- En supervivientes: mantener las vacunaciones recomendadas dentro de la atención médica general (ver [14.3](#143-supervivencia-ginecológica)).
 - La guía no detalla edades, esquemas ni número de dosis de vacunación.
 
 **Fundamento**
@@ -203,15 +293,15 @@
 **Conducta**
 
 - Tamizaje: seguir las guías de la American Society for Colposcopy and Cervical Pathology (ASCCP; disponibles también como aplicación móvil); la National Comprehensive Cancer Network (NCCN) no desarrolla un algoritmo propio de tamizaje.
-- Citología anormal o lesión sospechosa → biopsia cervical. Conización si la biopsia no basta para definir invasión o si se requiere evaluar con exactitud la microinvasión (ver 5.1).
+- Citología anormal o lesión sospechosa → biopsia cervical. Conización si la biopsia no basta para definir invasión o si se requiere evaluar con exactitud la microinvasión (ver [5.1](#51-confirmación-diagnóstica-biopsia-y-conización)).
 - Recordar la menor sensibilidad de la citología para lesiones glandulares: el adenocarcinoma in situ afecta el canal endocervical, más difícil de muestrear. Los métodos de tamizaje con prueba de virus del papiloma humano (VPH) pueden aumentar la detección de adenocarcinoma.
 - Tras cirugía con preservación de fertilidad: la histerectomía total al completar la paridad queda a criterio de la paciente y del cirujano, pero se aconseja firmemente si persisten citologías anormales o infección crónica persistente por VPH.
-- Tras el tratamiento, citología cervical o vaginal anual, según indicación, para detectar neoplasia del tracto genital inferior (p. ej., tras cirugía con preservación de fertilidad o en pacientes inmunocomprometidas). No se recomienda tras radioterapia (RT) pélvica, salvo otras indicaciones, por su exactitud limitada. La displasia escamosa de bajo grado detectada en la vigilancia no se estudia, pero la paciente debe seguir con un profesional experto en esa área (ver 14.1).
+- Tras el tratamiento, citología cervical o vaginal anual, según indicación, para detectar neoplasia del tracto genital inferior (p. ej., tras cirugía con preservación de fertilidad o en pacientes inmunocomprometidas). No se recomienda tras radioterapia (RT) pélvica, salvo otras indicaciones, por su exactitud limitada. La displasia escamosa de bajo grado detectada en la vigilancia no se estudia, pero la paciente debe seguir con un profesional experto en esa área (ver [14.1](#141-vigilancia)).
 
 **Fundamento**
 
 - La accesibilidad del cuello uterino permite que la citología cervical (prueba de Papanicolaou) y las biopsias cervicales lleguen, por lo general, a un diagnóstico exacto.
-- La menor eficacia de la citología para el adenocarcinoma y el adenoescamoso explica su aumento relativo en las últimas 3 décadas (ver 1.1).
+- La menor eficacia de la citología para el adenocarcinoma y el adenoescamoso explica su aumento relativo en las últimas 3 décadas (ver [1.1](#11-epidemiología)).
 - La citología tiene valor limitado para detectar recurrencia de cáncer cervicouterino: estudios en pacientes con estadios I–II asintomáticas tras el tratamiento no detectaron recurrencias mediante la prueba de Papanicolaou; la probabilidad de identificar recurrencias asintomáticas solo con citología es baja.
 - El Panel reconoce que las pacientes tratadas difieren de la población de tamizaje general; por ello recomienda buena evaluación clínica y un alto índice de sospecha, en lugar de estudiar la displasia de bajo grado.
 
@@ -223,7 +313,7 @@
 
 **Conducta**
 
-- Histologías cubiertas: carcinoma escamoso, adenocarcinoma y carcinoma adenoescamoso (algoritmo común) y carcinoma neuroendocrino del cuello uterino (NECC) de células pequeñas (algoritmo propio; ver 9).
+- Histologías cubiertas: carcinoma escamoso, adenocarcinoma y carcinoma adenoescamoso (algoritmo común) y carcinoma neuroendocrino del cuello uterino (NECC) de células pequeñas (algoritmo propio; ver [9](#9-carcinoma-neuroendocrino-de-células-pequeñas-del-cuello-uterino-necc-cerv-13-cerv-14)).
 - Fuera del alcance: carcinoma de células vidriosas, sarcomas y otros tipos histológicos.
 - Clasificar todo carcinoma como asociado o independiente de virus del papiloma humano (VPH; Organización Mundial de la Salud [OMS] 2020). En adenocarcinoma, integrar la morfología (según la International Endocervical Adenocarcinoma Criteria and Classification [IECC] 2018: figuras mitóticas luminales y apoptosis) con hibridación in situ (ISH) de VPH, prueba molecular o p16 por inmunohistoquímica (IHQ; si no hay prueba de VPH) para determinar el estado de VPH y el tipo histológico.
 - Histologías que excluyen la preservación de fertilidad y el tratamiento definitivo con conización o histerectomía tipo A:
@@ -245,7 +335,7 @@
 
 - Diagnóstico: tumor epitelial escamoso con invasión estromal o invasión exofítica.
 - Establecer la asociación con virus del papiloma humano (VPH) mediante p16 por inmunohistoquímica (IHQ) o tipificación molecular de VPH: la morfología por sí sola no es fiable.
-- En la pieza quirúrgica, la profundidad de invasión es el factor de riesgo de recurrencia más relevante del carcinoma escamoso (ver 6.4).
+- En la pieza quirúrgica, la profundidad de invasión es el factor de riesgo de recurrencia más relevante del carcinoma escamoso (ver [6.4](#64-estratificación-del-riesgo-para-decidir-cirugía-y-tratamiento-adyuvante)).
 
 **Fundamento**
 
@@ -336,7 +426,7 @@
 - Realizar marcadores neuroendocrinos por inmunohistoquímica (IHQ; cromogranina, sinaptofisina, CD56, proteína 1 asociada a insulinoma [INSM1]) en el estudio diagnóstico, aunque no siempre se expresan. Con morfología clásica, el diagnóstico de NECC de células pequeñas puede hacerse aunque la IHQ sea negativa; esto no aplica al NECC de células grandes.
 - Si la IHQ es negativa o se sospecha un NECC de células pequeñas negativo por IHQ → revisión por patólogo experto.
 - p16 y factor de transcripción tiroideo 1 (TTF-1) no sirven para distinguir un primario cervical de una metástasis pulmonar; considerar hibridación in situ (ISH) de virus del papiloma humano (VPH) o reacción en cadena de la polimerasa (PCR).
-- Estudio de extensión con resonancia magnética (RM) cerebral (ver 9.1).
+- Estudio de extensión con resonancia magnética (RM) cerebral (ver [9.1](#91-estudio-y-principios)).
 
 **Fundamento**
 
@@ -388,7 +478,7 @@
 - El protocolo del College of American Pathologists (CAP) para carcinoma cervical guía el examen de las piezas de resección; su revisión de marzo de 2022 refleja la AJCC 9.ª edición y el informe de cáncer FIGO 2018.
 - Elementos clave de evaluación del tumor primario: localización, volumen tumoral en varias dimensiones, tipo y grado histológico, invasión estromal (incluido el patrón de invasión), estado de márgenes y presencia de invasión del espacio linfovascular (ILV).
 - La información detallada de márgenes no es obligatoria, pero es útil para planificar el tratamiento multidisciplinario.
-- La evaluación del patrón histológico de invasión en el adenocarcinoma endocervical es un concepto emergente (Silva; ver 3.3).
+- La evaluación del patrón histológico de invasión en el adenocarcinoma endocervical es un concepto emergente (Silva; ver [3.3](#33-adenocarcinoma-endocervical)).
 - Ultraestadificación: cortes seriados del ganglio centinela (GC) y revisión de múltiples secciones teñidas con hematoxilina y eosina (H&E), con o sin inmunohistoquímica (IHQ) de citoqueratina, en todos los bloques. No hay un protocolo estándar.
 
 ### 3.7 Biomarcadores pronósticos y predictivos: cuándo solicitarlos
@@ -396,7 +486,7 @@
 **Conducta**
 
 - Ligando 1 de muerte programada (PD-L1; con puntuación positiva combinada [CPS]) en enfermedad recurrente, en progresión o metastásica, mediante un ensayo aprobado por la Administración de Alimentos y Medicamentos de EE. UU. (FDA) o una prueba validada en un laboratorio con certificación Clinical Laboratory Improvement Amendments (CLIA).
-- Estado de virus del papiloma humano (VPH) en todos los adenocarcinomas (ver 3.3).
+- Estado de virus del papiloma humano (VPH) en todos los adenocarcinomas (ver [3.3](#33-adenocarcinoma-endocervical)).
 - Receptor 2 del factor de crecimiento epidérmico humano (HER2) por inmunohistoquímica (IHQ) en carcinoma avanzado, metastásico o recurrente, con o sin hibridación in situ fluorescente (FISH) refleja si la IHQ es dudosa.
 - En enfermedad metastásica o recurrente se prefiere un perfil molecular integral (ensayo aprobado por la FDA o prueba validada en laboratorio con certificación CLIA) que incluya al menos HER2, sistema de reparación de errores de apareamiento (MMR) y inestabilidad de microsatélites (MSI), carga mutacional tumoral (TMB), genes del receptor neurotrófico de tirosina cinasa (NTRK) y el gen reordenado durante la transfección (RET), para identificar oportunidades de terapia dirigida agnóstica de tumor.
 - La prueba de fusión del gen RET puede considerarse en enfermedad localmente avanzada o metastásica.
@@ -407,7 +497,7 @@
 
 - Los biomarcadores predictivos anticipan la respuesta de ciertas pacientes a un tratamiento, en eficacia o toxicidad, y ayudan a elegir fármacos y reducir toxicidad. Los pronósticos predicen la supervivencia global (SG) independientemente del tratamiento y sirven para decidir, monitorizar la progresión y detectar recurrencia.
 - La aparición de agentes dirigidos a biomarcadores cambió el paradigma del tratamiento sistémico y mejoró la supervivencia en enfermedad avanzada o recurrente.
-- Ligando 1 de muerte programada (PD-L1): la FDA aprobó pembrolizumab + quimioterapia (QT) ± bevacizumab para enfermedad persistente, recurrente o metastásica con puntuación positiva combinada (CPS) ≥1 (KEYNOTE-826; ver 11.3).
+- Ligando 1 de muerte programada (PD-L1): la FDA aprobó pembrolizumab + quimioterapia (QT) ± bevacizumab para enfermedad persistente, recurrente o metastásica con puntuación positiva combinada (CPS) ≥1 (KEYNOTE-826; ver [11.3](#113-primera-línea-en-enfermedad-recurrente-o-metastásica)).
 - Receptor 2 del factor de crecimiento epidérmico humano (HER2): la amplificación o sobreexpresión se asocia a mayor tasa de recurrencia y peor pronóstico; positividad de 2–6% en cáncer cervicouterino. Su determinación abre opciones anti-HER2.
 - Deficiencia del sistema de reparación de errores de apareamiento (dMMR) o alta inestabilidad de microsatélites (MSI-H): 2–4% de todos los cánceres; acumulan 10–100 veces más mutaciones que los tumores con sistema de reparación de errores de apareamiento (MMR) competente y 100–1000 mutaciones somáticas que codifican neoantígenos potencialmente inmunogénicos.
 - Carga mutacional tumoral (TMB): número total de mutaciones somáticas por área codificante del genoma tumoral. Los tumores muy mutados generan neoantígenos que pueden aumentar la reactividad de los linfocitos T. En KEYNOTE-158, el cáncer cervicouterino tuvo la mayor proporción de carga mutacional tumoral alta (TMB-H; 21%) entre los tipos tumorales evaluados.
@@ -430,13 +520,13 @@
 - Datos que obligan a ampliar el estudio:
     - lesión en barril (crecimiento endofítico);
     - afectación de la pared vaginal anterior;
-    - síntomas vesicales o rectales → considerar exploración bajo anestesia con cistoscopia o proctoscopia y biopsia (ver 5.2);
-    - masa pélvica voluminosa (>4 cm), adenopatías palpables o síntomas pélvicos, abdominales o pulmonares → imagen adicional (ver 5.3).
+    - síntomas vesicales o rectales → considerar exploración bajo anestesia con cistoscopia o proctoscopia y biopsia (ver [5.2](#52-estudio-inicial-cerv-1));
+    - masa pélvica voluminosa (>4 cm), adenopatías palpables o síntomas pélvicos, abdominales o pulmonares → imagen adicional (ver [5.3](#53-imagen-inicial-cerv-b)).
 
 **Fundamento**
 
 - Formas macroscópicas descritas: ulceración, masa exofítica o cuello uterino en barril por crecimiento endofítico (característico del adenocarcinoma endocervical).
-- Hallazgos que definen enfermedad avanzada según la Federación Internacional de Ginecología y Obstetricia (FIGO) 2018 (ver 6.2):
+- Hallazgos que definen enfermedad avanzada según la Federación Internacional de Ginecología y Obstetricia (FIGO) 2018 (ver [6.2](#62-estadios-figo-2018)):
     - afectación del tercio inferior de la vagina;
     - extensión a la pared pélvica;
     - hidronefrosis o riñón no funcionante;
@@ -448,7 +538,7 @@
 **Conducta**
 
 - Escamoso independiente de virus del papiloma humano (VPH) y adenocarcinoma de tipo gástrico: esperar presentación en estadio avanzado.
-- Carcinoma neuroendocrino del cuello uterino (NECC): esperar enfermedad agresiva con metástasis tempranas; incluir resonancia magnética (RM) cerebral en el estudio (ver 9.1).
+- Carcinoma neuroendocrino del cuello uterino (NECC): esperar enfermedad agresiva con metástasis tempranas; incluir resonancia magnética (RM) cerebral en el estudio (ver [9.1](#91-estudio-y-principios)).
 
 **Fundamento**
 
@@ -498,7 +588,7 @@
 **Fundamento**
 
 - El objetivo del cono es extirpar en bloque, con bisturí, el exocérvix y el canal endocervical: una pieza íntegra, sin fragmentar y sin artefacto electroquirúrgico, facilita la evaluación de márgenes.
-- La enfermedad microinvasora (IA1 sin invasión del espacio linfovascular [ILV]) tiene <1% de probabilidad de metástasis linfáticas; por eso el cono con márgenes negativos puede ser tratamiento definitivo (ver 8.1 y 8.5).
+- La enfermedad microinvasora (IA1 sin invasión del espacio linfovascular [ILV]) tiene <1% de probabilidad de metástasis linfáticas; por eso el cono con márgenes negativos puede ser tratamiento definitivo (ver [8.1](#81-estadio-ia1-sin-invasión-linfovascular-con-preservación-de-fertilidad-cerv-2) y [8.5](#85-estadio-ia1-sin-invasión-linfovascular-sin-preservación-de-fertilidad-cerv-3)).
 - Predictores de enfermedad residual tras márgenes positivos: legrado endocervical positivo, combinación de margen endocervical y legrado positivos, y volumen de enfermedad.
 - La citología es menos útil para diagnosticar adenocarcinoma porque el adenocarcinoma in situ afecta zonas difíciles de muestrear (canal endocervical).
 
@@ -510,18 +600,18 @@
 - Biometría hemática completa con plaquetas.
 - Biopsia cervical con revisión anatomopatológica; conización según indicación.
 - Pruebas de función hepática y renal.
-- Imagen según estadio y opción de fertilidad (ver 5.3).
+- Imagen según estadio y opción de fertilidad (ver [5.3](#53-imagen-inicial-cerv-b)).
 - Intervención y consejo para dejar de fumar, si procede.
 - Considerar prueba de virus de la inmunodeficiencia humana (VIH; sobre todo en pacientes jóvenes).
 - Considerar exploración bajo anestesia con cistoscopia o proctoscopia según síntomas, lesión en barril o afectación de la pared vaginal anterior; si se sospecha afectación vesical o intestinal, la cistoscopia o proctoscopia debe incluir biopsia.
 - Considerar opciones de preservación de fertilidad o derivar a un especialista en endocrinología reproductiva e infertilidad.
 - Evaluar el distrés.
-- Carcinoma neuroendocrino del cuello uterino (NECC) de células pequeñas: estudio propio (ver 9.1).
+- Carcinoma neuroendocrino del cuello uterino (NECC) de células pequeñas: estudio propio (ver [9.1](#91-estudio-y-principios)).
 
 **Fundamento**
 
 - En la versión 1.2026 se eliminó el umbral "≥ estadio IB3" para la exploración bajo anestesia con cistoscopia o proctoscopia y se sustituyó por criterios clínicos. La discusión aún las describe solo ante sospecha de extensión vesical o rectal (≥IB3).
-- El estadio IVA exige afectación de la mucosa vesical o rectal comprobada por biopsia; el edema buloso no basta (ver 6.2). Por eso se biopsia ante sospecha.
+- El estadio IVA exige afectación de la mucosa vesical o rectal comprobada por biopsia; el edema buloso no basta (ver [6.2](#62-estadios-figo-2018)). Por eso se biopsia ante sospecha.
 - Paciente con virus de la inmunodeficiencia humana (VIH): derivación a especialista en VIH y tratamiento oncológico según la guía, sin modificaciones basadas solo en el estado de VIH.
 
 ### 5.3 Imagen inicial (CERV-B)
@@ -559,7 +649,7 @@
 - En pacientes sin estadificación quirúrgica, la tomografía por emisión de positrones con fluorodesoxiglucosa acoplada a tomografía computarizada (PET-FDG/TC) ayuda a definir el volumen ganglionar a irradiar y, en el posoperatorio, a confirmar la extirpación de ganglios anormales.
 - La discusión recomienda estudios de imagen desde el estadio IB2, sobre todo para detectar enfermedad ganglionar o extrapélvica, y la RM pélvica para describir la extensión local y planificar la radioterapia (RT). Ante hallazgos dudosos puede considerarse la biopsia con aguja de la anomalía extrauterina.
 - La discusión también menciona radiografía de tórax, tomografía computarizada (TC) o PET-FDG/TC y RM según indicación (p. ej., para descartar enfermedad alta en el endocérvix).
-- La estadificación FIGO 2018 permite usar la imagen para asignar el estadio IIIC con la notación "r" (ver 6.1).
+- La estadificación FIGO 2018 permite usar la imagen para asignar el estadio IIIC con la notación "r" (ver [6.1](#61-reglas-de-estadificación)).
 
 ---
 
@@ -624,7 +714,7 @@
 
 **Fundamento**
 
-- KEYNOTE-A18 incluyó enfermedad de alto riesgo según FIGO 2014: IB2–IIB con ganglios positivos, o III–IVA. El beneficio en supervivencia libre de progresión (SLP) se concentró en FIGO 2014 III–IVA (razón de riesgos [HR] 0.59); en IB2–IIB, HR 0.91 (intervalo de confianza [IC] 95% 0.63–1.31; ver 11.2).
+- KEYNOTE-A18 incluyó enfermedad de alto riesgo según FIGO 2014: IB2–IIB con ganglios positivos, o III–IVA. El beneficio en supervivencia libre de progresión (SLP) se concentró en FIGO 2014 III–IVA (razón de riesgos [HR] 0.59); en IB2–IIB, HR 0.91 (intervalo de confianza [IC] 95% 0.63–1.31; ver [11.2](#112-quimiorradiación-radiosensibilización-en-enfermedad-localmente-avanzada-y-adyuvante)).
 - Como FIGO 2018 asigna estadio IIIC por afectación ganglionar independientemente del tamaño y la extensión, el Panel alcanzó <85% de consenso para los IIIC solo ganglionares.
 - † En FIGO 2014 los ganglios no modificaban el estadio: un tumor IB2–IIB con ganglios positivos (subgrupo sin beneficio claro) se reclasifica como IIIC en FIGO 2018.
 
@@ -651,12 +741,12 @@
 | − | Tercio medio o profundo | ≥4 |
 
 - Leyenda de la tabla: ILV = invasión del espacio linfovascular; "+" presente; "−" ausente.
-- Cumplir criterios GOG/Sedlis → radioterapia externa (EBRT) pélvica adyuvante (categoría 1; ver 8.10).
+- Cumplir criterios GOG/Sedlis → radioterapia externa (EBRT) pélvica adyuvante (categoría 1; ver [8.10](#810-tratamiento-adyuvante-según-los-hallazgos-quirúrgicos-cerv-6)).
 - Los factores de riesgo no se limitan a los criterios GOG/Sedlis: considerar también la histología (componente de adenocarcinoma) y los márgenes cercanos o positivos.
 
 **Conducta: alto riesgo**
 
-- Ganglios pélvicos positivos, margen quirúrgico positivo o parametrio positivo → radioterapia externa (EBRT) + quimioterapia (QT) concurrente con platino (categoría 1) ± braquiterapia (ver 8.10).
+- Ganglios pélvicos positivos, margen quirúrgico positivo o parametrio positivo → radioterapia externa (EBRT) + quimioterapia (QT) concurrente con platino (categoría 1) ± braquiterapia (ver [8.10](#810-tratamiento-adyuvante-según-los-hallazgos-quirúrgicos-cerv-6)).
 - Ganglios paraaórticos positivos → EBRT de campo extendido + QT concurrente con platino (categoría 1) ± braquiterapia.
 
 **Conducta: riesgo de afectación paraaórtica**
@@ -665,7 +755,7 @@
 
 **Fundamento: criterios de cirugía conservadora**
 
-- Proceden de ConCerv y GOG-0278 (preservación de fertilidad) y de SHAPE (histerectomía simple); ver 8.3 y 8.7.
+- Proceden de ConCerv y GOG-0278 (preservación de fertilidad) y de SHAPE (histerectomía simple); ver [8.3](#83-estadio-ia2ib1-con-todos-los-criterios-de-cirugía-conservadora-con-preservación-de-fertilidad-cerv-2) y [8.7](#87-estadio-ia2ib1-con-todos-los-criterios-de-cirugía-conservadora-sin-preservación-de-fertilidad-cerv-4).
 - La versión 1.2026 marca como "preferidos" la ausencia de invasión del espacio linfovascular (ILV) y la histología, y exige márgenes negativos "para cáncer"; el carcinoma adenoescamoso ya no figura entre las histologías aceptadas.
 
 **Fundamento: criterios GOG/Sedlis**
@@ -681,7 +771,7 @@
 **Fundamento: factores ganglionares paraaórticos**
 
 - La afectación paraaórtica se relaciona estrechamente con las metástasis ganglionares pélvicas, el tamaño tumoral >2 cm y las metástasis en ganglios ilíacos comunes (estudios en estadios IB–IIB).
-- Silva y la invasión del espacio linfovascular (ILV) complementan la estadificación FIGO en adenocarcinomas IA1–IB1 (ver 3.3).
+- Silva y la invasión del espacio linfovascular (ILV) complementan la estadificación FIGO en adenocarcinomas IA1–IB1 (ver [3.3](#33-adenocarcinoma-endocervical)).
 
 ---
 
@@ -692,16 +782,16 @@
 **Conducta**
 
 - **Enfermedad temprana (IA, IB1, IB2 y IIA1 seleccionado)**: cirugía o radioterapia (RT). La cirugía se reserva para enfermedad temprana, preservación de fertilidad y lesiones pequeñas.
-    - Preservación de fertilidad: IA, IB1 y casos seleccionados de IB2 (ver 8.1–8.4).
-    - Sin preservación: histerectomía tipo A, B o C1 según estadio y criterios de riesgo, con estudio ganglionar (ver 8.5–8.8).
-    - Cirugía + tratamiento adyuvante según los hallazgos (ver 8.10).
+    - Preservación de fertilidad: IA, IB1 y casos seleccionados de IB2 (ver [8.1](#81-estadio-ia1-sin-invasión-linfovascular-con-preservación-de-fertilidad-cerv-2)–[8.4](#84-estadio-ib1-sin-criterios-de-cirugía-conservadora-e-ib2-seleccionado-con-preservación-de-fertilidad-cerv-2)).
+    - Sin preservación: histerectomía tipo A, B o C1 según estadio y criterios de riesgo, con estudio ganglionar (ver [8.5](#85-estadio-ia1-sin-invasión-linfovascular-sin-preservación-de-fertilidad-cerv-3)–[8.8](#88-estadio-ib1-sin-criterios-de-cirugía-conservadora-ib2-y-iia1-sin-preservación-de-fertilidad-cerv-5)).
+    - Cirugía + tratamiento adyuvante según los hallazgos (ver [8.10](#810-tratamiento-adyuvante-según-los-hallazgos-quirúrgicos-cerv-6)).
 - **IB3–IVA**: quimiorradioterapia (QRT) concurrente con platino + braquiterapia como tratamiento de elección.
-    - Pembrolizumab concurrente y de mantenimiento en III–IVA seleccionados (ver 6.3).
-    - Quimioterapia (QT) de inducción según INTERLACE como opción (ver 11.2).
-    - En IB3 y IIA2 también cabe la histerectomía radical tipo C1 (ver 8.9).
-- **IVB o recurrencia a distancia**: tratamiento sistémico ± RT individualizada; tratamiento local en enfermedad susceptible, como la oligometastásica (ver 8.12).
-- **Recurrencia locorregional**: según RT previa y localización central o no central (ver 8.14).
-- **Carcinoma neuroendocrino del cuello uterino (NECC) de células pequeñas**: algoritmo propio (ver 9).
+    - Pembrolizumab concurrente y de mantenimiento en III–IVA seleccionados (ver [6.3](#63-figo-2014-frente-a-figo-2018-implicaciones-para-pembrolizumab)).
+    - Quimioterapia (QT) de inducción según INTERLACE como opción (ver [11.2](#112-quimiorradiación-radiosensibilización-en-enfermedad-localmente-avanzada-y-adyuvante)).
+    - En IB3 y IIA2 también cabe la histerectomía radical tipo C1 (ver [8.9](#89-estadios-ib3-y-iia2-cerv-5)).
+- **IVB o recurrencia a distancia**: tratamiento sistémico ± RT individualizada; tratamiento local en enfermedad susceptible, como la oligometastásica (ver [8.12](#812-estadio-ivb-o-recurrencia-con-metástasis-a-distancia-cerv-12)).
+- **Recurrencia locorregional**: según RT previa y localización central o no central (ver [8.14](#814-recurrencia-locorregional-cerv-11)).
+- **Carcinoma neuroendocrino del cuello uterino (NECC) de células pequeñas**: algoritmo propio (ver [9](#9-carcinoma-neuroendocrino-de-células-pequeñas-del-cuello-uterino-necc-cerv-13-cerv-14)).
 - La QRT también se usa en pacientes que no son candidatas a histerectomía.
 
 **Fundamento**
@@ -715,11 +805,11 @@
 
 **Conducta**
 
-- Vía abierta abdominal como estándar para la histerectomía radical (categoría 1; ver 10.3).
-- Mapeo de ganglio centinela (GC) antes de considerar la linfadenectomía pélvica en enfermedad temprana, respetando el algoritmo de mapeo (ver 10.4).
+- Vía abierta abdominal como estándar para la histerectomía radical (categoría 1; ver [10.3](#103-vía-de-abordaje-de-la-histerectomía-radical)).
+- Mapeo de ganglio centinela (GC) antes de considerar la linfadenectomía pélvica en enfermedad temprana, respetando el algoritmo de mapeo (ver [10.4](#104-mapeo-de-ganglio-centinela)).
 - Evitar, si es posible, sumar cirugía radical y radioterapia (RT) adyuvante: algunos miembros del Panel hacen primero la linfadenectomía pélvica y, si los ganglios son positivos, abandonan la histerectomía y administran quimiorradioterapia (QRT).
-- Preservación ovárica o transposición ovárica fuera de los campos de RT, cuando sea factible (ver 10.6).
-- Completar la RT total (radioterapia externa [EBRT] + braquiterapia) en ≤8 semanas, sin interrupciones (ver 12.1).
+- Preservación ovárica o transposición ovárica fuera de los campos de RT, cuando sea factible (ver [10.6](#106-preservación-y-transposición-ovárica)).
+- Completar la RT total (radioterapia externa [EBRT] + braquiterapia) en ≤8 semanas, sin interrupciones (ver [12.1](#121-principios-generales-e-indicaciones)).
 - Valorar coste y toxicidad al elegir el radiosensibilizante, sobre todo con RT de campo extendido.
 
 **Fundamento**
@@ -742,13 +832,13 @@
 - Riesgo tras cirugía: en el carcinoma escamoso pesa la profundidad de invasión; en el adenocarcinoma, el tamaño tumoral, sobre todo con invasión del espacio linfovascular (ILV); la presencia de un componente de adenocarcinoma es un factor de riesgo adicional a los criterios GOG/Sedlis (del Gynecologic Oncology Group y de Sedlis).
 - Adenocarcinoma asociado a virus del papiloma humano (VPH) con patrón A de Silva: sin metástasis ganglionares ni recurrencias descritas.
 - Preservación ovárica y transposición: descritas para carcinoma escamoso en pacientes <45 años.
-- NECC de células pequeñas: algoritmo y esquemas propios, basados en cáncer de pulmón de células pequeñas (ver 9).
+- NECC de células pequeñas: algoritmo y esquemas propios, basados en cáncer de pulmón de células pequeñas (ver [9](#9-carcinoma-neuroendocrino-de-células-pequeñas-del-cuello-uterino-necc-cerv-13-cerv-14)).
 
 **Fundamento**
 
 - En pacientes jóvenes (<45 años) premenopáusicas con carcinoma escamoso temprano que conservan los ovarios, la tasa de metástasis ováricas es baja.
-- En el ensayo EMPOWER-Cervical 1, el beneficio en supervivencia global (SG) de cemiplimab se observó tanto en carcinoma escamoso como en adenocarcinoma o adenoescamoso (ver 11.4).
-- Los datos de neratinib para receptor 2 del factor de crecimiento epidérmico humano (HER2) mutado proceden de adenocarcinomas endocervicales (ver 11.5).
+- En el ensayo EMPOWER-Cervical 1, el beneficio en supervivencia global (SG) de cemiplimab se observó tanto en carcinoma escamoso como en adenocarcinoma o adenoescamoso (ver [11.4](#114-segunda-línea-y-posteriores)).
+- Los datos de neratinib para receptor 2 del factor de crecimiento epidérmico humano (HER2) mutado proceden de adenocarcinomas endocervicales (ver [11.5](#115-terapia-dirigida-por-biomarcadores-útil-en-ciertas-circunstancias-segunda-línea-o-posteriores)).
 
 ---
 
@@ -760,7 +850,7 @@
 
 - Conización con márgenes negativos (para enfermedad invasora y para lesión intraepitelial escamosa de alto grado [HSIL]): de preferencia pieza no fragmentada con márgenes negativos ≥1 mm.
 - Márgenes positivos → repetir la conización o realizar traquelectomía.
-- Márgenes negativos → vigilancia (ver 14).
+- Márgenes negativos → vigilancia (ver [14](#14-vigilancia-supervivencia-y-cuidados-de-soporte-cerv-10-cerv-g)).
 - Consultar con especialistas en endocrinología reproductiva e infertilidad.
 
 **Fundamento**
@@ -774,7 +864,7 @@
 
 **Conducta**
 
-- Conización con márgenes negativos + mapeo de ganglio centinela (GC) o linfadenectomía pélvica (pieza no fragmentada con márgenes ≥1 mm; si los márgenes son positivos, repetir el cono o realizar traquelectomía) → hallazgos quirúrgicos y adyuvancia (ver 8.10).
+- Conización con márgenes negativos + mapeo de ganglio centinela (GC) o linfadenectomía pélvica (pieza no fragmentada con márgenes ≥1 mm; si los márgenes son positivos, repetir el cono o realizar traquelectomía) → hallazgos quirúrgicos y adyuvancia (ver [8.10](#810-tratamiento-adyuvante-según-los-hallazgos-quirúrgicos-cerv-6)).
 - Alternativa descrita en la discusión: traquelectomía radical + mapeo de GC o linfadenectomía pélvica.
 
 **Fundamento**
@@ -795,7 +885,7 @@
     - imagen negativa para enfermedad locorregional (resonancia magnética [RM] recomendada).
 - Tratamiento: conización con márgenes negativos + mapeo de ganglio centinela (GC) o linfadenectomía pélvica.
     - Ganglios pélvicos negativos → vigilancia.
-    - Ganglios pélvicos positivos → hallazgos quirúrgicos y adyuvancia (ver 8.10).
+    - Ganglios pélvicos positivos → hallazgos quirúrgicos y adyuvancia (ver [8.10](#810-tratamiento-adyuvante-según-los-hallazgos-quirúrgicos-cerv-6)).
 
 **Fundamento: ConCerv (prospectivo, cirugía conservadora en cáncer temprano de bajo riesgo)**
 
@@ -817,7 +907,7 @@
 
 **Conducta**
 
-- Traquelectomía radical + mapeo de ganglio centinela (GC) o linfadenectomía pélvica ± linfadenectomía paraaórtica → hallazgos quirúrgicos y adyuvancia (ver 8.10).
+- Traquelectomía radical + mapeo de ganglio centinela (GC) o linfadenectomía pélvica ± linfadenectomía paraaórtica → hallazgos quirúrgicos y adyuvancia (ver [8.10](#810-tratamiento-adyuvante-según-los-hallazgos-quirúrgicos-cerv-6)).
 - Selección:
     - la cirugía con preservación de fertilidad en estadio IB está más validada en tumores <2 cm;
     - en lesiones IB2 de 2–4 cm se prefiere la vía abdominal, con selección cuidadosa (muchas pacientes necesitarán tratamiento adyuvante por factores de riesgo patológicos, lo que puede comprometer la fertilidad);
@@ -829,7 +919,7 @@
 
 - Traquelectomía radical vaginal: extirpa el cuello uterino, 1–2 cm de la vagina superior y los ligamentos de soporte, como una histerectomía radical tipo B, pero conserva el cuerpo uterino. Se indica en IA2 o IB1 (<2 cm) seleccionados y se acompaña de linfadenectomía pélvica laparoscópica, que puede hacerse con mapeo de ganglio centinela (GC).
 - Traquelectomía radical abdominal: reseca más parametrio que la vía vaginal, imita una histerectomía radical tipo C1, es adecuada para IB1–IB2 seleccionados y se ha usado en lesiones de 2–4 cm.
-- Se conservan unos 5 mm de la porción craneal del cuello uterino para el cerclaje (ver 10.2).
+- Se conservan unos 5 mm de la porción craneal del cuello uterino para el cerclaje (ver [10.2](#102-procedimientos-con-preservación-de-fertilidad)).
 - Puede añadirse linfadenectomía paraaórtica en estadio IB1 y en IB2 seleccionados.
 - Algunos cirujanos proponen un límite de 2 cm para la vía vaginal y de 4 cm para la abdominal.
 
@@ -856,21 +946,21 @@
     - considerar repetir la conización para evaluar mejor la profundidad de invasión y descartar IA2 o IB1;
     - o histerectomía tipo A (si los márgenes son positivos para displasia);
     - o histerectomía radical tipo B + mapeo de ganglio centinela (GC) o linfadenectomía pélvica (si los márgenes son positivos para carcinoma).
-- Después → vigilancia o, si hubo cirugía con estudio ganglionar, hallazgos quirúrgicos y adyuvancia (ver 8.10).
+- Después → vigilancia o, si hubo cirugía con estudio ganglionar, hallazgos quirúrgicos y adyuvancia (ver [8.10](#810-tratamiento-adyuvante-según-los-hallazgos-quirúrgicos-cerv-6)).
 
 **Fundamento**
 
 - Fe de erratas del 19/11/2025: la histerectomía tipo A por márgenes positivos para displasia no se acompaña de mapeo de ganglio centinela (GC) ni de linfadenectomía pélvica. En la versión 1.2026, la vía "inoperable" se restringió a márgenes positivos para carcinoma y se dio preferencia a repetir el cono.
 - Braquiterapia en tumores muy pequeños:
-    - en tumores médicamente inoperables IA1 o IA2 puede considerarse una dosis que cubre el 90% del volumen (D90) de 75–80 Gy, en dosis equivalente en fracciones de 2 Gy (EQD2; ver 12.4);
-    - en enfermedad muy temprana muy seleccionada (IA2), la braquiterapia sola, sin radioterapia externa (EBRT), puede ser una opción (ver 12.5).
+    - en tumores médicamente inoperables IA1 o IA2 puede considerarse una dosis que cubre el 90% del volumen (D90) de 75–80 Gy, en dosis equivalente en fracciones de 2 Gy (EQD2; ver [12.4](#124-radioterapia-definitiva-con-cuello-uterino-intacto));
+    - en enfermedad muy temprana muy seleccionada (IA2), la braquiterapia sola, sin radioterapia externa (EBRT), puede ser una opción (ver [12.5](#125-braquiterapia)).
 
 ### 8.6 Estadio IA1 con invasión linfovascular, sin preservación de fertilidad (CERV-3)
 
 **Conducta: según la conización o la escisión electroquirúrgica con asa (LEEP)**
 
 - Márgenes negativos:
-    - histerectomía tipo A + mapeo de ganglio centinela (GC) o linfadenectomía pélvica → hallazgos quirúrgicos (ver 8.10);
+    - histerectomía tipo A + mapeo de ganglio centinela (GC) o linfadenectomía pélvica → hallazgos quirúrgicos (ver [8.10](#810-tratamiento-adyuvante-según-los-hallazgos-quirúrgicos-cerv-6));
     - o radioterapia externa (EBRT) + braquiterapia → vigilancia (la radioterapia [RT] es una opción para pacientes médicamente inoperables).
 - Márgenes positivos para displasia o carcinoma:
     - considerar repetir el cono para descartar IA2 o IB1;
@@ -897,7 +987,7 @@
     - tamaño tumoral ≤2 cm;
     - profundidad de invasión <10 mm en el cono; sin conización, la resonancia magnética (RM) debe mostrar <50% de invasión estromal;
     - imagen negativa para enfermedad metastásica (RM recomendada).
-- Tratamiento: histerectomía tipo A + mapeo de ganglio centinela (GC) o linfadenectomía pélvica → hallazgos quirúrgicos y adyuvancia (ver 8.10).
+- Tratamiento: histerectomía tipo A + mapeo de ganglio centinela (GC) o linfadenectomía pélvica → hallazgos quirúrgicos y adyuvancia (ver [8.10](#810-tratamiento-adyuvante-según-los-hallazgos-quirúrgicos-cerv-6)).
 
 **Fundamento: SHAPE (aleatorizado, no inferioridad, histerectomía simple frente a radical con estudio ganglionar)**
 
@@ -914,7 +1004,7 @@
 
 **Conducta**
 
-- Opción quirúrgica: histerectomía radical tipo C1 + mapeo de ganglio centinela (GC; mejor detección en tumores <2 cm) o linfadenectomía pélvica (categoría 1) ± linfadenectomía paraaórtica (categoría 2B) → hallazgos quirúrgicos y adyuvancia (ver 8.10). Vía abierta abdominal.
+- Opción quirúrgica: histerectomía radical tipo C1 + mapeo de ganglio centinela (GC; mejor detección en tumores <2 cm) o linfadenectomía pélvica (categoría 1) ± linfadenectomía paraaórtica (categoría 2B) → hallazgos quirúrgicos y adyuvancia (ver [8.10](#810-tratamiento-adyuvante-según-los-hallazgos-quirúrgicos-cerv-6)). Vía abierta abdominal.
 - Opción radioterápica: radioterapia externa (EBRT) pélvica + braquiterapia ± quimioterapia (QT) concurrente con platino → vigilancia. Es la opción para pacientes médicamente inoperables.
     - QT concurrente con platino = cisplatino en monoterapia (carboplatino si hay intolerancia a cisplatino).
 - Estudio previo con tomografía por emisión de positrones con fluorodesoxiglucosa acoplada a tomografía computarizada (PET-FDG/TC) para descartar enfermedad extrapélvica.
@@ -933,9 +1023,9 @@
 **Conducta**
 
 - Preferido: radioterapia externa (EBRT) pélvica + quimioterapia (QT) concurrente con platino + braquiterapia (categoría 1).
-    - Dosis tradicional total al punto A de 75–80 Gy (ver 12.4).
-    - Puede considerarse QT de inducción con carboplatino + paclitaxel seguida de quimiorradioterapia (QRT) con cisplatino (o carboplatino) según el protocolo INTERLACE (ver 11.2).
-- Alternativa quirúrgica: histerectomía radical tipo C1 + linfadenectomía pélvica ± linfadenectomía paraaórtica (categoría 2B para la paraaórtica) → hallazgos quirúrgicos y adyuvancia (ver 8.10).
+    - Dosis tradicional total al punto A de 75–80 Gy (ver [12.4](#124-radioterapia-definitiva-con-cuello-uterino-intacto)).
+    - Puede considerarse QT de inducción con carboplatino + paclitaxel seguida de quimiorradioterapia (QRT) con cisplatino (o carboplatino) según el protocolo INTERLACE (ver [11.2](#112-quimiorradiación-radiosensibilización-en-enfermedad-localmente-avanzada-y-adyuvante)).
+- Alternativa quirúrgica: histerectomía radical tipo C1 + linfadenectomía pélvica ± linfadenectomía paraaórtica (categoría 2B para la paraaórtica) → hallazgos quirúrgicos y adyuvancia (ver [8.10](#810-tratamiento-adyuvante-según-los-hallazgos-quirúrgicos-cerv-6)).
 - Alternativa (categoría 3): EBRT pélvica + QT concurrente con platino + braquiterapia + histerectomía de completamiento selectiva.
     - Solo si el tumor responde mal y hay enfermedad residual tras QRT con braquiterapia guiada por imagen (IGBT), o si la IGBT no es factible (extensión tumoral o anatomía uterina que impiden cubrir el volumen con braquiterapia).
 
@@ -956,7 +1046,7 @@
 **Conducta: ganglios, márgenes y parametrio negativos**
 
 - Observación.
-- O radioterapia externa (EBRT) pélvica si la combinación de factores de riesgo (tamaño del tumor primario, invasión estromal, invasión del espacio linfovascular [ILV]) cumple los criterios GOG/Sedlis (del Gynecologic Oncology Group y de Sedlis; categoría 1; ver 6.4).
+- O radioterapia externa (EBRT) pélvica si la combinación de factores de riesgo (tamaño del tumor primario, invasión estromal, invasión del espacio linfovascular [ILV]) cumple los criterios GOG/Sedlis (del Gynecologic Oncology Group y de Sedlis; categoría 1; ver [6.4](#64-estratificación-del-riesgo-para-decidir-cirugía-y-tratamiento-adyuvante)).
 - Observación también en IA1, IA2, IB, IIA1 o IIA2 sin factores de riesgo cervicales.
 
 **Conducta: ganglios pélvicos positivos, margen quirúrgico positivo o parametrio positivo (alto riesgo)**
@@ -975,7 +1065,7 @@
 **Conducta: radiosensibilizantes y técnica**
 
 - Quimioterapia (QT) concurrente: cisplatino (preferido); carboplatino (preferido si hay intolerancia a cisplatino); otros: capecitabina + mitomicina, gemcitabina o paclitaxel.
-- Radioterapia externa (EBRT) posoperatoria de 45–50 Gy con radioterapia de intensidad modulada (IMRT), con refuerzo de 10–20 Gy en ganglios macroscópicos no resecados y braquiterapia de cúpula vaginal si el margen vaginal es positivo o cercano (ver 12.6).
+- Radioterapia externa (EBRT) posoperatoria de 45–50 Gy con radioterapia de intensidad modulada (IMRT), con refuerzo de 10–20 Gy en ganglios macroscópicos no resecados y braquiterapia de cúpula vaginal si el margen vaginal es positivo o cercano (ver [12.6](#126-radioterapia-adyuvante-tras-histerectomía)).
 
 **Fundamento: riesgo intermedio (Gynecologic Oncology Group [GOG] 92)**
 
@@ -999,8 +1089,8 @@
 - Estudio radiológico adicional de metástasis según indicación clínica (tomografía por emisión de positrones con fluorodesoxiglucosa acoplada a tomografía computarizada [PET-FDG/TC] de cuello a ingles preferida).
 - Sin metástasis a distancia (o biopsia de áreas sospechosas negativa):
     - radioterapia externa (EBRT) + quimioterapia (QT) concurrente con platino (cisplatino; carboplatino si hay intolerancia) + braquiterapia;
-    - ± pembrolizumab concurrente y de mantenimiento (categoría 1 en FIGO 2014 IIIA, IIIB y IVA; categoría 2B en FIGO 2018 III–IVA seleccionados; ver 6.3);
-    - puede considerarse QT de inducción según INTERLACE (ver 11.2);
+    - ± pembrolizumab concurrente y de mantenimiento (categoría 1 en FIGO 2014 IIIA, IIIB y IVA; categoría 2B en FIGO 2018 III–IVA seleccionados; ver [6.3](#63-figo-2014-frente-a-figo-2018-implicaciones-para-pembrolizumab));
+    - puede considerarse QT de inducción según INTERLACE (ver [11.2](#112-quimiorradiación-radiosensibilización-en-enfermedad-localmente-avanzada-y-adyuvante));
     - radioterapia (RT) de campo extendido si hay afectación paraaórtica por imagen o confirmada por patología; puede añadirse en casos seleccionados con ganglios pélvicos positivos, como metástasis en ilíacos comunes.
 - Metástasis a distancia confirmadas por biopsia:
     - tratamiento sistémico ± RT individualizada;
@@ -1009,8 +1099,8 @@
 
 **Fundamento**
 
-- La quimiorradioterapia (QRT) concurrente con platino es el tratamiento de elección en estadios IB3, II, III y IVA (cinco ensayos aleatorizados; ver 8.9 y 11.2).
-- KEYNOTE-A18 (QRT ± pembrolizumab) e INTERLACE (quimioterapia [QT] de inducción) sustentan las adiciones (ver 11.2).
+- La quimiorradioterapia (QRT) concurrente con platino es el tratamiento de elección en estadios IB3, II, III y IVA (cinco ensayos aleatorizados; ver [8.9](#89-estadios-ib3-y-iia2-cerv-5) y [11.2](#112-quimiorradiación-radiosensibilización-en-enfermedad-localmente-avanzada-y-adyuvante)).
+- KEYNOTE-A18 (QRT ± pembrolizumab) e INTERLACE (quimioterapia [QT] de inducción) sustentan las adiciones (ver [11.2](#112-quimiorradiación-radiosensibilización-en-enfermedad-localmente-avanzada-y-adyuvante)).
 - En tumores avanzados tratados con QRT primaria, el volumen de radioterapia (RT) es crítico y depende de la afectación ganglionar pélvica y paraaórtica.
 - Estadificación quirúrgica paraaórtica: un metaanálisis de GOG 85, GOG 120 y GOG 165 (555 pacientes) mostró mejor pronóstico cuando la afectación paraaórtica se excluyó quirúrgicamente que cuando se evaluó radiológicamente. La exclusión quirúrgica de ganglios paraaórticos positivos es una opción.
 - Extender el campo de RT a la región paraaórtica mostró beneficio terapéutico, sobre todo en enfermedad ganglionar de pequeño volumen.
@@ -1028,7 +1118,7 @@
     - o EBRT individualizada ± quimioterapia (QT) concurrente con platino;
     - considerar tratamiento sistémico adyuvante;
     - después → vigilancia.
-- Enfermedad no susceptible de tratamiento local → tratamiento sistémico y/o mejor tratamiento de soporte (ver 11.3–11.5 y 14.4).
+- Enfermedad no susceptible de tratamiento local → tratamiento sistémico y/o mejor tratamiento de soporte (ver [11.3](#113-primera-línea-en-enfermedad-recurrente-o-metastásica)–[11.5](#115-terapia-dirigida-por-biomarcadores-útil-en-ciertas-circunstancias-segunda-línea-o-posteriores) y [14.4](#144-mejor-tratamiento-de-soporte)).
 - Estadio IVB al diagnóstico: tratamiento primario habitualmente con QT basada en platino; EBRT individualizada para controlar la enfermedad pélvica y otros síntomas.
 
 **Fundamento**
@@ -1054,7 +1144,7 @@
 
 - Sin invasión del espacio linfovascular (ILV) y con márgenes negativos → vigilancia.
 - Con ILV y márgenes negativos:
-    - linfadenectomía pélvica (preferida): ganglios negativos → vigilancia; positivos → adyuvancia (ver 8.10);
+    - linfadenectomía pélvica (preferida): ganglios negativos → vigilancia; positivos → adyuvancia (ver [8.10](#810-tratamiento-adyuvante-según-los-hallazgos-quirúrgicos-cerv-6));
     - o radioterapia externa (EBRT) pélvica ± braquiterapia ± quimioterapia (QT) concurrente con platino (si se desconoce la integridad de la pieza) → vigilancia.
 
 **Conducta: IA2–IB1 con todos los criterios de cirugía conservadora (sobre la histerectomía total)**
@@ -1083,7 +1173,7 @@
 
 - Imagen:
     - negativa para metástasis a distancia → radioterapia externa (EBRT) pélvica + quimioterapia (QT) concurrente con platino + braquiterapia → vigilancia;
-    - positiva → vía adyuvante de CERV-6 (ver 8.10).
+    - positiva → vía adyuvante de CERV-6 (ver [8.10](#810-tratamiento-adyuvante-según-los-hallazgos-quirúrgicos-cerv-6)).
 
 **Fundamento**
 
@@ -1098,7 +1188,7 @@
 **Conducta: estudio de la enfermedad persistente o recurrente**
 
 - Confirmar por biopsia (± exploración bajo anestesia) antes de planificar el tratamiento.
-- Imagen adicional según indicación (ver 13.2); exploración quirúrgica en casos seleccionados.
+- Imagen adicional según indicación (ver [13.2](#132-sospecha-de-recurrencia-o-metástasis)); exploración quirúrgica en casos seleccionados.
 - Perfil molecular integral; si no hay tejido metastásico disponible, perfil genómico mediante ADN tumoral circulante en plasma.
 
 **Conducta: sin radioterapia (RT) previa o recurrencia fuera del campo previo de RT**
@@ -1125,7 +1215,7 @@
 - La quimiorradioterapia (QRT) de la recurrencia usa cisplatino en monoterapia o carboplatino. Si la recaída es precoz tras una QRT inicial con esos fármacos, conviene considerar otras opciones sistémicas o el mejor tratamiento de soporte.
 - Exenteración pélvica:
     - mortalidad quirúrgica generalmente ≤5% y supervivencia cercana al 50% en pacientes muy seleccionadas;
-    - requiere programas de rehabilitación de las consecuencias psicosociales y psicosexuales, además de procedimientos reconstructivos (ver 10.7).
+    - requiere programas de rehabilitación de las consecuencias psicosociales y psicosexuales, además de procedimientos reconstructivos (ver [10.7](#107-exenteración-pélvica)).
 - Histerectomía radical en lugar de exenteración: en casos muy seleccionados con enfermedad cervical persistente o recurrente documentada de pequeño volumen (<2 cm) tras RT o QRT, sin metástasis. Se prioriza la operación con más probabilidad de lograr un margen negativo.
 - La recurrencia tras una segunda terapia definitiva (cirugía o RT) tiene mal pronóstico: tratamiento sistémico, mejor tratamiento de soporte o ensayo clínico.
 
@@ -1138,7 +1228,7 @@
 - Estadio I con tratamiento diferido: cesárea con histerectomía radical y disección ganglionar pélvica en el mismo acto.
 - Enfermedad temprana: puede preferirse la histerectomía radical con disección ganglionar frente a la radioterapia (RT), para evitar la fibrosis por radiación y conservar los ovarios.
 - Si se elige RT: los protocolos habituales de RT ± quimioterapia (QT) pueden requerir modificaciones.
-- No realizar legrado endocervical durante el embarazo (ver 5.1).
+- No realizar legrado endocervical durante el embarazo (ver [5.1](#51-confirmación-diagnóstica-biopsia-y-conización)).
 
 **Fundamento**
 
@@ -1159,7 +1249,7 @@
     - o tomografía computarizada (TC) de tórax, abdomen y pelvis + RM cerebral.
 - Clasificar como enfermedad confinada al cuello uterino (IA1–IB2 ≤4 cm o IB3 >4 cm), localmente avanzada (IIA–IVA) o metastásica (IVB).
 - Quimiorradioterapia (QRT) en carcinoma neuroendocrino del cuello uterino (NECC) = cisplatino (o carboplatino si hay intolerancia) + etopósido concurrentes con radioterapia externa (EBRT): los dos primeros ciclos durante la radioterapia (RT; días 1 y 22) y los dos siguientes después de la RT.
-- Dosis y esquemas: principios de tratamiento sistémico de la guía de la National Comprehensive Cancer Network (NCCN) de cáncer de pulmón de células pequeñas (ver 9.4).
+- Dosis y esquemas: principios de tratamiento sistémico de la guía de la National Comprehensive Cancer Network (NCCN) de cáncer de pulmón de células pequeñas (ver [9.4](#94-esquemas-sistémicos-en-el-carcinoma-neuroendocrino-cerv-f-2-de-4)).
 
 **Fundamento**
 
@@ -1169,7 +1259,7 @@
     - enfermedad temprana: tratamiento multimodal, con cirugía radical y quimioterapia (QT) neoadyuvante o adyuvante con cisplatino + etopósido, con o sin radioterapia (RT);
     - enfermedad localmente avanzada o recurrente: cisplatino + etopósido, o topotecán + paclitaxel + bevacizumab.
 - Cisplatino + etopósido es uno de los esquemas adyuvantes más usados y se asocia a mejor pronóstico; es el régimen preferido en quimiorradioterapia (QRT) y en primera línea.
-- No se recomienda la preservación de fertilidad (ver 3.1).
+- No se recomienda la preservación de fertilidad (ver [3.1](#31-clasificación-y-alcance-de-la-guía)).
 
 ### 9.2 Enfermedad confinada al cuello uterino
 
@@ -1249,7 +1339,7 @@
 - Topotecán + paclitaxel + bevacizumab en carcinoma neuroendocrino del cuello uterino (NECC) recurrente (Frumovitz; retrospectivo): 13 pacientes con este esquema en la primera recurrencia frente a 21 con otros regímenes (sobre todo platino ± taxano).
     - Supervivencia libre de progresión (SLP) mediana de 7.8 frente a 4.0 meses (razón de riesgos [HR] 0.21; intervalo de confianza [IC] 95% 0.09–0.54; P = .001).
     - Supervivencia global (SG) mediana de 9.7 frente a 9.4 meses (HR 0.53; IC 95% 0.23–1.22; P = .13).
-- Ipilimumab + nivolumab: incluido por casos publicados con respuestas duraderas en NECC recurrente y por los datos de CheckMate 358 en cáncer cervicouterino (ver 11.4).
+- Ipilimumab + nivolumab: incluido por casos publicados con respuestas duraderas en NECC recurrente y por los datos de CheckMate 358 en cáncer cervicouterino (ver [11.4](#114-segunda-línea-y-posteriores)).
 
 ---
 
@@ -1264,7 +1354,7 @@
     - tipo B (radical modificada): casos seleccionados desde IA1 con invasión del espacio linfovascular (ILV) hasta IB1;
     - tipo C1 (radical con preservación nerviosa): enfermedad local sin metástasis evidentes, incluidos IB1–IIA1 seleccionados.
 - La histerectomía radical (tipo B o C) con mapeo bilateral de ganglios centinela (GC) pélvicos o linfadenectomía es una opción en los estadios IA2, IB1, IB2 e IB3–IIA1 seleccionados cuando no se desea preservar la fertilidad.
-- Vía: abierta abdominal para los tipos B y C1 (ver 10.3).
+- Vía: abierta abdominal para los tipos B y C1 (ver [10.3](#103-vía-de-abordaje-de-la-histerectomía-radical)).
 
 | Parámetro | Tipo A | Tipo B | Tipo C1 |
 |---|---|---|---|
@@ -1286,7 +1376,7 @@
     - extirpa parte del paracérvix, de los ligamentos cardinales y uterosacros y los 1–2 cm superiores de la vagina;
     - se acompaña de extirpación de los ganglios pélvicos y, a veces, de los paraaórticos.
 - La discusión señala la histerectomía radical tipo C como abordaje preferido en los estadios IB1, IB2, IB3, IIA1 y IIA2 con indicación quirúrgica.
-- † La preservación del plexo hipogástrico (tipo B y C1) protege la inervación autonómica de la vejiga, el recto y la función sexual. La disección ureteral y parametrial amplia explica la mayor morbilidad urinaria de la cirugía radical: en SHAPE, la retención urinaria fue de 11.0% con histerectomía radical frente a 0.6% con la simple (ver 8.7).
+- † La preservación del plexo hipogástrico (tipo B y C1) protege la inervación autonómica de la vejiga, el recto y la función sexual. La disección ureteral y parametrial amplia explica la mayor morbilidad urinaria de la cirugía radical: en SHAPE, la retención urinaria fue de 11.0% con histerectomía radical frente a 0.6% con la simple (ver [8.7](#87-estadio-ia2ib1-con-todos-los-criterios-de-cirugía-conservadora-sin-preservación-de-fertilidad-cerv-4)).
 
 ### 10.2 Procedimientos con preservación de fertilidad
 
@@ -1311,7 +1401,7 @@
 **Fundamento**
 
 - No hay datos de resultados oncológicos de las vías mínimamente invasivas en la traquelectomía.
-- Detalles técnicos y resultados reproductivos: ver 8.4.
+- Detalles técnicos y resultados reproductivos: ver [8.4](#84-estadio-ib1-sin-criterios-de-cirugía-conservadora-e-ib2-seleccionado-con-preservación-de-fertilidad-cerv-2).
 
 ### 10.3 Vía de abordaje de la histerectomía radical
 
@@ -1406,13 +1496,13 @@
 - En enfermedad temprana, mapeo de ganglio centinela (GC) antes de considerar la linfadenectomía pélvica (SENTIX); la extensión de la linfadenectomía depende de la presencia de enfermedad ganglionar pélvica o de invasión del espacio linfovascular (ILV) y del tamaño tumoral.
 - Linfadenectomía paraaórtica de estadificación hasta la arteria mesentérica inferior; el límite craneal puede modificarse según los hallazgos clínicos y radiológicos.
 - La discusión recomienda linfadenectomía paraaórtica en estadios ≥IB1; en el algoritmo figura como opcional (± y categoría 2B en IB1–IIA2 sin preservación de fertilidad).
-- En enfermedad localmente avanzada, la exclusión quirúrgica de ganglios paraaórticos positivos es una opción (ver 8.11).
+- En enfermedad localmente avanzada, la exclusión quirúrgica de ganglios paraaórticos positivos es una opción (ver [8.11](#811-estadios-iibiva-cerv-7)).
 
 **Fundamento**
 
-- La afectación paraaórtica se asocia a metástasis pélvicas, tumor >2 cm y metástasis en ilíacos comunes (ver 6.4).
+- La afectación paraaórtica se asocia a metástasis pélvicas, tumor >2 cm y metástasis en ilíacos comunes (ver [6.4](#64-estratificación-del-riesgo-para-decidir-cirugía-y-tratamiento-adyuvante)).
 - Gynecologic Oncology Group (GOG) 85, 120 y 165 (555 pacientes): mejor pronóstico con exclusión quirúrgica que con evaluación radiológica de la afectación paraaórtica.
-- Uterus-11: la estadificación quirúrgica previa a la quimiorradioterapia (QRT) no mejoró la supervivencia libre de enfermedad (SLE; ver 8.11). PAROLA sigue en curso.
+- Uterus-11: la estadificación quirúrgica previa a la quimiorradioterapia (QRT) no mejoró la supervivencia libre de enfermedad (SLE; ver [8.11](#811-estadios-iibiva-cerv-7)). PAROLA sigue en curso.
 
 ### 10.6 Preservación y transposición ovárica
 
@@ -1602,7 +1692,7 @@
 - **Pembrolizumab + QRT (KEYNOTE-A18)**: multicéntrico, aleatorizado, doble ciego y controlado con placebo; 1060 pacientes con enfermedad localmente avanzada de alto riesgo, no tratada (FIGO 2014 IB2–IIB con ganglios positivos, o III–IVA).
     - Mejora estadística y clínicamente significativa de la SLP, con tendencia favorable en la SG.
     - Subgrupo exploratorio FIGO 2014 III–IVA (n = 596): razón de riesgos (HR) de supervivencia libre de progresión (SLP) 0.59 (intervalo de confianza [IC] 95% 0.43–0.82); eventos de SLP en 21% con pembrolizumab frente a 31% con placebo.
-    - Subgrupo IB2–IIB (n = 462): HR 0.91 (IC 95% 0.63–1.31). El beneficio se atribuye sobre todo a III–IVA; de ahí las categorías (ver 6.3).
+    - Subgrupo IB2–IIB (n = 462): HR 0.91 (IC 95% 0.63–1.31). El beneficio se atribuye sobre todo a III–IVA; de ahí las categorías (ver [6.3](#63-figo-2014-frente-a-figo-2018-implicaciones-para-pembrolizumab)).
 - **Quimioterapia (QT) de inducción (INTERLACE)**: fase 3, multicéntrico, aleatorizado; 500 pacientes (FIGO 2008 IB1 con ganglios positivos, IB2, IIA, IIB, IIIB o IVA), 250 por brazo.
     - Con 67 meses de mediana, SLP a 5 años de 72% frente a 64% (HR 0.65; IC 95% 0.46–0.91; P = .013) y supervivencia global (SG) a 5 años de 80% frente a 72% (HR 0.60; IC 95% 0.40–0.91; P = .015).
     - Efectos adversos de grado ≥3: 59% (147/250) frente a 48% (120/250).
@@ -1693,7 +1783,7 @@
     - bevacizumab; paclitaxel; paclitaxel unido a albúmina; docetaxel; fluorouracilo; gemcitabina; pemetrexed; topotecán; vinorelbina; irinotecán;
     - cemiplimab;
     - ipilimumab + nivolumab.
-- Útiles en ciertas circunstancias: terapias dirigidas por biomarcador (ver 11.5).
+- Útiles en ciertas circunstancias: terapias dirigidas por biomarcador (ver [11.5](#115-terapia-dirigida-por-biomarcadores-útil-en-ciertas-circunstancias-segunda-línea-o-posteriores)).
 - Si no se usaron antes, los agentes de primera línea pueden emplearse en segunda línea o posteriores.
 
 **Conducta: dosis († protocolos de referencia, salvo ipilimumab + nivolumab)**
@@ -1821,14 +1911,14 @@
 - **Fusiones del gen reordenado durante la transfección (RET) o de genes del receptor neurotrófico de tirosina cinasa (NTRK)** → selpercatinib o inhibidores de cinasas del receptor de tropomiosina (TRK).
 - **Candidata a taxanos**: si no lo es, cisplatino + topotecán.
 - **Candidata a bevacizumab**: ante riesgo de fístula, tromboembolia o hipertensión no controlada, preferir esquemas sin bevacizumab. † Precaución especial en pelvis irradiada o con invasión vesical o rectal.
-- **Estadio FIGO para pembrolizumab con QRT**: ver 6.3.
+- **Estadio FIGO para pembrolizumab con QRT**: ver [6.3](#63-figo-2014-frente-a-figo-2018-implicaciones-para-pembrolizumab).
 - **Disponibilidad**: sin cisplatino ni carboplatino → capecitabina + mitomicina, gemcitabina o paclitaxel con radioterapia (RT).
 - **Toxicidad y coste**: especialmente relevantes con RT de campo extendido.
 
 **Fundamento**
 
 - Los criterios resumen las comparaciones de 11.2–11.5.
-- La toxicidad de la quimiorradioterapia (QRT; aguda y tardía) está documentada; los efectos agudos (diarrea, irritación vesical, fatiga) se magnifican con la quimioterapia (QT) concurrente (ver 12.9).
+- La toxicidad de la quimiorradioterapia (QRT; aguda y tardía) está documentada; los efectos agudos (diarrea, irritación vesical, fatiga) se magnifican con la quimioterapia (QT) concurrente (ver [12.9](#129-toxicidad-de-la-radioterapia-y-consideraciones-de-tejido-normal)).
 
 ---
 
@@ -1845,7 +1935,7 @@
 - Dirigir la RT a los sitios de afectación tumoral conocida o sospechada: pelvis con o sin región paraaórtica.
 - Radioterapia de intensidad modulada (IMRT) preferida para reducir la toxicidad en el tratamiento definitivo de la pelvis, con o sin región paraaórtica. La radioterapia guiada por imagen (IGRT) con imagen ortogonal o volumétrica rutinaria (p. ej., tomografía computarizada de haz cónico [CBCT]) en cada sesión es esencial para cubrir los blancos y proteger los tejidos normales.
 - Braquiterapia: componente imprescindible de la RT definitiva de todo cáncer cervicouterino primario (intracavitaria y/o intersticial).
-- La mayoría de las pacientes que reciben EBRT recibe quimioterapia (QT) concurrente con platino, con o sin inmunoterapia (ver 11.2).
+- La mayoría de las pacientes que reciben EBRT recibe quimioterapia (QT) concurrente con platino, con o sin inmunoterapia (ver [11.2](#112-quimiorradiación-radiosensibilización-en-enfermedad-localmente-avanzada-y-adyuvante)).
 - Completar el tratamiento (EBRT + braquiterapia) en ≤8 semanas y evitar retrasos o interrupciones.
 
 **Fundamento**
@@ -2003,7 +2093,7 @@
     - 3–4 cm superiores de la cúpula vaginal;
     - parametrios;
     - territorios ganglionares adyacentes (ilíacos externos e internos, obturadores y presacros).
-- Metástasis ganglionares documentadas → ampliar el límite superior del campo (ver 12.2).
+- Metástasis ganglionares documentadas → ampliar el límite superior del campo (ver [12.2](#122-volúmenes-blanco-y-campos-de-radioterapia-externa)).
 - Dosis: 45–50 Gy en fraccionamiento estándar con radioterapia de intensidad modulada (IMRT). Ganglios macroscópicos no resecados → valorar sobreimpresión de 10–20 Gy muy conformada y de volumen reducido.
 - Considerar tomografía computarizada (TC) con vejiga llena y vacía para el volumen blanco interno (ITV) vaginal.
 - Braquiterapia de cúpula vaginal como refuerzo:
@@ -2013,7 +2103,7 @@
 
 **Fundamento**
 
-- La radioterapia de intensidad modulada (IMRT) se prefiere tras histerectomía para reducir la dosis intestinal (TIME-C; ver 12.3).
+- La radioterapia de intensidad modulada (IMRT) se prefiere tras histerectomía para reducir la dosis intestinal (TIME-C; ver [12.3](#123-radioterapia-externa-técnica-y-dosis)).
 - Con dosis altas, sobre todo de radioterapia externa (EBRT), debe excluirse o limitarse al máximo el tejido normal de las regiones de dosis alta.
 
 ### 12.7 Radioterapia intraoperatoria, radioterapia estereotáctica y reirradiación
@@ -2098,13 +2188,13 @@
 
 - Efectos agudos: diarrea, irritación vesical y fatiga, aumentados por la quimioterapia (QT) concurrente. Se manejan con medicación y soporte y suelen resolverse poco después de terminar la radioterapia (RT).
 - Efectos tardíos: lesión vesical, rectal, intestinal y de las estructuras óseas pélvicas.
-- Transposición ovárica antes de la RT pélvica en pacientes jóvenes seleccionadas (<45 años, enfermedad temprana) para evitar la menopausia inducida (ver 10.6).
-- Tras RT pélvica: dilatadores vaginales, hidratantes o lubricantes y educación en salud sexual (ver 14.3); vigilar segundas neoplasias en órganos próximos al campo irradiado.
+- Transposición ovárica antes de la RT pélvica en pacientes jóvenes seleccionadas (<45 años, enfermedad temprana) para evitar la menopausia inducida (ver [10.6](#106-preservación-y-transposición-ovárica)).
+- Tras RT pélvica: dilatadores vaginales, hidratantes o lubricantes y educación en salud sexual (ver [14.3](#143-supervivencia-ginecológica)); vigilar segundas neoplasias en órganos próximos al campo irradiado.
 
 **Fundamento**
 
 - Las pacientes irradiadas por cánceres pélvicos tienen riesgo de segundas neoplasias inducidas por radiación, sobre todo en sitios irradiados próximos al cuello uterino: colon, recto y ano, y vejiga.
-- La radioterapia (RT) pélvica previa contribuye a la pérdida ósea y aumenta el riesgo de fracturas pélvicas (ver 14.3).
+- La radioterapia (RT) pélvica previa contribuye a la pérdida ósea y aumenta el riesgo de fracturas pélvicas (ver [14.3](#143-supervivencia-ginecológica)).
 
 ---
 
@@ -2152,7 +2242,7 @@
 
 **Fundamento**
 
-- Toda recurrencia debe confirmarse por biopsia antes de planificar el tratamiento (ver 8.14).
+- Toda recurrencia debe confirmarse por biopsia antes de planificar el tratamiento (ver [8.14](#814-recurrencia-locorregional-cerv-11)).
 
 ---
 
@@ -2168,11 +2258,11 @@
     - después, anual según el riesgo de recurrencia.
 - Riesgo alto: controles más frecuentes (p. ej., cada 3 meses los 2 primeros años); riesgo bajo: cada 6 meses.
 - Citología cervical o vaginal anual, según indicación, para detectar neoplasia del tracto genital inferior. Tiene valor limitado para detectar recurrencia; considerarla en indicaciones concretas, como la inmunosupresión. No se recomienda tras radioterapia (RT) pélvica, salvo otras indicaciones.
-- Imagen según estadio (ver 13.1).
+- Imagen según estadio (ver [13.1](#131-seguimiento-por-estadio)).
 - Laboratorio (biometría hemática, nitrógeno ureico en sangre [BUN] y creatinina) solo si los síntomas o la exploración sugieren recurrencia.
-- Evaluar y manejar los efectos tardíos y a largo plazo del tratamiento (ver 14.3).
+- Evaluar y manejar los efectos tardíos y a largo plazo del tratamiento (ver [14.3](#143-supervivencia-ginecológica)).
 - Educar a la paciente sobre:
-    - síntomas de recurrencia (ver 4.3);
+    - síntomas de recurrencia (ver [4.3](#43-manifestaciones-de-recurrencia));
     - estilo de vida, obesidad, ejercicio y nutrición;
     - salud sexual: dilatadores vaginales, lubricantes o hidratantes, estrógenos locales y terapia hormonal de la menopausia;
     - cesación tabáquica.
@@ -2192,11 +2282,11 @@
 - Biopsia ± exploración bajo anestesia según indicación.
 - Exploración quirúrgica en casos seleccionados.
 - Perfil molecular integral (ensayo aprobado por la Administración de Alimentos y Medicamentos de EE. UU. [FDA] o prueba validada en laboratorio con certificación Clinical Laboratory Improvement Amendments [CLIA]). Si la biopsia metastásica no es factible o no hay tejido: perfil genómico integral mediante ADN tumoral circulante en plasma.
-- Después → tratamiento de la recaída locorregional (ver 8.14) o a distancia (ver 8.12).
+- Después → tratamiento de la recaída locorregional (ver [8.14](#814-recurrencia-locorregional-cerv-11)) o a distancia (ver [8.12](#812-estadio-ivb-o-recurrencia-con-metástasis-a-distancia-cerv-12)).
 
 **Fundamento**
 
-- El perfil molecular permite seleccionar mejor el tratamiento sistémico dirigido por biomarcadores en segunda línea (ver 3.7 y 11.5).
+- El perfil molecular permite seleccionar mejor el tratamiento sistémico dirigido por biomarcadores en segunda línea (ver [3.7](#37-biomarcadores-pronósticos-y-predictivos-cuándo-solicitarlos) y [11.5](#115-terapia-dirigida-por-biomarcadores-útil-en-ciertas-circunstancias-segunda-línea-o-posteriores)).
 
 ### 14.3 Supervivencia ginecológica
 
@@ -2239,8 +2329,8 @@
 **Conducta**
 
 - En enfermedad refractaria al tratamiento sistémico: enfoque integral y coordinado con cuidados paliativos o de hospicio, especialistas en dolor y apoyo emocional y espiritual, individualizado (guía de la National Comprehensive Cancer Network [NCCN] de cuidados paliativos).
-- Radioterapia (RT) paliativa de curso corto para metástasis óseas, ganglios paraaórticos dolorosos o adenopatías supraclaviculares (ver 8.12).
+- Radioterapia (RT) paliativa de curso corto para metástasis óseas, ganglios paraaórticos dolorosos o adenopatías supraclaviculares (ver [8.12](#812-estadio-ivb-o-recurrencia-con-metástasis-a-distancia-cerv-12)).
 
 **Fundamento**
 
-- El dolor y las fístulas de las recurrencias pélvicas en campos muy irradiados son difíciles de paliar y suelen no responder a la quimioterapia (QT; ver 4.3).
+- El dolor y las fístulas de las recurrencias pélvicas en campos muy irradiados son difíciles de paliar y suelen no responder a la quimioterapia (QT; ver [4.3](#43-manifestaciones-de-recurrencia)).
