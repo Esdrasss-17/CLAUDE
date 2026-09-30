@@ -2,6 +2,106 @@
 
 > † = complemento farmacológico, fisiológico o clínico general, no contenido en la guía fuente de la National Comprehensive Cancer Network (NCCN). Todo lo demás proviene de la guía (algoritmos y discusión). La guía incluye dosis para los esquemas primarios del carcinoma epitelial y de los tumores germinales (OV-D 7 de 12), para el mantenimiento con inhibidores de la poli-ADP-ribosa polimerasa (iPARP; OV-D 3 de 12), para la quimioterapia intraperitoneal hipertérmica (HIPEC) con cisplatino y para la quimioterapia intraperitoneal tras neoadyuvancia; no incluye dosis de los esquemas de recurrencia, de la terapia dirigida ni de la inmunoterapia: las dosis marcadas con † proceden de los protocolos de los ensayos que la guía cita y a los que remite. Categorías de evidencia y consenso de la NCCN: 1 (evidencia alta, consenso ≥85%), 2A (evidencia menor, consenso ≥85%; categoría por defecto), 2B (consenso 50–85%), 3 (desacuerdo mayor del Panel). Categorías de preferencia: preferido (eficacia, seguridad y evidencia superiores y, cuando procede, asequibilidad), otro recomendado (algo menos eficaz, más tóxico, con datos menos maduros o menos asequible) y útil en ciertas circunstancias (poblaciones seleccionadas). Estadificación: sistema de la Federación Internacional de Ginecología y Obstetricia (FIGO) y sistema TNM de la 8.ª edición del American Joint Committee on Cancer (AJCC, 2017). El carcinoma de trompa de Falopio y el peritoneal primario se tratan igual que el carcinoma epitelial de ovario; "cáncer de ovario" los incluye salvo indicación. Los códigos entre paréntesis (OV-1 a OV-8, OV-A a OV-F, LCOC-1 a LCOC-15, LCOC-A y LCOC-B) identifican las páginas del algoritmo de la guía.
 
+**Índice**
+
+- [1. Epidemiología, etiología, factores de riesgo y genética](#1-epidemiología-etiología-factores-de-riesgo-y-genética)
+    - [1.1 Epidemiología y alcance de la guía](#11-epidemiología-y-alcance-de-la-guía)
+    - [1.2 Etiología y lesiones precursoras](#12-etiología-y-lesiones-precursoras)
+    - [1.3 Factores de riesgo y factores protectores](#13-factores-de-riesgo-y-factores-protectores)
+    - [1.4 Genética: variantes germinales y somáticas y recombinación homóloga](#14-genética-variantes-germinales-y-somáticas-y-recombinación-homóloga)
+- [2. Prevención primaria y secundaria](#2-prevención-primaria-y-secundaria)
+    - [2.1 Prevención primaria: cirugía reductora de riesgo](#21-prevención-primaria-cirugía-reductora-de-riesgo)
+    - [2.2 Prevención secundaria: detección temprana y evaluación de síntomas](#22-prevención-secundaria-detección-temprana-y-evaluación-de-síntomas)
+- [3. Histopatología y subtipos tumorales](#3-histopatología-y-subtipos-tumorales)
+    - [3.1 Clasificación de la Organización Mundial de la Salud (OMS) y alcance de la guía (OV-F)](#31-clasificación-de-la-organización-mundial-de-la-salud-oms-y-alcance-de-la-guía-ov-f)
+    - [3.2 Carcinoma seroso de alto grado y carcinoma endometrioide de grado 2/3](#32-carcinoma-seroso-de-alto-grado-y-carcinoma-endometrioide-de-grado-23)
+    - [3.3 Cánceres de ovario menos comunes de estirpe epitelial](#33-cánceres-de-ovario-menos-comunes-de-estirpe-epitelial)
+    - [3.4 Tumores no epiteliales](#34-tumores-no-epiteliales)
+    - [3.5 Informe anatomopatológico y manejo del espécimen (OV-C)](#35-informe-anatomopatológico-y-manejo-del-espécimen-ov-c)
+    - [3.6 Biomarcadores: cuándo y cuáles solicitar (OV-C)](#36-biomarcadores-cuándo-y-cuáles-solicitar-ov-c)
+- [4. Manifestaciones clínicas](#4-manifestaciones-clínicas)
+    - [4.1 Presentación inicial](#41-presentación-inicial)
+    - [4.2 Particularidades de presentación por histología](#42-particularidades-de-presentación-por-histología)
+    - [4.3 Manifestaciones de recurrencia](#43-manifestaciones-de-recurrencia)
+- [5. Diagnóstico y estudio inicial](#5-diagnóstico-y-estudio-inicial)
+    - [5.1 Estudio inicial ante sospecha clínica (OV-1)](#51-estudio-inicial-ante-sospecha-clínica-ov-1)
+    - [5.2 Marcadores tumorales](#52-marcadores-tumorales)
+    - [5.3 Imagen inicial y de respuesta (OV-A)](#53-imagen-inicial-y-de-respuesta-ov-a)
+    - [5.4 Confirmación histológica y evaluación laparoscópica](#54-confirmación-histológica-y-evaluación-laparoscópica)
+    - [5.5 Estado funcional, estado nutricional, evaluación gastrointestinal y fertilidad](#55-estado-funcional-estado-nutricional-evaluación-gastrointestinal-y-fertilidad)
+    - [5.6 Estudio de la paciente diagnosticada en una cirugía previa (OV-3)](#56-estudio-de-la-paciente-diagnosticada-en-una-cirugía-previa-ov-3)
+- [6. Estadificación FIGO y estratificación del riesgo](#6-estadificación-figo-y-estratificación-del-riesgo)
+    - [6.1 Reglas de estadificación](#61-reglas-de-estadificación)
+    - [6.2 Estadios FIGO y equivalencias TNM](#62-estadios-figo-y-equivalencias-tnm)
+    - [6.3 Grupos pronósticos del American Joint Committee on Cancer (AJCC)](#63-grupos-pronósticos-del-american-joint-committee-on-cancer-ajcc)
+    - [6.4 Estratificación del riesgo para decidir el tratamiento](#64-estratificación-del-riesgo-para-decidir-el-tratamiento)
+- [7. Organización general del tratamiento](#7-organización-general-del-tratamiento)
+    - [7.1 Esquema general](#71-esquema-general)
+    - [7.2 Principios transversales](#72-principios-transversales)
+    - [7.3 Modificadores por histología](#73-modificadores-por-histología)
+- [8. Tratamiento del carcinoma seroso de alto grado y endometrioide de grado 2/3 por escenario y estadio](#8-tratamiento-del-carcinoma-seroso-de-alto-grado-y-endometrioide-de-grado-23-por-escenario-y-estadio)
+    - [8.1 Estadio clínico IA o IB con deseo de fertilidad (OV-1)](#81-estadio-clínico-ia-o-ib-con-deseo-de-fertilidad-ov-1)
+    - [8.2 Estadios clínicos IA–IV, candidata quirúrgica con citorreducción óptima probable, sin deseo de fertilidad (OV-1)](#82-estadios-clínicos-iaiv-candidata-quirúrgica-con-citorreducción-óptima-probable-sin-deseo-de-fertilidad-ov-1)
+    - [8.3 Mala candidata quirúrgica o baja probabilidad de citorreducción óptima: neoadyuvancia (OV-2)](#83-mala-candidata-quirúrgica-o-baja-probabilidad-de-citorreducción-óptima-neoadyuvancia-ov-2)
+    - [8.4 Diagnóstico por cirugía o biopsia previa: hallazgos y tratamiento primario (OV-3)](#84-diagnóstico-por-cirugía-o-biopsia-previa-hallazgos-y-tratamiento-primario-ov-3)
+    - [8.5 Tratamiento adyuvante del estadio I (OV-4)](#85-tratamiento-adyuvante-del-estadio-i-ov-4)
+    - [8.6 Estadios II–IV: quimioterapia primaria y evaluación de la respuesta (OV-4)](#86-estadios-iiiv-quimioterapia-primaria-y-evaluación-de-la-respuesta-ov-4)
+    - [8.7 Mantenimiento tras el tratamiento primario en estadios II–IV (OV-5)](#87-mantenimiento-tras-el-tratamiento-primario-en-estadios-iiiv-ov-5)
+    - [8.8 Recurrencia detectada durante el seguimiento (OV-6)](#88-recurrencia-detectada-durante-el-seguimiento-ov-6)
+    - [8.9 Enfermedad persistente o recurrencia resistente a platino (OV-7)](#89-enfermedad-persistente-o-recurrencia-resistente-a-platino-ov-7)
+    - [8.10 Recurrencia sensible a platino (OV-8)](#810-recurrencia-sensible-a-platino-ov-8)
+- [9. Cánceres de ovario menos comunes (LCOC)](#9-cánceres-de-ovario-menos-comunes-lcoc)
+    - [9.1 Principios comunes (LCOC-1)](#91-principios-comunes-lcoc-1)
+    - [9.2 Carcinosarcoma o tumor mülleriano mixto maligno (MMMT; LCOC-2)](#92-carcinosarcoma-o-tumor-mülleriano-mixto-maligno-mmmt-lcoc-2)
+    - [9.3 Carcinoma de células claras (LCOC-3)](#93-carcinoma-de-células-claras-lcoc-3)
+    - [9.4 Neoplasias mucinosas (LCOC-4)](#94-neoplasias-mucinosas-lcoc-4)
+    - [9.5 Carcinoma de células pequeñas de tipo hipercalcémico (SCCOHT; LCOC-5, LCOC-5A)](#95-carcinoma-de-células-pequeñas-de-tipo-hipercalcémico-sccoht-lcoc-5-lcoc-5a)
+    - [9.6 Carcinoma endometrioide de grado 1 (LCOC-6)](#96-carcinoma-endometrioide-de-grado-1-lcoc-6)
+    - [9.7 Carcinoma seroso de bajo grado (LCOC-7, LCOC-8)](#97-carcinoma-seroso-de-bajo-grado-lcoc-7-lcoc-8)
+    - [9.8 Tumores epiteliales limítrofes serosos de bajo potencial maligno (LCOC-9, LCOC-10, LCOC-11)](#98-tumores-epiteliales-limítrofes-serosos-de-bajo-potencial-maligno-lcoc-9-lcoc-10-lcoc-11)
+    - [9.9 Tumores malignos de los cordones sexuales y del estroma (LCOC-12, LCOC-A)](#99-tumores-malignos-de-los-cordones-sexuales-y-del-estroma-lcoc-12-lcoc-a)
+    - [9.10 Tumores malignos de células germinales (LCOC-13, LCOC-14, LCOC-15, LCOC-A)](#910-tumores-malignos-de-células-germinales-lcoc-13-lcoc-14-lcoc-15-lcoc-a)
+- [10. Principios de cirugía (OV-B)](#10-principios-de-cirugía-ov-b)
+    - [10.1 Consideraciones generales y vía de abordaje](#101-consideraciones-generales-y-vía-de-abordaje)
+    - [10.2 Estadificación quirúrgica integral en carcinoma epitelial invasor aparentemente confinado a ovarios, trompas y útero (IA–IIA)](#102-estadificación-quirúrgica-integral-en-carcinoma-epitelial-invasor-aparentemente-confinado-a-ovarios-trompas-y-útero-iaiia)
+    - [10.3 Citorreducción primaria en carcinoma epitelial invasor que afecta pelvis y abdomen superior (estadio >IIB)](#103-citorreducción-primaria-en-carcinoma-epitelial-invasor-que-afecta-pelvis-y-abdomen-superior-estadio-iib)
+    - [10.4 Cirugía citorreductora de intervalo tras neoadyuvancia](#104-cirugía-citorreductora-de-intervalo-tras-neoadyuvancia)
+    - [10.5 Quimioterapia intraperitoneal hipertérmica (HIPEC) en la cirugía de intervalo](#105-quimioterapia-intraperitoneal-hipertérmica-hipec-en-la-cirugía-de-intervalo)
+    - [10.6 Linfadenectomía sistemática](#106-linfadenectomía-sistemática)
+    - [10.7 Cirugía con preservación de fertilidad](#107-cirugía-con-preservación-de-fertilidad)
+    - [10.8 Situaciones especiales: tumores mucinosos y limítrofes](#108-situaciones-especiales-tumores-mucinosos-y-limítrofes)
+    - [10.9 Citorreducción secundaria](#109-citorreducción-secundaria)
+    - [10.10 Procedimientos quirúrgicos paliativos auxiliares](#1010-procedimientos-quirúrgicos-paliativos-auxiliares)
+    - [10.11 Protocolo de salpingooforectomía reductora de riesgo (SORR)](#1011-protocolo-de-salpingooforectomía-reductora-de-riesgo-sorr)
+    - [10.12 Informe operatorio](#1012-informe-operatorio)
+    - [10.13 Soporte posoperatorio: menopausia quirúrgica y terapia de reemplazo hormonal](#1013-soporte-posoperatorio-menopausia-quirúrgica-y-terapia-de-reemplazo-hormonal)
+- [11. Tratamiento sistémico: fármacos, esquemas, dosis y criterios de elección (OV-D)](#11-tratamiento-sistémico-fármacos-esquemas-dosis-y-criterios-de-elección-ov-d)
+    - [11.1 Mecanismos de acción y toxicidades de los fármacos](#111-mecanismos-de-acción-y-toxicidades-de-los-fármacos)
+    - [11.2 Principios generales de administración (OV-D 1 de 12 y 4 de 12)](#112-principios-generales-de-administración-ov-d-1-de-12-y-4-de-12)
+    - [11.3 Neoadyuvancia (OV-D 2 de 12)](#113-neoadyuvancia-ov-d-2-de-12)
+    - [11.4 Tratamiento primario del estadio I (OV-D 5 de 12)](#114-tratamiento-primario-del-estadio-i-ov-d-5-de-12)
+    - [11.5 Tratamiento primario de los estadios II–IV o de la recurrencia no tratada previamente (OV-D 6 de 12)](#115-tratamiento-primario-de-los-estadios-iiiv-o-de-la-recurrencia-no-tratada-previamente-ov-d-6-de-12)
+    - [11.6 Mantenimiento con inhibidores de la poli-ADP-ribosa polimerasa (PARP) y bevacizumab: dosis y duración (OV-D 3 de 12)](#116-mantenimiento-con-inhibidores-de-la-poli-adp-ribosa-polimerasa-parp-y-bevacizumab-dosis-y-duración-ov-d-3-de-12)
+    - [11.7 Recurrencia sensible a platino (OV-D 8 de 12)](#117-recurrencia-sensible-a-platino-ov-d-8-de-12)
+    - [11.8 Recurrencia resistente a platino (OV-D 9 de 12)](#118-recurrencia-resistente-a-platino-ov-d-9-de-12)
+    - [11.9 Terapia dirigida por biomarcadores e inmunoterapia](#119-terapia-dirigida-por-biomarcadores-e-inmunoterapia)
+    - [11.10 Esquemas de tumores germinales, de los cordones sexuales y del estroma y SCCOHT (LCOC-A, LCOC-5A)](#1110-esquemas-de-tumores-germinales-de-los-cordones-sexuales-y-del-estroma-y-sccoht-lcoc-a-lcoc-5a)
+    - [11.11 Hormonoterapia](#1111-hormonoterapia)
+    - [11.12 Seguridad y consideraciones de administración](#1112-seguridad-y-consideraciones-de-administración)
+    - [11.13 Susceptibilidad del tumor y de la paciente: criterios de elección](#1113-susceptibilidad-del-tumor-y-de-la-paciente-criterios-de-elección)
+- [12. Manejo de las reacciones a fármacos (OV-E)](#12-manejo-de-las-reacciones-a-fármacos-ov-e)
+    - [12.1 Tipos de reacción y fármacos implicados](#121-tipos-de-reacción-y-fármacos-implicados)
+    - [12.2 Preparación ante una posible reacción](#122-preparación-ante-una-posible-reacción)
+    - [12.3 Reacciones a la infusión](#123-reacciones-a-la-infusión)
+    - [12.4 Reacciones alérgicas (alergias farmacológicas verdaderas)](#124-reacciones-alérgicas-alergias-farmacológicas-verdaderas)
+    - [12.5 Algoritmo: reacción a platinos (intravenosa o intraperitoneal)](#125-algoritmo-reacción-a-platinos-intravenosa-o-intraperitoneal)
+    - [12.6 Algoritmo: reacción a taxanos, doxorrubicina liposomal o biológicos](#126-algoritmo-reacción-a-taxanos-doxorrubicina-liposomal-o-biológicos)
+- [13. Vigilancia, seguimiento y supervivencia](#13-vigilancia-seguimiento-y-supervivencia)
+    - [13.1 Seguimiento del carcinoma epitelial tras el tratamiento primario (OV-6)](#131-seguimiento-del-carcinoma-epitelial-tras-el-tratamiento-primario-ov-6)
+    - [13.2 Antígeno de cáncer 125 (CA-125) en ascenso y ADN tumoral circulante](#132-antígeno-de-cáncer-125-ca-125-en-ascenso-y-adn-tumoral-circulante)
+    - [13.3 Seguimiento de los cánceres de ovario menos comunes](#133-seguimiento-de-los-cánceres-de-ovario-menos-comunes)
+    - [13.4 Supervivencia, cuidados de soporte y paliativos](#134-supervivencia-cuidados-de-soporte-y-paliativos)
+
 **Abreviaturas**
 
 - **β-hCG**: fracción beta de la gonadotropina coriónica humana
@@ -117,7 +217,7 @@
 
 - Considerar el carcinoma epitelial de ovario la 6.ª causa de mortalidad por cáncer en mujeres de EE. UU.; supervivencia a 5 años de ~52%, mayor en estadios tempranos y en ciertos subtipos histológicos.
 - Tratar el carcinoma de trompa de Falopio y el peritoneal primario igual que el carcinoma epitelial de ovario.
-- Separar desde el inicio el grupo principal (carcinoma seroso de alto grado y endometrioide de grado 2/3) de los cánceres de ovario menos comunes (LCOC), que siguen algoritmos propios (ver 9):
+- Separar desde el inicio el grupo principal (carcinoma seroso de alto grado y endometrioide de grado 2/3) de los cánceres de ovario menos comunes (LCOC), que siguen algoritmos propios (ver [9](#9-cánceres-de-ovario-menos-comunes-lcoc)):
     - carcinosarcoma (tumor mülleriano mixto maligno [MMMT]);
     - carcinoma de células claras;
     - carcinoma mucinoso;
@@ -132,8 +232,8 @@
 
 - EE. UU., estimación 2026: 21 010 diagnósticos nuevos y 12 450 muertes.
 - La guía aplica una "regla del 5%": omite los escenarios clínicos que suponen <5% de los casos; no sustituye el juicio clínico ni la individualización del tratamiento.
-- Subtipos epiteliales principales: seroso, endometrioide, mucinoso y de células claras (ver 3.1).
-- Frecuencia y pronóstico por grupo (ver 3.3 y 3.4):
+- Subtipos epiteliales principales: seroso, endometrioide, mucinoso y de células claras (ver [3.1](#31-clasificación-de-la-organización-mundial-de-la-salud-oms-y-alcance-de-la-guía-ov-f)).
+- Frecuencia y pronóstico por grupo (ver [3.3](#33-cánceres-de-ovario-menos-comunes-de-estirpe-epitelial) y [3.4](#34-tumores-no-epiteliales)):
     - carcinoma de células claras: el LCOC más frecuente;
     - carcinoma seroso de bajo grado: <5% de los carcinomas epiteliales de ovario;
     - carcinoma mucinoso: suele diagnosticarse en estadio temprano, con supervivencia libre de enfermedad (SLE) a 5 años de 80–90%;
@@ -147,8 +247,8 @@
 **Conducta**
 
 - Considerar el carcinoma seroso intraepitelial tubárico (STIC) precursor del carcinoma seroso de alto grado. No hay un criterio claro para diagnosticarlo ni tratarlo: el Panel recomienda que su manejo lo dirija ginecología oncológica.
-- Si en una salpingooforectomía reductora de riesgo (SORR) aparece un STIC o una malignidad oculta: derivar a ginecología oncológica (ver 10.11).
-- Registrar en el informe patológico la endometriosis, sobre todo si está en continuidad con un carcinoma endometrioide o de células claras (ver 3.5).
+- Si en una salpingooforectomía reductora de riesgo (SORR) aparece un STIC o una malignidad oculta: derivar a ginecología oncológica (ver [10.11](#1011-protocolo-de-salpingooforectomía-reductora-de-riesgo-sorr)).
+- Registrar en el informe patológico la endometriosis, sobre todo si está en continuidad con un carcinoma endometrioide o de células claras (ver [3.5](#35-informe-anatomopatológico-y-manejo-del-espécimen-ov-c)).
 
 **Fundamento**
 
@@ -169,8 +269,8 @@
 
 **Conducta**
 
-- Obtener en todas las pacientes la historia familiar de cáncer y derivar a evaluación de riesgo genético (ver 1.4).
-- Identificar a las portadoras de variantes patogénicas o probablemente patogénicas (P/LP) de BRCA1/2 (genes de susceptibilidad al cáncer de mama 1 y 2): tienen mayor riesgo de cáncer de ovario, y la salpingooforectomía reductora de riesgo (SORR) lo reduce (ver 2.1).
+- Obtener en todas las pacientes la historia familiar de cáncer y derivar a evaluación de riesgo genético (ver [1.4](#14-genética-variantes-germinales-y-somáticas-y-recombinación-homóloga)).
+- Identificar a las portadoras de variantes patogénicas o probablemente patogénicas (P/LP) de BRCA1/2 (genes de susceptibilidad al cáncer de mama 1 y 2): tienen mayor riesgo de cáncer de ovario, y la salpingooforectomía reductora de riesgo (SORR) lo reduce (ver [2.1](#21-prevención-primaria-cirugía-reductora-de-riesgo)).
 - Registrar los factores reproductivos y hormonales: paridad, anticonceptivos orales, lactancia, terapia hormonal posmenopáusica y estimulación ovárica para fertilización in vitro.
 
 **Fundamento**
@@ -192,21 +292,21 @@
 - Establecer el estado germinal y somático de BRCA1/2: determina el mantenimiento.
 - Sin mutación de BRCA1/2: determinar el estado de recombinación homóloga (deficiencia de recombinación homóloga [HRD] frente a competencia de recombinación homóloga [HRP]), que informa sobre la magnitud del beneficio del mantenimiento con inhibidor de la poli-ADP-ribosa polimerasa (iPARP). Para indicar iPARP en enfermedad avanzada, incluir una medida de recombinación homóloga.
 - Guías de referencia para cribado, pruebas y gestión del riesgo (incluida la cirugía reductora): guías de la National Comprehensive Cancer Network (NCCN) de evaluación de alto riesgo genético y familiar de mama, ovario, páncreas y próstata, y de colon y recto, endometrio y estómago.
-- Carcinoma endometrioide: inestabilidad de microsatélites (MSI) y sistema de reparación de errores de apareamiento (MMR) a todas las pacientes (ver 9.6).
-- Carcinoma de células pequeñas del ovario de tipo hipercalcémico (SCCOHT): prueba germinal de SMARCA4 tras la cirugía, si no se hizo (ver 9.5).
-- Repetir la derivación a evaluación genética durante el seguimiento si no se hizo (ver 13.1).
+- Carcinoma endometrioide: inestabilidad de microsatélites (MSI) y sistema de reparación de errores de apareamiento (MMR) a todas las pacientes (ver [9.6](#96-carcinoma-endometrioide-de-grado-1-lcoc-6)).
+- Carcinoma de células pequeñas del ovario de tipo hipercalcémico (SCCOHT): prueba germinal de SMARCA4 tras la cirugía, si no se hizo (ver [9.5](#95-carcinoma-de-células-pequeñas-de-tipo-hipercalcémico-sccoht-lcoc-5-lcoc-5a)).
+- Repetir la derivación a evaluación genética durante el seguimiento si no se hizo (ver [13.1](#131-seguimiento-del-carcinoma-epitelial-tras-el-tratamiento-primario-ov-6)).
 
 **Fundamento**
 
 - La recomendación de pruebas germinales y somáticas es deliberadamente amplia: da al asesor genético y al oncólogo libertad para solicitar las pruebas que consideren necesarias según la paciente y su historia familiar.
 - Contenido mínimo de la prueba tumoral en el escenario inicial: BRCA1/2 y pérdida de heterocigosidad (LOH) o estado de recombinación homóloga cuando no hay variantes germinales patogénicas o probablemente patogénicas (P/LP) de BRCA1/2.
 - Las pruebas clínicas de deficiencia de recombinación homóloga (HRD) son medidas indirectas y no predicen con plena precisión la HRD funcional. El Panel considera, por ahora, de beneficio mínimo los inhibidores de la poli-ADP-ribosa polimerasa (iPARP) en tumores con competencia de recombinación homóloga (HRP).
-- Un análisis tumoral exhaustivo puede no ser necesario al inicio en portadoras germinales de variantes P/LP de BRCA1/2 o de otros genes de recombinación homóloga o reparación del ADN; sí beneficia a quienes no tienen alteraciones de BRCA1/2 y a quienes recurren (ver 3.6).
+- Un análisis tumoral exhaustivo puede no ser necesario al inicio en portadoras germinales de variantes P/LP de BRCA1/2 o de otros genes de recombinación homóloga o reparación del ADN; sí beneficia a quienes no tienen alteraciones de BRCA1/2 y a quienes recurren (ver [3.6](#36-biomarcadores-cuándo-y-cuáles-solicitar-ov-c)).
 - Algunas pacientes portan mutaciones germinales en genes de riesgo que también orientan el tratamiento futuro.
 - † Mecanismo de la deficiencia de recombinación homóloga:
     - BRCA1 (resección de los extremos y señalización del daño) y BRCA2 (carga de RAD51 sobre el ADN monocatenario) son necesarios para reparar sin error las roturas de doble cadena usando la cromátida hermana como molde.
     - La pérdida bialélica (variante germinal más pérdida del segundo alelo, o dos eventos somáticos) obliga a la célula a usar vías propensas a error, como la unión de extremos no homólogos.
-    - El resultado son "cicatrices" genómicas (pérdida de heterocigosidad [LOH], desequilibrio alélico telomérico y transiciones de estado a gran escala) que las pruebas de deficiencia de recombinación homóloga (HRD) cuantifican, y la dependencia de otras vías de reparación, base de la letalidad sintética con inhibidor de la poli-ADP-ribosa polimerasa (iPARP) y de la mayor sensibilidad a platino (ver 11.1).
+    - El resultado son "cicatrices" genómicas (pérdida de heterocigosidad [LOH], desequilibrio alélico telomérico y transiciones de estado a gran escala) que las pruebas de deficiencia de recombinación homóloga (HRD) cuantifican, y la dependencia de otras vías de reparación, base de la letalidad sintética con inhibidor de la poli-ADP-ribosa polimerasa (iPARP) y de la mayor sensibilidad a platino (ver [11.1](#111-mecanismos-de-acción-y-toxicidades-de-los-fármacos)).
 - † Otros genes de susceptibilidad con riesgo de cáncer de ovario: RAD51C, RAD51D, BRIP1 y PALB2; los genes de reparación de errores de apareamiento del síndrome de Lynch (MLH1, MSH2, MSH6, PMS2 y EPCAM) se asocian sobre todo a carcinoma endometrioide y de células claras.
 
 ---
@@ -218,7 +318,7 @@
 **Conducta**
 
 - Indicación de salpingooforectomía reductora de riesgo (SORR): según la guía de la National Comprehensive Cancer Network (NCCN) de alto riesgo genético y familiar de mama, ovario, páncreas y próstata (esta guía no define edades ni indicaciones).
-- Técnica: protocolo de SORR (ver 10.11), con laparoscopia, inspección completa, lavado peritoneal, salpingooforectomía bilateral (SOB) completa con 2 cm del pedículo vascular ovárico y la trompa hasta el cuerno uterino, y procesamiento de la pieza mediante seccionamiento y examen extenso del extremo fimbriado (SEE-FIM).
+- Técnica: protocolo de SORR (ver [10.11](#1011-protocolo-de-salpingooforectomía-reductora-de-riesgo-sorr)), con laparoscopia, inspección completa, lavado peritoneal, salpingooforectomía bilateral (SOB) completa con 2 cm del pedículo vascular ovárico y la trompa hasta el cuerno uterino, y procesamiento de la pieza mediante seccionamiento y examen extenso del extremo fimbriado (SEE-FIM).
 - Salpingectomía sola: su beneficio preventivo aún no está demostrado.
     - Si se considera, extirpar la trompa desde la fimbria hasta su inserción uterina y procesarla igual que en la SORR.
     - Informar que persiste el riesgo de cáncer de ovario.
@@ -228,7 +328,7 @@
 
 - La salpingooforectomía reductora de riesgo (SORR) reduce el riesgo de cáncer de ovario en portadoras de variantes patogénicas o probablemente patogénicas (P/LP) de BRCA1/2 (genes de susceptibilidad al cáncer de mama 1 y 2; metaanálisis y estudio prospectivo multicéntrico citados por la guía).
 - Entre las referencias de la guía figura la aparición de carcinoma peritoneal primario tras ooforectomía profiláctica en mujeres con historia familiar de cáncer de ovario: la SORR reduce el riesgo, pero no lo elimina.
-- Factores reproductivos protectores: ver 1.3.
+- Factores reproductivos protectores: ver [1.3](#13-factores-de-riesgo-y-factores-protectores).
 - † La SORR elimina el epitelio tubárico de origen del carcinoma seroso de alto grado y el ovario; el riesgo residual corresponde sobre todo a carcinoma peritoneal primario.
 
 ### 2.2 Prevención secundaria: detección temprana y evaluación de síntomas
@@ -236,14 +336,14 @@
 **Conducta**
 
 - La guía no incluye recomendaciones de tamizaje poblacional; remite el cribado y la gestión del riesgo a la guía de alto riesgo genético y familiar.
-- Sospechar cáncer de ovario ante síntomas nuevos y frecuentes (>12 veces al mes) sin otra causa identificada: distensión abdominal, dolor pélvico o abdominal, dificultad para comer o saciedad temprana, y síntomas urinarios (urgencia o frecuencia; ver 4.1).
-- Ante una masa pélvica sospechosa: estudio inicial (ver 5.1) y derivación a ginecología oncológica.
-- Procesar la pieza de salpingooforectomía reductora de riesgo (SORR) mediante seccionamiento y examen extenso del extremo fimbriado (SEE-FIM) y seccionar cuidadosamente los ovarios (ver 3.5).
+- Sospechar cáncer de ovario ante síntomas nuevos y frecuentes (>12 veces al mes) sin otra causa identificada: distensión abdominal, dolor pélvico o abdominal, dificultad para comer o saciedad temprana, y síntomas urinarios (urgencia o frecuencia; ver [4.1](#41-presentación-inicial)).
+- Ante una masa pélvica sospechosa: estudio inicial (ver [5.1](#51-estudio-inicial-ante-sospecha-clínica-ov-1)) y derivación a ginecología oncológica.
+- Procesar la pieza de salpingooforectomía reductora de riesgo (SORR) mediante seccionamiento y examen extenso del extremo fimbriado (SEE-FIM) y seccionar cuidadosamente los ovarios (ver [3.5](#35-informe-anatomopatológico-y-manejo-del-espécimen-ov-c)).
 
 **Fundamento**
 
 - La evaluación primaria y la citorreducción por ginecología oncológica se asocian a ventaja de supervivencia.
-- La ecografía pélvica clasifica la mayoría de las masas anexiales como benignas o malignas (ver 5.3).
+- La ecografía pélvica clasifica la mayoría de las masas anexiales como benignas o malignas (ver [5.3](#53-imagen-inicial-y-de-respuesta-ov-a)).
 - † En población de riesgo promedio, los grandes ensayos de tamizaje con antígeno de cáncer 125 (CA-125) y ecografía transvaginal (UKCTOCS y PLCO) no redujeron la mortalidad por cáncer de ovario, por lo que no se recomienda el tamizaje poblacional. En portadoras de alto riesgo que difieren la salpingooforectomía reductora de riesgo (SORR), la vigilancia con CA-125 y ecografía tiene beneficio incierto y no sustituye a la cirugía.
 
 ---
@@ -258,7 +358,7 @@
 - Categorizar el carcinoma seroso como de bajo o de alto grado; el seroso de grado 2 se considera de alto grado.
 - Considerar revisión anatomopatológica experta para confirmar el diagnóstico histológico.
 - Cánceres de ovario menos comunes (LCOC): pueden beneficiarse de confirmación por patología ginecológica oncológica o de segunda opinión.
-- Grado 1 endometrioide: se maneja como LCOC en cualquier estadio (ver 9.6).
+- Grado 1 endometrioide: se maneja como LCOC en cualquier estadio (ver [9.6](#96-carcinoma-endometrioide-de-grado-1-lcoc-6)).
 
 **Fundamento: clasificación de la OMS (código de comportamiento entre paréntesis)**
 
@@ -284,13 +384,13 @@
 - Tumores mixtos de células germinales y de los cordones sexuales y del estroma: gonadoblastoma (1), incluidos el gonadoblastoma disecante y el tejido gonadal indiferenciado, y tumor mixto sin otra especificación (1).
 - Tumores misceláneos: adenoma de la rete ovarii (0), adenocarcinoma de la rete ovarii (3), tumor wolffiano (1), tumor sólido pseudopapilar (1), carcinoma de células pequeñas de tipo hipercalcémico (3), con su variante de células grandes, y tumor de Wilms (3).
 - Lesiones seudotumorales (0): quiste folicular, quiste de cuerpo lúteo, quiste folicular luteinizado solitario grande, hiperreacción luteínica, luteoma del embarazo, hiperplasia estromal e hipertecosis, fibromatosis y edema masivo, e hiperplasia de células de Leydig.
-- Metástasis en el ovario (ver 3.5).
+- Metástasis en el ovario (ver [3.5](#35-informe-anatomopatológico-y-manejo-del-espécimen-ov-c)).
 
 ### 3.2 Carcinoma seroso de alto grado y carcinoma endometrioide de grado 2/3
 
 **Conducta**
 
-- Considerar ambos el grupo de tratamiento principal (algoritmo OV; ver 8).
+- Considerar ambos el grupo de tratamiento principal (algoritmo OV; ver [8](#8-tratamiento-del-carcinoma-seroso-de-alto-grado-y-endometrioide-de-grado-23-por-escenario-y-estadio)).
 - En casos difíciles, usar inmunohistoquímica (IHQ) sobre el tejido disponible más reciente para el diagnóstico diferencial.
 - Que la ginecología oncológica determine el método más adecuado para obtener tejido para la confirmación histológica (en línea con la Society of Gynecologic Oncology [SGO] y la American Society of Clinical Oncology [ASCO]).
 
@@ -308,9 +408,9 @@
 
 **Conducta**
 
-- Aplicar el algoritmo específico de cada LCOC (ver 9) y la clasificación de la OMS.
-- Carcinoma mucinoso: descartar siempre un primario gastrointestinal (ver 5.1 y 9.4).
-- Tumor limítrofe seroso: distinguir implantes no invasores de invasores; los invasores equivalen a carcinoma seroso de bajo grado y requieren tratamiento adyuvante (ver 9.8).
+- Aplicar el algoritmo específico de cada LCOC (ver [9](#9-cánceres-de-ovario-menos-comunes-lcoc)) y la clasificación de la OMS.
+- Carcinoma mucinoso: descartar siempre un primario gastrointestinal (ver [5.1](#51-estudio-inicial-ante-sospecha-clínica-ov-1) y [9.4](#94-neoplasias-mucinosas-lcoc-4)).
+- Tumor limítrofe seroso: distinguir implantes no invasores de invasores; los invasores equivalen a carcinoma seroso de bajo grado y requieren tratamiento adyuvante (ver [9.8](#98-tumores-epiteliales-limítrofes-serosos-de-bajo-potencial-maligno-lcoc-9-lcoc-10-lcoc-11)).
 
 **Fundamento**
 
@@ -326,7 +426,7 @@
     - patrón expansivo (la mayoría de los tempranos): arquitectura glandular, papilar o cribiforme compleja, laberíntica o anastomosada, con poco o ningún estroma interpuesto;
     - patrón infiltrativo (~20%): nidos tumorales angulados y dispuestos al azar que invaden de forma destructiva un estroma desmoplásico, con extensión lineal ≥5 mm; se asocia a más recaída y mortalidad, más bilateralidad y estadio más avanzado según la Federación Internacional de Ginecología y Obstetricia (FIGO).
 - **Carcinoma seroso de bajo grado**: <5% de los carcinomas epiteliales de ovario; más indolente y en pacientes más jóvenes que el alto grado, pero a menudo avanzado al diagnóstico; mutaciones activadoras de la vía MAPK (proteínas cinasas activadas por mitógenos) frecuentes; responde peor a la quimioterapia.
-- **Carcinoma endometrioide de grado 1**: tratamiento similar al seroso de bajo grado (ver 9.6).
+- **Carcinoma endometrioide de grado 1**: tratamiento similar al seroso de bajo grado (ver [9.6](#96-carcinoma-endometrioide-de-grado-1-lcoc-6)).
 - **Carcinoma de células pequeñas del ovario de tipo hipercalcémico (SCCOHT)**: raro, de mal pronóstico, asociado a mutaciones de SMARCA4; no hipermutado, aunque en 11 pacientes se observó infiltración significativa de linfocitos T y expresión de ligando 1 de muerte programada (PD-L1), lo que sugiere que es inmunogénico.
 - **Tumores epiteliales limítrofes (bajo potencial maligno [BPM], tumores proliferativos atípicos)**:
     - lesión epitelial primaria con rasgos citológicos de malignidad, pero sin invasión franca; curso clínico indolente y buen pronóstico;
@@ -340,8 +440,8 @@
 
 **Conducta**
 
-- Si la biopsia o la pieza quirúrgica muestra un tumor no epitelial (germinal o de los cordones sexuales y del estroma), seguir sus recomendaciones específicas (ver 9.9 y 9.10), no las del carcinoma epitelial.
-- Menores de 35 años con masa pélvica: alfafetoproteína (AFP; tumor germinal) y descartar embarazo; fracción beta de la gonadotropina coriónica humana (β-hCG) y lactato deshidrogenasa (LDH) orientan hacia tumor germinal (ver 5.2).
+- Si la biopsia o la pieza quirúrgica muestra un tumor no epitelial (germinal o de los cordones sexuales y del estroma), seguir sus recomendaciones específicas (ver [9.9](#99-tumores-malignos-de-los-cordones-sexuales-y-del-estroma-lcoc-12-lcoc-a) y [9.10](#910-tumores-malignos-de-células-germinales-lcoc-13-lcoc-14-lcoc-15-lcoc-a)), no las del carcinoma epitelial.
+- Menores de 35 años con masa pélvica: alfafetoproteína (AFP; tumor germinal) y descartar embarazo; fracción beta de la gonadotropina coriónica humana (β-hCG) y lactato deshidrogenasa (LDH) orientan hacia tumor germinal (ver [5.2](#52-marcadores-tumorales)).
 
 **Fundamento**
 
@@ -383,13 +483,13 @@
 
 **Conducta**
 
-- Escenario inicial: como mínimo, las alteraciones que orientan intervenciones con beneficio demostrado en este escenario: BRCA1/2 (genes de susceptibilidad al cáncer de mama 1 y 2) y pérdida de heterocigosidad (LOH) o estado de deficiencia de recombinación homóloga (HRD) cuando no hay variantes germinales patogénicas o probablemente patogénicas (P/LP) de BRCA1/2 (ver 1.4).
+- Escenario inicial: como mínimo, las alteraciones que orientan intervenciones con beneficio demostrado en este escenario: BRCA1/2 (genes de susceptibilidad al cáncer de mama 1 y 2) y pérdida de heterocigosidad (LOH) o estado de deficiencia de recombinación homóloga (HRD) cuando no hay variantes germinales patogénicas o probablemente patogénicas (P/LP) de BRCA1/2 (ver [1.4](#14-genética-variantes-germinales-y-somáticas-y-recombinación-homóloga)).
 - Enfermedad persistente o recurrente, antes de iniciar el tratamiento, si no se hizo o si las pruebas previas no los incluían: receptor 2 del factor de crecimiento epidérmico humano (HER2; por inmunohistoquímica [IHQ]), ligando 1 de muerte programada (PD-L1; IHQ, puntuación positiva combinada [CPS]), BRCA1/2, estado de HRD, inestabilidad de microsatélites (MSI), sistema de reparación de errores de apareamiento (MMR), carga mutacional tumoral (TMB), BRAF, KRAS, receptor de folato alfa (FRα; FOLR1), el gen reordenado durante la transfección (RET) y genes del receptor neurotrófico de tirosina cinasa 1, 2 y 3 (NTRK1/2/3).
 - Paneles multigénicos: especialmente importantes en LCOC, con pocas terapias aprobadas; en LCOC pueden además orientar el tratamiento y el reclutamiento en ensayos.
 - Usar el tejido tumoral disponible más reciente, en un laboratorio con certificación Clinical Laboratory Improvement Amendments (CLIA).
-- ADN tumoral circulante (ADNtc): aceptable para el análisis de biomarcadores cuando el análisis de tejido no es factible. No se ha validado para seleccionar el tratamiento por sí solo (ver 13.2).
+- ADN tumoral circulante (ADNtc): aceptable para el análisis de biomarcadores cuando el análisis de tejido no es factible. No se ha validado para seleccionar el tratamiento por sí solo (ver [13.2](#132-antígeno-de-cáncer-125-ca-125-en-ascenso-y-adn-tumoral-circulante)).
 - Carcinoma endometrioide: MSI y MMR a todas.
-- Umbrales de positividad que determinan el tratamiento (ver 11.9):
+- Umbrales de positividad que determinan el tratamiento (ver [11.9](#119-terapia-dirigida-por-biomarcadores-e-inmunoterapia)):
     - ligando 1 de muerte programada (PD-L1) positivo: puntuación positiva combinada (CPS) ≥1 con una prueba aprobada por la Administración de Alimentos y Medicamentos de EE. UU. (FDA);
     - HER2 positivo: IHQ 3+ o 2+;
     - FRα: ≥75%, ≥50% o ≥25% de células tumorales positivas, según el fármaco y el escenario;
@@ -416,21 +516,21 @@
     - ascitis o distensión abdominal;
     - síntomas sin otra fuente de malignidad: distensión abdominal (hinchazón), dolor pélvico o abdominal, dificultad para comer o saciedad temprana, y síntomas urinarios (urgencia o frecuencia).
 - Dar más peso a los síntomas nuevos y frecuentes (>12 veces al mes) que no se explican por una malignidad o causa conocida.
-- Iniciar el estudio (ver 5.1) y derivar a ginecología oncológica ante toda lesión clínicamente sospechosa.
+- Iniciar el estudio (ver [5.1](#51-estudio-inicial-ante-sospecha-clínica-ov-1)) y derivar a ginecología oncológica ante toda lesión clínicamente sospechosa.
 
 **Fundamento**
 
 - Signos clínicos: distensión abdominal o ascitis y masa en la exploración abdominal o pélvica.
 - Quien evalúa a una paciente con esta constelación de síntomas debe tener presente la posibilidad de patología ovárica.
-- Los síntomas (distensión, dolor, dificultad para comer, saciedad temprana) modifican los hábitos alimentarios y deterioran el estado nutricional, que se asocia a mayor riesgo de cirugía subóptima, complicaciones y peor supervivencia, sobre todo en ≥75 años (ver 5.5).
+- Los síntomas (distensión, dolor, dificultad para comer, saciedad temprana) modifican los hábitos alimentarios y deterioran el estado nutricional, que se asocia a mayor riesgo de cirugía subóptima, complicaciones y peor supervivencia, sobre todo en ≥75 años (ver [5.5](#55-estado-funcional-estado-nutricional-evaluación-gastrointestinal-y-fertilidad)).
 - † La diseminación transcelómica (exfoliación hacia la cavidad peritoneal, con implantes en epiplón, diafragma y superficies serosas) explica la ascitis, la saciedad temprana y la distensión, y que la mayoría de los casos se diagnostique en estadio III–IV.
 
 ### 4.2 Particularidades de presentación por histología
 
 **Conducta**
 
-- Paciente joven con masa anexial: pensar en tumor germinal, limítrofe o mucinoso; medir alfafetoproteína (AFP), fracción beta de la gonadotropina coriónica humana (β-hCG) y lactato deshidrogenasa (LDH) y descartar embarazo (ver 5.2).
-- Masa quística muy grande que ocupa abdomen y pelvis, con antígeno carcinoembrionario (CEA) o antígeno carbohidrato 19-9 (CA 19-9) elevados: pensar en tumor mucinoso y evaluar el tubo digestivo (ver 9.4).
+- Paciente joven con masa anexial: pensar en tumor germinal, limítrofe o mucinoso; medir alfafetoproteína (AFP), fracción beta de la gonadotropina coriónica humana (β-hCG) y lactato deshidrogenasa (LDH) y descartar embarazo (ver [5.2](#52-marcadores-tumorales)).
+- Masa quística muy grande que ocupa abdomen y pelvis, con antígeno carcinoembrionario (CEA) o antígeno carbohidrato 19-9 (CA 19-9) elevados: pensar en tumor mucinoso y evaluar el tubo digestivo (ver [9.4](#94-neoplasias-mucinosas-lcoc-4)).
 - Masa pancreática o enfermedad abdominal difusa con CEA elevado: aumentar la sospecha de primario gastrointestinal.
 
 **Fundamento**
@@ -457,7 +557,7 @@
 
 **Fundamento**
 
-- La mediana de tiempo entre la elevación documentada de CA-125 y la recaída clínica es de 2–6 meses (ver 13.2).
+- La mediana de tiempo entre la elevación documentada de CA-125 y la recaída clínica es de 2–6 meses (ver [13.2](#132-antígeno-de-cáncer-125-ca-125-en-ascenso-y-adn-tumoral-circulante)).
 - Los tumores limítrofes pueden recurrir ≥5 años después del diagnóstico.
 - En los tumores germinales tratados con quimioterapia puede aparecer el síndrome del teratoma creciente (masa que crece con marcadores normales).
 
@@ -470,20 +570,20 @@
 **Conducta**
 
 - Exploración abdominal y pélvica.
-- Estudios de imagen según indicación clínica (ver 5.3).
+- Estudios de imagen según indicación clínica (ver [5.3](#53-imagen-inicial-y-de-respuesta-ov-a)).
 - Hemograma completo y perfil bioquímico con pruebas de función hepática.
-- Antígeno de cáncer 125 (CA-125) u otros marcadores tumorales según indicación clínica (ver 5.2).
-- Evaluar el estado funcional y el estado nutricional (ver 5.5).
+- Antígeno de cáncer 125 (CA-125) u otros marcadores tumorales según indicación clínica (ver [5.2](#52-marcadores-tumorales)).
+- Evaluar el estado funcional y el estado nutricional (ver [5.5](#55-estado-funcional-estado-nutricional-evaluación-gastrointestinal-y-fertilidad)).
 - Evaluación gastrointestinal según indicación clínica.
 - Evaluación por endocrinología reproductiva e infertilidad según indicación clínica; reconsiderarla cuando se disponga del diagnóstico patológico.
-- Obtener la historia familiar (ver 1.4).
+- Obtener la historia familiar (ver [1.4](#14-genética-variantes-germinales-y-somáticas-y-recombinación-homóloga)).
 - Derivar a ginecología oncológica toda lesión clínicamente sospechosa. Evaluación por ginecología oncológica recomendada para:
     - toda paciente con sospecha de malignidad ovárica;
     - pacientes en evaluación para neoadyuvancia, antes de considerarlas malas candidatas quirúrgicas;
     - manejo de los carcinomas serosos intraepiteliales tubáricos (STIC) ocultos;
     - considerar la evaluación laparoscópica de la factibilidad de la citorreducción en pacientes seleccionadas;
     - biopsia endometrial según indicación clínica.
-- Cánceres de ovario menos comunes (LCOC): el estudio es el mismo que para el carcinoma epitelial, añadiendo marcadores y pruebas que definan la histopatología específica (ver 9.1).
+- Cánceres de ovario menos comunes (LCOC): el estudio es el mismo que para el carcinoma epitelial, añadiendo marcadores y pruebas que definan la histopatología específica (ver [9.1](#91-principios-comunes-lcoc-1)).
 
 **Fundamento**
 
@@ -498,7 +598,7 @@
 - Otros marcadores según indicación clínica: inhibina, fracción beta de la gonadotropina coriónica humana (β-hCG), alfafetoproteína (AFP), lactato deshidrogenasa (LDH), antígeno carcinoembrionario (CEA), antígeno carbohidrato 19-9 (CA 19-9) y proteína 4 del epidídimo humano (HE4).
 - Menores de 35 años con masa pélvica: medir AFP para valorar tumor germinal y descartar embarazo; AFP, LDH y β-hCG pueden indicar tumor germinal.
 - Si la biopsia no es factible: citología de ascitis o de derrame pleural combinada con un cociente entre CA-125 y CEA >25, sugestivo de cáncer de ovario.
-- Neoplasia mucinosa: CEA y CA 19-9 si no se midieron (ver 9.4).
+- Neoplasia mucinosa: CEA y CA 19-9 si no se midieron (ver [9.4](#94-neoplasias-mucinosas-lcoc-4)).
 - Tumor de la granulosa: la inhibina puede seguirse durante el seguimiento.
 
 **Fundamento**
@@ -543,7 +643,7 @@
     - enfermedad recurrente.
 - Modalidades, según indicación clínica: tomografía computarizada (TC) de tórax, abdomen y pelvis; TC de tórax y resonancia magnética (RM) abdominopélvica; o tomografía por emisión de positrones acoplada a resonancia magnética (PET/RM) o tomografía por emisión de positrones acoplada a tomografía computarizada (PET/TC; de la base del cráneo a la mitad del muslo).
 - Durante y después del tratamiento de la recurrencia: marcadores y repetición de la imagen con las modalidades usadas antes para documentar la respuesta o el estado de la enfermedad.
-- Imagen de seguimiento de los LCOC (tablas 3 y 4): ver 13.3.
+- Imagen de seguimiento de los LCOC (tablas 3 y 4): ver [13.3](#133-seguimiento-de-los-cánceres-de-ovario-menos-comunes).
 
 **Fundamento**
 
@@ -559,11 +659,11 @@
 
 **Conducta**
 
-- Antes de la neoadyuvancia: confirmación histológica, con biopsia como opción preferida; si la biopsia no es factible, citología de ascitis o de derrame pleural combinada con un cociente entre CA-125 y antígeno carcinoembrionario (CEA) >25 (ver 8.3).
+- Antes de la neoadyuvancia: confirmación histológica, con biopsia como opción preferida; si la biopsia no es factible, citología de ascitis o de derrame pleural combinada con un cociente entre CA-125 y antígeno carcinoembrionario (CEA) >25 (ver [8.3](#83-mala-candidata-quirúrgica-o-baja-probabilidad-de-citorreducción-óptima-neoadyuvancia-ov-2)).
 - Evaluación laparoscópica para determinar la factibilidad de la resección en pacientes seleccionadas con enfermedad avanzada.
 - En enfermedad voluminosa: un procedimiento mínimamente invasivo puede obtener tejido para el diagnóstico y las pruebas de biomarcadores y valorar si la citorreducción óptima es posible.
-- Evitar la punción aspiración con aguja fina (PAAF) en enfermedad presuntamente temprana (ver 3.5).
-- Biopsia intraoperatoria por congelación: recomendada si se desea preservar la fertilidad; si confirma histología mucinosa sin ganglios sospechosos, considerar omitir la linfadenectomía (ver 10.8).
+- Evitar la punción aspiración con aguja fina (PAAF) en enfermedad presuntamente temprana (ver [3.5](#35-informe-anatomopatológico-y-manejo-del-espécimen-ov-c)).
+- Biopsia intraoperatoria por congelación: recomendada si se desea preservar la fertilidad; si confirma histología mucinosa sin ganglios sospechosos, considerar omitir la linfadenectomía (ver [10.8](#108-situaciones-especiales-tumores-mucinosos-y-limítrofes)).
 
 **Fundamento**
 
@@ -586,7 +686,7 @@
 - En el carcinoma epitelial en estadio III, un estado funcional de 1 o 2 se asoció a mayor riesgo de recurrencia que el de 0 (razón de riesgos [HR] 1.12; intervalo de confianza del 95% [IC 95%] 1.01–1.24).
 - La desnutrición se asocia a mayor riesgo de cirugía subóptima, complicaciones quirúrgicas y peor supervivencia, sobre todo en ≥75 años.
 - Una masa pancreática o una enfermedad abdominal difusa deben aumentar la sospecha de cáncer gastrointestinal primario.
-- La preservación uterina, aun sin ovario contralateral, permite técnicas futuras de reproducción asistida (ver 10.7).
+- La preservación uterina, aun sin ovario contralateral, permite técnicas futuras de reproducción asistida (ver [10.7](#107-cirugía-con-preservación-de-fertilidad)).
 
 ### 5.6 Estudio de la paciente diagnosticada en una cirugía previa (OV-3)
 
@@ -595,11 +695,11 @@
 - Evaluación por ginecología oncológica.
 - Historia familiar y evaluación de riesgo genético con pruebas germinales y somáticas de biomarcadores, si no se hicieron.
 - Revisar la imagen previa, las notas operatorias y la patología.
-- Imagen según indicación clínica (ver 5.3): tomografía computarizada (TC) de tórax, abdomen y pelvis; TC de tórax y resonancia magnética (RM) abdominopélvica; o tomografía por emisión de positrones acoplada a resonancia magnética (PET/RM) o tomografía por emisión de positrones acoplada a tomografía computarizada (PET/TC).
+- Imagen según indicación clínica (ver [5.3](#53-imagen-inicial-y-de-respuesta-ov-a)): tomografía computarizada (TC) de tórax, abdomen y pelvis; TC de tórax y resonancia magnética (RM) abdominopélvica; o tomografía por emisión de positrones acoplada a resonancia magnética (PET/RM) o tomografía por emisión de positrones acoplada a tomografía computarizada (PET/TC).
 - Hemograma completo y perfil bioquímico con pruebas de función hepática.
 - CA-125 u otros marcadores según indicación clínica.
 - Endocrinología reproductiva e infertilidad según indicación clínica.
-- Conducta según los hallazgos: ver 8.4.
+- Conducta según los hallazgos: ver [8.4](#84-diagnóstico-por-cirugía-o-biopsia-previa-hallazgos-y-tratamiento-primario-ov-3).
 
 **Fundamento**
 
@@ -625,10 +725,10 @@
 **Conducta**
 
 - Estadificar con el sistema de la Federación Internacional de Ginecología y Obstetricia (FIGO) y el TNM (tumor, ganglio y metástasis) del American Joint Committee on Cancer (AJCC; 8.ª edición, 2017); el cáncer de trompa y el peritoneal primario usan el mismo sistema.
-- La estadificación es quirúrgico-patológica: hacer estadificación quirúrgica integral en la mayoría de las pacientes sometidas a salpingooforectomía unilateral (SOU) o salpingooforectomía bilateral (SOB) para descartar enfermedad oculta de estadio mayor (técnica: ver 10.2).
+- La estadificación es quirúrgico-patológica: hacer estadificación quirúrgica integral en la mayoría de las pacientes sometidas a salpingooforectomía unilateral (SOU) o salpingooforectomía bilateral (SOB) para descartar enfermedad oculta de estadio mayor (técnica: ver [10.2](#102-estadificación-quirúrgica-integral-en-carcinoma-epitelial-invasor-aparentemente-confinado-a-ovarios-trompas-y-útero-iaiia)).
 - Puede omitirse la estadificación integral en pacientes pediátricas, adolescentes y adultas jóvenes con tumor germinal maligno clínicamente temprano.
-- Diagnóstico en cirugía previa sin residual: considerar la estadificación quirúrgica si se contempla la observación o para decidir el tratamiento sistémico (ver 8.4).
-- El informe patológico debe incluir la estadificación FIGO y TNM (ver 3.5); el protocolo del College of American Pathologists (CAP) recoge los requisitos pTNM.
+- Diagnóstico en cirugía previa sin residual: considerar la estadificación quirúrgica si se contempla la observación o para decidir el tratamiento sistémico (ver [8.4](#84-diagnóstico-por-cirugía-o-biopsia-previa-hallazgos-y-tratamiento-primario-ov-3)).
+- El informe patológico debe incluir la estadificación FIGO y TNM (ver [3.5](#35-informe-anatomopatológico-y-manejo-del-espécimen-ov-c)); el protocolo del College of American Pathologists (CAP) recoge los requisitos pTNM.
 
 **Fundamento**
 
@@ -714,15 +814,15 @@
 
 **Conducta: otros estratificadores**
 
-- Candidatura a citorreducción primaria (ver 8.2 y 8.3): mala candidata quirúrgica (edad avanzada, fragilidad, mal estado funcional o comorbilidades) o enfermedad con baja probabilidad de citorreducción óptima → neoadyuvancia.
+- Candidatura a citorreducción primaria (ver [8.2](#82-estadios-clínicos-iaiv-candidata-quirúrgica-con-citorreducción-óptima-probable-sin-deseo-de-fertilidad-ov-1) y [8.3](#83-mala-candidata-quirúrgica-o-baja-probabilidad-de-citorreducción-óptima-neoadyuvancia-ov-2)): mala candidata quirúrgica (edad avanzada, fragilidad, mal estado funcional o comorbilidades) o enfermedad con baja probabilidad de citorreducción óptima → neoadyuvancia.
 - Resultado de la citorreducción: óptima = residual <1 cm; el objetivo es la resección de toda la enfermedad macroscópica (R0).
-- Beneficio del bevacizumab de primera línea: mayor en enfermedad de alto riesgo (estadio IV, estadio III inoperable o estadio III con citorreducción subóptima, residual >1 cm; ver 11.5).
-- Mantenimiento tras la primera línea en estadios II–IV (ver 8.7): respuesta (respuesta completa [RC] o respuesta parcial [RP]), estado de BRCA1/2 (genes de susceptibilidad al cáncer de mama 1 y 2), estado de deficiencia de recombinación homóloga (HRD) o competencia de recombinación homóloga (HRP) y uso previo de bevacizumab.
-- Sensibilidad a platino en la recurrencia (ver 8.9 y 8.10):
+- Beneficio del bevacizumab de primera línea: mayor en enfermedad de alto riesgo (estadio IV, estadio III inoperable o estadio III con citorreducción subóptima, residual >1 cm; ver [11.5](#115-tratamiento-primario-de-los-estadios-iiiv-o-de-la-recurrencia-no-tratada-previamente-ov-d-6-de-12)).
+- Mantenimiento tras la primera línea en estadios II–IV (ver [8.7](#87-mantenimiento-tras-el-tratamiento-primario-en-estadios-iiiv-ov-5)): respuesta (respuesta completa [RC] o respuesta parcial [RP]), estado de BRCA1/2 (genes de susceptibilidad al cáncer de mama 1 y 2), estado de deficiencia de recombinación homóloga (HRD) o competencia de recombinación homóloga (HRP) y uso previo de bevacizumab.
+- Sensibilidad a platino en la recurrencia (ver [8.9](#89-enfermedad-persistente-o-recurrencia-resistente-a-platino-ov-7) y [8.10](#810-recurrencia-sensible-a-platino-ov-8)):
     - sensible: remisión completa y recaída ≥6 meses después de terminar la quimioterapia previa;
     - resistente: progresión durante el tratamiento primario, de mantenimiento o de recurrencia; enfermedad estable o persistente (sin mantenimiento); o remisión completa y recaída <6 meses después de terminar la quimioterapia.
-- Tumores de los cordones sexuales y del estroma: estadio I de bajo riesgo; estadio I de alto riesgo (IC con rotura o estadio I poco diferenciado); riesgo intermedio (elementos heterólogos); estadios II–IV (ver 9.9).
-- Tumores germinales: los criterios del Memorial Sloan Kettering Cancer Center identifican tumores de bajo riesgo; BEP (bleomicina, etopósido y cisplatino) 3 ciclos en buen riesgo (categoría 2B) y 4 en mal riesgo (ver 9.10).
+- Tumores de los cordones sexuales y del estroma: estadio I de bajo riesgo; estadio I de alto riesgo (IC con rotura o estadio I poco diferenciado); riesgo intermedio (elementos heterólogos); estadios II–IV (ver [9.9](#99-tumores-malignos-de-los-cordones-sexuales-y-del-estroma-lcoc-12-lcoc-a)).
+- Tumores germinales: los criterios del Memorial Sloan Kettering Cancer Center identifican tumores de bajo riesgo; BEP (bleomicina, etopósido y cisplatino) 3 ciclos en buen riesgo (categoría 2B) y 4 en mal riesgo (ver [9.10](#910-tumores-malignos-de-células-germinales-lcoc-13-lcoc-14-lcoc-15-lcoc-a)).
 
 **Fundamento**
 
@@ -740,17 +840,17 @@
 
 **Conducta**
 
-1. Sospecha → estudio inicial y evaluación por ginecología oncológica (ver 5).
+1. Sospecha → estudio inicial y evaluación por ginecología oncológica (ver [5](#5-diagnóstico-y-estudio-inicial)).
 2. Decisión inicial (OV-1):
-    - estadio clínico IA o IB con deseo de fertilidad → salpingooforectomía unilateral (SOU) o salpingooforectomía bilateral (SOB) con preservación uterina y estadificación integral (ver 8.1);
-    - estadios IA–IV, candidata quirúrgica, citorreducción óptima probable, sin deseo de fertilidad → histerectomía con SOB, estadificación integral y citorreducción según necesidad (ver 8.2);
-    - mala candidata quirúrgica o baja probabilidad de citorreducción óptima → neoadyuvancia y cirugía citorreductora de intervalo (CCI; ver 8.3);
-    - diagnóstico por cirugía o biopsia previa → estudio, hallazgos y tratamiento primario (ver 8.4).
+    - estadio clínico IA o IB con deseo de fertilidad → salpingooforectomía unilateral (SOU) o salpingooforectomía bilateral (SOB) con preservación uterina y estadificación integral (ver [8.1](#81-estadio-clínico-ia-o-ib-con-deseo-de-fertilidad-ov-1));
+    - estadios IA–IV, candidata quirúrgica, citorreducción óptima probable, sin deseo de fertilidad → histerectomía con SOB, estadificación integral y citorreducción según necesidad (ver [8.2](#82-estadios-clínicos-iaiv-candidata-quirúrgica-con-citorreducción-óptima-probable-sin-deseo-de-fertilidad-ov-1));
+    - mala candidata quirúrgica o baja probabilidad de citorreducción óptima → neoadyuvancia y cirugía citorreductora de intervalo (CCI; ver [8.3](#83-mala-candidata-quirúrgica-o-baja-probabilidad-de-citorreducción-óptima-neoadyuvancia-ov-2));
+    - diagnóstico por cirugía o biopsia previa → estudio, hallazgos y tratamiento primario (ver [8.4](#84-diagnóstico-por-cirugía-o-biopsia-previa-hallazgos-y-tratamiento-primario-ov-3)).
 3. Tras la cirugía, todas: evaluación de riesgo genético y pruebas germinales y somáticas de biomarcadores, si no se hicieron.
-4. Estadificación patológica → tratamiento adyuvante según estadio e histología (ver 8.5 y 8.6); cánceres de ovario menos comunes (LCOC) en cualquier estadio (incluido el endometrioide de grado 1) → algoritmos LCOC (ver 9).
-5. Estadios II–IV con respuesta completa (RC) o respuesta parcial (RP) tras la primera línea → mantenimiento según BRCA1/2 (genes de susceptibilidad al cáncer de mama 1 y 2), deficiencia de recombinación homóloga (HRD) y bevacizumab previo (ver 8.7); enfermedad estable o progresión → tratamiento de enfermedad persistente o recurrente (ver 8.9).
-6. Seguimiento (ver 13).
-7. Recurrencia → pruebas de biomarcadores si no se hicieron; clasificar la sensibilidad a platino; valorar citorreducción secundaria; tratamiento sistémico y mantenimiento (ver 8.9, 8.10 y 11).
+4. Estadificación patológica → tratamiento adyuvante según estadio e histología (ver [8.5](#85-tratamiento-adyuvante-del-estadio-i-ov-4) y [8.6](#86-estadios-iiiv-quimioterapia-primaria-y-evaluación-de-la-respuesta-ov-4)); cánceres de ovario menos comunes (LCOC) en cualquier estadio (incluido el endometrioide de grado 1) → algoritmos LCOC (ver [9](#9-cánceres-de-ovario-menos-comunes-lcoc)).
+5. Estadios II–IV con respuesta completa (RC) o respuesta parcial (RP) tras la primera línea → mantenimiento según BRCA1/2 (genes de susceptibilidad al cáncer de mama 1 y 2), deficiencia de recombinación homóloga (HRD) y bevacizumab previo (ver [8.7](#87-mantenimiento-tras-el-tratamiento-primario-en-estadios-iiiv-ov-5)); enfermedad estable o progresión → tratamiento de enfermedad persistente o recurrente (ver [8.9](#89-enfermedad-persistente-o-recurrencia-resistente-a-platino-ov-7)).
+6. Seguimiento (ver [13](#13-vigilancia-seguimiento-y-supervivencia)).
+7. Recurrencia → pruebas de biomarcadores si no se hicieron; clasificar la sensibilidad a platino; valorar citorreducción secundaria; tratamiento sistémico y mantenimiento (ver [8.9](#89-enfermedad-persistente-o-recurrencia-resistente-a-platino-ov-7), [8.10](#810-recurrencia-sensible-a-platino-ov-8) y [11](#11-tratamiento-sistémico-fármacos-esquemas-dosis-y-criterios-de-elección-ov-d)).
 
 **Fundamento**
 
@@ -772,7 +872,7 @@
     - tratamiento de la recurrencia: tratamiento del cáncer recurrente para controlar síntomas o prolongar la vida o su calidad, ante evidencia clínica, bioquímica o radiológica de recurrencia tras el tratamiento inicial.
 - Paciente elegible para quimioterapia: informar de las opciones primarias (quimioterapia intravenosa, quimioterapia por vía intraperitoneal e intravenosa [IP/IV] o ensayo clínico) para que decida.
 - Radioterapia: la radioterapia abdominal total no se incluye (poca eficacia y mucha toxicidad); la RT localizada puede considerarse para paliar síntomas o en enfermedad oligometastásica.
-- Cuidados paliativos: apropiados en cualquier fase, sobre todo en la enfermedad resistente a platino; tratamiento sintomático y mejor tratamiento de soporte; termómetro de distrés y lista de problemas de la NCCN, que incluye determinantes sociales de la salud (ver 13.4).
+- Cuidados paliativos: apropiados en cualquier fase, sobre todo en la enfermedad resistente a platino; tratamiento sintomático y mejor tratamiento de soporte; termómetro de distrés y lista de problemas de la NCCN, que incluye determinantes sociales de la salud (ver [13.4](#134-supervivencia-cuidados-de-soporte-y-paliativos)).
 
 **Fundamento**
 
@@ -794,7 +894,7 @@
 - **Germinales**: preservación de fertilidad en cualquier estadio si se desea; BEP; algunas pacientes son potencialmente curables en la recurrencia con quimioterapia de altas dosis y trasplante de células hematopoyéticas (TCH).
 - **Cordones sexuales y del estroma**: preservación de fertilidad en enfermedad confinada al ovario; platino según riesgo; hormonoterapia en la recurrencia.
 - Neoadyuvancia: no se aplica a tumores de bajo potencial maligno (BPM) ni a otros cánceres no invasores.
-- Terapia de reemplazo hormonal (TRH) tras la cirugía: considerar en seroso de alto grado y en germinales; evitar en tumores hormonosensibles (ver 10.13).
+- Terapia de reemplazo hormonal (TRH) tras la cirugía: considerar en seroso de alto grado y en germinales; evitar en tumores hormonosensibles (ver [10.13](#1013-soporte-posoperatorio-menopausia-quirúrgica-y-terapia-de-reemplazo-hormonal)).
 
 **Fundamento**
 
@@ -814,8 +914,8 @@
 - La SOU o la SOB pueden ser opción en pacientes seleccionadas en estadio IC según la histología.
 - Considerar el muestreo endometrial para excluir un primario sincrónico o hiperplasia.
 - Derivar a endocrinología reproductiva e infertilidad según indicación clínica.
-- Después: evaluación de riesgo genético y pruebas germinales y somáticas de biomarcadores, si no se hicieron; estadificación patológica y tratamiento adyuvante (ver 8.5); cánceres de ovario menos comunes (LCOC) → ver 9.
-- Técnica de la estadificación: ver 10.2; cirugía con preservación de fertilidad: ver 10.7.
+- Después: evaluación de riesgo genético y pruebas germinales y somáticas de biomarcadores, si no se hicieron; estadificación patológica y tratamiento adyuvante (ver [8.5](#85-tratamiento-adyuvante-del-estadio-i-ov-4)); cánceres de ovario menos comunes (LCOC) → ver [9](#9-cánceres-de-ovario-menos-comunes-lcoc).
+- Técnica de la estadificación: ver [10.2](#102-estadificación-quirúrgica-integral-en-carcinoma-epitelial-invasor-aparentemente-confinado-a-ovarios-trompas-y-útero-iaiia); cirugía con preservación de fertilidad: ver [10.7](#107-cirugía-con-preservación-de-fertilidad).
 
 **Fundamento**
 
@@ -829,10 +929,10 @@
 **Conducta**
 
 - Histerectomía (si hay útero) con salpingooforectomía bilateral (SOB), estadificación quirúrgica integral y citorreducción según necesidad.
-- Laparotomía media vertical en la mayoría; abordaje mínimamente invasivo en enfermedad temprana seleccionada por cirujano experto (ver 10.1).
-- Objetivo: citorreducción máxima; óptima = residual <1 cm, pero con máximo esfuerzo por resecar toda la enfermedad macroscópica (ver 10.3).
-- Considerar la colocación de un catéter intraperitoneal en la cirugía inicial en candidatas a tratamiento IP con enfermedad residual de bajo volumen; informar antes de la cirugía (ver 10.1).
-- Después: evaluación de riesgo genético y pruebas de biomarcadores; estadificación patológica (ver 8.5 y 8.6).
+- Laparotomía media vertical en la mayoría; abordaje mínimamente invasivo en enfermedad temprana seleccionada por cirujano experto (ver [10.1](#101-consideraciones-generales-y-vía-de-abordaje)).
+- Objetivo: citorreducción máxima; óptima = residual <1 cm, pero con máximo esfuerzo por resecar toda la enfermedad macroscópica (ver [10.3](#103-citorreducción-primaria-en-carcinoma-epitelial-invasor-que-afecta-pelvis-y-abdomen-superior-estadio-iib)).
+- Considerar la colocación de un catéter intraperitoneal en la cirugía inicial en candidatas a tratamiento IP con enfermedad residual de bajo volumen; informar antes de la cirugía (ver [10.1](#101-consideraciones-generales-y-vía-de-abordaje)).
+- Después: evaluación de riesgo genético y pruebas de biomarcadores; estadificación patológica (ver [8.5](#85-tratamiento-adyuvante-del-estadio-i-ov-4) y [8.6](#86-estadios-iiiv-quimioterapia-primaria-y-evaluación-de-la-respuesta-ov-4)).
 
 **Fundamento**
 
@@ -849,16 +949,16 @@
     - confirmación histológica, con biopsia preferida; si no es factible, citología de ascitis o de derrame pleural con cociente entre antígeno de cáncer 125 (CA-125) y antígeno carcinoembrionario (CEA) >25;
     - y/o evaluación laparoscópica de la factibilidad de la resección.
 - Mala candidata quirúrgica o baja probabilidad de citorreducción óptima confirmadas → neoadyuvancia (categoría 1) y evaluación de riesgo genético con pruebas germinales y somáticas de biomarcadores, si no se hicieron.
-- Esquemas: cualquiera de los esquemas intravenosos primarios de los estadios II–IV del seroso de alto grado (ver 11.3). Bevacizumab con precaución: suspenderlo 4–6 semanas antes de la cirugía.
+- Esquemas: cualquiera de los esquemas intravenosos primarios de los estadios II–IV del seroso de alto grado (ver [11.3](#113-neoadyuvancia-ov-d-2-de-12)). Bevacizumab con precaución: suspenderlo 4–6 semanas antes de la cirugía.
 - Cirugía citorreductora de intervalo (CCI) tras 3–4 ciclos (preferido); puede hacerse tras 4–6 ciclos según el criterio de ginecología oncológica.
 - Según la respuesta:
-    - respuesta → CCI con histerectomía y salpingooforectomía bilateral (SOB) de compleción, estadificación y citorreducción; considerar quimioterapia intraperitoneal hipertérmica (HIPEC) con cisplatino → tratamiento adyuvante → mantenimiento (ver 8.7);
-    - enfermedad estable → CCI (considerar HIPEC); o continuar el tratamiento actual hasta un total de al menos 6 ciclos y después CCI (considerar HIPEC) o tratamiento de enfermedad persistente o recurrente; o tratamiento de enfermedad persistente o recurrente (ver 8.9); tras la CCI → tratamiento adyuvante → mantenimiento;
-    - progresión → tratamiento de enfermedad persistente o recurrente (ver 8.9);
-    - LCOC → algoritmos LCOC (ver 9).
+    - respuesta → CCI con histerectomía y salpingooforectomía bilateral (SOB) de compleción, estadificación y citorreducción; considerar quimioterapia intraperitoneal hipertérmica (HIPEC) con cisplatino → tratamiento adyuvante → mantenimiento (ver [8.7](#87-mantenimiento-tras-el-tratamiento-primario-en-estadios-iiiv-ov-5));
+    - enfermedad estable → CCI (considerar HIPEC); o continuar el tratamiento actual hasta un total de al menos 6 ciclos y después CCI (considerar HIPEC) o tratamiento de enfermedad persistente o recurrente; o tratamiento de enfermedad persistente o recurrente (ver [8.9](#89-enfermedad-persistente-o-recurrencia-resistente-a-platino-ov-7)); tras la CCI → tratamiento adyuvante → mantenimiento;
+    - progresión → tratamiento de enfermedad persistente o recurrente (ver [8.9](#89-enfermedad-persistente-o-recurrencia-resistente-a-platino-ov-7));
+    - LCOC → algoritmos LCOC (ver [9](#9-cánceres-de-ovario-menos-comunes-lcoc)).
 - Total mínimo: 6 ciclos, con al menos 3 ciclos adyuvantes tras la cirugía; las pacientes con enfermedad estable que toleran el tratamiento pueden seguir más allá de 6 ciclos.
 - La neoadyuvancia no se aplica a tumores de bajo potencial maligno (BPM) ni a otros cánceres no invasores.
-- Técnica de la CCI y de la HIPEC: ver 10.4 y 10.5.
+- Técnica de la CCI y de la HIPEC: ver [10.4](#104-cirugía-citorreductora-de-intervalo-tras-neoadyuvancia) y [10.5](#105-quimioterapia-intraperitoneal-hipertérmica-hipec-en-la-cirugía-de-intervalo).
 
 **Fundamento**
 
@@ -875,11 +975,11 @@
 
 **Conducta**
 
-- Estudio: ver 5.6. Según los hallazgos:
-    - sin enfermedad residual en el estudio (sospecha de estadio I) → considerar estadificación quirúrgica, si no se hizo, cuando se contempla la observación o para decidir el tratamiento sistémico → tratamiento adyuvante (ver 8.5);
-    - sin enfermedad residual (sospecha de estadios II–IV) → considerar estadificación quirúrgica, si no se hizo, para decidir el tratamiento sistémico → tratamiento adyuvante (ver 8.6);
+- Estudio: ver [5.6](#56-estudio-de-la-paciente-diagnosticada-en-una-cirugía-previa-ov-3). Según los hallazgos:
+    - sin enfermedad residual en el estudio (sospecha de estadio I) → considerar estadificación quirúrgica, si no se hizo, cuando se contempla la observación o para decidir el tratamiento sistémico → tratamiento adyuvante (ver [8.5](#85-tratamiento-adyuvante-del-estadio-i-ov-4));
+    - sin enfermedad residual (sospecha de estadios II–IV) → considerar estadificación quirúrgica, si no se hizo, para decidir el tratamiento sistémico → tratamiento adyuvante (ver [8.6](#86-estadios-iiiv-quimioterapia-primaria-y-evaluación-de-la-respuesta-ov-4));
     - enfermedad residual que se sospecha resecable → cirugía citorreductora → tratamiento adyuvante;
-    - enfermedad residual que se sospecha irresecable → neoadyuvancia (ver 8.3), que no se aplica a tumores de bajo potencial maligno (BPM) ni a otros no invasores.
+    - enfermedad residual que se sospecha irresecable → neoadyuvancia (ver [8.3](#83-mala-candidata-quirúrgica-o-baja-probabilidad-de-citorreducción-óptima-neoadyuvancia-ov-2)), que no se aplica a tumores de bajo potencial maligno (BPM) ni a otros no invasores.
 - Incluye a pacientes con LCOC derivadas tras un procedimiento quirúrgico reciente.
 
 **Fundamento**
@@ -891,7 +991,7 @@
 
 **Conducta**
 
-- Estadio IA o IB, endometrioide de grado 2: observación o quimioterapia intravenosa basada en platino (esquemas primarios del estadio I; ver 11.4).
+- Estadio IA o IB, endometrioide de grado 2: observación o quimioterapia intravenosa basada en platino (esquemas primarios del estadio I; ver [11.4](#114-tratamiento-primario-del-estadio-i-ov-d-5-de-12)).
 - Estadio IA o IB, endometrioide de grado 3 o seroso de alto grado: quimioterapia intravenosa basada en platino.
 - Estadio IC (seroso de alto grado o endometrioide de grado 2 o 3): quimioterapia intravenosa basada en platino.
 - Número de ciclos: 6 en el seroso de alto grado; 3–6 en los demás tipos.
@@ -899,31 +999,31 @@
     - cada 1–3 ciclos: exploración física y considerar la exploración pélvica;
     - según indicación: hemograma completo y perfil bioquímico intermedios;
     - CA-125 u otros marcadores antes de cada ciclo, según indicación clínica;
-    - imagen según indicación clínica (ver 5.3).
-- Después: tratamiento sintomático y mejor tratamiento de soporte (termómetro de distrés); evaluar cuidados paliativos si procede; guía de supervivencia de la National Comprehensive Cancer Network (NCCN); seguimiento (ver 13.1).
-- Seroso de alto grado: la terapia de reemplazo hormonal (TRH) puede considerarse para el manejo de síntomas tras valorar los factores individuales (ver 10.13).
+    - imagen según indicación clínica (ver [5.3](#53-imagen-inicial-y-de-respuesta-ov-a)).
+- Después: tratamiento sintomático y mejor tratamiento de soporte (termómetro de distrés); evaluar cuidados paliativos si procede; guía de supervivencia de la National Comprehensive Cancer Network (NCCN); seguimiento (ver [13.1](#131-seguimiento-del-carcinoma-epitelial-tras-el-tratamiento-primario-ov-6)).
+- Seroso de alto grado: la terapia de reemplazo hormonal (TRH) puede considerarse para el manejo de síntomas tras valorar los factores individuales (ver [10.13](#1013-soporte-posoperatorio-menopausia-quirúrgica-y-terapia-de-reemplazo-hormonal)).
 - La quimioterapia por vía intraperitoneal e intravenosa (IP/IV) y el bevacizumab no se recomiendan en el estadio I.
-- Endometrioide de grado 1 en cualquier estadio y resto de LCOC: ver 9.
+- Endometrioide de grado 1 en cualquier estadio y resto de LCOC: ver [9](#9-cánceres-de-ovario-menos-comunes-lcoc).
 
 **Fundamento**
 
 - Los datos son limitados en el estadio I: la mayoría de los ensayos incluyó estadios III–IV y solo algunos estadios I–II; por eso la lista de esquemas del estadio I es más corta.
 - El paclitaxel/carboplatino semanal es logísticamente más difícil de administrar y a menudo no se usa en el estadio I.
 - No hay datos de que >6 ciclos de combinación sean necesarios en la quimioterapia inicial; prolongar el tratamiento probablemente no añade beneficio y aumenta los efectos adversos (neurotoxicidad, granulocitopenia y anemia).
-- En enfermedad de bajo riesgo con estadificación completa, la quimioterapia adyuvante no ha demostrado beneficio claro frente a la observación (ver 6.4).
+- En enfermedad de bajo riesgo con estadificación completa, la quimioterapia adyuvante no ha demostrado beneficio claro frente a la observación (ver [6.4](#64-estratificación-del-riesgo-para-decidir-el-tratamiento)).
 
 ### 8.6 Estadios II–IV: quimioterapia primaria y evaluación de la respuesta (OV-4)
 
 **Conducta**
 
-- Quimioterapia basada en platino con los esquemas primarios de los estadios II–IV (ver 11.5): preferidos carboplatino/paclitaxel cada 3 semanas o carboplatino/paclitaxel + bevacizumab (ICON-7 o GOG-218).
+- Quimioterapia basada en platino con los esquemas primarios de los estadios II–IV (ver [11.5](#115-tratamiento-primario-de-los-estadios-iiiv-o-de-la-recurrencia-no-tratada-previamente-ov-d-6-de-12)): preferidos carboplatino/paclitaxel cada 3 semanas o carboplatino/paclitaxel + bevacizumab (ICON-7 o GOG-218).
 - 6 ciclos.
 - Vigilancia durante la quimioterapia: igual que en 8.5.
 - Tratamiento sintomático, mejor tratamiento de soporte y cuidados paliativos si procede; guía de supervivencia.
 - Al terminar: imagen según indicación clínica para evaluar la respuesta.
-    - Respuesta completa (RC; sin evidencia definitiva de enfermedad) o respuesta parcial (RP) → mantenimiento (ver 8.7).
-    - Enfermedad estable o progresión → tratamiento de enfermedad persistente o recurrente (ver 8.9).
-- Opciones de quimioterapia por vía intraperitoneal e intravenosa (IP/IV) en estadios II–III con citorreducción óptima: ver 11.5.
+    - Respuesta completa (RC; sin evidencia definitiva de enfermedad) o respuesta parcial (RP) → mantenimiento (ver [8.7](#87-mantenimiento-tras-el-tratamiento-primario-en-estadios-iiiv-ov-5)).
+    - Enfermedad estable o progresión → tratamiento de enfermedad persistente o recurrente (ver [8.9](#89-enfermedad-persistente-o-recurrencia-resistente-a-platino-ov-7)).
+- Opciones de quimioterapia por vía intraperitoneal e intravenosa (IP/IV) en estadios II–III con citorreducción óptima: ver [11.5](#115-tratamiento-primario-de-los-estadios-iiiv-o-de-la-recurrencia-no-tratada-previamente-ov-d-6-de-12).
 
 **Fundamento**
 
@@ -956,16 +1056,16 @@
 
 **Conducta: BRCA1/2 no mutado o desconocido, con competencia de recombinación homóloga (HRP) o estado de recombinación homóloga desconocido**
 
-- Sin bevacizumab en la quimioterapia primaria: observación si hay respuesta completa (RC); o tratamiento de enfermedad persistente o recurrente (ver 8.9).
+- Sin bevacizumab en la quimioterapia primaria: observación si hay respuesta completa (RC); o tratamiento de enfermedad persistente o recurrente (ver [8.9](#89-enfermedad-persistente-o-recurrencia-resistente-a-platino-ov-7)).
 - Con bevacizumab en la quimioterapia primaria: bevacizumab.
 
-**Conducta: duración y vigilancia (dosis: ver 11.6)**
+**Conducta: duración y vigilancia (dosis: ver [11.6](#116-mantenimiento-con-inhibidores-de-la-poli-adp-ribosa-polimerasa-parp-y-bevacizumab-dosis-y-duración-ov-d-3-de-12))**
 
 - Olaparib y rucaparib: hasta 2 años; niraparib: hasta 36 meses; en los estudios, el tratamiento continuó si no había respuesta completa (RC) a los 2 años (olaparib, rucaparib) o a los 3 años (niraparib).
 - Combinaciones: olaparib hasta 2 años o niraparib hasta 3 años; bevacizumab hasta 15 meses en total (incluida la quimioterapia).
 - Suspender si hay progresión o toxicidad inaceptable.
 - Vigilancia estrecha del hemograma; función renal y hepática; presión arterial obligatoria con niraparib y recomendada con los demás inhibidores de la poli-ADP-ribosa polimerasa (iPARP); interrupciones y ajustes de dosis según la toxicidad.
-- Después: seguimiento (ver 13.1).
+- Después: seguimiento (ver [13.1](#131-seguimiento-del-carcinoma-epitelial-tras-el-tratamiento-primario-ov-6)).
 
 **Fundamento**
 
@@ -991,9 +1091,9 @@
 
 **Conducta**
 
-- Seguimiento sin tratamiento: ver 13.1.
-- CA-125 en ascenso sin quimioterapia previa, o recaída clínica sin quimioterapia previa → imagen según indicación clínica y pruebas tumorales de biomarcadores, si no se hicieron → tratamiento primario (ver 8.1–8.3).
-- Recaída clínica con quimioterapia previa → imagen y pruebas de biomarcadores → tratamiento de enfermedad persistente o recurrente (ver 8.9 y 8.10).
+- Seguimiento sin tratamiento: ver [13.1](#131-seguimiento-del-carcinoma-epitelial-tras-el-tratamiento-primario-ov-6).
+- CA-125 en ascenso sin quimioterapia previa, o recaída clínica sin quimioterapia previa → imagen según indicación clínica y pruebas tumorales de biomarcadores, si no se hicieron → tratamiento primario (ver [8.1](#81-estadio-clínico-ia-o-ib-con-deseo-de-fertilidad-ov-1)–[8.3](#83-mala-candidata-quirúrgica-o-baja-probabilidad-de-citorreducción-óptima-neoadyuvancia-ov-2)).
+- Recaída clínica con quimioterapia previa → imagen y pruebas de biomarcadores → tratamiento de enfermedad persistente o recurrente (ver [8.9](#89-enfermedad-persistente-o-recurrencia-resistente-a-platino-ov-7) y [8.10](#810-recurrencia-sensible-a-platino-ov-8)).
 - CA-125 en ascenso seriado con quimioterapia previa → imagen y pruebas de biomarcadores → retrasar el tratamiento hasta la recaída clínica o tratamiento inmediato de la recurrencia (categoría 2B).
 - En toda recurrencia: tratamiento sintomático, mejor tratamiento de soporte y evaluación por cuidados paliativos si procede.
 
@@ -1012,11 +1112,11 @@
     - progresión durante el tratamiento primario, de mantenimiento o de recurrencia;
     - enfermedad estable o persistente (si no recibe mantenimiento);
     - o remisión completa y recaída <6 meses después de terminar la quimioterapia.
-- Pruebas tumorales de biomarcadores antes de iniciar el tratamiento, si no se hicieron (ver 3.6); considerar la evaluación de riesgo genético.
-- Mejor tratamiento de soporte y/o tratamiento de la recurrencia (esquemas: ver 11.8).
+- Pruebas tumorales de biomarcadores antes de iniciar el tratamiento, si no se hicieron (ver [3.6](#36-biomarcadores-cuándo-y-cuáles-solicitar-ov-c)); considerar la evaluación de riesgo genético.
+- Mejor tratamiento de soporte y/o tratamiento de la recurrencia (esquemas: ver [11.8](#118-recurrencia-resistente-a-platino-ov-d-9-de-12)).
 - La reexposición a platino en general no se recomienda si la enfermedad creció durante un esquema con platino.
 - Radioterapia (RT) localizada: para paliar síntomas o en enfermedad oligometastásica.
-- Procedimientos quirúrgicos paliativos en pacientes seleccionadas (ver 10.10).
+- Procedimientos quirúrgicos paliativos en pacientes seleccionadas (ver [10.10](#1010-procedimientos-quirúrgicos-paliativos-auxiliares)).
 - Durante y después del tratamiento: marcadores y repetición de la imagen con las modalidades previas para documentar la respuesta.
 - Paciente sin respuesta que progresa con dos esquemas consecutivos sin beneficio clínico: menor probabilidad de beneficio de más tratamiento; decidir de forma individual entre ensayo clínico, tratamiento de soporte o más tratamiento.
 - LCOC: datos limitados del tratamiento primario y de mantenimiento en la enfermedad recurrente o persistente.
@@ -1035,8 +1135,8 @@
 - Definición: remisión completa y recaída ≥6 meses después de terminar la quimioterapia previa.
 - Pruebas tumorales de biomarcadores si no se hicieron.
 - Recaída radiológica y/o clínica:
-    - considerar citorreducción secundaria (criterios: ver 10.9);
-    - quimioterapia combinada basada en platino, preferida en la primera recurrencia (categoría 1); u otro tratamiento de la recurrencia (esquemas: ver 11.7); y/o mejor tratamiento de soporte;
+    - considerar citorreducción secundaria (criterios: ver [10.9](#109-citorreducción-secundaria));
+    - quimioterapia combinada basada en platino, preferida en la primera recurrencia (categoría 1); u otro tratamiento de la recurrencia (esquemas: ver [11.7](#117-recurrencia-sensible-a-platino-ov-d-8-de-12)); y/o mejor tratamiento de soporte;
     - radioterapia (RT) localizada para paliar síntomas o en enfermedad oligometastásica.
 - Recaída bioquímica (CA-125 en ascenso sin enfermedad radiológica):
     - retrasar el tratamiento hasta la recaída radiológica o clínica;
@@ -1051,18 +1151,18 @@
     - precaución si el mantenimiento con iPARP supera 24 meses;
     - datos limitados en pacientes que ya recibieron un iPARP;
     - la combinación de iPARP + bevacizumab no se recomienda como mantenimiento tras el tratamiento de la recurrencia.
-- Después: seguimiento (ver 13.1).
+- Después: seguimiento (ver [13.1](#131-seguimiento-del-carcinoma-epitelial-tras-el-tratamiento-primario-ov-6)).
 
 **Fundamento**
 
 - Con base en ensayos aleatorizados, el Panel recomienda combinaciones basadas en platino en la enfermedad sensible, sobre todo en las primeras recaídas.
 - Citorreducción secundaria: puede considerarse tras intervalos libres de enfermedad largos (≥6 meses); un metaanálisis sugiere que la citorreducción completa aumenta la supervivencia; la duración del intervalo no está establecida, pero el Panel acordó ≥6 meses.
-- Mantenimiento con bevacizumab: en un ensayo multicéntrico aleatorizado de fase 3 en pacientes libres de enfermedad >6 meses tras el último platino, añadir bevacizumab a la quimioterapia y mantenerlo hasta la progresión mejoró la mediana de supervivencia global (SG); otro fase 3 (carboplatino/doxorrubicina liposomal/bevacizumab frente a carboplatino/gemcitabina/bevacizumab, ambos con mantenimiento) mostró mejor supervivencia libre de progresión (SLP) con la doxorrubicina liposomal y tasas similares de efectos adversos graves (ver 11.7).
+- Mantenimiento con bevacizumab: en un ensayo multicéntrico aleatorizado de fase 3 en pacientes libres de enfermedad >6 meses tras el último platino, añadir bevacizumab a la quimioterapia y mantenerlo hasta la progresión mejoró la mediana de supervivencia global (SG); otro fase 3 (carboplatino/doxorrubicina liposomal/bevacizumab frente a carboplatino/gemcitabina/bevacizumab, ambos con mantenimiento) mostró mejor supervivencia libre de progresión (SLP) con la doxorrubicina liposomal y tasas similares de efectos adversos graves (ver [11.7](#117-recurrencia-sensible-a-platino-ov-d-8-de-12)).
 - Inhibidor de la poli-ADP-ribosa polimerasa (iPARP) de segunda línea:
     - en 2017 la FDA aprobó niraparib y olaparib como mantenimiento tras respuesta a platino en la recurrencia sensible (NOVA, SOLO-2 y Study 19), y en 2018 el rucaparib;
     - análisis retrospectivos no mostraron mejora significativa de la SG y plantearon un posible efecto negativo en BRCA no mutado; la FDA pidió restringir voluntariamente las indicaciones a los tumores con BRCA mutado;
     - estos esquemas mejoran significativamente los resultados en BRCA mutado sin iPARP previo; quienes más se benefician probablemente son las pacientes que los reciben en primera línea, pero las portadoras de BRCA sin iPARP previo con respuesta a platino en la recurrencia deben recibir iPARP de mantenimiento.
-- Riesgo de síndrome mielodisplásico (SMD) y leucemia mieloide aguda (LMA): un metaanálisis de 28 ensayos aleatorizados mostró más neoplasias hematológicas con el uso prolongado de inhibidor de la poli-ADP-ribosa polimerasa (iPARP); en PAOLA-1 a 5 años las tasas de SMD, LMA, anemia aplásica y nuevas neoplasias fueron bajas y similares entre brazos (más pacientes del brazo placebo recibió iPARP posteriores); las portadoras de BRCA con exposición ≥2 años tienen más riesgo. Por eso el Panel pide precaución con el mantenimiento >24 meses, sobre todo tras la recurrencia (ver 11.12).
+- Riesgo de síndrome mielodisplásico (SMD) y leucemia mieloide aguda (LMA): un metaanálisis de 28 ensayos aleatorizados mostró más neoplasias hematológicas con el uso prolongado de inhibidor de la poli-ADP-ribosa polimerasa (iPARP); en PAOLA-1 a 5 años las tasas de SMD, LMA, anemia aplásica y nuevas neoplasias fueron bajas y similares entre brazos (más pacientes del brazo placebo recibió iPARP posteriores); las portadoras de BRCA con exposición ≥2 años tienen más riesgo. Por eso el Panel pide precaución con el mantenimiento >24 meses, sobre todo tras la recurrencia (ver [11.12](#1112-seguridad-y-consideraciones-de-administración)).
 
 ---
 
@@ -1073,14 +1173,14 @@
 **Conducta**
 
 - Diagnóstico por cirugía e histología (la mayoría se diagnostica después de la cirugía); clasificar según la Organización Mundial de la Salud (OMS); considerar confirmación por patología ginecológica oncológica o segunda opinión.
-- Estudio: igual que el del carcinoma epitelial (ver 5.1), añadiendo los marcadores que orientan la histología: antígeno de cáncer 125 (CA-125), inhibina, fracción beta de la gonadotropina coriónica humana (β-hCG), alfafetoproteína (AFP), antígeno carbohidrato 19-9 (CA 19-9) y antígeno carcinoembrionario (CEA). Menores de 35 años con masa pélvica: AFP y descartar embarazo. Histología mucinosa: evaluación gastrointestinal.
-- Si no se hizo: considerar estadificación quirúrgica y resección de la enfermedad residual (ver 8.4) y pruebas germinales y somáticas de biomarcadores.
+- Estudio: igual que el del carcinoma epitelial (ver [5.1](#51-estudio-inicial-ante-sospecha-clínica-ov-1)), añadiendo los marcadores que orientan la histología: antígeno de cáncer 125 (CA-125), inhibina, fracción beta de la gonadotropina coriónica humana (β-hCG), alfafetoproteína (AFP), antígeno carbohidrato 19-9 (CA 19-9) y antígeno carcinoembrionario (CEA). Menores de 35 años con masa pélvica: AFP y descartar embarazo. Histología mucinosa: evaluación gastrointestinal.
+- Si no se hizo: considerar estadificación quirúrgica y resección de la enfermedad residual (ver [8.4](#84-diagnóstico-por-cirugía-o-biopsia-previa-hallazgos-y-tratamiento-primario-ov-3)) y pruebas germinales y somáticas de biomarcadores.
 - Considerar pruebas tumorales de biomarcadores: pueden orientar el tratamiento y el reclutamiento en ensayos; los paneles multigénicos son especialmente útiles.
 - Cirugía:
     - candidatas a cirugía con preservación de fertilidad (a menudo laparoscópica) si es técnicamente factible y la biopsia intraoperatoria por congelación indica tumor aparentemente temprano o de bajo riesgo;
     - sin deseo de fertilidad, o tumor de los cordones sexuales y del estroma o tumor mülleriano mixto maligno (MMMT) en estadio clínico II–IV: estadificación quirúrgica integral como en el seroso de alto grado;
     - la cirugía inicial depende del diagnóstico histológico específico.
-- Algoritmo por histología: carcinosarcoma (9.2), células claras (9.3), mucinoso (9.4), carcinoma de células pequeñas del ovario de tipo hipercalcémico (SCCOHT; 9.5), endometrioide de grado 1 (9.6), seroso de bajo grado (9.7), limítrofe seroso (9.8), cordones sexuales y estroma (9.9), germinales (9.10).
+- Algoritmo por histología: carcinosarcoma ([9.2](#92-carcinosarcoma-o-tumor-mülleriano-mixto-maligno-mmmt-lcoc-2)), células claras ([9.3](#93-carcinoma-de-células-claras-lcoc-3)), mucinoso ([9.4](#94-neoplasias-mucinosas-lcoc-4)), carcinoma de células pequeñas del ovario de tipo hipercalcémico (SCCOHT; [9.5](#95-carcinoma-de-células-pequeñas-de-tipo-hipercalcémico-sccoht-lcoc-5-lcoc-5a)), endometrioide de grado 1 ([9.6](#96-carcinoma-endometrioide-de-grado-1-lcoc-6)), seroso de bajo grado ([9.7](#97-carcinoma-seroso-de-bajo-grado-lcoc-7-lcoc-8)), limítrofe seroso ([9.8](#98-tumores-epiteliales-limítrofes-serosos-de-bajo-potencial-maligno-lcoc-9-lcoc-10-lcoc-11)), cordones sexuales y estroma ([9.9](#99-tumores-malignos-de-los-cordones-sexuales-y-del-estroma-lcoc-12-lcoc-a)), germinales ([9.10](#910-tumores-malignos-de-células-germinales-lcoc-13-lcoc-14-lcoc-15-lcoc-a)).
 
 **Fundamento**
 
@@ -1095,9 +1195,9 @@
 - Sin cirugía con preservación de fertilidad, a cualquier edad y en cualquier estadio; citorreducción óptima.
 - Tratamiento adyuvante en todos los estadios:
     - carboplatino/paclitaxel intravenoso cada 3 semanas (preferido);
-    - u otro tratamiento sistémico: estadio I (OV-D 5 de 12) o estadios II–IV (OV-D 6 de 12), incluidos carboplatino/ifosfamida, cisplatino/ifosfamida/mesna o ifosfamida/mesna/paclitaxel (categoría 2B), útiles en ciertas circunstancias (ver 11.4 y 11.5).
-- Estadios II–IV con mutación conocida de BRCA1/2 (genes de susceptibilidad al cáncer de mama 1 y 2): considerar mantenimiento (ver 8.7).
-- Seguimiento, con pruebas tumorales de biomarcadores, y tratamiento de la recurrencia: igual que en el seroso de alto grado (ver 8.8–8.10 y 13.1).
+    - u otro tratamiento sistémico: estadio I (OV-D 5 de 12) o estadios II–IV (OV-D 6 de 12), incluidos carboplatino/ifosfamida, cisplatino/ifosfamida/mesna o ifosfamida/mesna/paclitaxel (categoría 2B), útiles en ciertas circunstancias (ver [11.4](#114-tratamiento-primario-del-estadio-i-ov-d-5-de-12) y [11.5](#115-tratamiento-primario-de-los-estadios-iiiv-o-de-la-recurrencia-no-tratada-previamente-ov-d-6-de-12)).
+- Estadios II–IV con mutación conocida de BRCA1/2 (genes de susceptibilidad al cáncer de mama 1 y 2): considerar mantenimiento (ver [8.7](#87-mantenimiento-tras-el-tratamiento-primario-en-estadios-iiiv-ov-5)).
+- Seguimiento, con pruebas tumorales de biomarcadores, y tratamiento de la recurrencia: igual que en el seroso de alto grado (ver [8.8](#88-recurrencia-detectada-durante-el-seguimiento-ov-6)–[8.10](#810-recurrencia-sensible-a-platino-ov-8) y [13.1](#131-seguimiento-del-carcinoma-epitelial-tras-el-tratamiento-primario-ov-6)).
 
 **Fundamento**
 
@@ -1111,8 +1211,8 @@
 
 - Estadios IA, IB e IC1: quimioterapia intravenosa basada en platino (esquemas del estadio I) u observación.
 - Estadios IC2–IC3: quimioterapia intravenosa basada en platino (esquemas del estadio I).
-- Estadios II–IV: tratamiento sistémico (esquemas de los estadios II–IV; ver 11.5); con mutación conocida de BRCA1/2, considerar mantenimiento (ver 8.7).
-- Seguimiento, con pruebas tumorales de biomarcadores, y tratamiento de la recurrencia como en el seroso de alto grado. Opciones específicas de la recurrencia (ver 11.7 y 11.9):
+- Estadios II–IV: tratamiento sistémico (esquemas de los estadios II–IV; ver [11.5](#115-tratamiento-primario-de-los-estadios-iiiv-o-de-la-recurrencia-no-tratada-previamente-ov-d-6-de-12)); con mutación conocida de BRCA1/2, considerar mantenimiento (ver [8.7](#87-mantenimiento-tras-el-tratamiento-primario-en-estadios-iiiv-ov-5)).
+- Seguimiento, con pruebas tumorales de biomarcadores, y tratamiento de la recurrencia como en el seroso de alto grado. Opciones específicas de la recurrencia (ver [11.7](#117-recurrencia-sensible-a-platino-ov-d-8-de-12) y [11.9](#119-terapia-dirigida-por-biomarcadores-e-inmunoterapia)):
     - sensible a platino: irinotecán/cisplatino (útil en ciertas circunstancias);
     - resistente a platino: ipilimumab + nivolumab (útil en ciertas circunstancias).
 - Cirugía: según la discusión, la cirugía con preservación de fertilidad no se recomienda en estadios IA–IC, y la linfadenectomía mejora la supervivencia. El algoritmo general (OV-1) admite la salpingooforectomía unilateral (SOU) o la salpingooforectomía bilateral (SOB) en pacientes seleccionadas con estadio IC "según la histología".
@@ -1148,7 +1248,7 @@
     - IC infiltrativo: tratamiento sistémico (esquemas del estadio I);
     - II–IV: tratamiento sistémico (esquemas de los estadios II–IV);
     - tumor limítrofe: observación.
-- Esquemas preferidos (ver 11.4 y 11.5):
+- Esquemas preferidos (ver [11.4](#114-tratamiento-primario-del-estadio-i-ov-d-5-de-12) y [11.5](#115-tratamiento-primario-de-los-estadios-iiiv-o-de-la-recurrencia-no-tratada-previamente-ov-d-6-de-12)):
     - estadio I: capecitabina/oxaliplatino, carboplatino/paclitaxel cada 3 semanas o fluorouracilo/leucovorina/oxaliplatino;
     - estadios II–IV: fluorouracilo/leucovorina/oxaliplatino o capecitabina/oxaliplatino, ambos ± bevacizumab (categoría 2B para el bevacizumab); carboplatino/paclitaxel cada 3 semanas; o carboplatino/paclitaxel + bevacizumab (ICON-7 y GOG-218).
 - Cirugía:
@@ -1187,7 +1287,7 @@
     - ensayo clínico (preferido);
     - o tratamiento de la recurrencia (preferidos): pembrolizumab; ipilimumab + nivolumab; paclitaxel + bevacizumab (por su actividad en el carcinoma epitelial recaído y porque los esquemas primarios no incluyen taxano);
     - o mejor tratamiento de soporte.
-- Imagen de seguimiento: tomografía por emisión de positrones acoplada a tomografía computarizada (PET/TC; de la base del cráneo a la mitad del muslo) cada 3–6 meses durante 2 años y después anual (ver 13.3).
+- Imagen de seguimiento: tomografía por emisión de positrones acoplada a tomografía computarizada (PET/TC; de la base del cráneo a la mitad del muslo) cada 3–6 meses durante 2 años y después anual (ver [13.3](#133-seguimiento-de-los-cánceres-de-ovario-menos-comunes)).
 
 **Fundamento**
 
@@ -1210,14 +1310,14 @@
     - quimioterapia (esquemas de los estadios II–IV) seguida de observación, letrozol de mantenimiento (categoría 2B) u otra hormonoterapia (categoría 2B);
     - u hormonoterapia (categoría 2B).
 - Otras hormonoterapias: inhibidores de la aromatasa (anastrozol, exemestano), acetato de leuprolida, acetato de goserelina y tamoxifeno.
-- Seguimiento, con pruebas tumorales de biomarcadores, y tratamiento de la recurrencia como en el seroso de alto grado (ver 13.1).
-- Evitar la terapia de reemplazo hormonal (TRH; tumor hormonosensible; ver 10.13).
+- Seguimiento, con pruebas tumorales de biomarcadores, y tratamiento de la recurrencia como en el seroso de alto grado (ver [13.1](#131-seguimiento-del-carcinoma-epitelial-tras-el-tratamiento-primario-ov-6)).
+- Evitar la terapia de reemplazo hormonal (TRH; tumor hormonosensible; ver [10.13](#1013-soporte-posoperatorio-menopausia-quirúrgica-y-terapia-de-reemplazo-hormonal)).
 
 **Fundamento**
 
-- Las opciones del tratamiento primario y de la recurrencia son similares a las del seroso de bajo grado (ver 9.7).
+- Las opciones del tratamiento primario y de la recurrencia son similares a las del seroso de bajo grado (ver [9.7](#97-carcinoma-seroso-de-bajo-grado-lcoc-7-lcoc-8)).
 - En el endometrioide de grado 1, el letrozol de mantenimiento es categoría 2B (en el seroso de bajo grado es 2A).
-- Esquemas del estadio IC y de los estadios II–IV: ver 11.4 y 11.5.
+- Esquemas del estadio IC y de los estadios II–IV: ver [11.4](#114-tratamiento-primario-del-estadio-i-ov-d-5-de-12) y [11.5](#115-tratamiento-primario-de-los-estadios-iiiv-o-de-la-recurrencia-no-tratada-previamente-ov-d-6-de-12).
 
 ### 9.7 Carcinoma seroso de bajo grado (LCOC-7, LCOC-8)
 
@@ -1232,20 +1332,20 @@
     - quimioterapia (esquemas de los estadios II–IV) seguida de letrozol de mantenimiento u otra hormonoterapia (categoría 2B);
     - u hormonoterapia (categoría 2B).
 - Otras hormonoterapias: inhibidores de la aromatasa (anastrozol, exemestano), acetato de leuprolida y acetato de goserelina. El tamoxifeno no se recomienda en el seroso de bajo grado.
-- El tumor limítrofe con implantes invasores puede tratarse como seroso de bajo grado (ver 9.8).
+- El tumor limítrofe con implantes invasores puede tratarse como seroso de bajo grado (ver [9.8](#98-tumores-epiteliales-limítrofes-serosos-de-bajo-potencial-maligno-lcoc-9-lcoc-10-lcoc-11)).
 - Neoadyuvancia: menos favorecida por la baja quimiosensibilidad.
 
 **Conducta: seguimiento y recurrencia (LCOC-8)**
 
-- Seguimiento: visitas cada 2–4 meses durante 2 años, cada 3–6 meses durante 3 años y anuales después de 5 años (resto: ver 13.3).
+- Seguimiento: visitas cada 2–4 meses durante 2 años, cada 3–6 meses durante 3 años y anuales después de 5 años (resto: ver [13.3](#133-seguimiento-de-los-cánceres-de-ovario-menos-comunes)).
 - Recurrencia:
     - hormonoterapia: inhibidor de la aromatasa (letrozol, anastrozol, exemestano) preferido si no se usó; fulvestrant, acetato de leuprolida o acetato de goserelina si ya se usó un inhibidor de la aromatasa;
     - o quimioterapia (si no se usó antes; esquemas de los estadios II–IV);
-    - o tratamiento sistémico según la sensibilidad a platino (ver 11.7 y 11.8), incluidos los inhibidores de MEK (cinasa de la proteína cinasa activada por mitógenos): avutometinib/defactinib (tumores con KRAS mutado), trametinib y binimetinib (categoría 2B); y fulvestrant;
+    - o tratamiento sistémico según la sensibilidad a platino (ver [11.7](#117-recurrencia-sensible-a-platino-ov-d-8-de-12) y [11.8](#118-recurrencia-resistente-a-platino-ov-d-9-de-12)), incluidos los inhibidores de MEK (cinasa de la proteína cinasa activada por mitógenos): avutometinib/defactinib (tumores con KRAS mutado), trametinib y binimetinib (categoría 2B); y fulvestrant;
     - u observación.
 - Considerar citorreducción secundaria si el intervalo libre de enfermedad es largo, si hay masas aisladas en vez de carcinomatosis difusa en la imagen y/o si hay obstrucción intestinal.
 - No hay una secuencia estándar: considerar tratamientos previos, carga tumoral, perfil molecular, eficacia relativa y toxicidad relativa.
-- Mantenimiento tras platino en la recurrencia: datos limitados (ver 8.10 para opciones y criterios).
+- Mantenimiento tras platino en la recurrencia: datos limitados (ver [8.10](#810-recurrencia-sensible-a-platino-ov-8) para opciones y criterios).
 
 **Fundamento**
 
@@ -1266,18 +1366,18 @@
 - Evaluación estándar por ginecología oncológica.
 - Resección quirúrgica previa completa:
     - sin carcinoma seroso de bajo grado → observación → seguimiento;
-    - con carcinoma seroso de bajo grado (implantes invasores) → opciones adyuvantes del seroso de bajo grado (ver 9.7).
-- Resección previa incompleta (estadificación incompleta o cirugía de reducción tumoral) → imagen, si no se hizo (ver 5.3):
+    - con carcinoma seroso de bajo grado (implantes invasores) → opciones adyuvantes del seroso de bajo grado (ver [9.7](#97-carcinoma-seroso-de-bajo-grado-lcoc-7-lcoc-8)).
+- Resección previa incompleta (estadificación incompleta o cirugía de reducción tumoral) → imagen, si no se hizo (ver [5.3](#53-imagen-inicial-y-de-respuesta-ov-a)):
     - enfermedad residual sospechada tras el primer procedimiento y/o en la imagen:
         - cirugía de compleción (salpingooforectomía unilateral [SOU] contralateral, histerectomía) con resección de la enfermedad residual;
         - o cirugía con preservación de fertilidad, si se desea, con resección de la enfermedad residual;
         - o considerar no intervenir en pacientes seleccionadas (médicamente no aptas o con enfermedad residual irresecable);
-    - patología final: limítrofe → seguimiento; seroso de bajo grado → ver 9.7; seroso de alto grado → tratamiento del carcinoma epitelial (ver 8.5 y 8.6);
+    - patología final: limítrofe → seguimiento; seroso de bajo grado → ver [9.7](#97-carcinoma-seroso-de-bajo-grado-lcoc-7-lcoc-8); seroso de alto grado → tratamiento del carcinoma epitelial (ver [8.5](#85-tratamiento-adyuvante-del-estadio-i-ov-4) y [8.6](#86-estadios-iiiv-quimioterapia-primaria-y-evaluación-de-la-respuesta-ov-4));
     - sin enfermedad residual tras el primer procedimiento y/o en la imagen → observación → seguimiento.
 - Tras SOU: considerar la cirugía de compleción (SOU contralateral, histerectomía) al completar la paridad (categoría 2B).
 - Tumor limítrofe demostrado: la evaluación ganglionar puede considerarse caso por caso.
 - La quimioterapia (intravenosa o intraperitoneal) no ha demostrado beneficio; el Panel no recomienda tratamiento sistémico en tumores de bajo potencial maligno (BPM) confirmados.
-- Seguimiento: ver 13.3.
+- Seguimiento: ver [13.3](#133-seguimiento-de-los-cánceres-de-ovario-menos-comunes).
 - Recaída clínica → evaluación quirúrgica y citorreducción si procede:
     - enfermedad no invasora → observación;
     - carcinoma invasor de bajo grado → algoritmo LCOC según la histología;
@@ -1305,7 +1405,7 @@
 - Estadios II–IV: quimioterapia basada en platino, o radioterapia (RT) en enfermedad limitada (categoría 2B) → vigilancia.
 - Quimioterapia basada en platino aceptable: carboplatino/paclitaxel (preferido), EP (etopósido y cisplatino) o BEP (bleomicina, etopósido y cisplatino; categoría 2B). Pruebas de función pulmonar si se considera bleomicina.
 - Tumor de la granulosa: pueden seguirse las cifras de inhibina.
-- Vigilancia: ver 13.3.
+- Vigilancia: ver [13.3](#133-seguimiento-de-los-cánceres-de-ovario-menos-comunes).
 
 **Conducta: recurrencia**
 
@@ -1314,7 +1414,7 @@
     - preferido: carboplatino/paclitaxel;
     - otros recomendados: docetaxel, EP (etopósido y cisplatino; si no se usó), ifosfamida/paclitaxel, paclitaxel, bevacizumab en monoterapia, o solo tratamiento de soporte;
     - útiles en ciertas circunstancias: inhibidores de la aromatasa (anastrozol, exemestano, letrozol), acetato de leuprolida o de goserelina (tumores de la granulosa), tamoxifeno, BEP (bleomicina, etopósido y cisplatino; categoría 2B; si no se usó) y VAC (vincristina, dactinomicina y ciclofosfamida; categoría 2B).
-- Evitar la terapia de reemplazo hormonal (TRH) en tumores de la granulosa avanzados (ver 10.13).
+- Evitar la terapia de reemplazo hormonal (TRH) en tumores de la granulosa avanzados (ver [10.13](#1013-soporte-posoperatorio-menopausia-quirúrgica-y-terapia-de-reemplazo-hormonal)).
 
 **Fundamento**
 
@@ -1331,7 +1431,7 @@
     - con deseo de fertilidad: cirugía con preservación de fertilidad y estadificación integral;
     - sin deseo de fertilidad: cirugía de estadificación completa.
 - Cirugía previa, estadificación completa → tratamiento adyuvante según la histología.
-- Cirugía previa, estadificación incompleta → imagen si no se hizo (ver 5.3):
+- Cirugía previa, estadificación incompleta → imagen si no se hizo (ver [5.3](#53-imagen-inicial-y-de-respuesta-ov-a)):
     - disgerminoma o teratoma inmaduro de grado 1:
         - imagen y marcadores positivos → con deseo de fertilidad, cirugía con preservación de fertilidad y estadificación integral; sin deseo de fertilidad, cirugía de estadificación de compleción → tratamiento adyuvante;
         - imagen negativa y marcadores positivos → considerar observación (categoría 2B) con control estrecho de los marcadores hasta su normalización; repetir la imagen si los marcadores se estabilizan en un valor claramente anormal o suben, y si es positiva seguir la vía de imagen y marcadores positivos;
@@ -1345,7 +1445,7 @@
 **Conducta: tratamiento adyuvante y respuesta (LCOC-14)**
 
 - Disgerminoma en estadio I o teratoma inmaduro de grado 1 en estadio I: observación → vigilancia.
-- Tumor embrionario en cualquier estadio, tumor del seno endodérmico en cualquier estadio, disgerminoma en estadios II–IV, teratoma inmaduro de grado 2–3 en estadio I o en estadios II–IV, o coriocarcinoma no gestacional en cualquier estadio: quimioterapia (ver 11.10) → imagen según indicación clínica:
+- Tumor embrionario en cualquier estadio, tumor del seno endodérmico en cualquier estadio, disgerminoma en estadios II–IV, teratoma inmaduro de grado 2–3 en estadio I o en estadios II–IV, o coriocarcinoma no gestacional en cualquier estadio: quimioterapia (ver [11.10](#1110-esquemas-de-tumores-germinales-de-los-cordones-sexuales-y-del-estroma-y-sccoht-lcoc-a-lcoc-5a)) → imagen según indicación clínica:
     - respuesta clínica completa → observación y vigilancia (LCOC-15);
     - tumor residual en la imagen con marcadores normales → biopsia o considerar resección quirúrgica, u observación con vigilancia:
         - tejido necrótico → vía de respuesta completa;
@@ -1360,7 +1460,7 @@
     - quimioterapia de segunda línea (categoría 2B);
     - o quimioterapia de altas dosis con trasplante de células hematopoyéticas (TCH; categoría 2B);
     - o considerar cirugía en pacientes seleccionadas.
-- Respuesta completa → observación; respuesta incompleta → esquemas de la recurrencia (ver 11.10).
+- Respuesta completa → observación; respuesta incompleta → esquemas de la recurrencia (ver [11.10](#1110-esquemas-de-tumores-germinales-de-los-cordones-sexuales-y-del-estroma-y-sccoht-lcoc-a-lcoc-5a)).
 - Derivar a un centro terciario para valorar TCH y un tratamiento potencialmente curativo: algunas pacientes son potencialmente curables con él.
 - Radioterapia (RT) localizada para paliar síntomas o en enfermedad oligometastásica.
 
@@ -1411,7 +1511,7 @@
     2. Visualizar todas las superficies peritoneales; extirpar o biopsiar de forma selectiva toda superficie o adherencia sospechosa de metástasis.
     3. Sin áreas sospechosas: biopsias peritoneales aleatorias de pelvis, correderas parietocólicas y superficie inferior de los diafragmas (el raspado diafragmático para tinción de Papanicolaou es una alternativa aceptable).
     4. Salpingooforectomía bilateral (SOB) e histerectomía, con todo esfuerzo por extraer íntegra la masa encapsulada.
-    5. En pacientes seleccionadas que desean preservar la fertilidad: salpingooforectomía unilateral (SOU) o SOB con preservación uterina (ver 10.7).
+    5. En pacientes seleccionadas que desean preservar la fertilidad: salpingooforectomía unilateral (SOU) o SOB con preservación uterina (ver [10.7](#107-cirugía-con-preservación-de-fertilidad)).
     6. Omentectomía.
     7. Disección ganglionar paraaórtica: despegar el tejido ganglionar de la vena cava y la aorta, de forma bilateral, al menos hasta la arteria mesentérica inferior y preferiblemente hasta los vasos renales.
     8. Disección ganglionar pélvica (método preferido), bilateral: ganglios sobre la arteria ilíaca común y anterolaterales a ella; sobre los vasos ilíacos externos y mediales a ellos; sobre los vasos hipogástricos y mediales a ellos; y de la fosa obturatriz, como mínimo por delante del nervio obturador.
@@ -1447,7 +1547,7 @@
 - Recomendación basada en datos retrospectivos. La resección R0 ofrece la mejor supervivencia: un cambio de paradigma quirúrgico hacia la citorreducción máxima mejoró la supervivencia libre de progresión (SLP) y la supervivencia global (SG; referencia de la guía).
 - La resección extensa de las metástasis del abdomen superior se asocia a mejor SLP y SG, por lo que se recomienda en las pacientes que la toleran.
 - Las citorreducciones secundarias o terciarias óptimas mejoraron la SG y la supervivencia específica de la enfermedad o la SLP frente a las subóptimas.
-- Ganglios clínicamente negativos: ver 10.6.
+- Ganglios clínicamente negativos: ver [10.6](#106-linfadenectomía-sistemática).
 
 ### 10.4 Cirugía citorreductora de intervalo tras neoadyuvancia
 
@@ -1455,7 +1555,7 @@
 
 - Como en la citorreducción primaria: máximo esfuerzo por extirpar toda la enfermedad macroscópica del abdomen, la pelvis y el retroperitoneo; consultar con ginecología oncológica.
 - Cirugía citorreductora de intervalo (CCI) con histerectomía y salpingooforectomía bilateral (SOB) de compleción y estadificación tras 3–4 ciclos de neoadyuvancia en pacientes con respuesta o enfermedad estable. Otros momentos no se han evaluado de forma prospectiva, pero pueden considerarse según factores individuales.
-- Quimioterapia intraperitoneal hipertérmica (HIPEC) con cisplatino: ver 10.5.
+- Quimioterapia intraperitoneal hipertérmica (HIPEC) con cisplatino: ver [10.5](#105-quimioterapia-intraperitoneal-hipertérmica-hipec-en-la-cirugía-de-intervalo).
 - Visualizar todas las superficies peritoneales y extirpar o biopsiar toda superficie o adherencia sospechosa.
 - Omentectomía.
 - No se recomienda la linfadenectomía sistemática de ganglios clínicamente negativos; resecar, si es posible, los sospechosos o aumentados.
@@ -1465,7 +1565,7 @@
 **Fundamento**
 
 - Toda cirugía citorreductora de intervalo (CCI) debe incluir la histerectomía y la salpingooforectomía bilateral (SOB) de compleción con estadificación integral y citorreducción.
-- La neoadyuvancia seguida de citorreducción no es inferior a la citorreducción primaria (ver 8.3).
+- La neoadyuvancia seguida de citorreducción no es inferior a la citorreducción primaria (ver [8.3](#83-mala-candidata-quirúrgica-o-baja-probabilidad-de-citorreducción-óptima-neoadyuvancia-ov-2)).
 
 ### 10.5 Quimioterapia intraperitoneal hipertérmica (HIPEC) en la cirugía de intervalo
 
@@ -1491,7 +1591,7 @@
 
 **Conducta**
 
-- Enfermedad aparentemente temprana (IA–IIA): la disección ganglionar pélvica y paraaórtica forma parte de la estadificación integral (ver 10.2).
+- Enfermedad aparentemente temprana (IA–IIA): la disección ganglionar pélvica y paraaórtica forma parte de la estadificación integral (ver [10.2](#102-estadificación-quirúrgica-integral-en-carcinoma-epitelial-invasor-aparentemente-confinado-a-ovarios-trompas-y-útero-iaiia)).
 - Citorreducción primaria (>IIB) y cirugía citorreductora de intervalo (CCI): no se recomienda la linfadenectomía sistemática de ganglios clínicamente negativos; resecar, si es posible, los sospechosos o aumentados.
 - Excepciones por histología:
     - carcinoma mucinoso confirmado por congelación sin ganglios sospechosos: considerar omitirla;
@@ -1525,7 +1625,7 @@
 - Considerar el muestreo endometrial para excluir un primario sincrónico o hiperplasia.
 - Derivar a endocrinología reproductiva e infertilidad según indicación clínica.
 - Hacer igualmente la estadificación quirúrgica integral para descartar enfermedad oculta de estadio mayor; puede omitirse en pacientes pediátricas, adolescentes y adultas jóvenes con tumor germinal maligno clínicamente temprano, según la literatura quirúrgica pediátrica.
-- Seguimiento ecográfico tras la preservación de fertilidad y cirugía de compleción tras la paridad según el tumor (ver 9.8, 9.10 y 13.3).
+- Seguimiento ecográfico tras la preservación de fertilidad y cirugía de compleción tras la paridad según el tumor (ver [9.8](#98-tumores-epiteliales-limítrofes-serosos-de-bajo-potencial-maligno-lcoc-9-lcoc-10-lcoc-11), [9.10](#910-tumores-malignos-de-células-germinales-lcoc-13-lcoc-14-lcoc-15-lcoc-a) y [13.3](#133-seguimiento-de-los-cánceres-de-ovario-menos-comunes)).
 
 **Fundamento**
 
@@ -1605,9 +1705,9 @@
     - todo el peritoneo que rodea ovarios y trompas, sobre todo el subyacente a las adherencias entre trompa u ovario y la pared lateral de la pelvis.
 - Manipular mínimamente trompas y ovarios con los instrumentos para evitar la exfoliación traumática de células.
 - Extraer ambos ovarios y trompas de la pelvis dentro de una bolsa endoscópica.
-- Procesar ambos ovarios y trompas mediante seccionamiento y examen extenso del extremo fimbriado (SEE-FIM; ver 3.5).
+- Procesar ambos ovarios y trompas mediante seccionamiento y examen extenso del extremo fimbriado (SEE-FIM; ver [3.5](#35-informe-anatomopatológico-y-manejo-del-espécimen-ov-c)).
 - Si se identifica malignidad oculta o carcinoma seroso intraepitelial tubárico (STIC): derivar a ginecología oncológica.
-- Salpingectomía sola: beneficio preventivo no demostrado; si se hace, extirpar la trompa desde la fimbria hasta su inserción uterina y procesarla igual (ver 2.1).
+- Salpingectomía sola: beneficio preventivo no demostrado; si se hace, extirpar la trompa desde la fimbria hasta su inserción uterina y procesarla igual (ver [2.1](#21-prevención-primaria-cirugía-reductora-de-riesgo)).
 
 **Fundamento**
 
@@ -1624,7 +1724,7 @@
 
 **Fundamento**
 
-- El residual tras la citorreducción define la citorreducción óptima (<1 cm) y la resección completa (R0), que tienen valor pronóstico y orientan el tratamiento posterior (bevacizumab, quimioterapia intraperitoneal hipertérmica [HIPEC] y quimioterapia por vía intraperitoneal e intravenosa [IP/IV]; ver 6.4 y 11.5).
+- El residual tras la citorreducción define la citorreducción óptima (<1 cm) y la resección completa (R0), que tienen valor pronóstico y orientan el tratamiento posterior (bevacizumab, quimioterapia intraperitoneal hipertérmica [HIPEC] y quimioterapia por vía intraperitoneal e intravenosa [IP/IV]; ver [6.4](#64-estratificación-del-riesgo-para-decidir-el-tratamiento) y [11.5](#115-tratamiento-primario-de-los-estadios-iiiv-o-de-la-recurrencia-no-tratada-previamente-ov-d-6-de-12)).
 
 ### 10.13 Soporte posoperatorio: menopausia quirúrgica y terapia de reemplazo hormonal
 
@@ -1655,7 +1755,7 @@
 - Toxicidad comparada (fuente): eficacia equivalente con perfiles distintos.
     - Cisplatino: más neurotoxicidad, toxicidad gastrointestinal (náuseas, vómitos), renal y metabólica, anemia y alopecia.
     - Carboplatino: más trombocitopenia y granulocitopenia.
-- Reacciones (fuente): los platinos producen alergias verdaderas, que aparecen sobre todo con la reexposición o al final de la quimioterapia inicial (p. ej., ciclo 6 de 6); carboplatino en el 16% de las pacientes (ver 12).
+- Reacciones (fuente): los platinos producen alergias verdaderas, que aparecen sobre todo con la reexposición o al final de la quimioterapia inicial (p. ej., ciclo 6 de 6); carboplatino en el 16% de las pacientes (ver [12](#12-manejo-de-las-reacciones-a-fármacos-ov-e)).
 
 **Oxaliplatino**
 
@@ -1773,7 +1873,7 @@
     - sin problemas médicos previos que puedan empeorar mucho con la quimioterapia (p. ej., neuropatía previa).
 - Cisplatino IP: administrar suficiente líquido intravenoso antes y después de cada ciclo para prevenir la toxicidad renal; después de cada ciclo, vigilar mielosupresión, deshidratación, pérdida de electrólitos y toxicidad de órganos (renal y hepática); a menudo se necesita hidratación intravenosa ambulatoria.
 - Si no se puede completar el tratamiento IP: pasar a intravenoso.
-- Individuos >70 años o con comorbilidades: pueden no tolerar las combinaciones; dosificación alternativa según juicio clínico (ver 11.5); existen algoritmos para predecir la toxicidad (guía de la National Comprehensive Cancer Network [NCCN] de oncología geriátrica).
+- Individuos >70 años o con comorbilidades: pueden no tolerar las combinaciones; dosificación alternativa según juicio clínico (ver [11.5](#115-tratamiento-primario-de-los-estadios-iiiv-o-de-la-recurrencia-no-tratada-previamente-ov-d-6-de-12)); existen algoritmos para predecir la toxicidad (guía de la National Comprehensive Cancer Network [NCCN] de oncología geriátrica).
 - Consultar las referencias originales para la toxicidad completa, las dosis, los esquemas y los ajustes.
 
 **Conducta: recurrencia**
@@ -1781,7 +1881,7 @@
 - Informar sobre la disponibilidad de ensayos clínicos, con riesgos y beneficios según el número de líneas previas, y sobre el estado funcional, la función de órganos y las toxicidades previas; plantear los cuidados paliativos como opción cuando proceda.
 - Pruebas tumorales de biomarcadores si no se hicieron.
 - Por la exposición previa a platino, la mielosupresión es más frecuente con cualquier fármaco mielotóxico.
-- Riesgo de hipersensibilidad con la reexposición a carboplatino o cisplatino: informar de los signos, tratar con personal entrenado y en un lugar con equipo para anafilaxia (ver 12).
+- Riesgo de hipersensibilidad con la reexposición a carboplatino o cisplatino: informar de los signos, tratar con personal entrenado y en un lugar con equipo para anafilaxia (ver [12](#12-manejo-de-las-reacciones-a-fármacos-ov-e)).
 - Conocer el metabolismo del fármaco (renal o hepático) y comprobar que la paciente es candidata (función renal o hepática adecuada); conocer el manejo de la toxicidad y los ajustes de dosis.
 - Precaución con las dosis tras varias líneas: puede haber toxicidad excesiva y mala tolerancia a las dosis de primera línea o a los esquemas de dosis densas.
 - Comentar con la paciente y sus cuidadores el esquema, la toxicidad y el beneficio esperado, y cómo reducir la gravedad y la duración de las complicaciones.
@@ -1797,7 +1897,7 @@
 **Conducta**
 
 - Considerar la histología del tumor primario y su posible respuesta a la quimioterapia primaria.
-- Esquemas: cualquiera de los intravenosos primarios de los estadios II–IV del seroso de alto grado (ver 11.5) y los respectivos de los cánceres de ovario menos comunes (LCOC): carcinoma de células pequeñas del ovario de tipo hipercalcémico (SCCOHT), germinales y cordones sexuales (ver 11.10).
+- Esquemas: cualquiera de los intravenosos primarios de los estadios II–IV del seroso de alto grado (ver [11.5](#115-tratamiento-primario-de-los-estadios-iiiv-o-de-la-recurrencia-no-tratada-previamente-ov-d-6-de-12)) y los respectivos de los cánceres de ovario menos comunes (LCOC): carcinoma de células pequeñas del ovario de tipo hipercalcémico (SCCOHT), germinales y cordones sexuales (ver [11.10](#1110-esquemas-de-tumores-germinales-de-los-cordones-sexuales-y-del-estroma-y-sccoht-lcoc-a-lcoc-5a)).
 - Bevacizumab: con precaución antes de la cirugía; suspenderlo 4–6 semanas antes de la cirugía citorreductora de intervalo (CCI).
 - Tras la neoadyuvancia y la cirugía: cualquiera de las opciones adyuvantes del seroso de alto grado (intravenosas o por vía intraperitoneal e intravenosa [IP/IV]) o de los LCOC respectivos.
 - Opción intraperitoneal (IP) adicional tras neoadyuvancia y cirugía (datos limitados): paclitaxel 135 mg/m² intravenoso el día 1, carboplatino con área bajo la curva (AUC) 6 IP el día 1 y paclitaxel 60 mg/m² IP el día 8.
@@ -1833,14 +1933,14 @@
     - otras hormonoterapias: inhibidores de la aromatasa (anastrozol, exemestano), acetato de leuprolida, acetato de goserelina o tamoxifeno; el tamoxifeno no se recomienda en el seroso de bajo grado;
     - el paclitaxel unido a albúmina puede sustituir al paclitaxel tras hipersensibilidad.
 - Ciclos: 6 en el seroso de alto grado; 3–6 en los demás tipos.
-- Dosis: ver 11.5 (mismos esquemas).
+- Dosis: ver [11.5](#115-tratamiento-primario-de-los-estadios-iiiv-o-de-la-recurrencia-no-tratada-previamente-ov-d-6-de-12) (mismos esquemas).
 
 **Por qué preferir cada esquema**
 
-- **Carboplatino/paclitaxel**: los platinos mejoran la respuesta y la supervivencia libre de progresión (SLP); carboplatino y cisplatino tienen eficacia equivalente, pero el carboplatino es mejor tolerado (ver 11.5).
+- **Carboplatino/paclitaxel**: los platinos mejoran la respuesta y la supervivencia libre de progresión (SLP); carboplatino y cisplatino tienen eficacia equivalente, pero el carboplatino es mejor tolerado (ver [11.5](#115-tratamiento-primario-de-los-estadios-iiiv-o-de-la-recurrencia-no-tratada-previamente-ov-d-6-de-12)).
 - **Carboplatino/docetaxel y carboplatino/doxorrubicina liposomal**: eficacia similar al estándar con distinto perfil tóxico; útiles con alto riesgo de neuropatía (p. ej., diabetes) o para evitar la alopecia (doxorrubicina liposomal).
 - **Lista más corta en el estadio I**: la mayoría de los ensayos incluyó estadios III–IV. El paclitaxel/carboplatino semanal es logísticamente más difícil y a menudo no se usa. La quimioterapia por vía intraperitoneal e intravenosa (IP/IV) y el bevacizumab no se recomiendan en el estadio I.
-- **Esquemas gastrointestinales en el mucinoso**: ver 9.4.
+- **Esquemas gastrointestinales en el mucinoso**: ver [9.4](#94-neoplasias-mucinosas-lcoc-4).
 
 ### 11.5 Tratamiento primario de los estadios II–IV o de la recurrencia no tratada previamente (OV-D 6 de 12)
 
@@ -1859,7 +1959,7 @@
     - otros recomendados: carboplatino semanal/paclitaxel semanal; carboplatino/docetaxel o carboplatino/doxorrubicina liposomal, ± letrozol de mantenimiento (categoría 2B) u otra hormonoterapia (categoría 2B); carboplatino cada 3 semanas/paclitaxel semanal; carboplatino/docetaxel + bevacizumab (GOG-218); hormonoterapia con acetato de leuprolida, acetato de goserelina, tamoxifeno o fulvestrant (categoría 2B);
     - útiles en ciertas circunstancias: cisplatino/paclitaxel; docetaxel/oxaliplatino + bevacizumab (categoría 2B).
 - Ciclos: 6 en los estadios II–IV.
-- Mantenimiento con inhibidor de la poli-ADP-ribosa polimerasa (iPARP) tras la respuesta: ver 8.7 y 11.6.
+- Mantenimiento con inhibidor de la poli-ADP-ribosa polimerasa (iPARP) tras la respuesta: ver [8.7](#87-mantenimiento-tras-el-tratamiento-primario-en-estadios-iiiv-ov-5) y [11.6](#116-mantenimiento-con-inhibidores-de-la-poli-adp-ribosa-polimerasa-parp-y-bevacizumab-dosis-y-duración-ov-d-3-de-12).
 
 **Conducta: dosis (OV-D 7 de 12, fuente)**
 
@@ -1926,7 +2026,7 @@
 - Suspender el bevacizumab antes de iniciar un iPARP de mantenimiento en la recurrencia (no se recomienda la combinación en ese escenario).
 - Consultar la ficha técnica para más detalle.
 
-**Por qué preferir cada opción (resumen; datos: ver 8.7 y 8.10)**
+**Por qué preferir cada opción (resumen; datos: ver [8.7](#87-mantenimiento-tras-el-tratamiento-primario-en-estadios-iiiv-ov-5) y [8.10](#810-recurrencia-sensible-a-platino-ov-8))**
 
 - **Inhibidor de la poli-ADP-ribosa polimerasa (iPARP) en monoterapia sin bevacizumab previo**: con BRCA1/2 mutado, olaparib y niraparib son categoría 1 (SOLO-1: beneficio de supervivencia libre de progresión [SLP] y de supervivencia a 7 años; PRIMA). Con deficiencia de recombinación homóloga (HRD) sin BRCA1/2, niraparib, olaparib o rucaparib (PRIMA y ATHENA-MONO mostraron beneficio con HRD).
 - **Olaparib + bevacizumab**: categoría 1 con BRCA1/2 mutado o HRD tras bevacizumab en primera línea (PAOLA-1: beneficio de supervivencia global [SG] clínicamente relevante con HRD). Niraparib + bevacizumab (OVARIO, fase II de un brazo) queda para quien no tolera olaparib.
@@ -1949,10 +2049,10 @@
     - hormonoterapia: inhibidores de la aromatasa (anastrozol, exemestano, letrozol), acetato de goserelina, acetato de leuprolida, acetato de megestrol y tamoxifeno (no en seroso de bajo grado).
 - Útiles en ciertas circunstancias:
     - carcinoma mucinoso: fluorouracilo/leucovorina/oxaliplatino o capecitabina/oxaliplatino, ± bevacizumab (categoría 2B para el bevacizumab);
-    - carboplatino/paclitaxel en >70 años (dosis: ver 11.5);
+    - carboplatino/paclitaxel en >70 años (dosis: ver [11.5](#115-tratamiento-primario-de-los-estadios-iiiv-o-de-la-recurrencia-no-tratada-previamente-ov-d-6-de-12));
     - paclitaxel unido a albúmina/carboplatino en hipersensibilidad confirmada a taxanos;
     - irinotecán/cisplatino en carcinoma de células claras;
-    - terapia dirigida e inmunoterapia según biomarcador (ver 11.9): dabrafenib/trametinib; entrectinib, larotrectinib o repotrectinib; trastuzumab deruxtecán (categoría 2B); mirvetuximab soravtansina (receptor de folato alfa [FRα] ≥75%, tras dos líneas previas basadas en platino); mirvetuximab + bevacizumab (FRα ≥50%; categoría 2B); selpercatinib; dostarlimab; pembrolizumab;
+    - terapia dirigida e inmunoterapia según biomarcador (ver [11.9](#119-terapia-dirigida-por-biomarcadores-e-inmunoterapia)): dabrafenib/trametinib; entrectinib, larotrectinib o repotrectinib; trastuzumab deruxtecán (categoría 2B); mirvetuximab soravtansina (receptor de folato alfa [FRα] ≥75%, tras dos líneas previas basadas en platino); mirvetuximab + bevacizumab (FRα ≥50%; categoría 2B); selpercatinib; dostarlimab; pembrolizumab;
     - seroso de bajo grado: avutometinib/defactinib (KRAS mutado), trametinib, binimetinib (categoría 2B) y fulvestrant.
 - Notas: el bevacizumab está contraindicado con mayor riesgo de perforación gastrointestinal; si hay respuesta, puede continuarse como mantenimiento hasta progresión o toxicidad inaceptable y debe suspenderse antes de un inhibidor de la poli-ADP-ribosa polimerasa (iPARP) de mantenimiento.
 - Cambios de la versión 1.2026: el bevacizumab pasó de preferido a otro recomendado; se retiraron el melfalán y los iPARP en monoterapia como tratamiento (niraparib, olaparib y rucaparib, que eran categoría 3).
@@ -1965,7 +2065,7 @@
 - Cisplatino/gemcitabina: cisplatino 30 mg/m² + gemcitabina 750 mg/m² los días 1 y 8, cada 21 días.
 - Niraparib + bevacizumab (AVANOVA2): niraparib 300 mg oral diario + bevacizumab 15 mg/kg cada 21 días.
 - Pazopanib: 800 mg oral diario.
-- Dosis de la terapia dirigida y la inmunoterapia: ver 11.9.
+- Dosis de la terapia dirigida y la inmunoterapia: ver [11.9](#119-terapia-dirigida-por-biomarcadores-e-inmunoterapia).
 
 **Por qué preferir cada esquema**
 
@@ -2048,13 +2148,13 @@
 - Fusiones del gen reordenado durante la transfección (RET) → selpercatinib; † 160 mg oral 2 veces al día (120 mg si <50 kg).
 - Deficiencia del sistema de reparación de errores de apareamiento (dMMR) o alta inestabilidad de microsatélites (MSI-H) → dostarlimab-gxly (tumores recurrentes o avanzados); † 500 mg intravenoso cada 3 semanas × 4 dosis y después 1000 mg cada 6 semanas.
 - MSI-H, dMMR o carga mutacional tumoral alta (TMB-H; ≥10 mutaciones por megabase [mut/Mb]) → pembrolizumab; † 200 mg cada 3 semanas o 400 mg cada 6 semanas (el pembrolizumab subcutáneo con berahialuronidasa alfa-pmph puede sustituir al intravenoso, con otra dosis y administración; fuente).
-- Ligando 1 de muerte programada (PD-L1) positivo (puntuación positiva combinada [CPS] ≥1 con prueba aprobada por la FDA) en resistencia a platino → paclitaxel + pembrolizumab ± bevacizumab (ver 11.8).
-- Carcinoma de células claras resistente a platino → ipilimumab + nivolumab (ver 9.3).
+- Ligando 1 de muerte programada (PD-L1) positivo (puntuación positiva combinada [CPS] ≥1 con prueba aprobada por la FDA) en resistencia a platino → paclitaxel + pembrolizumab ± bevacizumab (ver [11.8](#118-recurrencia-resistente-a-platino-ov-d-9-de-12)).
+- Carcinoma de células claras resistente a platino → ipilimumab + nivolumab (ver [9.3](#93-carcinoma-de-células-claras-lcoc-3)).
 - Seroso de bajo grado:
     - KRAS mutado → avutometinib/defactinib; † avutometinib 3.2 mg oral 2 veces por semana + defactinib 200 mg oral 2 veces al día, 3 semanas de cada 4;
     - cualquier estado → trametinib († 2 mg oral diario) o binimetinib (categoría 2B; † 45 mg oral 2 veces al día);
     - fulvestrant.
-- Recurrencia con BRCA1/2 mutado: inhibidor de la poli-ADP-ribosa polimerasa (iPARP) solo como mantenimiento tras respuesta a platino (ver 8.10); ya no como tratamiento en monoterapia.
+- Recurrencia con BRCA1/2 mutado: inhibidor de la poli-ADP-ribosa polimerasa (iPARP) solo como mantenimiento tras respuesta a platino (ver [8.10](#810-recurrencia-sensible-a-platino-ov-8)); ya no como tratamiento en monoterapia.
 
 **Fundamento**
 
@@ -2077,7 +2177,7 @@
 - **Inmunoterapia en general**: los ensayos de inmunoterapia sola han mostrado respuestas mínimas en el cáncer de ovario; el carcinoma de células claras responde más.
 - **Pazopanib** (fase 2; n = 36): TRO del 18%, con elevación de grado 3 de alanina y aspartato aminotransferasas en pocas pacientes (8%); recomendado como terapia dirigida de la recurrencia potencialmente activa (categoría 2B).
 - **Los inhibidores de la poli-ADP-ribosa polimerasa (iPARP) en monoterapia como tratamiento de la recurrencia**: estaban en versiones previas, pero los datos de eficacia y seguridad a largo plazo fueron menos favorables que los iniciales y motivaron anuncios de retirada por la FDA; en la versión 1.2026 el Panel los retiró.
-- **Inhibidores de MEK (cinasa de la proteína cinasa activada por mitógenos) en el seroso de bajo grado**: ver 9.7.
+- **Inhibidores de MEK (cinasa de la proteína cinasa activada por mitógenos) en el seroso de bajo grado**: ver [9.7](#97-carcinoma-seroso-de-bajo-grado-lcoc-7-lcoc-8).
 
 ### 11.10 Esquemas de tumores germinales, de los cordones sexuales y del estroma y SCCOHT (LCOC-A, LCOC-5A)
 
@@ -2095,7 +2195,7 @@
 **Conducta: tumores malignos de los cordones sexuales y del estroma**
 
 - Primario: carboplatino/paclitaxel (preferido); EP (etopósido y cisplatino; otro recomendado); BEP (bleomicina, etopósido y cisplatino; categoría 2B; útil en ciertas circunstancias).
-- Recurrencia: ver 9.9.
+- Recurrencia: ver [9.9](#99-tumores-malignos-de-los-cordones-sexuales-y-del-estroma-lcoc-12-lcoc-a).
 
 **Conducta: carcinoma de células pequeñas del ovario de tipo hipercalcémico (SCCOHT)**
 
@@ -2134,7 +2234,7 @@
 
 **Fundamento**
 
-- Seroso de bajo grado: estudio de base de datos con mayor supervivencia libre de progresión (SLP) con hormonoterapia de mantenimiento (ver 9.7).
+- Seroso de bajo grado: estudio de base de datos con mayor supervivencia libre de progresión (SLP) con hormonoterapia de mantenimiento (ver [9.7](#97-carcinoma-seroso-de-bajo-grado-lcoc-7-lcoc-8)).
 - Epitelial recurrente: la hormonoterapia sigue siendo una opción viable cuando no se toleran los citotóxicos o no hay respuesta.
 - † El seroso de bajo grado y el endometrioide de grado 1 expresan con frecuencia receptores de estrógenos y de progesterona; la baja proliferación explica su escasa respuesta a la quimioterapia y su sensibilidad hormonal.
 
@@ -2153,12 +2253,12 @@
 - Paclitaxel: puede sustituirse por paclitaxel unido a albúmina tras hipersensibilidad (no evita todas las reacciones a la infusión).
 - Bleomicina: pruebas de función pulmonar.
 - Germinales: no reducir ni retrasar las dosis por neutropenia.
-- Reacciones a fármacos: ver 12.
+- Reacciones a fármacos: ver [12](#12-manejo-de-las-reacciones-a-fármacos-ov-e).
 
 **Fundamento**
 
 - La exposición previa a platino aumenta la mielosupresión con cualquier fármaco mielotóxico en la recurrencia.
-- Riesgo de síndrome mielodisplásico (SMD) y leucemia mieloide aguda (LMA) con inhibidor de la poli-ADP-ribosa polimerasa (iPARP): metaanálisis de 28 ensayos aleatorizados; mayor en portadoras de BRCA con exposición ≥2 años (ver 8.10).
+- Riesgo de síndrome mielodisplásico (SMD) y leucemia mieloide aguda (LMA) con inhibidor de la poli-ADP-ribosa polimerasa (iPARP): metaanálisis de 28 ensayos aleatorizados; mayor en portadoras de BRCA con exposición ≥2 años (ver [8.10](#810-recurrencia-sensible-a-platino-ov-8)).
 - † Toxicidades específicas a vigilar: ocular con mirvetuximab (exploración oftalmológica basal y periódica); neumonitis con trastuzumab deruxtecán (suspender ante sospecha); efectos inmunomediados con los inhibidores de puntos de control; creatina fosfocinasa, piel, ojo y función cardiaca con los inhibidores de MEK (cinasa de la proteína cinasa activada por mitógenos); intervalo QTc con selpercatinib; neuropatía con taxanos, platinos e ixabepilona.
 
 ### 11.13 Susceptibilidad del tumor y de la paciente: criterios de elección
@@ -2170,13 +2270,13 @@
     - estadio y residual: estadio I sin quimioterapia por vía intraperitoneal e intravenosa (IP/IV) ni bevacizumab; beneficio del bevacizumab en estadio IV, III inoperable o residual >1 cm; quimioterapia IP/IV en estadios II–III con citorreducción óptima;
     - sensibilidad a platino: combinaciones con platino si es sensible; esquemas sin platino si es resistente;
     - BRCA1/2 y deficiencia de recombinación homóloga (HRD): iPARP de mantenimiento; con competencia de recombinación homóloga (HRP), beneficio mínimo;
-    - receptor de folato alfa (FRα), receptor 2 del factor de crecimiento epidérmico humano (HER2), ligando 1 de muerte programada (PD-L1), inestabilidad de microsatélites (MSI), sistema de reparación de errores de apareamiento (MMR), carga mutacional tumoral (TMB), BRAF, KRAS, genes del receptor neurotrófico de tirosina cinasa (NTRK) y el gen reordenado durante la transfección (RET): terapia dirigida o inmunoterapia (ver 11.9).
+    - receptor de folato alfa (FRα), receptor 2 del factor de crecimiento epidérmico humano (HER2), ligando 1 de muerte programada (PD-L1), inestabilidad de microsatélites (MSI), sistema de reparación de errores de apareamiento (MMR), carga mutacional tumoral (TMB), BRAF, KRAS, genes del receptor neurotrófico de tirosina cinasa (NTRK) y el gen reordenado durante la transfección (RET): terapia dirigida o inmunoterapia (ver [11.9](#119-terapia-dirigida-por-biomarcadores-e-inmunoterapia)).
 - De la paciente:
     - edad >70 años o comorbilidades: carboplatino/paclitaxel 135 o esquema semanal;
     - mal estado funcional: carboplatino semanal/paclitaxel semanal;
     - riesgo de neuropatía (p. ej., diabetes) o deseo de evitar la alopecia: carboplatino/docetaxel o carboplatino/doxorrubicina liposomal;
     - hipersensibilidad a taxanos: paclitaxel unido a albúmina;
-    - alergia a platino: desensibilización (ver 12);
+    - alergia a platino: desensibilización (ver [12](#12-manejo-de-las-reacciones-a-fármacos-ov-e));
     - función renal: normal para el cisplatino intraperitoneal (IP); ajuste del carboplatino por tasa de filtración glomerular (TFG);
     - riesgo de perforación gastrointestinal u obstrucción: evitar el bevacizumab;
     - líneas previas: mirvetuximab en la sensible tras dos líneas de platino; relacorilant hasta tres líneas y con bevacizumab previo; iPARP previo (datos limitados para repetirlo);
@@ -2310,7 +2410,7 @@
     - atención de bienestar a largo plazo (guía de la National Comprehensive Cancer Network [NCCN] de supervivencia).
 - Educar sobre los signos y síntomas de recurrencia (dolor pélvico, distensión, saciedad temprana, obstrucción, pérdida de peso, fatiga).
 - Carcinosarcoma, células claras, mucinoso y endometrioide de grado 1: el mismo seguimiento, con pruebas tumorales de biomarcadores.
-- Recurrencia: ver 8.8.
+- Recurrencia: ver [8.8](#88-recurrencia-detectada-durante-el-seguimiento-ov-6).
 
 **Fundamento**
 
@@ -2322,9 +2422,9 @@
 
 **Conducta**
 
-- CA-125 en ascenso sin otra evidencia de recurrencia: ver 8.8 (retrasar el tratamiento hasta la recaída clínica o tratamiento inmediato, categoría 2B).
+- CA-125 en ascenso sin otra evidencia de recurrencia: ver [8.8](#88-recurrencia-detectada-durante-el-seguimiento-ov-6) (retrasar el tratamiento hasta la recaída clínica o tratamiento inmediato, categoría 2B).
 - ADN tumoral circulante (ADNtc): considerarlo experimental en el diagnóstico, el tratamiento y la vigilancia; no se ha validado por sí solo para seleccionar el tratamiento.
-- Aceptable para las pruebas de biomarcadores cuando el análisis de tejido no es factible (ver 3.6).
+- Aceptable para las pruebas de biomarcadores cuando el análisis de tejido no es factible (ver [3.6](#36-biomarcadores-cuándo-y-cuáles-solicitar-ov-c)).
 
 **Fundamento**
 
@@ -2373,7 +2473,7 @@
 | Radiografía de tórax | No | No | No | Cada 6 meses | Según indicación |
 | TC o RM** | Cada 3 meses | Cada 3 meses | Cada 6–12 meses | Según indicación | Según indicación |
 
-*Solo si queda un ovario. **Tomografía computarizada (TC) de tórax, abdomen y pelvis o resonancia magnética (RM) abdominopélvica. Marcadores: alfafetoproteína (AFP), fracción beta de la gonadotropina coriónica humana (β-hCG) y lactato deshidrogenasa (LDH), entre otros (ver 5.2).
+*Solo si queda un ovario. **Tomografía computarizada (TC) de tórax, abdomen y pelvis o resonancia magnética (RM) abdominopélvica. Marcadores: alfafetoproteína (AFP), fracción beta de la gonadotropina coriónica humana (β-hCG) y lactato deshidrogenasa (LDH), entre otros (ver [5.2](#52-marcadores-tumorales)).
 
 - Tras el tratamiento adyuvante o con estadificación incompleta (tumor embrionario o del seno endodérmico en cualquier estadio, disgerminoma en estadios II–IV, teratoma inmaduro de grado 2–3 en estadio I o en estadios II–IV, coriocarcinoma no gestacional): TC de tórax, abdomen y pelvis; TC de tórax y RM abdominopélvica; o tomografía por emisión de positrones acoplada a resonancia magnética (PET/RM) o tomografía por emisión de positrones acoplada a tomografía computarizada (PET/TC).
 - Teratoma benigno residual: TC de tórax, abdomen y pelvis o RM abdominopélvica.
@@ -2397,8 +2497,8 @@
 - En todas las fases: tratamiento sintomático y mejor tratamiento de soporte; derivar a cuidados paliativos si procede (guía de la NCCN de cuidados paliativos).
 - Detección del distrés con el termómetro y la lista de problemas de la NCCN, que incluye determinantes sociales de la salud (guía de la NCCN de manejo del distrés).
 - Atención de bienestar a largo plazo según la guía de la NCCN de supervivencia.
-- Menopausia quirúrgica y terapia de reemplazo hormonal (TRH): ver 10.13.
-- Enfermedad recurrente: procedimientos quirúrgicos paliativos (ver 10.10) y radioterapia (RT) localizada para paliar síntomas o en enfermedad oligometastásica.
+- Menopausia quirúrgica y terapia de reemplazo hormonal (TRH): ver [10.13](#1013-soporte-posoperatorio-menopausia-quirúrgica-y-terapia-de-reemplazo-hormonal).
+- Enfermedad recurrente: procedimientos quirúrgicos paliativos (ver [10.10](#1010-procedimientos-quirúrgicos-paliativos-auxiliares)) y radioterapia (RT) localizada para paliar síntomas o en enfermedad oligometastásica.
 - Paciente que progresa con dos esquemas consecutivos sin beneficio: decidir de forma individual entre ensayo clínico, tratamiento de soporte o más tratamiento.
 
 **Fundamento**
