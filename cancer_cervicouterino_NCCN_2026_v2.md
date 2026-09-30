@@ -1497,7 +1497,7 @@ En pacientes muy seleccionadas con metástasis aisladas tratables localmente se 
 - La guía remite las dosis a la guía NCCN de cáncer pulmonar de células pequeñas (SCL-E).
 - † Esquemas habituales cada 21 días:
     - cisplatino 60 mg/m² día 1 + etopósido 120 mg/m² días 1–3; o
-    - cisplatino 80 mg/m² día 1 + etopósido 100 mg/m² días 1–3; o
+    - cisplatino 75 mg/m² día 1 + etopósido 100 mg/m² días 1–3; o
     - carboplatino AUC 5–6 día 1 + etopósido 100 mg/m² días 1–3.
 
 **Sustento**
