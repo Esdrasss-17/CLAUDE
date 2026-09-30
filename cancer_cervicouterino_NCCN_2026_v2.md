@@ -421,12 +421,12 @@ El dolor lumbosacro y del miembro inferior traduce invasión de la pared pélvic
 
 **Sustento: salida hacia el algoritmo**
 
-- Estadios IA1, IA2, IB1 y la selección de IB2 → preservación de la fertilidad (CERV-2) o tratamiento sin preservación (CERV-3/4/5).
-- Estadios IB3 y IIA2 → CERV-5.
-- Estadios IIB–IVA → CERV-7.
-- Hallazgo incidental tras histerectomía simple → CERV-8/9.
-- Estadio IVB → CERV-12.
-- Carcinoma neuroendocrino de células pequeñas → evaluación propia (CERV-13).
+- Estadios IA1, IA2, IB1 y la selección de IB2 → preservación de la fertilidad (CERV-2) o tratamiento sin preservación (CERV-3/4/5) (ver 8.1–8.4).
+- Estadios IB3 y IIA2 → CERV-5 (ver 8.5).
+- Estadios IIB–IVA → CERV-7 (ver 8.7).
+- Hallazgo incidental tras histerectomía simple → CERV-8/9 (ver 8.9).
+- Estadio IVB → CERV-12 (ver 8.8 y 12.3).
+- Carcinoma neuroendocrino de células pequeñas → evaluación propia (CERV-13) (ver 13.1).
 - La cistoscopia y la proctoscopia solo se recomiendan si se sospecha extensión vesical o rectal.
 
 ### 4.3 Principios de imagen (CERV-B)
