@@ -1,6 +1,8 @@
 # Cáncer cervicouterino: banco de 40 preguntas abiertas con respuesta desarrollada (NCCN v2.2026 + DeVita)
 
-> **Fuentes:** únicamente la guía NCCN de cáncer cervicouterino v2.2026 y el capítulo 48 "Cancer of the Cervix" del DeVita. **ⓓ** marca un dato que solo aparece en el DeVita; lo no marcado viene de la NCCN o de ambas. Cuando las fuentes difieren, se señala. **⚠ Ojo** marca un dato que suele contestarse mal o que se dijo en clase de forma distinta. **▲ Falta en las fuentes** señala, en una línea, un dato importante que ninguna de las dos fuentes trae.
+> **Fuentes:** la guía NCCN de cáncer cervicouterino v2.2026 y el capítulo 48 "Cancer of the Cervix" del DeVita. **ⓓ** marca un dato que solo aparece en el DeVita; lo no marcado viene de la NCCN o de ambas. Cuando las fuentes difieren, se señala. **⚠ Ojo** marca un dato que suele contestarse mal o que se dijo en clase de forma distinta.
+>
+> **◆ Fuente externa:** recuadro verde, separado del texto principal. Contiene solo lo que falta en las dos fuentes o lo que se actualizó después de ellas, siempre de fuentes oficiales o de ensayos publicados, y nombra su origen. La lista completa está en la sección final. **▲ Falta en las fuentes** marca lo que no se encontró en ninguna parte.
 >
 > **Cómo usarlo:** cada pregunta tiene una **respuesta corta** (lo que se escribe en el examen) y un **desarrollo** para estudiar. Los **casos clínicos** cierran cada bloque e integran sus preguntas.
 >
@@ -81,7 +83,13 @@
     - el Atlas del Genoma del Cáncer identificó como genes significativamente mutados *SHKBP1*, *ERBB3*, *CASP8*, *HLA-A* y *TGFBR2*;
     - un perfil de transición epitelio-mesénquima se asoció a menor supervivencia;
     - las mutaciones de *PIK3CA* (23%) tienen valor pronóstico en los estadios I–II.
-- ▲ **Falta en las fuentes:** ninguna detalla el mecanismo bioquímico por el que E6 degrada p53 y E7 libera E2F, ni por qué se acumula p16.
+
+
+> **◆ Fuente externa** · *revisiones de biología molecular del VPH (Oncogene 2025; Frontiers in Microbiology 2019)*
+>
+> - **E6:** forma un complejo E6–E6AP–p53. E6 hace de puente: activa la ubiquitina-ligasa E6AP, que poliubiquitina a p53 y la envía al proteasoma. Sin p53 se pierden la apoptosis y la detención del ciclo ante el daño del ADN.
+> - **E7:** se une a pRB y la lleva a degradación (vía un complejo ubiquitina-ligasa dependiente de CUL2). Así libera el factor E2F, que activa los genes de la fase S (ciclinas E y A): la célula pasa de G1 a S sin control.
+> - **Por qué aumenta p16:** E2F también induce p16^INK4a. Normalmente p16 frenaría el ciclo a través de pRB, pero como E7 ya la degradó, p16 se acumula sin efecto. Por eso la tinción de p16 "en bloque" es el marcador sustituto de un tumor transformado por VPH.
 
 ### P3 · Factores de riesgo y factores protectores
 
@@ -201,6 +209,14 @@
     - metas **90-70-90** para 2030: 90% de las niñas vacunadas antes de los 15 años, 70% de las mujeres tamizadas a los 35 y a los 45 años, y 90% de las lesiones precursoras y de los cánceres tratados;
     - en 2020 solo el 8% de los países de ingresos bajos y medios tenía vacunación; en el mundo, ~15% de las niñas y 4% de los niños tenían el esquema completo.
 
+> **◆ Fuente externa** · *posición de la OMS sobre vacunas contra el VPH, diciembre de 2022 (actualización posterior al DeVita)*
+>
+> - **9–14 años:** 1 o 2 dosis.
+> - **15–20 años:** 1 o 2 dosis.
+> - **≥21 años:** 2 dosis separadas por 6 meses.
+> - **Inmunocomprometidas o con VIH:** al menos 2 dosis y, si es posible, 3.
+> - La dosis única da una eficacia y una duración comparables a las de 2 dosis.
+
 ### P6 · Métodos de tamizaje y edades
 
 **Pregunta:** Mencione 3 métodos de tamizaje para cáncer cervicouterino y las edades e intervalos recomendados.
@@ -217,7 +233,7 @@ Esquema ⓓ (Grupo de Trabajo de Servicios Preventivos de EE. UU. 2018, respalda
 - de los 30 a los 65: citología cada 3 años o prueba conjunta cada 5;
 - suspender después de los 65 si el tamizaje previo fue negativo.
 
-▲ **Falta en las fuentes:** la edad de inicio según la Norma Oficial Mexicana, que se preguntó en clase.
+En México (NOM-014), el tamizaje va de los 25 a los 64 años; ver el recuadro ◆ al final de esta pregunta.
 
 **Desarrollo**
 
@@ -233,6 +249,17 @@ Esquema ⓓ (Grupo de Trabajo de Servicios Preventivos de EE. UU. 2018, respalda
     - tras una histerectomía total sin antecedente de NIC 2+: no se requieren más pruebas.
 - **Impacto** ⓓ: el tamizaje explica gran parte de la caída de la incidencia y la mortalidad, aunque la mortalidad ya bajaba antes del Papanicolaou.
 - **Tras el tratamiento del cáncer:** la citología no detecta bien las recurrencias (ver P40).
+
+
+> **◆ Fuente externa** · *NOM-014-SSA2-1994, modificación publicada en el Diario Oficial de la Federación el 31 de mayo de 2007 (México)*
+>
+> - **Población:** mujeres de **25 a 64 años**, con prioridad para las que nunca se han hecho citología y las que tienen factores de riesgo.
+> - **Métodos:**
+>     - **citología cervical**;
+>     - **visualización directa con ácido acético**, solo donde no hay infraestructura para citología;
+>     - **pruebas biomoleculares de VPH** (captura de híbridos, reacción en cadena de la polimerasa) como complemento; se usan en el algoritmo de **35 a 64 años**, con citología si el resultado es positivo.
+> - **Periodicidad:** citología anual; tras **2 citologías anuales consecutivas negativas**, cada **3 años**.
+> - **Diferencia:** la NOM empieza a los 25 años; la referencia estadounidense del DeVita, a los 21.
 
 ### P7 · Clasificaciones citológicas e histológicas de las lesiones precursoras
 
@@ -304,7 +331,15 @@ Esquema ⓓ (Grupo de Trabajo de Servicios Preventivos de EE. UU. 2018, respalda
     - células glandulares atípicas o adenocarcinoma in situ en la citología: colposcopía + muestreo endometrial si es mayor de 35 años o tiene riesgo endometrial;
     - adenocarcinoma in situ en la histología: escisión de 10 mm (hasta 20 mm si no hay deseo de embarazo); si se confirma, **histerectomía** preferida.
 - **Otras reglas:** citología refleja y genotipificación en toda prueba de VPH positiva. Tras LIEAG, NIC 2–3 o adenocarcinoma in situ, vigilancia cada 3 años durante al menos 25 años.
-- ▲ **Falta en las fuentes:** la técnica de la colposcopía (tinciones con ácido acético y Lugol).
+
+
+> **◆ Fuente externa** · *Estándares de colposcopía de la ASCCP, 2017*
+>
+> - **Secuencia:**
+>     - observar el cérvix tras limpiarlo con solución salina;
+>     - aplicar **ácido acético al 3–5%**: el epitelio anormal, con mucha densidad nuclear, se vuelve **acetoblanco**;
+>     - aplicar **solución de Lugol** (prueba de Schiller): el epitelio displásico, pobre en glucógeno, **no capta el yodo**.
+> - **Qué se documenta:** visibilidad de la **unión escamocolumnar**, presencia de acetoblanqueamiento, lesiones (tamaño, localización, bordes y contorno), patrón vascular e impresión colposcópica. La biopsia se dirige a las áreas más anormales.
 
 ### P9 · Conización
 
@@ -348,7 +383,13 @@ Esquema ⓓ (Grupo de Trabajo de Servicios Preventivos de EE. UU. 2018, respalda
 
 - ⓓ Se calcula el riesgo inmediato de NIC 3+: con ≥60% se prefiere tratamiento escisional inmediato; con 25–59% se acepta tratamiento o colposcopía con biopsia.
 - Por su deseo de embarazo, se individualiza.
-- ▲ Las fuentes no dan la cifra de riesgo para LIEAG con VPH 16.
+
+
+> **◆ Fuente externa** · *Guías de manejo basado en riesgo de la ASCCP, 2019*
+>
+> - LIEAG con VPH 16 positivo tiene un **riesgo inmediato de NIC 3+ del 60%**.
+> - En no embarazadas ≥25 años, el **tratamiento escisional inmediato es el preferido**, sin biopsia previa.
+> - Si a la paciente le preocupa su futuro embarazo, se decide de forma compartida; colposcopía con biopsia es aceptable.
 
 **C2. La biopsia dirigida reporta NIC 3 con sospecha de microinvasión. ¿Qué sigue?**
 
@@ -656,7 +697,19 @@ No: IVA exige invasión de la mucosa demostrada por biopsia.
 
 - Los ensayos de quimiorradioterapia excluyeron la función renal alterada ⓓ.
 - Si no tolera el cisplatino, la NCCN indica **carboplatino**.
-- ▲ **Falta en las fuentes:** el umbral de depuración de creatinina para contraindicar el cisplatino y la indicación de derivación urinaria (catéter doble J o nefrostomía).
+
+
+> **◆ Fuente externa** · *estudio del Grupo de Oncología Ginecológica sobre hidronefrosis en el estadio IIIB; series de derivación urinaria (2019–2024); consenso de no elegibilidad para cisplatino (Galsky, 2011)*
+>
+> - **Derivación urinaria:**
+>     - la hidronefrosis limita la quimioterapia con cisplatino y empeora el pronóstico;
+>     - el **catéter ureteral (doble J)** es el método preferido; la **nefrostomía percutánea**, si la obstrucción es grave o mide >3 cm;
+>     - ambos dan supervivencia similar y pueden recuperar la función renal.
+> - **No elegibilidad para cisplatino** (consenso nacido en cáncer urotelial; no existe uno propio del CaCu):
+>     - depuración de creatinina **<60 mL/min**;
+>     - hipoacusia de grado ≥2;
+>     - neuropatía de grado ≥2;
+>     - estado funcional ECOG 2.
 
 ---
 
@@ -840,10 +893,17 @@ Siempre con **estadificación ganglionar** (ganglio centinela o linfadenectomía
     - en el grupo del cono: 16 embarazos y supervivencia libre de recurrencia a 3 años del 94.8%;
     - sin recurrencias con la histerectomía simple;
     - por eso también se acepta cono + ganglios en el IA1 con invasión linfovascular.
-- **SHAPE** (histerectomía radical frente a simple) estaba en curso según DeVita.
+- **SHAPE** (histerectomía radical frente a simple) estaba en curso según DeVita; sus resultados están en el bloque externo de abajo.
 - **Tratamiento:** con deseo de fertilidad, cono + ganglios; sin deseo, histerectomía tipo A + ganglios. Ganglios positivos → adyuvancia (ver P27).
 - **Excluidos:** adenocarcinoma gástrico, adenoma maligno y neuroendocrino de células pequeñas; el de células claras no se ha estudiado.
 - ⚠ **Ojo:** el ganglio solo se omite en el IA1 sin invasión linfovascular.
+
+> **◆ Fuente externa** · *ensayo SHAPE (NEJM 2024; actualización posterior al DeVita; la NCCN no lo discute)*
+>
+> - 700 pacientes con estadio IA2–IB1 de bajo riesgo (≤2 cm y poca invasión estromal), asignadas a **histerectomía simple** o **radical**, con linfadenectomía pélvica en ambos brazos.
+> - La simple fue **no inferior** en recurrencia pélvica a 3 años; supervivencia libre de recurrencia del 96.3% frente al 97.8%.
+> - Con la simple hubo **menos complicaciones urológicas**: retención urinaria <1%.
+> - Confirma los criterios conservadores de la P23.
 
 ### P24 · Preservación de la fertilidad
 
@@ -914,8 +974,14 @@ Siempre con **estadificación ganglionar** (ganglio centinela o linfadenectomía
 - **Informe ganglionar (NCCN):**
     - número de ganglios con macrometástasis, micrometástasis y células tumorales aisladas;
     - las células aisladas se anotan como pN0(i+) y **no cambian el estadio**; las micrometástasis **sí** (IIIC).
-    - ▲ **Falta en las fuentes:** los umbrales en milímetros de cada categoría.
 - **Ventaja:** se extirpan pocos ganglios, con menos linfedema y menos linfoquistes que con la linfadenectomía completa.
+
+
+> **◆ Fuente externa** · *Comité Conjunto Estadounidense sobre el Cáncer, 8.ª edición*
+>
+> - **Células tumorales aisladas:** ≤0.2 mm o <200 células → pN0(i+).
+> - **Micrometástasis:** >0.2 mm y ≤2 mm → ganglio positivo.
+> - **Macrometástasis:** >2 mm.
 
 ### P26 · Vía abierta frente a mínima invasión
 
@@ -929,7 +995,16 @@ Siempre con **estadificación ganglionar** (ganglio centinela o linfadenectomía
 - **Antecedente** ⓓ: los estudios observacionales previos sugerían equivalencia con ventajas de estancia y recuperación.
 - **Confirmación** (NCCN y estudios epidemiológicos): mortalidad a 4 años del 9.1% frente al 5.3% (base SEER); en tumores ≥2 cm, supervivencia a 5 años del 81.3% frente al 90.8%; metaanálisis con un riesgo de recurrencia o muerte 71% mayor.
 - **Excepciones:** la histerectomía tipo A puede hacerse por mínima invasión; la traquelectomía radical por mínima invasión tiene categoría 2B.
-- ▲ **Falta en las fuentes:** la causa probada de la peor evolución. Ninguna de las dos la explica.
+
+
+> **◆ Fuente externa** · *estudio SUCCOR (cohorte europea, estadio IB1) y revisiones de 2024–2025*
+>
+> - La causa sigue sin probarse. Se sospecha de la técnica:
+>     - el **manipulador uterino**;
+>     - la exposición del tumor a la cavidad al abrir la vagina dentro del abdomen.
+> - En SUCCOR, la mínima invasión con manipulador tuvo una supervivencia libre de enfermedad del 73%, frente al 83% sin manipulador.
+> - Con **maniobras protectoras** (sin manipulador y con cierre vaginal antes de la colpotomía), los resultados fueron comparables a la cirugía abierta.
+> - Son datos observacionales: el estándar sigue siendo la laparotomía.
 
 ### P27 · Adyuvancia tras histerectomía radical
 
@@ -1070,8 +1145,23 @@ pN0(i+): no cambia el estadio; la adyuvancia se decide por los criterios de Sedl
     - ⓓ la quimioterapia concurrente aumenta significativamente las complicaciones hematológicas y gastrointestinales de la radioterapia;
     - ⓓ por comparación con el carboplatino, el cisplatino es más nefrotóxico, neurotóxico y emetógeno;
     - NCCN: los platinos causan con más frecuencia **reacciones alérgicas verdaderas**; ante una reacción grave no se readministran sin valoración por alergología o desensibilización.
-- ▲ **Falta en las fuentes:** el mecanismo molecular del cisplatino (aductos en el ADN e inhibición de la reparación), sus criterios de intolerancia y la ototoxicidad. Repasar en farmacología.
 - ⚠ **Ojo:** IB3 y IIA2 también son localmente avanzados.
+
+
+> **◆ Fuente externa** · *ficha técnica del cisplatino de la FDA y revisiones farmacológicas*
+>
+> - **Mecanismo:**
+>     - el platino se une al **N7 de las purinas** (sobre todo guaninas) y forma **enlaces cruzados** en el ADN;
+>     - el ~90% son intracatenarios entre guaninas adyacentes; también hay intercatenarios;
+>     - bloquea la replicación y la transcripción y desencadena apoptosis;
+>     - con la radiación, impide reparar el daño, de ahí su efecto radiosensibilizante.
+> - **Toxicidad:**
+>     - **nefrotoxicidad**, con pérdida de **magnesio**, potasio, calcio y fosfato;
+>     - **ototoxicidad** bilateral y progresiva de alta frecuencia, con acúfenos;
+>     - neuropatía periférica;
+>     - emesis intensa;
+>     - mielosupresión.
+> - **Criterios de no elegibilidad:** ver el bloque externo de P18.
 
 ### P31 · Radioterapia externa y braquiterapia
 
@@ -1148,10 +1238,18 @@ pN0(i+): no cambia el estadio; la adyuvancia se decide por los criterios de Sedl
 - **Fundamento de la inmunoterapia** ⓓ: el tumor tiene linfocitos T específicos contra el VPH y amplificación de PD-L1/PD-L2 en el 67%.
 - **Paclitaxel:** NCCN indica que causa con más frecuencia **reacciones infusionales** que alérgicas.
 - **Toxicidad de la inmunoterapia (NCCN):** remite a la guía de toxicidad por inhibidores de punto de control.
-- ▲ **Falta en las fuentes:**
-    - las dosis del pembrolizumab concurrente y del esquema INTERLACE;
-    - el mecanismo del paclitaxel (estabiliza los microtúbulos);
-    - la lista de efectos inmunomediados.
+
+
+> **◆ Fuente externa** · *KEYNOTE-A18 (Lancet 2024, supervivencia global); INTERLACE (Lancet 2024); revisiones farmacológicas del paclitaxel*
+>
+> - **Pembrolizumab (KEYNOTE-A18):**
+>     - dosis: **200 mg cada 3 semanas × 5** junto con la quimiorradioterapia (cisplatino 40 mg/m² semanal × 5) → **400 mg cada 6 semanas × 15** de mantenimiento;
+>     - **actualización posterior a la NCCN:** supervivencia global a 36 meses del **82.6% frente al 74.8%** (razón de riesgos 0.67).
+> - **INTERLACE:** **carboplatino AUC 2 + paclitaxel 80 mg/m² semanales × 6** → cisplatino 40 mg/m² semanal × 5 con radioterapia externa de 45–50.4 Gy + braquiterapia.
+> - **Paclitaxel:**
+>     - **estabiliza los microtúbulos** (favorece su ensamblaje e impide su despolimerización); el huso no se reorganiza y la célula se detiene en mitosis;
+>     - su vehículo (aceite de ricino polioxietilado) causa **hipersensibilidad**, por lo que se premedica con corticoide y antihistamínicos;
+>     - su toxicidad limitante es la **neuropatía periférica** acumulativa.
 
 ### P33 · Caso clínico: quimiorradioterapia definitiva
 
@@ -1167,7 +1265,7 @@ pN0(i+): no cambia el estadio; la adyuvancia se decide por los criterios de Sedl
 
 - Si no tolera el cisplatino, **carboplatino** (preferido en ese caso), que también puede combinarse con pembrolizumab.
 - ⓓ El carboplatino es menos nefrotóxico y neurotóxico.
-- ▲ La ototoxicidad del cisplatino no está en las fuentes.
+- La ototoxicidad del cisplatino aparece en el bloque externo de P30.
 
 **C3. ¿Por qué no basta con radioterapia de intensidad modulada sin braquiterapia?**
 
@@ -1224,7 +1322,16 @@ pN0(i+): no cambia el estadio; la adyuvancia se decide por los criterios de Sedl
 - **Respuesta menor en zonas irradiadas** ⓓ: la quimioterapia responde menos en la pelvis irradiada que en sitios no irradiados como el pulmón.
 - **Mantenimiento:** los inhibidores de punto de control y el bevacizumab se continúan según el protocolo.
 - **Paliación** ⓓ: en la enfermedad diseminada, el énfasis está en el control de síntomas, los analgésicos y la radioterapia local.
-- ▲ **Falta en las fuentes:** las dosis de cada esquema, salvo la del pembrolizumab.
+
+
+> **◆ Fuente externa** · *KEYNOTE-826 (NEJM 2021; análisis final ASCO 2023)*
+>
+> - **Dosis cada 3 semanas:**
+>     - paclitaxel **175 mg/m²**;
+>     - cisplatino **50 mg/m²** o carboplatino **AUC 5**;
+>     - ± bevacizumab **15 mg/kg**;
+>     - + pembrolizumab 200 mg (hasta 35 ciclos).
+> - **Análisis final:** el pembrolizumab redujo el riesgo de muerte un **40%** con CPS ≥1 y un 37% en toda la población.
 
 ### P35 · Segunda línea, terapia dirigida y terapia celular
 
@@ -1257,7 +1364,17 @@ pN0(i+): no cambia el estadio; la adyuvancia se decide por los criterios de Sedl
     - linfocitos infiltrantes del tumor: respuestas del 28% y del 44%; el producto LN-145 recibió designación de terapia innovadora en 2019;
     - linfocitos T con receptor modificado contra E6: enfermedad estable en 2 de 6 pacientes;
     - células T con receptor quimérico de antígeno (CAR-T): en investigación.
-- ▲ **Falta en las fuentes:** la toxicidad ocular de la tisotumab vedotina y su prevención, y la neumonitis del trastuzumab deruxtecán.
+
+
+> **◆ Fuente externa** · *fichas técnicas de la FDA (tisotumab vedotina, trastuzumab deruxtecán); aprobación agnóstica de la FDA en abril de 2024; DESTINY-PanTumor02*
+>
+> - **Tisotumab vedotina:**
+>     - advertencia en recuadro por **toxicidad ocular grave** (pérdida de visión, úlcera corneal);
+>     - prevención: gotas de corticoide antes de cada infusión y 3 veces al día durante 72 h; vasoconstrictor ocular justo antes; compresas frías durante la infusión; lubricante durante todo el tratamiento y 30 días después;
+>     - exploración oftalmológica antes de iniciar y antes de cada uno de los primeros 9 ciclos; evitar lentes de contacto.
+> - **Trastuzumab deruxtecán:**
+>     - advertencia en recuadro por **enfermedad pulmonar intersticial / neumonitis** (hasta 15%), que obliga a suspenderlo de forma definitiva desde el grado 2, y por toxicidad embriofetal;
+>     - aprobado en 2024 para cualquier tumor sólido con HER2 3+ tras tratamiento previo; en la cohorte cervical de DESTINY-PanTumor02, respuesta del 50%.
 
 ### P36 · Tratamiento de la recurrencia
 
@@ -1355,8 +1472,16 @@ No: las metástasis son múltiples y bilaterales, no oligometástasis.
 - **Esquema con radioterapia:** ciclos 1 y 2 concurrentes (días 1 y 22) y ciclos 3 y 4 después.
 - **Recurrencia:** platino/etopósido (preferido); otras opciones: + atezolizumab o durvalumab.
 - **Por qué platino/etopósido:** por su semejanza biológica con el carcinoma pulmonar de células pequeñas.
-- ▲ **Falta en las fuentes:** las dosis de cisplatino/etopósido y el mecanismo del etopósido (inhibidor de la topoisomerasa II).
 - ⚠ **Ojo:** es la única histología de CaCu en la que el algoritmo NCCN incluye quimioterapia neoadyuvante.
+
+
+> **◆ Fuente externa** · *revisión de la Sociedad de Oncología Ginecológica sobre tumores neuroendocrinos ginecológicos (2011) y revisiones recientes; revisiones farmacológicas del etopósido*
+>
+> - **Esquema más reportado:** cisplatino **60 mg/m² día 1** + etopósido **100 mg/m² días 1–3**, cada 21 días, con radioterapia y luego como adyuvancia; en total 4–6 ciclos.
+> - **Etopósido:**
+>     - "veneno" de la **topoisomerasa II**: estabiliza el complejo enzima-ADN cortado e impide religar la hebra;
+>     - genera roturas de doble cadena, actúa en las fases S y G2 y detiene la célula en G2/M;
+>     - toxicidad: mielosupresión y **leucemia secundaria**.
 
 ### P39 · Embarazo, muñón cervical y cáncer hallado tras histerectomía simple
 
@@ -1439,3 +1564,31 @@ No: las metástasis son múltiples y bilaterales, no oligometástasis.
     - fisioterapia del piso pélvico y terapia sexual;
     - resumen del tratamiento y plan de seguimiento coordinado con atención primaria.
 - **Complicaciones de la cirugía:** ver P22.
+
+---
+
+## Fuentes externas consultadas
+
+> Solo complementan las fuentes principales; cada dato externo del banco va en un recuadro **◆**.
+
+- **México:** NOM-014-SSA2-1994, modificación publicada en el Diario Oficial de la Federación el 31 de mayo de 2007 ([dof.gob.mx](https://www.dof.gob.mx/normasOficiales/2383/SALUD/SALUD.htm); [gob.mx](https://www.gob.mx/cms/uploads/attachment/file/10397/NOM-014-SSA2-1994.pdf)).
+- **Vacunación:** Organización Mundial de la Salud (OMS), actualización del esquema de vacunación contra el VPH, diciembre de 2022 ([who.int](https://www.who.int/news/item/20-12-2022-WHO-updates-recommendations-on-HPV-vaccination-schedule)).
+- **Sociedad Estadounidense de Colposcopía y Patología Cervical (ASCCP):**
+    - guías de manejo basado en riesgo 2019, Perkins et al., J Low Genit Tract Dis 2020 ([journals.lww.com](https://journals.lww.com/jlgtd/fulltext/2020/04000/2019_asccp_risk_based_management_consensus.3.aspx));
+    - estándares de colposcopía 2017 ([PMC5678988](https://pmc.ncbi.nlm.nih.gov/articles/PMC5678988/)).
+- **Biología molecular del VPH:** Oncogene 2025, "Ubiquitin and ubiquitin-like proteins in HPV-driven carcinogenesis" ([nature.com](https://www.nature.com/articles/s41388-025-03310-6)).
+- **Ensayos clínicos:**
+    - SHAPE: Plante et al., NEJM 2024 ([nejm.org](https://www.nejm.org/doi/pdf/10.1056/NEJMoa2308900));
+    - KEYNOTE-A18, supervivencia global: Lancet 2024 ([PubMed 39288779](https://pubmed.ncbi.nlm.nih.gov/39288779/));
+    - INTERLACE: McCormack et al., Lancet 2024 ([thelancet.com](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01438-7/fulltext));
+    - KEYNOTE-826: Colombo et al., NEJM 2021, y análisis final en ASCO 2023 ([nejm.org](https://www.nejm.org/doi/full/10.1056/NEJMoa2112435); [ascopubs.org](https://ascopubs.org/doi/abs/10.1200/JCO.2023.41.16_suppl.5500)).
+- **Cirugía de mínima invasión:** estudio SUCCOR ([clinicaltrials.gov NCT03958305](https://clinicaltrials.gov/study/NCT03958305); revisión de 2025 en [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S1048891X25008072)).
+- **Estadificación ganglionar:** Comité Conjunto Estadounidense sobre el Cáncer (AJCC), 8.ª edición, definiciones de células tumorales aisladas y micrometástasis.
+- **Fichas técnicas de la Administración de Alimentos y Medicamentos de EE. UU. (FDA):**
+    - cisplatino ([accessdata.fda.gov](https://www.accessdata.fda.gov/drugsatfda_docs/label/2022/018057s092lbl.pdf));
+    - tisotumab vedotina, advertencia en recuadro ([pfizermedical.com](https://www.pfizermedical.com/tivdak/boxed-warning));
+    - trastuzumab deruxtecán ([accessdata.fda.gov](https://www.accessdata.fda.gov/drugsatfda_docs/label/2024/761139s028lbl.pdf)).
+- **No elegibilidad para cisplatino:** Galsky et al., consenso de 2011 ([healio.com](https://www.healio.com/news/hematology-oncology/20120325/panel-proposes-consensus-definition-of-cisplatin-ineligibility-criteria)).
+- **Hidronefrosis en el estadio IIIB:** estudio del Grupo de Oncología Ginecológica ([sciencedirect.com](https://www.sciencedirect.com/science/article/abs/pii/S009082581000123X)); catéter ureteral frente a nefrostomía ([sciencedirect.com](https://www.sciencedirect.com/science/article/abs/pii/S0301211519303999)).
+- **Neuroendocrino de células pequeñas:** revisión de la Sociedad de Oncología Ginecológica (SGO) sobre tumores neuroendocrinos ginecológicos ([sgo.org](https://www.sgo.org/wp-content/uploads/2012/09/Neuroendocrine-paper_RESIZE.pdf)).
+- **Farmacología del etopósido:** PubMed 16101488 ([pubmed](https://pubmed.ncbi.nlm.nih.gov/16101488/)).
