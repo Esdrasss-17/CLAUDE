@@ -1,4 +1,4 @@
-# Cáncer de ovario: banco de 30 preguntas abiertas con respuesta desarrollada (NCCN v4.2026 + DeVita)
+# Cáncer de ovario: banco de 35 preguntas abiertas con respuesta desarrollada (NCCN v4.2026 + DeVita)
 
 > **Fuentes:** la guía NCCN de cáncer de ovario, trompa de Falopio y peritoneal primario v4.2026 y el capítulo 52 "Ovarian Cancer" del DeVita.
 >
@@ -1145,6 +1145,202 @@ Además, el ovario recibe **metástasis**: de trompa, endometrio, cérvix, mama,
 
 ---
 
+## 10. Preguntas complementarias
+
+### P31 · Reacciones a fármacos: de infusión frente a alérgicas
+
+**Pregunta:** Durante la quimioterapia con carboplatino/paclitaxel una paciente presenta una reacción aguda. ¿Cómo se distinguen las reacciones de infusión de las alérgicas verdaderas, qué fármaco causa típicamente cada una y cómo se manejan?
+
+**Respuesta corta:**
+
+| | Reacción de infusión | Reacción alérgica (alergia verdadera) |
+|---|---|---|
+| Fármaco típico | **Taxanos** (paclitaxel 27%, docetaxel), doxorrubicina liposomal, anticuerpos | **Platinos** (carboplatino 16%, cisplatino, oxaliplatino) |
+| Causa | Sobre todo el **excipiente** (Cremophor EL del paclitaxel, polisorbato 80 del docetaxel) | Sensibilización inmunitaria al fármaco |
+| Cuándo | **Primeros ciclos** | Tras **reexposición** o **muchos ciclos** (p. ej., ciclo 6, o al reintroducirlo en la recurrencia) |
+| Síntomas | Leves: rubor, exantema, fiebre, opresión torácica, escalofríos, dolor lumbar, cambios leves de presión | Graves: broncoespasmo, urticaria generalizada, hipotensión, taquicardia, síncope, náusea y vómito, sensación de muerte inminente; pueden persistir tras detener la infusión |
+| Manejo | Detener o **disminuir la velocidad**, antihistamínico H1; se puede **reintentar a velocidad más lenta** | Detener, antihistamínico H1, corticosteroide ± **adrenalina intramuscular**; no readministrar sin especialista; **desensibilización en cada infusión** |
+
+- **Adrenalina intramuscular 0.3 mL de solución 1 mg/mL** ante cualquier hipotensión (presión sistólica <90 mmHg) durante o poco después de la quimioterapia.
+- En paro cardiorrespiratorio: soporte vital cardiovascular avanzado.
+
+**Desarrollo**
+
+- **Factores de mayor riesgo de alergia (NCCN):**
+    - reintroducción del fármaco tras un periodo sin exposición, y múltiples ciclos en la primera o en exposiciones posteriores;
+    - vía intravenosa (más que la oral o la intraperitoneal);
+    - alergia a otros fármacos;
+    - reacción previa.
+- **Prevención (NCCN):** informar a la paciente y su familia de los signos (incluso tardíos, como el exantema días después), órdenes permanentes para emergencias y equipo de reanimación en el área de infusión.
+- **Reacción a platino según la gravedad:**
+    - leve, primera exposición: bajar la velocidad y antihistamínico H1;
+    - leve, segunda exposición o posteriores: considerar consulta con alergología y, si el equipo está de acuerdo y los signos vitales son estables, reintentar con premedicación (antihistamínico H1, antihistamínico H2 y corticosteroide);
+    - grave o que pone en riesgo la vida: no readministrar hasta valoración por un especialista en desensibilización; referir a un centro académico.
+- **Particularidad del platino:** una reacción leve puede volverse grave en la siguiente exposición, aun con infusión lenta. Por eso se recomiendan alergología y **pruebas cutáneas**.
+- **Desensibilización:** proceso que vuelve a la paciente menos reactiva al alérgeno. Debe repetirse **en cada infusión**, aunque los síntomas se hayan resuelto. La reinfusión lenta de un taxano **no** es una desensibilización.
+- **Cambio de taxano:** el paclitaxel unido a albúmina puede sustituir al paclitaxel cuando hay hipersensibilidad (no evita todas las reacciones de infusión); también se puede considerar el docetaxel, pero no hay datos que respalden el cambio y ha habido reacciones cruzadas graves.
+- ⓓ **CALYPSO** (recurrencia sensible a platino): con carboplatino/doxorrubicina liposomal hubo menos reacciones de hipersensibilidad, neuropatía sensitiva y alopecia que con carboplatino/paclitaxel.
+- ⚠ **Ojo:** la paciente que reacciona al carboplatino suele hacerlo **en la recurrencia** (reexposición), no en el primer ciclo. La reacción de los primeros ciclos orienta al **paclitaxel**.
+
+### P32 · Complicaciones de la enfermedad avanzada y procedimientos paliativos
+
+**Pregunta:** Mencione las complicaciones de la enfermedad avanzada o recurrente del cáncer de ovario y el procedimiento paliativo que corresponde a cada una.
+
+**Respuesta corta:**
+
+| Complicación | Procedimiento paliativo (NCCN) |
+|---|---|
+| **Ascitis** maligna con distensión | Paracentesis o catéter peritoneal permanente |
+| **Derrame pleural** maligno con disnea | Toracocentesis, pleurodesis, toracoscopia videoasistida o catéter pleural permanente |
+| **Obstrucción ureteral** con hidronefrosis | Catéter ureteral (stent) o nefrostomía |
+| **Oclusión intestinal** | Sonda de gastrostomía descompresiva, stent intestinal o cirugía (resección, ileostomía) |
+
+Se suman los **cuidados paliativos tempranos** y la valoración de la **tromboembolia**.
+
+**Desarrollo**
+
+- **Cómo se presentan** ⓓ:
+    - distensión abdominal por ascitis;
+    - síntomas gastrointestinales y **oclusión intestinal parcial** de intestino delgado;
+    - pérdida de peso por la presión intraabdominal sobre estómago e intestino, con anorexia;
+    - disnea por derrame pleural maligno;
+    - a veces el diagnóstico coincide con un **evento tromboembólico**. La tríada de **Virchow** (hipercoagulabilidad, estasis o turbulencia del flujo y daño endotelial) explica la asociación con la malignidad.
+- **Paracentesis** ⓓ: guiada por ecografía o tomografía; alivia la distensión y su citología puede confirmar ascitis maligna. Una citología negativa no descarta cáncer (falsos negativos por preparación del bloque celular).
+- **Oclusión intestinal:**
+    - ⓓ si la curación es improbable, la cirugía es paliativa: resección de intestino delgado, ileostomía o gastrostomía;
+    - ⓓ la sonda de gastrostomía colocada por radiología intervencionista alivia el vómito;
+    - NCCN (seroso de bajo grado recurrente): la oclusión intestinal es una de las situaciones en que se considera la citorreducción secundaria.
+- **Quién decide (NCCN):** los procedimientos paliativos se deciden con un cirujano oncólogo ginecológico o con alguien que conozca los patrones de recurrencia del cáncer de ovario.
+- **Enfermedad refractaria a platino** ⓓ: progresa durante el tratamiento, con CA-125 en ascenso y empeoramiento de la ascitis y de la función intestinal. La quimioterapia probablemente no beneficia; lo indicado es la **intervención temprana de cuidados paliativos** y, con estado funcional 0–2, buscar un ensayo clínico.
+- **Cuidados paliativos** ⓓ: integrarlos pronto mejora la calidad de vida y podría prolongar la supervivencia.
+- **Radioterapia paliativa (NCCN):** localizada, para síntomas o enfermedad oligometastásica, en los tumores de los cordones sexuales.
+
+### P33 · Caso clínico: tumor de la granulosa del adulto
+
+> Mujer de 56 años, posmenopáusica desde los 50, que consulta por sangrado transvaginal. La ecografía muestra endometrio engrosado y una masa anexial derecha sólida de 10 cm. No hay ascitis.
+
+**C1. ¿Qué tumor de ovario explica a la vez la masa y el sangrado?**
+
+- Un **tumor de células de la granulosa del adulto**, el tumor maligno de los cordones sexuales más frecuente.
+- ⓓ Produce **estrógenos**, que estimulan el endometrio: el sangrado se debe a **hiperplasia atípica o carcinoma de endometrio**. Se diagnostica hacia los 55 años.
+
+**C2. ¿Qué marcador se pide?**
+
+- **Inhibina**: apoya el diagnóstico prequirúrgico y se usa en el seguimiento (NCCN; ⓓ inhibina A y a veces B).
+- ⓓ Los estrógenos pueden estar elevados por la producción tumoral.
+- Ver P8: la inhibina B es más sensible (◆).
+
+**C3. ¿Qué cirugía se hace y qué debe incluir?**
+
+- Al no desear fertilidad: **estadificación quirúrgica completa** con histerectomía y salpingooforectomía bilateral.
+- La **linfadenectomía puede omitirse** (NCCN; ⓓ si no hay ganglios aumentados).
+- El útero se estudia por el riesgo de hiperplasia o carcinoma sincrónico. Si se conservara el útero (cirugía con preservación de la fertilidad), la NCCN pide **muestreo endometrial** para descartar un primario sincrónico o hiperplasia.
+
+**C4. ¿Qué rasgos confirma la patología?**
+
+ⓓ Núcleos en **grano de café**, **cuerpos de Call-Exner** y mutación de ***FOXL2*** en la mayoría.
+
+**C5. Resulta estadio IA. ¿Necesita adyuvancia? ¿Y si fuera IC por rotura?**
+
+- **Estadio I de bajo riesgo:** observación.
+- **Estadio I de alto riesgo** (IC con rotura o poco diferenciado) o **riesgo intermedio** (elementos heterólogos): observación o quimioterapia con platino (categoría 2B).
+- **Estadios II–IV:** quimioterapia con platino (**carboplatino/paclitaxel** preferido; EP o BEP, categoría 2B) o radioterapia para enfermedad limitada (categoría 2B).
+
+**C6. ¿Cómo se vigila y qué pronóstico tiene?**
+
+- **Seguimiento (NCCN):** exploración y marcadores cada **6–12 meses** si es temprano de bajo riesgo y cada **4–6 meses** si es de alto riesgo; imagen solo con síntomas, marcadores elevados o exploración sospechosa.
+- **Pronóstico:** suele ser **indolente** y diagnosticarse temprano (NCCN); ⓓ la mayoría se cura, pero en la enfermedad avanzada muere más del **80%**.
+- **Recurrencia (NCCN):** citorreducción secundaria, carboplatino/paclitaxel, **hormonoterapia** (inhibidores de la aromatasa; **leuprolida o goserelina**, específicas para la granulosa; tamoxifeno), bevacizumab o radioterapia localizada.
+- ⓓ El BEP tiene actividad, pero las respuestas no son duraderas.
+
+### P34 · Caso clínico: paciente de edad avanzada con enfermedad avanzada
+
+> Mujer de 78 años, hipertensa y diabética, con ECOG 2, albúmina de 2.9 g/dL y 7 medicamentos crónicos. Tiene ascitis, carcinomatosis extensa, derrame pleural derecho y CA-125 de 1,800 U/mL.
+
+**C1. ¿Cirugía primaria o neoadyuvancia?**
+
+- **Neoadyuvancia** seguida de cirugía de intervalo (categoría 1).
+- Es mala candidata quirúrgica: **edad avanzada, fragilidad, mal estado funcional, comorbilidad** y baja probabilidad de citorreducción óptima (ver P20).
+- La NCCN añade que la neoadyuvancia mejora los síntomas, aumenta la probabilidad de una cirugía de intervalo óptima y reduce procedimientos mórbidos como la resección intestinal.
+
+**C2. ¿Qué se necesita antes de iniciarla?**
+
+- Valoración por **ginecología oncológica**.
+- **Confirmación histológica** (biopsia o citología con cociente CA-125/CEA >25).
+- Pruebas germinales y somáticas de biomarcadores.
+- Toracocentesis con citología del derrame: si es maligno, el estadio es **IVA** (ver P16).
+
+**C3. ¿Qué esquema y dosis se usan en una paciente ≥70 años o con comorbilidades?**
+
+**Dosis alternativas (NCCN):**
+
+- **Carboplatino AUC 5 + paclitaxel 135 mg/m²** intravenosos cada 21 días, **3–6 ciclos**.
+- O semanal: **paclitaxel 60 mg/m² + carboplatino AUC 2** los días 1, 8 y 15, cada 21 días, 6 ciclos (18 semanas).
+
+**C4. ¿Se puede dar carboplatino solo, para reducir toxicidad?**
+
+- **Ya no se recomienda.** El ensayo GINECO/GCIG se cerró por peor supervivencia con carboplatino en monoterapia.
+
+**C5. ¿Qué toxicidad es más probable a su edad y qué predice la intolerancia?**
+
+- **Toxicidad (NCCN):** neutropenia febril, anemia, diarrea, astenia, tromboembolia e hipertensión por bevacizumab.
+- **Predictores de toxicidad grave, suspensión y peor supervivencia:** edad, **estado funcional**, depresión basal, linfopenia, **hipoalbuminemia** y número de medicamentos. Esta paciente tiene varios.
+- Se recomienda una valoración geriátrica (guía NCCN de oncología del adulto mayor).
+
+**C6. ¿Siempre se opera después?**
+
+- NCCN: en mayores de 75 años, la cirugía de intervalo da **mejor supervivencia** que la quimioterapia sola (ver P20).
+- Si hay respuesta o enfermedad estable: cirugía de intervalo; si hay progresión: tratamiento de enfermedad persistente.
+- ⚠ **Ojo:** la edad sola no contraindica el tratamiento. Lo que cambia es la **secuencia** (neoadyuvancia) y la **dosis**, según el estado funcional y la comorbilidad.
+
+### P35 · Caso clínico: disgerminoma y disgenesia gonadal
+
+> Mujer de 17 años con amenorrea primaria y desarrollo mamario escaso. Consulta por dolor y aumento de volumen abdominal. La ecografía muestra una masa pélvica sólida de 12 cm. LDH elevada; AFP y β-hCG normales; prueba de embarazo negativa.
+
+**C1. ¿Qué tumor es el más probable y por qué?**
+
+- Un **tumor germinal maligno**: es el tumor de ovario predominante en adolescentes y jóvenes (NCCN; mediana de 16–20 años).
+- El perfil **LDH alta con AFP normal** orienta a **disgerminoma** (ⓓ también eleva la fosfatasa alcalina). Una AFP alta haría pensar en saco vitelino (ver P10).
+- NCCN: en menores de 35 años con masa pélvica se miden AFP, LDH y β-hCG y se **descarta el embarazo**.
+
+**C2. ¿Qué rasgos tiene el disgerminoma?** ⓓ
+
+- **Radiosensible**.
+- **Bilateral en 10%** (el resto de los germinales casi siempre son unilaterales).
+- Infiltrado **linfocitario**.
+- Muy quimiosensible, como todos los germinales.
+
+**C3. ¿Qué sugiere la amenorrea primaria y qué estudio falta?**
+
+- La **disgenesia gonadal es factor de riesgo** de tumores germinales (NCCN).
+- Falta el **cariotipo**.
+
+> **◆ Fuente externa** · *reportes de caso y revisiones sobre la disgenesia gonadal 46,XY (síndrome de Swyer), PubMed Central 2009–2025*
+>
+> - En la **disgenesia gonadal pura 46,XY (síndrome de Swyer)**, el fenotipo es femenino, con amenorrea primaria e hipogonadismo hipergonadotrópico.
+> - Las gónadas disgenéticas con material del **cromosoma Y** tienen un riesgo de por vida de **gonadoblastoma y disgerminoma de 30–45%**, que aumenta con la edad. El disgerminoma suele surgir de un gonadoblastoma previo (coexisten en ~50%).
+> - Se recomienda **gonadectomía bilateral**, de preferencia laparoscópica, al hacer el diagnóstico, y **terapia hormonal** de por vida.
+
+**C4. ¿Se preserva la fertilidad?**
+
+- En el tumor germinal la regla es la **cirugía con preservación de la fertilidad en cualquier estadio** (NCCN), con estadificación, que puede omitirse en niñas y adolescentes con enfermedad temprana aparente.
+- ⚠ **Ojo:** si el cariotipo confirma una gónada disgenética con cromosoma Y, la gónada contralateral **no es funcional** y conserva el riesgo de malignidad; por eso se extirpa también (◆ arriba).
+
+**C5. ¿Qué tratamiento posoperatorio necesita?**
+
+- **Estadio I:** observación con vigilancia (NCCN; ⓓ el DeVita solo exime al **IA**; ver P29).
+- **Estadios II–IV:** **BEP 3–4 ciclos**, con **pruebas de función pulmonar** antes de la bleomicina.
+- **Alternativa menos tóxica:** carboplatino 400 mg/m² el día 1 + etopósido 120 mg/m² los días 1–3, cada 28 días × **3 ciclos**, en pacientes seleccionadas resecadas en quienes minimizar la toxicidad es crítico.
+- **Diferencia dentro de la NCCN:** el algoritmo indica esta alternativa en los estadios II–III; la discusión, en los IB–III.
+- **No reducir ni retrasar las dosis**, aunque haya neutropenia.
+
+**C6. ¿Cómo se vigila?**
+
+- Exploración física, **marcadores** (aquí la LDH) e imagen periódicos, según la tabla de vigilancia de la NCCN (ver P27).
+- ⓓ El pronóstico es excelente.
+
+---
+
 ## Fuentes externas consultadas
 
 > Solo complementan las fuentes principales; cada dato externo del banco va en un recuadro **◆**.
@@ -1162,3 +1358,4 @@ Además, el ovario recibe **metástasis**: de trompa, endometrio, cérvix, mama,
 - **Farmacología:**
     - etopósido: PubMed 16101488 ([pubmed](https://pubmed.ncbi.nlm.nih.gov/16101488/));
     - daño pulmonar por bleomicina: revisión de 2013 ([Wiley](https://onlinelibrary.wiley.com/doi/10.1155/2013/480608)).
+- **Disgenesia gonadal 46,XY (síndrome de Swyer):** riesgo de gonadoblastoma/disgerminoma y gonadectomía bilateral ([PMC 2025](https://pmc.ncbi.nlm.nih.gov/articles/PMC13357980/); [PMC revisión 2024](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10856735/); [PubMed 19472738](https://pubmed.ncbi.nlm.nih.gov/19472738/)).
