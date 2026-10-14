@@ -481,6 +481,547 @@
     - cáncer colorrectal hereditario no polipósico (HNPCC): prueba de inestabilidad de microsatélites en el tumor (o IHQ); si es positiva, secuenciar MLH1 y MSH2; si se halla la mutación, estudiar a la familia.
 - La NCCN considera definitiva para Lynch la identificación de una mutación germinal en un gen de reparación por secuenciación, pero normalmente se selecciona a los pacientes con la historia familiar y una prueba inicial en el tumor.
 
+## 5. Tamizaje
+
+### 5.1 Principios y elección del método
+
+**Conducta**
+
+- Tamizar para detectar y resecar los pólipos precursores y diagnosticar el cáncer en etapa temprana: la colonoscopia con polipectomía es una causa importante del descenso de la incidencia y de la mortalidad del cáncer colorrectal (CCR).
+- Elegir el método considerando simplicidad y rapidez (que favorecen la adherencia), relación beneficio-riesgo, sensibilidad, especificidad, costo-efectividad y otros factores económicos. Considerando todos ellos, la colonoscopia óptica es probablemente el método más eficaz.
+- Completar con colonoscopia todo resultado positivo de una prueba no colonoscópica (sangre oculta en heces, sigmoidoscopia, enema de bario o colonografía), porque solo la colonoscopia permite la polipectomía y la biopsia.
+- Incluir el tacto rectal en la exploración física general: permite palpar masas anorrectales.
+- No aplicar el tamizaje a personas con síntomas o sangrado digestivo oculto o agudo: en ellas la colonoscopia es diagnóstica (ver 6 y 7).
+
+**Fundamento**
+
+- Colonoscopia óptica: el método más sensible; permite la visualización directa, la resección de pólipos (limitada por su tamaño y localización) y la biopsia. Desventajas: la preparación, su carácter invasivo y sus complicaciones, incluida la perforación (< 1%).
+- Sigmoidoscopia flexible: no requiere sedación consciente ni monitorización hemodinámica, pero solo visualiza el recto, el sigmoide y el colon descendente hasta el ángulo esplénico; por eso no debe usarse como medida única y se combina con otra prueba. El aumento relativo del cáncer de colon derecho (ver 1.4) refuerza esta limitación.
+- Enema de bario: visualiza todo el colon, con preparación sencilla y sin sedación, pero requiere experiencia para valorar el recto y puede pasar por alto pólipos pequeños; si muestra un pólipo o una masa, se necesita colonoscopia para resecarla o biopsiarla.
+- En personas ≥ 50 años nunca tamizadas, 25–40% tiene un adenoma y 0.5–2.0% un carcinoma invasor (ver 1.1), lo que da al tamizaje un alto rendimiento.
+
+### 5.2 Población de riesgo promedio: edad, métodos e intervalos
+
+**Conducta**
+
+- Definir riesgo promedio (DeVita): hombre o mujer mayor de 45 años sin antecedente personal ni familiar de pólipos adenomatosos o de cáncer colorrectal (CCR) y sin sangrado digestivo oculto ni agudo.
+- Iniciar el tamizaje a los 45 años (ver 1.2).
+- Ofrecer una de las opciones del panel de consenso gastrointestinal (DeVita, tabla 40.6):
+    1. Prueba de sangre oculta en heces anual: con guayaco (con restricción dietética) o inmunoquímica (sin restricción dietética); se examinan dos muestras de cada una de tres evacuaciones consecutivas, sin rehidratarlas; cualquier muestra positiva obliga a colonoscopia.
+    2. Sigmoidoscopia flexible cada 5 años.
+    3. Sangre oculta en heces anual más sigmoidoscopia flexible cada 5 años; si se hacen ambas, primero la prueba de sangre oculta.
+    4. Colonoscopia cada 10 años.
+    5. Enema de bario con doble contraste cada 5 años.
+- † Edad de término (no especificada en las fuentes): la U.S. Preventive Services Task Force (USPSTF) recomienda tamizar de 45 a 75 años, individualizar de 76 a 85 años según salud previa y tamizajes anteriores, y no tamizar después de los 85 años.
+
+**Fundamento**
+
+- Contraste normativo: la tabla de DeVita procede de recomendaciones de 2000 y 2003 (American College of Gastroenterology y panel de consenso gastrointestinal), elaboradas cuando el tamizaje de riesgo promedio empezaba a los 50 años e incluía el enema de bario. La American Cancer Society (ACS) bajó la edad de inicio a 45 años, y la mayoría de las organizaciones adoptó el cambio; DeVita ya define el riesgo promedio a partir de los 45 años.
+- La prueba inmunoquímica fecal no requiere restricción dietética, a diferencia de la de guayaco.
+- La ventaja de la colonoscopia cada 10 años es que el mismo procedimiento detecta y reseca el pólipo; la de las pruebas fecales es su sencillez, a costa de una periodicidad anual y de la necesidad de colonoscopia si son positivas.
+
+### 5.3 Población de riesgo aumentado
+
+**Conducta**
+
+- Historia familiar de cáncer colorrectal (CCR) o de pólipos: si un familiar de primer grado (padre, hermano o hijo) tuvo cáncer de colon o pólipo adenomatoso diagnosticado antes de los 60 años, o si dos familiares de primer grado tuvieron CCR a cualquier edad, hacer colonoscopia desde los 40 años o desde 10 años antes del diagnóstico familiar más temprano (lo que ocurra primero) y repetirla cada 5 años (DeVita).
+- Poliposis adenomatosa familiar (PAF): sigmoidoscopia flexible desde los 10–12 años, prueba genética y endoscopia superior con endoscopio de visión lateral cada 1–3 años (ver 4.5).
+- Cáncer colorrectal hereditario no polipósico (síndrome de Lynch): colonoscopia cada 1–2 años desde los 20–25 años o desde 10 años antes del caso familiar más joven, lo que ocurra primero; prueba genética y considerar tamizaje uterino y ovárico con histeroscopia y ultrasonido transvaginal (ver 4.4).
+- Antecedente personal de pólipos adenomatosos:
+    - uno o más pólipos malignos o grandes y sésiles, o colonoscopia incompleta: colonoscopia de control a corto plazo;
+    - tres o más pólipos: colonoscopia a los 3 años;
+    - uno o dos pólipos < 1 cm: colonoscopia a los 5 años o más.
+- Antecedente personal de CCR (DeVita): si la colonoscopia del diagnóstico fue incompleta por obstrucción, repetirla 6 meses después de la resección; si fue completa, repetirla a los 3 años y, si es normal, cada 5 años. La NCCN establece su propio calendario posresección (ver 15.1).
+- Enfermedad inflamatoria intestinal (colitis ulcerosa o colitis de Crohn): colonoscopia de vigilancia.
+- Portadoras de mutación de BRCA1: se ha propuesto tamizaje más temprano (ver 2.1).
+
+**Fundamento**
+
+- El riesgo crece con el número de familiares afectados y con una menor edad al diagnóstico (ver 2.1), lo que justifica adelantar el inicio y acortar los intervalos.
+- En el síndrome de Lynch la progresión de adenoma a carcinoma es acelerada, en pólipos diminutos y a veces planos, lo que exige intervalos de 1–2 años.
+- Contraste normativo: frente al intervalo de 5 años de la tabla de DeVita, la NCCN cita un ensayo aleatorizado según el cual la mayoría de las personas sin antecedente personal de CCR y con un familiar de primer grado diagnosticado antes de los 50 años, o con dos familiares de primer grado diagnosticados a cualquier edad, puede tamizarse con seguridad con colonoscopia cada 6 años. La NCCN remite el detalle a su guía de tamizaje de CCR.
+- Las colonoscopias tras la resección de un CCR buscan sobre todo pólipos metacrónicos, porque el riesgo de un segundo cáncer es mayor, en especial en los 2 primeros años (ver 15.1).
+
+### 5.4 Métodos no invasivos y emergentes
+
+**Conducta**
+
+- Considerar la colonografía por tomografía computarizada (TC) como alternativa viable a la colonoscopia óptica en población de riesgo promedio y alto, con la condición de completar con colonoscopia si detecta pólipos o masas.
+- Considerar la cápsula de colon en personas que no desean o no pueden someterse a colonoscopia.
+- Tratar las pruebas en sangre y las nuevas pruebas en heces como opciones en validación según DeVita.
+
+**Fundamento**
+
+- Colonografía por TC:
+    - sensibilidad de 82.9% y 87.9% para adenomas ≥ 6 mm y ≥ 10 mm, con especificidad de 91.4% y 97.6%, respectivamente [detecta bien los adenomas grandes, menos los pequeños];
+    - sensibilidad de 96.1% para cáncer, sin heterogeneidad en 49 estudios a pesar de la variación de técnica, por lo que se considera clínicamente equivalente a la colonoscopia para la detección de cáncer;
+    - las ventajas en costos y adherencia a largo plazo siguen en debate; predice bien los tumores T3–T4, aunque su utilidad en la estadificación del colon no está definida.
+- Colonografía por resonancia magnética: factible, con algunas ventajas en estudios clínicos.
+- Cápsula de colon (PillCam Colon 2, de segunda generación): sensibilidad cercana a 90% para lesiones significativas; requiere preparación intestinal, pero no intubación, insuflación ni sedación, con complicaciones mínimas y alta aceptación (78% de los pacientes la prefirió sobre la colonografía o la colonoscopia); faltan datos de beneficio, costo y eficacia a largo plazo en riesgo promedio.
+- Prueba multiobjetivo de ADN en heces (combinada con prueba inmunoquímica fecal): especificidad de 90% y sensibilidad de 98% para cáncer, y sensibilidad de 83% para adenoma avanzado con displasia de alto grado.
+- Prueba en sangre Epi proColon: no inferior a la prueba inmunoquímica fecal en resultados preliminares de un estudio comparativo multicéntrico.
+- Líneas futuras: pruebas en heces que estratifiquen a las personas en riesgo alto, moderado o bajo para ajustar el método y la frecuencia del tamizaje, y genómica funcional para descubrir genes ligados a detección, pronóstico y tratamiento.
+
+## 6. Manifestaciones clínicas
+
+### 6.1 Síntomas y signos según la localización
+
+**Conducta**
+
+- Sospechar cáncer colorrectal (CCR) ante sangrado digestivo bajo, cambio del hábito intestinal, dolor abdominal, pérdida de peso, cambio del apetito o debilidad, y considerar de alarma los síntomas obstructivos.
+- Orientar la localización por el tipo de sangrado y de síntomas:
+    - colon izquierdo y recto: sangre roja brillante por el recto, estreñimiento, distensión abdominal y obstrucción;
+    - colon derecho: melena o sangrado oculto (sangre oculta en heces positiva), anemia ferropénica por pérdida crónica y evolución más insidiosa.
+- Explorar en busca de masa palpable, adenopatías, hepatomegalia, ictericia y signos pulmonares, que sugieren enfermedad metastásica.
+- En todo adulto con anemia ferropénica sin causa evidente, investigar el colon, porque el sangrado crónico del tumor es la presentación más frecuente de la hemorragia.
+
+**Fundamento**
+
+- Aparte de los síntomas obstructivos, los demás no se correlacionan con el estadio ni orientan a un diagnóstico particular; por eso la evaluación completa es obligatoria aunque los síntomas parezcan leves.
+- La obstrucción por cáncer de colon ocurre sobre todo en el sigmoide o el colon izquierdo y produce distensión abdominal y estreñimiento, mientras que los tumores derechos son más insidiosos: el colon ascendente necesita un tumor más grande para obstruirse por completo. † La luz más estrecha del colon izquierdo y su contenido fecal sólido, frente al calibre mayor y el contenido líquido del colon derecho, explican esta diferencia.
+- La hemorragia que pone en riesgo la vida por un primario de colon es rara; con más frecuencia el tumor causa pérdida crónica de sangre y anemia.
+- El sangrado al diagnóstico no tiene valor pronóstico: la hipótesis de que permitiría un diagnóstico más temprano y mejor pronóstico no se confirmó en análisis multivariados.
+- Las neoplasias del apéndice se presentan con un cuadro similar a la apendicitis (ver 3.5).
+- En menores de 50 años el CCR tiende a diagnosticarse en estadios más avanzados (ver 1.2).
+
+### 6.2 Presentación complicada: obstrucción, hemorragia y perforación
+
+**Conducta**
+
+- Obstrucción por un tumor resecable (algoritmo NCCN, COL-3): opciones
+    - colectomía en un tiempo con extirpación en bloque de los ganglios regionales;
+    - resección con derivación (estoma);
+    - derivación sola, seguida de colectomía con extirpación en bloque de los ganglios regionales;
+    - endoprótesis (stent) en casos seleccionados, seguida de colectomía.
+- Reservar la endoprótesis sobre todo para lesiones distales: descomprime el colon proximal y permite después una cirugía electiva con anastomosis primaria, lo que convierte una urgencia en un procedimiento programado con tiempo para reanimar al paciente, preparar el intestino y planear el tratamiento.
+- Decisiones intraoperatorias (DeVita):
+    - lo ideal es explorar, resecar el tumor y hacer anastomosis primaria con o sin derivación;
+    - como se opera sobre intestino no preparado y el paciente puede estar en malas condiciones, considerar la resección sin anastomosis con colostomía terminal;
+    - si la resección es técnicamente difícil en un paciente agudamente deshidratado y enfermo, hacer una descompresión rápida y de baja morbilidad (colostomía transversa en asa, o colostomía con fístula mucosa) y una resección definitiva en una segunda exploración, tras reanimar y preparar al paciente;
+    - reservar las derivaciones internas (bypass) para circunstancias extremas, por sus complicaciones (nuevas obstrucciones y fugas con sepsis abdominal).
+- Usar la endoprótesis también como paliación definitiva de lesiones irresecables.
+- Ofrecer educación preoperatoria sobre el estoma y marcaje del sitio por un terapeuta enterostomal a todo paciente en quien se prevé un estoma, porque mejora los resultados.
+- No usar de rutina la vía mínimamente invasiva en tumores con obstrucción aguda o perforados (ver 10.4).
+- Hemorragia: contemporizar con fulguración endoscópica y transfusión; el tratamiento definitivo de la lesión es la cirugía o la radioterapia. La embolización angiográfica solo ofrece una solución temporal.
+- Considerar la obstrucción y la perforación localizada como rasgos de alto riesgo para decidir la adyuvancia en el estadio II (ver 11.2).
+
+**Fundamento**
+
+- La obstrucción por el primario no es infrecuente; el problema inmediato es la obstrucción aguda, y después el tratamiento oncológico.
+- Endoprótesis metálica autoexpandible como puente a la cirugía en la obstrucción maligna izquierda:
+    - un metaanálisis y el ensayo aleatorizado europeo ESCO mostraron resultados oncológicos similares a los de la cirugía de urgencia (NCCN);
+    - un ensayo pequeño mostró menos morbilidad perioperatoria y menos estomas; una revisión sistemática grande de 2019 no encontró diferencias en supervivencia ni en recurrencia frente a la resección de urgencia;
+    - contraste: un análisis con puntaje de propensión encontró peor supervivencia y mayor mortalidad específica con la endoprótesis, por lo que sus autores la reservaron para paliación o para pacientes con alto riesgo de mortalidad posoperatoria; una serie belga con 10 años de seguimiento (éxito técnico de 94.8%) mostró supervivencia similar a la nacional.
+- Estoma derivativo como puente: frente a la resección de urgencia permitió más resecciones laparoscópicas y anastomosis primarias, menor mortalidad a 90 días (sobre todo en > 70 años), mejor supervivencia global a 3 años y menos estomas permanentes. Frente a la endoprótesis, el estoma logra más anastomosis primarias y menos complicaciones mayores, y la endoprótesis requiere menos estomas tras la resección, pero causa más íleo y reoperaciones; los resultados oncológicos intermedios son similares. Un metaanálisis de la NCCN mostró menor probabilidad de colostomía permanente con derivación seguida de colectomía que con colectomía inmediata, con mortalidad y morbilidad a 30 días iguales.
+- Escenarios en investigación:
+    - cáncer derecho obstructivo, tratado casi siempre con resección de urgencia: el tratamiento escalonado (endoprótesis o sonda de descompresión y después resección) se asoció a menor mortalidad, menos complicaciones, menos fugas anastomóticas y menos estomas;
+    - quimioterapia neoadyuvante tras la descompresión en la enfermedad obstructiva: en el primer ensayo prospectivo la respuesta objetiva fue de 67.4%, sin aumento marcado de la morbilidad, con supervivencia mejor que la descrita para el CCR obstructivo.
+- Pronóstico de la presentación complicada:
+    - la obstrucción empeora el pronóstico de forma independiente del estadio, con supervivencia actuarial a 5 años de 31% frente a 59% en controles históricos [la obstrucción casi reduce a la mitad la supervivencia]; el efecto es mayor en el colon derecho, porque el tumor necesario para obstruirlo es más grande y ha tenido más tiempo para crecer y diseminarse;
+    - la perforación localizada se asoció a supervivencia a 5 años de 44% y, en el análisis multivariado del Gastrointestinal Tumor Study Group (GITSG), fue factor pronóstico adverso solo para la supervivencia libre de enfermedad.
+
+### 6.3 Enfermedad metastásica y hallazgos de laboratorio
+
+**Conducta**
+
+- Solicitar biometría hemática, perfil bioquímico y antígeno carcinoembrionario (ACE) en todo paciente con sospecha de cáncer colorrectal (CCR) (ver 7.3).
+- Interpretar los hallazgos:
+    - anemia ferropénica: pérdida crónica de sangre por el tumor;
+    - alteraciones electrolíticas († por pérdidas digestivas, vómito u obstrucción);
+    - alteración de las pruebas de función hepática († orienta a metástasis hepáticas u obstrucción biliar, que se confirman por imagen);
+    - ACE elevado: no diagnostica el cáncer, pero su mayor utilidad es vigilar al paciente después de la cirugía si se normaliza tras la resección (ver 8.1).
+- Ante disfunción de un órgano a distancia (hígado, pulmón), estudiar como enfermedad metastásica (ver 7.4).
+
+**Fundamento**
+
+- Las complicaciones del CCR incluyen la hemorragia digestiva aguda, la obstrucción aguda, la perforación y las metástasis con alteración de la función de órganos distantes.
+- Signos de enfermedad metastásica: adenopatías, hepatomegalia, ictericia y signos pulmonares.
+- Las metástasis pulmonares ocurren en cerca de 4–9% de los pacientes con cáncer de colon y recto, lo que justifica la TC de tórax en la estadificación (ver 7.3).
+- † El drenaje venoso portal del colon explica que el hígado sea el sitio más frecuente de metástasis hematógenas (ver 3.2); en la enfermedad avanzada, la diseminación peritoneal define la categoría M1c, de peor pronóstico (ver 9.1).
+
+## 7. Abordaje diagnóstico y estudio de extensión
+
+### 7.1 Secuencia diagnóstica general y estudios que no se piden
+
+**Conducta**
+
+- Seguir esta secuencia, que integra la NCCN y DeVita:
+    1. Interrogatorio completo con historia familiar dirigida (síndromes hereditarios, edad de los familiares afectados) y exploración física completa, incluido el tacto rectal; aplicar el termómetro de malestar emocional y la lista de problemas de la NCCN, que incluye los determinantes sociales de la salud.
+    2. Colonoscopia total con biopsia de la lesión y marcaje (tatuaje) del sitio cuando corresponda, para descartar lesiones sincrónicas y guiar la cirugía.
+    3. Revisión anatomopatológica: confirmar adenocarcinoma invasor (pT1 o más; el pTis no tiene potencial biológico de metastatizar) y solicitar la prueba universal del sistema de reparación de errores de apareamiento (MMR) o de inestabilidad de microsatélites (MSI).
+    4. Laboratorio: biometría hemática completa, perfil bioquímico y antígeno carcinoembrionario (ACE).
+    5. Imagen: tomografía computarizada (TC) de tórax, abdomen y pelvis con contraste; resonancia magnética (RM) en las situaciones que se indican en 7.5.
+    6. Clasificar la presentación en uno de los tres escenarios del algoritmo: pólipo con cáncer invasor (COL-1; ver 7.2), cáncer no metastásico candidato a resección (COL-2; ver 7.3) o sospecha o confirmación de metástasis (COL-2A; ver 7.4).
+    7. Ramificar el tratamiento según el estado molecular: sistema competente (pMMR) o estabilidad de microsatélites (MSS) frente a deficiencia (dMMR), inestabilidad alta (MSI-H) o mutación de POLE/POLD1 con fenotipo ultrahipermutado.
+    8. Integrar a oncología médica, oncología radioterápica y cirugía oncológica en un plan de tratamiento óptimo.
+- No pedir «todo el bloque de rutina»; las fuentes indican explícitamente qué no solicitar:
+    - tomografía por emisión de positrones con TC con fluorodesoxiglucosa (FDG-PET/TC) en la estadificación del cáncer no metastásico ni del pólipo maligno, ni de forma rutinaria en enfermedad metastásica o en el seguimiento;
+    - antígeno carbohidrato 19-9 (CA 19-9) y otros marcadores séricos distintos del ACE: no tienen papel en el manejo rutinario;
+    - ultrasonido transabdominal para estadificar: no se usa de rutina (en investigación);
+    - nivel de vitamina D (ver 2.3) y prueba del ligando 1 de muerte programada (PD-L1): no recomendados;
+    - pruebas moleculares repetidas después de quimioterapia citotóxica estándar, y prueba de HER2 en tumores con mutación conocida de RAS o BRAF (ver 7.4).
+
+**Fundamento**
+
+- Todo paciente con cáncer de colon debe recibir orientación sobre su historia familiar y considerarse para evaluación de riesgo; la sospecha de síndrome de Lynch, de poliposis adenomatosa familiar (PAF) o de PAF atenuada remite a la guía NCCN de alto riesgo genético y familiar (ver 4).
+- La prueba universal de MMR o MSI en el diagnóstico ayuda a detectar el síndrome de Lynch y orienta la decisión terapéutica (ver 8.2).
+- La FDG-PET/TC suele hacerse sin contraste y con cortes que no sustituyen la TC diagnóstica contrastada; no detecta lesiones subcentimétricas, puede negativizarse de forma transitoria tras la quimioterapia (lesiones necróticas) y da falsos positivos por inflamación posquirúrgica o infección.
+- El ultrasonido transabdominal tuvo una exactitud de 64% para la categoría T, que subió a 89% al agrupar en tres niveles (Tis/T1, T2 y T3/T4) [insuficiente para uso rutinario].
+- Para el cáncer de recto se requieren estudios adicionales del primario (RM o ultrasonido endoscópico), que no forman parte del estudio del colon.
+- Herramientas de la guía NCCN de oncología geriátrica: apoyan la evaluación y la atención óptimas de los adultos mayores con cáncer (ver 7.6).
+
+### 7.2 Pólipo pediculado o sésil (adenoma) con cáncer invasor: estudio (COL-1)
+
+**Conducta**
+
+- Estudio inicial de todo pólipo con cáncer invasor:
+    - revisión de la patología para confirmar el cáncer invasor (pT1);
+    - colonoscopia;
+    - marcaje del sitio del pólipo canceroso durante la colonoscopia o en las 2 semanas siguientes, si procede;
+    - prueba de MMR o MSI.
+- Si el espécimen está fragmentado, si el margen no puede evaluarse o si hay rasgos histológicos desfavorables, completar el estudio antes de la colectomía:
+    - biometría hemática, perfil bioquímico y antígeno carcinoembrionario (ACE);
+    - TC de tórax, abdomen y pelvis;
+    - considerar RM de pelvis para la estadificación local y la extensión;
+    - FDG-PET/TC no indicada.
+- Decidir entre observación y colectomía según los criterios histológicos y de margen (ver 10.1).
+
+**Fundamento**
+
+- Pólipo maligno: el cáncer atraviesa la muscular de la mucosa e invade la submucosa (pT1). El carcinoma in situ (pTis) no penetra la submucosa, no se considera «pólipo maligno» y no puede dar metástasis ganglionares regionales (ver 3.1).
+- El marcaje permite localizar el sitio en una cirugía posterior, porque la profundidad de inserción del colonoscopio flexible es muy inexacta (ver 10.2).
+- Antes de decidir la resección quirúrgica de un pólipo resecado por endoscopia, el médico debe revisar la patología y consultar al paciente.
+- Otras presentaciones remiten a sus propias guías NCCN: adenocarcinoma apendicular (ver 3.5), adenocarcinoma de intestino delgado y mesotelioma peritoneal u otros mesoteliomas extrapleurales.
+
+### 7.3 Cáncer de colon no metastásico candidato a resección: estudio (COL-2)
+
+**Conducta**
+
+- Solicitar:
+    - biopsia y revisión anatomopatológica;
+    - prueba de MMR o MSI;
+    - en los estadios II–III, prueba de alteraciones somáticas de la vía de la fosfatidilinositol 3-cinasa (PI3K), porque, si existen, se indica aspirina adyuvante (ver 8.7);
+    - colonoscopia total;
+    - TC de tórax, abdomen y pelvis con contraste intravenoso y oral;
+    - considerar RM de abdomen y pelvis (por ejemplo, tumor sigmoide bajo, para distinguir colon de recto);
+    - biometría hemática, perfil bioquímico y ACE;
+    - discusión y asesoramiento sobre riesgos para la fertilidad en los pacientes que corresponda.
+- No solicitar FDG-PET/TC.
+- Antes de iniciar capecitabina o fluorouracilo, considerar la prueba de variantes de DPYD (dihidropirimidina deshidrogenasa) por la advertencia en recuadro de la Food and Drug Administration (FDA) (ver 8.9).
+- Si la TC de abdomen y pelvis es inadecuada o el contraste intravenoso está contraindicado, solicitar RM de abdomen y pelvis con contraste más TC de tórax sin contraste.
+- Ramificar: pMMR/MSS al tratamiento de COL-3 (ver 10 y 12.1) y dMMR/MSI-H o POLE/POLD1 con fenotipo ultrahipermutado (carga mutacional tumoral > 50 mutaciones/megabase) al de COL-12 (ver 12.2).
+
+**Fundamento**
+
+- La TC de tórax identifica metástasis pulmonares, presentes en cerca de 4–9% de los pacientes con cáncer de colon y recto, que pueden resecarse con intención curativa (ver 13.7).
+- Las alteraciones somáticas de la vía PI3K incluyen mutaciones de PIK3CA en los exones 9 y 20, otras mutaciones de PIK3CA, PIK3R1 y PTEN, y deleciones profundas de PTEN.
+- Si las imágenes muestran una anomalía sospechosa pero no concluyente de metástasis, puede considerarse la FDG-PET/TC para caracterizarla, siempre que el resultado cambie el manejo.
+- Fertilidad: los pacientes en edad reproductiva deben recibir información sobre la preservación (bancos de semen, de ovocitos o de tejido ovárico) antes del tratamiento y derivarse cuando esté indicado (ver 7.6).
+
+### 7.4 Sospecha o confirmación de enfermedad metastásica: estudio (COL-2A)
+
+**Conducta**
+
+- Solicitar:
+    - colonoscopia total;
+    - TC de tórax, abdomen y pelvis con contraste intravenoso (RM con contraste si la TC es inadecuada);
+    - biometría hemática, perfil bioquímico y ACE;
+    - biopsia, si está clínicamente indicada;
+    - biomarcadores tumorales lo antes posible tras el diagnóstico: mutaciones de KRAS, NRAS y BRAF V600E, sobreexpresión o amplificación de HER2 (ERBB2) y estado de MMR o MSI si no se hizo antes, dentro de un panel multigénico que identifique alteraciones raras y accionables (POLE/POLD1, fusiones de RET y de NTRK 1/2/3), en tejido o en sangre (ver 8).
+- Si la enfermedad es potencialmente resecable:
+    - evaluación multidisciplinaria desde el inicio, con un cirujano experto en resección de metástasis hepatobiliares o pulmonares;
+    - considerar RM hepática para las metástasis hepáticas potencialmente resecables;
+    - considerar FDG-PET/TC (de la base del cráneo a la mitad del muslo) en casos seleccionados con enfermedad M1 potencialmente curable por cirugía, para buscar metástasis no reconocidas que contraindiquen la cirugía.
+- No solicitar FDG-PET/TC basal si la enfermedad es claramente irresecable, ni usarla para evaluar la respuesta a la quimioterapia.
+- No solicitar HER2 si ya se conoce una mutación de RAS o BRAF: la amplificación es muy rara en ese subgrupo.
+- En metástasis metacrónicas, además de lo anterior, revisar los tratamientos previos de quimioterapia o inmunoterapia, que definen las opciones (ver 13.5).
+
+**Fundamento**
+
+- La FDG-PET/TC preoperatoria en metástasis resecables no modificó la supervivencia en un ensayo aleatorizado, pero cambió el manejo quirúrgico en 8% de los pacientes (por ejemplo, se evitó la resección al descubrir enfermedad ósea, peritoneal u omental o ganglionar abdominal), a costa de 8.4% de falsos positivos que motivaron biopsias o más estudios; en un metaanálisis de metástasis hepáticas cambió el manejo en 24%.
+- La RM con contraste es útil cuando la PET y la TC discrepan sobre la extensión hepática.
+- El criterio de «posible curación quirúrgica» incluye la enfermedad inicialmente irresecable que podría volverse resecable tras quimioterapia preoperatoria, casi siempre enfermedad limitada al hígado que no puede resecarse por afectar estructuras críticas; la enfermedad extrahepática suele impedir la resección curativa (ver 13.3).
+- Las mutaciones conductoras de KRAS, NRAS y BRAF son similares en el primario y en la metástasis, por lo que puede usarse cualquiera de las dos muestras; con un panel multigénico se recomienda analizar la metástasis para alteraciones adicionales (ver 8).
+
+### 7.5 Principios de imagen (COL-A)
+
+**Conducta**
+
+- Estadificación inicial con TC de tórax, abdomen y pelvis para evaluar la extensión local del tumor y su infiltración de estructuras vecinas, y buscar metástasis en pulmón, ganglios torácicos y abdominales, hígado, cavidad peritoneal y otros órganos:
+    - con contraste yodado intravenoso y contraste oral, salvo contraindicación; la TC de tórax no requiere contraste intravenoso, aunque suele darse si se hace junto con la abdominal;
+    - alergia significativa al contraste yodado: RM de abdomen y pelvis con medio de contraste con gadolinio;
+    - insuficiencia renal crónica con tasa de filtración glomerular (TFG) < 30 mL/min [insuficiencia renal grave] sin diálisis: el contraste yodado está contraindicado y puede usarse gadolinio en casos seleccionados (gadofosveset trisodio, gadoxetato disódico, gadobenato dimeglumina o gadoteridol);
+    - si ambos contrastes están contraindicados: RM sin contraste o FDG-PET/TC.
+- RM de abdomen y pelvis: para distinguir cáncer de recto y de colon (el recto está por debajo de la línea entre el promontorio sacro y el borde superior de la sínfisis).
+- RM hepática con gadolinio extracelular o hepatobiliar: preferida sobre la TC cuando se planea cirugía o terapia dirigida al hígado, para conocer el número y la distribución exactos de las metástasis.
+- FDG-PET/TC: no indicada de rutina; no sustituye la TC o la RM contrastadas y solo se usa para aclarar un hallazgo dudoso o ante contraindicación fuerte al contraste intravenoso. Considerarla en:
+    - enfermedad M1 potencialmente curable por cirugía, en casos seleccionados;
+    - pacientes seleccionados para terapias hepáticas guiadas por imagen (ablación térmica o radioembolización).
+- Monitorización con TC contrastada de tórax, abdomen y pelvis antes del tratamiento adyuvante (para evaluar la respuesta a la terapia primaria o a la resección) y durante la reevaluación de la conversión a enfermedad resecable.
+- Tras terapias hepáticas guiadas por imagen, la FDG-PET/TC, la PET/RM o la RM contrastada pueden usarse para valorar la respuesta y la recurrencia hepática.
+- Imagen de vigilancia por estadio: ver 15.1.
+
+**Fundamento**
+
+- La TC con contraste es el estándar porque evalúa a la vez la extensión local y los sitios metastásicos más frecuentes (hígado, pulmón y peritoneo).
+- La RM hepática añadida a la TC mejora la planificación de la terapia local de las metástasis hepáticas (ensayo CAMINO).
+- La TC que acompaña a la PET/TC suele ser sin contraste y no tiene calidad ideal para la vigilancia de rutina.
+
+### 7.6 Estado funcional, evaluación geriátrica, fertilidad y aspectos psicosociales
+
+**Conducta**
+
+- Evaluar el estado funcional antes de definir la intensidad del tratamiento: en enfermedad metastásica, la NCCN separa a los pacientes «candidatos a terapia intensiva» de los que no lo son (ver 14.2).
+- † Escalas de estado funcional (no detalladas en las fuentes):
+    - Eastern Cooperative Oncology Group (ECOG), de 0 a 5: 0, actividad normal sin restricciones; 1, síntomas con restricción solo de la actividad física intensa; 2, ambulatorio y capaz de autocuidado, en cama < 50% del día; 3, autocuidado limitado, en cama > 50% del día; 4, totalmente incapacitado y postrado; 5, muerte;
+    - Karnofsky, de 100% a 0%: a mayor porcentaje, mejor capacidad para realizar las actividades de la vida diaria de forma independiente.
+- Aplicar las herramientas de oncología geriátrica de la NCCN en adultos mayores.
+- Aplicar el termómetro de malestar emocional y la lista de problemas de la NCCN, que incluye los determinantes sociales de la salud.
+- Discutir los riesgos para la fertilidad y derivar a preservación cuando proceda; si se planea radioterapia pélvica, informar sobre disfunción sexual, posible descenso futuro de testosterona, menopausia prematura, estenosis vaginal (dilatadores vaginales) y que un útero irradiado no puede llevar un embarazo a término.
+
+**Fundamento**
+
+- La eficacia y la seguridad de un esquema deben valorarse junto con la posibilidad de curación quirúrgica y el estado funcional del paciente (NCCN).
+- En un análisis de 6286 pacientes con cáncer colorrectal (CCR) metastásico, la eficacia del tratamiento intensivo de primera línea fue similar con estado funcional 2 que con 0–1, pero el riesgo de algunas toxicidades digestivas aumentó de forma significativa con estado funcional 2 [el estado funcional 2 no excluye la terapia intensiva, pero exige vigilancia estrecha de la toxicidad].
+- DeVita: los pacientes con buen estado funcional y primario asintomático pueden evitar la resección inicial no curativa del primario (ver 13.4); la cirugía paliativa conlleva alta morbimortalidad, sobre todo en ≥ 70 años con enfermedad local avanzada o metástasis extrahepáticas.
+
+## 8. Biomarcadores séricos y tisulares
+
+### 8.1 Antígeno carcinoembrionario y otros marcadores séricos
+
+**Conducta**
+
+- Medir el antígeno carcinoembrionario (ACE) antes de la cirugía en todo paciente con cáncer colorrectal (CCR): es un factor pronóstico independiente y sirve de valor basal para el seguimiento.
+- Interpretar el valor preoperatorio: ACE > 5 ng/mL [elevado; factor de mal pronóstico de categoría I según el Colegio Americano de Patólogos (CAP)].
+- Si el ACE elevado no se normaliza tras una cirugía potencialmente curativa, considerar al paciente de riesgo particularmente alto [sugiere enfermedad residual u oculta].
+- Usar el ACE sobre todo para vigilar después de la cirugía, si se normalizó con la resección: cada 3–6 meses durante 2 años y después cada 6 meses hasta completar 5 años, en los estadios II–III si el paciente es candidato a una nueva intervención y en el estadio IV sin evidencia de enfermedad; no medirlo de rutina después de 5 años (ver 15.1).
+- Ante un ACE en ascenso tras la resección:
+    - estudiar con exploración física, colonoscopia y tomografía computarizada (TC) de tórax, abdomen y pelvis con contraste, y considerar tomografía por emisión de positrones con TC (PET/TC);
+    - si la imagen es normal, repetir la TC cada 3 meses hasta identificar la enfermedad o hasta que el ACE se estabilice o descienda;
+    - no hacer laparotomía ni laparoscopia «ciegas» dirigidas por el ACE, ni gammagrafía con anticuerpos anti-ACE radiomarcados.
+- Interpretar las elevaciones posoperatorias con su probabilidad de ser reales:
+    - 5–15 ng/mL, sobre todo una lectura aislada [zona gris: cerca de la mitad de las elevaciones tras resección R0 son falsos positivos; repetir antes de actuar];
+    - > 15 ng/mL [los falsos positivos son raros];
+    - > 35 ng/mL [todas las elevaciones correspondieron a recurrencia verdadera].
+- No solicitar el antígeno carbohidrato 19-9 (CA 19-9) ni otros marcadores séricos en el manejo rutinario del CCR.
+
+**Fundamento**
+
+- En una serie de 572 pacientes con cáncer de colon sin ganglios afectados resecado con intención curativa, el ACE preoperatorio y el estadio predijeron la supervivencia en análisis univariado y multivariado.
+- Con un punto de corte de 10 ng/mL, el ACE tiene sensibilidad de 68% y especificidad de 97% para recurrencia [muy específico, pero un valor menor no descarta recurrencia]; en los 2 primeros años se estima que ese corte detecta 20 recurrencias, omite 10 y genera 29 falsos positivos [el ACE aislado produce más falsas alarmas que recurrencias omitidas].
+- Ensayos de vigilancia con ACE:
+    - FACS: la vigilancia intensiva con imagen o con ACE aumentó la cirugía con intención curativa de la recurrencia, sin beneficio en mortalidad;
+    - CEAwatch: medir el ACE cada 2 meses y hacer imagen si subía dos veces detectó más recurrencias, más recurrencias tratables con intención curativa y en menos tiempo;
+    - PRODIGE 13: la imagen intensiva, no el ACE, aumentó las cirugías curativas de la recurrencia y mostró una tendencia a mejor supervivencia libre de recurrencia.
+- La PET/TC ante ACE elevado con TC de buena calidad negativa divide al Panel: tiene alta sensibilidad para detectar recurrencia, pero la probabilidad de hallar enfermedad curable por cirugía es muy baja; su uso es permisible.
+- † El valor de referencia habitual del ACE es < 5 ng/mL; también se eleva en fumadores y en procesos benignos (hepatopatía, inflamación), lo que explica parte de los falsos positivos.
+- Otros marcadores: ningún marcador sérico distinto del ACE ha demostrado ser pronóstico o predictivo de forma fiable en CCR; el CA 19-9, muy usado en cáncer de páncreas, no tiene papel rutinario. Excepción: en el adenocarcinoma apendicular sometido a cirugía citorreductora con quimioterapia intraperitoneal hipertérmica, el ACE y el CA 19-9 preoperatorios tienen valor pronóstico (ver 3.5).
+
+### 8.2 Sistema de reparación de errores de apareamiento e inestabilidad de microsatélites
+
+**Conducta**
+
+- Solicitar la prueba universal del sistema de reparación de errores de apareamiento (MMR) por inmunohistoquímica (IHQ) o de inestabilidad de microsatélites (MSI) en todo cáncer colorrectal (CCR) al diagnóstico; técnica e interpretación en 4.3.
+- Usar el resultado para cuatro fines:
+    - diagnóstico: cribado del síndrome de Lynch (ver 4.4);
+    - pronóstico: la deficiencia (dMMR) o la inestabilidad alta (MSI-H) es favorable en el estadio II;
+    - selección de la adyuvancia en el estadio II: no dar fluoropirimidina sola en el estadio II con MSI-H, y no dar adyuvancia en el estadio II MSI-H de bajo riesgo; excepción, el T4b (estadio IIC) dMMR/MSI-H, en el que puede considerarse adyuvancia con fluoropirimidina con o sin oxaliplatino (ver 11.4);
+    - selección de inmunoterapia con inhibidores de puntos de control inmunitario en enfermedad metastásica y en neoadyuvancia (ver 12.2 y 13.6).
+- No considerar la histología poco diferenciada como rasgo de alto riesgo en el estadio II con MSI-H.
+- No solicitar la prueba del ligando 1 de muerte programada (PD-L1): no tiene papel en el CCR fuera de ensayos clínicos.
+
+**Fundamento**
+
+- Frecuencia según estadio: los tumores MSI-H son más frecuentes en el estadio II (22%) que en el III (12%) y representan solo 3.5–5.0% del estadio IV en ensayos clínicos (6.5% en cohortes), lo que indica menor capacidad de metastatizar.
+- Pronóstico: en el estadio II la dMMR se asocia a menos recurrencias (11% frente a 26% en tumores con sistema competente [pMMR] en el ensayo QUASAR); en el estadio III el efecto favorable es más limitado y puede variar con la localización del primario (según DeVita, favorable en el colon derecho y desfavorable en el izquierdo; ver 9.4).
+- Valor predictivo para el fluorouracilo (5-FU):
+    - algunos estudios retrospectivos mostraron falta de beneficio, e incluso efecto perjudicial, del 5-FU adyuvante en el estadio II con MSI-H, no en el estadio III;
+    - en QUASAR y en los ensayos CALGB 9581 y 89803 el estado de MMR fue pronóstico pero no predictivo;
+    - DeVita: los tumores con MSI-H resisten el 5-FU adyuvante y sus células son relativamente resistentes al 5-FU in vitro.
+- Base inmunológica de la inmunoterapia: los tumores dMMR contienen miles de mutaciones que codifican proteínas mutantes (neoantígenos) reconocibles por el sistema inmunitario; los ligandos PD-L1 y PD-L2 de la célula tumoral suprimen esa respuesta al unirse al receptor de muerte celular programada 1 (PD-1) de los linfocitos T efectores. Por eso el bloqueo de PD-1 es eficaz en estos tumores, como confirmaron los ensayos clínicos.
+- La NCCN subraya que el estado de MSI y MMR debe conocerse al diagnóstico, porque las recomendaciones de tratamiento cambian de forma considerable en todos los estadios según este resultado.
+
+### 8.3 RAS (KRAS y NRAS)
+
+**Conducta**
+
+- Genotipificar RAS (KRAS y NRAS, exones 2, 3 y 4) en todo cáncer colorrectal metastásico (CCRm), en el primario o en una metástasis, dentro de un panel multigénico al diagnóstico del estadio IV.
+- Contraindicar cetuximab y panitumumab (anticuerpos contra el receptor del factor de crecimiento epidérmico [EGFR]), solos o combinados, ante cualquier mutación de KRAS o NRAS, porque no hay posibilidad real de beneficio y la toxicidad y el costo no se justifican. Excepción: combinados con sotorasib o adagrasib en tumores con mutación KRAS G12C (ver 14.5).
+- No genotipificar RAS en los estadios I–III: los anti-EGFR no tienen papel en ellos.
+- Usar una muestra archivada del primario o de la metástasis; no tomar una biopsia nueva solo para genotipificar RAS salvo que no exista material archivado.
+- Realizar la prueba en un laboratorio certificado bajo las Clinical Laboratory Improvement Amendments de 1988 (CLIA-88) para pruebas de alta complejidad; no se recomienda una metodología específica.
+- Entender que conocer RAS desde el inicio no implica una preferencia de esquema en primera línea: sirve para planear la secuencia de tratamiento y discutir sus implicaciones mientras existen otras opciones.
+
+**Fundamento**
+
+- La vía de las cinasas activadas por mitógenos (RAS, RAF, MEK y ERK) está por debajo del EGFR; sus mutaciones son marcadores predictivos negativos potentes que prácticamente anulan la eficacia de los anti-EGFR (ver 4.2).
+- Frecuencia: cerca de 40% del CCRm tiene mutaciones de KRAS en los codones 12 y 13: G12D (36%), G12V (21.8%) y G13D (18.8%); G12C aparece en cerca de 17% de los CCRm con KRAS mutado.
+- Prueba ampliada: 10–17% de los tumores sin mutación en el exón 2 de KRAS tiene mutaciones en los exones 3 o 4 de KRAS o en los exones 2, 3 o 4 de NRAS.
+- Efecto perjudicial: en tumores con cualquier mutación de RAS, añadir panitumumab a FOLFOX (leucovorina, 5-fluorouracilo y oxaliplatino) empeoró la supervivencia libre de progresión y la global (ensayo PRIME), y cetuximab con FOLFIRI (leucovorina, 5-fluorouracilo e irinotecán) fue peor que bevacizumab con FOLFIRI (ensayo FIRE-3); por ello la Food and Drug Administration (FDA) indica que panitumumab no debe usarse en tumores con mutación de RAS combinado con quimioterapia basada en oxaliplatino.
+- KRAS G13D: pese a datos retrospectivos iniciales, los ensayos y un metaanálisis mostraron que no responde a los anti-EGFR más que otras mutaciones de KRAS.
+- Pronóstico: valor mixto; en el ensayo Alliance N0147 la mutación del exón 2 de KRAS se asoció a menor supervivencia libre de enfermedad.
+- Concordancia: las mutaciones de KRAS son eventos tempranos, con correlación muy estrecha entre primario y metástasis.
+- Repetición de la prueba: no tras quimioterapia citotóxica estándar (rara vez cambia el perfil); sí puede considerarse tras terapia dirigida, porque los pacientes tratados con anti-EGFR adquieren mutaciones con más frecuencia (46%) que los tratados con quimioterapia citotóxica (9%).
+
+### 8.4 BRAF V600E
+
+**Conducta**
+
+- Genotipificar BRAF en el primario o en una metástasis al diagnóstico del estadio IV; la inmunohistoquímica para BRAF V600E es una opción.
+- Ante BRAF V600E, no usar panitumumab ni cetuximab solos ni con quimioterapia citotóxica: la respuesta es muy improbable, salvo que formen parte de un esquema con inhibidor de BRAF (encorafenib; ver 14.5).
+- Si el tumor es MSI-H/dMMR y BRAF V600E, preferir en primera línea un inhibidor de puntos de control inmunitario y reservar el esquema con inhibidor de BRAF para una línea posterior.
+- Ante mutaciones de BRAF distintas de V600E, considerar la terapia anti-EGFR, sobre todo en las de clase 3.
+- En un tumor dMMR con pérdida de MLH1, interpretar BRAF V600E como indicio de origen esporádico (ver 4.3).
+
+**Fundamento**
+
+- Frecuencia: 5–9% de los CCR tiene la mutación V600E, prácticamente limitada a tumores sin mutación de RAS.
+- Mecanismo de resistencia: BRAF actúa por debajo de KRAS en la vía del EGFR; la proteína mutada es constitutivamente activa, de modo que la señal evita el bloqueo del EGFR por cetuximab o panitumumab.
+- Evidencia: en líneas posteriores, BRAF mutado se asocia a resistencia a los anti-EGFR (respuesta a cetuximab de 8.3% frente a 38.0% con BRAF silvestre) y, en dos metaanálisis, añadir un anti-EGFR no mejoró la supervivencia libre de progresión, la global ni la respuesta.
+- Mutaciones no V600E: en una serie, solo 1 de 12 tumores con mutación de clase 2 respondió a los anti-EGFR, frente a 50% con clase 3.
+- Pronóstico: marcador pronóstico adverso potente:
+    - en el ensayo COIN, la supervivencia global fue de 8.8 meses con BRAF mutado, 14.4 meses con KRAS (exón 2) mutado y 20.1 meses con KRAS silvestre [la mutación de BRAF reduce a menos de la mitad la supervivencia esperada];
+    - es pronóstica en los estadios II–III con MSI baja o estabilidad de microsatélites y empeora la supervivencia tras la recurrencia del estadio III resecado, sobre todo en tumores del colon distal;
+    - se asocia a localización proximal, tumores T4 y mala diferenciación.
+
+## 9. Estadificación y factores pronósticos
+
+### 9.1 Clasificación TNM del American Joint Committee on Cancer (AJCC), 8.ª edición
+
+**Conducta**
+
+- Estadificar con el sistema TNM (tumor, ganglios, metástasis) del American Joint Committee on Cancer y la Union for International Cancer Control (AJCC/UICC), el único que debe usarse; la clasificación de Dukes y sus modificaciones solo tienen interés histórico, para entender estudios antiguos.
+- Aplicar el mismo sistema al colon y al recto, porque sus categorías TNM tienen supervivencias muy similares.
+- Usar los prefijos: «c» clínico, «p» patológico, «yp» patológico tras tratamiento neoadyuvante (por ejemplo, ypT1) y «r» para la recurrencia (por ejemplo, rpT3); registrar la invasión vascular (V), linfática (L) y perineural (PN).
+- Clasificar la adherencia macroscópica a otro órgano como cT4b; si el estudio microscópico de la adherencia no muestra tumor, la categoría patológica se asigna por la profundidad anatómica (pT1–pT4a).
+- Clasificar la residualidad tumoral tras la cirugía: R0 (márgenes negativos al microscopio), R1 (resección macroscópica completa con margen microscópico positivo) y R2 (tumor macroscópico residual), con fuerte implicación pronóstica.
+
+**Fundamento**
+
+- Categoría T (invasión, no tamaño):
+    - TX: no evaluable; T0: sin evidencia de tumor primario;
+    - Tis: carcinoma in situ o intramucoso, con afectación de la lámina propia sin extensión a través de la muscular de la mucosa; la displasia de alto grado o grave se clasifica también como Tis;
+    - T1: invade la submucosa (atraviesa la muscular de la mucosa sin llegar a la muscular propia);
+    - T2: invade la muscular propia;
+    - T3: atraviesa la muscular propia hacia los tejidos pericolorrectales;
+    - T4a: atraviesa el peritoneo visceral, incluida la perforación macroscópica a través del tumor y la invasión continua a través de áreas de inflamación hasta la superficie peritoneal;
+    - T4b: invade directamente o se adhiere a órganos o estructuras adyacentes, incluidos otros segmentos del colon por extensión a través de la serosa (por ejemplo, un carcinoma de ciego que invade el sigmoide) o, en localizaciones retroperitoneales, la invasión directa más allá de la muscular propia (por ejemplo, un tumor de la pared posterior del colon descendente que invade el riñón izquierdo o la pared abdominal lateral).
+- Categoría N (número, no tamaño ni localización, de ganglios afectados):
+    - NX: no evaluable; N0: sin metástasis ganglionares regionales;
+    - N1: uno a tres ganglios positivos (tumor ≥ 0.2 mm), o cualquier número de depósitos tumorales con todos los ganglios identificables negativos;
+    - N1a: un ganglio; N1b: dos o tres ganglios; N1c: ningún ganglio positivo, pero con depósitos tumorales en la subserosa, el mesenterio o los tejidos pericólicos o perirrectales no peritonizados;
+    - N2: cuatro o más ganglios; N2a: cuatro a seis; N2b: siete o más (DeVita escribe «más de siete»; se sigue la tabla de la AJCC reproducida por la NCCN).
+- Ganglios con células tumorales aisladas (células o grupos pequeños < 0.2 mm) se consideran negativos (N0), pero debe registrarse su número; las micrometástasis (0.2–2.0 mm, o grupos de 10–20 células) cuentan como ganglios positivos (ver 9.3).
+- Categoría M:
+    - M0: sin metástasis a distancia por imagen u otros estudios (no la asigna el patólogo);
+    - M1a: metástasis en un sitio u órgano sin metástasis peritoneales (incluye ganglios fuera del drenaje regional);
+    - M1b: metástasis en dos o más sitios u órganos sin metástasis peritoneales;
+    - M1c: metástasis en la superficie peritoneal, sola o con metástasis en otros sitios u órganos; los pacientes con metástasis peritoneales tienen menor supervivencia libre de progresión y global.
+- Los ganglios ilíacos externos, ilíacos comunes, paraaórticos y supraclaviculares son no regionales: su afectación es M1.
+
+### 9.2 Grupos pronósticos
+
+**Conducta**
+
+- Asignar el estadio con la tabla de grupos pronósticos de la AJCC (8.ª edición):
+
+| Estadio | T | N | M |
+| --- | --- | --- | --- |
+| 0 | Tis | N0 | M0 |
+| I | T1–T2 | N0 | M0 |
+| IIA | T3 | N0 | M0 |
+| IIB | T4a | N0 | M0 |
+| IIC | T4b | N0 | M0 |
+| IIIA | T1–T2 / T1 | N1 o N1c / N2a | M0 |
+| IIIB | T3–T4a / T2–T3 / T1–T2 | N1 o N1c / N2a / N2b | M0 |
+| IIIC | T4a / T3–T4a / T4b | N2a / N2b / N1–N2 | M0 |
+| IVA | Cualquier T | Cualquier N | M1a |
+| IVB | Cualquier T | Cualquier N | M1b |
+| IVC | Cualquier T | Cualquier N | M1c |
+
+- Definir el estadio I como T1–T2 N0 M0, el II como T3–T4 N0 M0 (subdividido por la T), el III por la presencia de ganglios positivos sin M1 (subdividido por T y N) y el IV por cualquier M1.
+
+**Fundamento**
+
+- La T tiene gran peso pronóstico: los pacientes T4 N0 tienen menor supervivencia que los T1–T2 N1–N2, por lo que el estadio IIIA tiene mejor supervivencia que el IIB, una paradoja que la 8.ª edición acentúa y que persiste aun con > 12 ganglios examinados [la clasificación anatómica no captura toda la biología].
+- En análisis de más de 50 000 pacientes, la T fue pronóstica dentro de N0 y N1 pero no dentro de N2, lo que justificó subdividir el estadio III en IIIA, IIIB y IIIC, que son muy pronósticos.
+- La supervivencia relativa a 5 años sin ganglios fue de 79.6% en T4a y de 58.4% en T4b [la invasión de órganos vecinos empeora de forma marcada el pronóstico]. Dentro de cada T, la supervivencia disminuye con cada categoría N (N0, N1a, N1b, N2a y N2b).
+- Tras la resección completa de un estadio I, la supervivencia a 5 años supera 95% [excelente pronóstico]; los que recurren probablemente eran estadios II o III mal clasificados.
+- Ningún factor supera al estadio en significado pronóstico.
+- Contraste: la tabla de DeVita (tabla 40.7) incluye T2 N2a en el estadio IIIA y omite el estadio IVC; en la tabla de la AJCC de la NCCN, T2 N2a corresponde al IIIB y existe el IVC (M1c). Se sigue la tabla de la NCCN.
+
+### 9.3 Informe anatomopatológico
+
+**Conducta**
+
+- Exigir en el informe:
+    - grado del cáncer;
+    - profundidad de invasión (T) y extensión a estructuras adyacentes;
+    - número de ganglios regionales evaluados y número de ganglios positivos (N);
+    - valoración de metástasis a distancia en órganos, peritoneo, estructuras abdominales o ganglios no regionales (M);
+    - estado de los márgenes proximal, distal, radial y mesentérico;
+    - invasión linfovascular;
+    - invasión perineural;
+    - número de depósitos tumorales;
+    - gemación tumoral (tumor budding) por niveles.
+- Examinar ≥ 12 ganglios linfáticos. En el estadio II (pN0) con < 12 ganglios, el patólogo debe volver al espécimen y procesar más tejido; si aún no los encuentra, anotar que hizo una búsqueda exhaustiva. Considerar al paciente N0 con < 12 ganglios estadificado de forma subóptima y de mayor riesgo.
+- Pedir al cirujano que marque con clip o sutura la superficie no peritonizada, porque en el espécimen es difícil distinguirla de la peritonizada.
+- Para la invasión vascular, examinar al menos tres bloques del tumor (óptimamente cinco o más) con una sección de hematoxilina y eosina cada uno; si no puede distinguirse vénula de linfático, informar «invasión angiolinfática».
+- Si se informan micrometástasis, especificar el método de detección.
+
+**Fundamento**
+
+- Margen radial (circunferencial):
+    - es la superficie de tejido blando adventicial más cercana a la penetración más profunda del tumor, creada por disección roma o cortante del retroperitoneo; corresponde a toda zona del colon no cubierta por serosa;
+    - la superficie serosa (peritoneal) no es un margen quirúrgico; en segmentos envueltos por completo por peritoneo, como el transverso, el único margen radial relevante es el mesentérico;
+    - la simple penetración en la grasa pericólica describe un T3, no un margen positivo, y la afectación de una superficie peritonizada es T4a; el margen es positivo solo si hay tumor en la superficie cortada (R1 microscópico o R2 macroscópico);
+    - un margen radial positivo predice con fuerza la recurrencia local (en cáncer de recto, 38.2% frente a 10.0% con margen negativo) y obliga a considerar tratamiento adyuvante.
+- Ganglios:
+    - el American Joint Committee on Cancer (AJCC) y el Colegio Americano de Patólogos (CAP) recomiendan ≥ 12 ganglios (el CAP, 12–15); en la literatura se han propuesto mínimos de > 7 a > 30, y los tumores T4 podrían requerir más;
+    - examinar más ganglios se asoció a mayor supervivencia tanto en pacientes N0 como N+; el mecanismo es incierto (estadificación más exacta, calidad de la cirugía o biología tumoral: la inestabilidad de microsatélites y KRAS/BRAF silvestres se asocian a mejor pronóstico y a mayor número de ganglios recuperados, y una respuesta inmunitaria fuerte facilita encontrarlos);
+    - el número obtenido varía con la edad, el sexo, el grado, la localización, el índice de masa corporal, la longitud del espécimen y la técnica quirúrgica y patológica; un número insuficiente puede deberse a una disección subóptima, a una búsqueda incompleta o a ambas;
+    - el número de ganglios negativos es pronóstico independiente en los estadios IIIB y IIIC;
+    - el cociente de ganglios positivos entre examinados (cortes de 0.1, 0.2 o 0.25) es pronóstico, pero no representa de forma adecuada ambos componentes y no se ha incorporado a la estadificación.
+- Ganglio centinela: técnicamente factible en colon, donde su objetivo es concentrar el estudio patológico en menos ganglios (no limitar la linfadenectomía, que se hace igual); con falsos negativos de hasta 60% en algunos estudios, su utilidad no está establecida.
+- Micrometástasis: empeoran el pronóstico (en pN0, la positividad para citoqueratina se asoció a recurrencia de 14% frente a 4.7%); muchos clínicos las consideran al decidir la adyuvancia. Las células tumorales aisladas tienen significado biológico incierto.
+- Depósitos tumorales (depósitos extraganglionares, peritumorales o nódulos satélite): focos discretos irregulares en la grasa pericólica o perirrectal, alejados del frente tumoral, sin tejido ganglionar residual y dentro del drenaje linfático del tumor; no se cuentan como ganglios. Suelen originarse en la invasión linfovascular o, rara vez, perineural, y reducen la supervivencia: en pN0, la supervivencia a 5 años fue de 91.5% sin nódulos satélite y de 37.0% con ellos [pronóstico comparable al de enfermedad ganglionar; por eso definen N1c].
+- Invasión perineural: factor pronóstico independiente de supervivencia específica, global y libre de enfermedad; en el estadio II, la supervivencia libre de enfermedad a 5 años fue de 29% con invasión perineural frente a 82% sin ella. Contraste normativo: el consenso del CAP citado por DeVita la clasificó en la categoría III (evidencia insuficiente), mientras que la NCCN actual la incluye como factor de alto riesgo de recurrencia sistémica con base en estudios multivariados y un metaanálisis.
+- Gemación tumoral:
+    - un brote es una célula aislada o un grupo de ≤ 4 células en el frente invasor, en hematoxilina y eosina; se cuenta en el campo de mayor densidad (0.785 mm²);
+    - niveles: bajo (0–4 brotes), intermedio (5–9) y alto (≥ 10);
+    - el nivel alto en pT1 y en pólipos malignos se asocia a metástasis ganglionares; en los estadios II y III es pronóstico independiente, y la American Society of Clinical Oncology (ASCO) lo considera factor de alto riesgo en el estadio II;
+    - DeVita describe el borde infiltrante (desdiferenciación focal o gemación) como de peor pronóstico que el borde expansivo.
+- Invasión linfovascular: categoría I del CAP (pronóstico adverso fiable), aunque los métodos de examen son heterogéneos y la detección aumenta con el número de secciones.
+
+### 9.4 Factores pronósticos clínicos, patológicos y moleculares
+
+**Conducta**
+
+- Integrar el estadio con los factores de alto riesgo para decidir la adyuvancia, sobre todo en el estadio II (ver 11.2).
+- Reconocer los factores adversos: T4, N2, metástasis peritoneales (M1c), invasión linfovascular y perineural, depósitos tumorales, gemación alta, alto grado, histología en anillo de sello o de células pequeñas, < 12 ganglios examinados, margen radial positivo, obstrucción, perforación, antígeno carcinoembrionario (ACE) preoperatorio > 5 ng/mL o que no se normaliza tras la cirugía, BRAF V600E (sobre todo con estabilidad de microsatélites), fenotipo metilador alto y pérdida de 18q.
+- Reconocer los factores favorables: inestabilidad de microsatélites alta (MSI-H) en el estadio II, variantes patogénicas de POLE/POLD1, histología medular y respuesta linfoide del huésped (estrechamente ligada a MSI-H).
+- No atribuir valor pronóstico al tamaño tumoral, a la configuración macroscópica, al sangrado de presentación ni a las transfusiones perioperatorias.
+
+**Fundamento**
+
+- Categorías del consenso del Colegio Americano de Patólogos (CAP):
+    - categoría I (probados y usados en el manejo): T, N y M; invasión de vasos sanguíneos o linfáticos; tumor residual tras cirugía con intención curativa (categoría R); ACE preoperatorio elevado;
+    - categoría IIA (estudiados intensamente, pendientes de validación robusta): grado, margen radial y tumor residual tras neoadyuvancia;
+    - categoría IIB (prometedores): tipo histológico, rasgos histológicos asociados a inestabilidad de microsatélites (respuesta linfoide, histología medular o mucinosa), MSI-H, pérdida de heterocigosidad de 18q y configuración del borde tumoral (infiltrante o expansivo);
+    - categoría III (insuficientemente estudiados): contenido de ADN, otros marcadores moleculares (timidilato sintasa, dihidropirimidina deshidrogenasa, p53), invasión perineural, densidad microvascular, proteínas o carbohidratos asociados al tumor, fibrosis y respuesta inflamatoria peritumorales, diferenciación neuroendocrina focal y índices de proliferación;
+    - categoría IV (sin valor pronóstico): tamaño tumoral y configuración macroscópica.
+- Obstrucción y perforación: ver 6.2.
+- Localización del primario: resultados ambiguos; los tumores derechos se asocian a mayor edad, sexo femenino, estadio más avanzado y peor diferenciación, con menor mortalidad en el estadio II y mayor en el III. La inestabilidad de microsatélites fue favorable en el colon derecho y desfavorable en el izquierdo en el ensayo N0147, quizá por el distinto origen embriológico (ver 3.1).
+- Estratificación por BRAF y estado de microsatélites: pronóstico malo con estabilidad de microsatélites (MSS) y BRAF mutado, intermedio con MSS y BRAF silvestre, y favorable con MSI-H y BRAF silvestre (ver 4.2).
+- Respuesta del huésped: el infiltrado linfocitario es favorable; un cociente neutrófilos/linfocitos preoperatorio > 3 se asoció a peor supervivencia libre de enfermedad en los estadios I–III de colon, y > 5, a recurrencia [posible marcador de inmunidad celular deprimida].
+- Índice de masa corporal: la obesidad previa al diagnóstico (índice ≥ 35 kg/m² en ensayos del National Surgical Adjuvant Breast and Bowel Project [NSABP]) aumenta la recurrencia y la muerte; la relación podría ser en U, y en enfermedad metastásica el índice bajo se asocia a peor evolución. Los datos por sexo son contradictorios.
+- Diabetes: peor pronóstico en algunos estudios, sobre todo con hiperinsulinemia mal controlada; resultados inconsistentes (ver 2.4).
+- Sexo: ventaja muy modesta de supervivencia en mujeres con enfermedad temprana, sin valor predictivo de la eficacia de la quimioterapia, por lo que no debe modificar el esquema.
+- Tabaquismo: menor supervivencia libre de enfermedad, más evidente en tumores BRAF silvestres y KRAS mutados.
+- Transfusiones perioperatorias: sin efecto pronóstico independiente; la asociación descrita se atribuye a la enfermedad subyacente que las motivó.
+- Esteroides: en un ensayo pequeño, una dosis preoperatoria de dexametasona (antiemética) se asoció a más recurrencia a distancia, sin diferencia en supervivencia; el hallazgo es preocupante y requiere más estudio.
+- Marcadores moleculares sin uso clínico rutinario: p53 (datos contradictorios), timidilato sintasa y expresión de EGFR (ver 4.2).
+
 ### 4.4 Síndrome de Lynch (cáncer colorrectal hereditario no polipósico)
 
 **Conducta**
@@ -557,3 +1098,122 @@
 - Poliposis asociada a la corrección de lectura de la polimerasa (POLE o POLD1 germinal): predispone de forma dominante a múltiples adenomas y carcinomas colorrectales; los tumores tienen miles de mutaciones con microsatélites estables.
 - Otras predisposiciones: cáncer familiar de colon y mama, mutación de BRCA1 (ver 2.1) y susceptibilidades poligénicas aún no identificadas (20–30% de los CCR).
 - Valor biológico de los síndromes: revelaron el papel central de la vía Wnt y los efectos tempranos y limitantes de la inactivación de APC o de la activación de CTNNB1; la pérdida de STK11 (LKB1) y de PTEN en tumores hereditarios y esporádicos iluminó vías moleculares cruciales.
+
+### 8.5 HER2 (ERBB2)
+
+**Conducta**
+
+- Estudiar la sobreexpresión o amplificación del receptor 2 del factor de crecimiento epidérmico humano (HER2, gen ERBB2) en todo cáncer colorrectal metastásico (CCRm), salvo que ya se conozca una mutación de RAS o BRAF (la amplificación es muy rara en ese subgrupo).
+- Métodos: inmunohistoquímica (IHQ), hibridación in situ con fluorescencia (FISH) o secuenciación de nueva generación (NGS). Interpretación:
+    - IHQ 3+ en > 50% de las células tumorales [positivo]; 3+ es una tinción de membrana intensa, circunferencial, basolateral o lateral;
+    - IHQ 2+ [equívoco]: completar con FISH;
+    - FISH con cociente HER2:CEP17 ≥ 2 en > 50% de las células [amplificado];
+    - NGS: otra metodología para detectar la amplificación.
+- Indicar terapia anti-HER2 de inhibición de la señal (trastuzumab con pertuzumab, o trastuzumab con tucatinib) en tumores IHQ 3+, IHQ 2+ con hibridación in situ positiva o amplificados por NGS, que además sean KRAS, NRAS y BRAF de tipo silvestre (ver 14.5).
+- Reservar trastuzumab deruxtecán para los tumores con sobreexpresión por IHQ 3+.
+
+**Fundamento**
+
+- HER2 pertenece a la misma familia de receptores cinasa que el receptor del factor de crecimiento epidérmico (EGFR) y es diana terapéutica establecida en cáncer de mama.
+- Frecuencia: cerca de 3% del cáncer colorrectal (CCR), y 5–14% de los tumores RAS y BRAF silvestres.
+- No tiene valor pronóstico demostrado, pero podría predecir resistencia a los anti-EGFR: con un anti-EGFR, la supervivencia libre de progresión fue de 2.8 meses con HER2 amplificado frente a 8.1 meses sin amplificación, sin diferencia cuando el tratamiento no incluía anti-EGFR.
+
+### 8.6 Fusiones de NTRK y RET, POLE/POLD1, carga mutacional tumoral y KRAS G12C
+
+**Conducta**
+
+- Buscar estas alteraciones raras y accionables dentro del panel multigénico del cáncer colorrectal metastásico (CCRm), en tejido o en sangre.
+- Fusiones de NTRK 1/2/3:
+    - indicar inhibidores de TRK solo ante fusiones, no ante mutaciones puntuales de NTRK, porque solo las fusiones responden;
+    - detectar por IHQ, FISH, NGS de ADN o NGS de ARN; confirmar toda IHQ positiva con NGS de ARN, porque cerca de 1 de cada 5 positivos por IHQ es falso positivo.
+- Fusiones de RET: indicar selpercatinib, inhibidor de RET aprobado por la FDA para tumores sólidos con fusiones activadoras de RET; preferir la NGS de ARN, que detecta fusiones con cualquier gen socio, e interpretar con cautela las fusiones de RET halladas en ADN tumoral circulante tras terapia anti-EGFR.
+- POLE/POLD1: tratar el CCRm con variantes patogénicas funcionales del dominio exonucleasa igual que el dMMR/MSI-H, con inhibidores de puntos de control inmunitario (ver 13.6); el panel multigénico es preferible porque, además de detectar la variante, demuestra la pérdida de corrección de lectura mediante una carga mutacional tumoral (TMB) alta.
+- No solicitar la TMB como biomarcador fuera de un ensayo clínico.
+- KRAS G12C: identificarla, porque habilita la combinación de sotorasib o adagrasib con un anti-EGFR en líneas posteriores (ver 14.5).
+
+**Fundamento**
+
+- NTRK:
+    - los tres genes NTRK codifican las proteínas TRK, expresadas sobre todo en el sistema nervioso, donde regulan el dolor, la propiocepción, el apetito y la memoria; la fusión produce sobreexpresión de una proteína TRK con señalización constitutivamente activa;
+    - frecuencia: 0.2–1% de los CCR (0.35% en una serie de 2314 tumores), limitadas a tumores KRAS, NRAS y BRAF silvestres y, en su mayoría, con deficiencia del sistema de reparación (dMMR por MLH1) e inestabilidad alta (MSI-H);
+    - en un estudio, la NGS de ADN tuvo sensibilidad de 81.1% y especificidad de 99.9%, y la IHQ, sensibilidad de 87.9% y especificidad de 81.1%; la NGS de ARN es la vía óptima porque elimina los intrones y demuestra la transcripción funcional de la fusión.
+- RET:
+    - receptor tirosina cinasa necesario para tejidos neurales, genitourinarios, hematopoyéticos y neuroendocrinos, que señaliza por las vías de las cinasas activadas por mitógenos y de la fosfatidilinositol 3-cinasa;
+    - las variantes germinales activadoras causan neoplasia endocrina múltiple tipo 2, y las de pérdida de función, enfermedad de Hirschsprung y anomalías congénitas renales y de las vías urinarias;
+    - en el CCR, las fusiones que conservan el dominio cinasa C-terminal (socios más comunes KIF5B, CCDC6 y NCOA4) activan RET sin ligando; aparecen en < 1% de los casos, con más frecuencia en pacientes mayores, con estado funcional del Eastern Cooperative Oncology Group (ECOG) 1–2, tumores derechos, primario no resecado y MSI-H, y siempre en tumores RAS y BRAF silvestres.
+- POLE/POLD1:
+    - las variantes del dominio exonucleasa anulan la corrección de lectura de la polimerasa y generan numerosas variantes de un solo nucleótido, con fenotipo ultrahipermutado (TMB > 50 mutaciones/megabase); en general se considera TMB alta un valor > 10 mutaciones/megabase;
+    - las mutaciones somáticas de POLE aparecen en 2–8% de los CCR con estabilidad de microsatélites; las germinales causan poliposis asociada a la corrección de lectura de la polimerasa (ver 4.6);
+    - tienen mejor pronóstico en los estadios II–III, probablemente por la respuesta inmunitaria a los neoantígenos, y responden bien a los inhibidores de puntos de control;
+    - de las mutaciones de POLE identificadas en una serie, solo 15.0% era patogénica, 15.9% benigna y 69.1% de significado incierto; el beneficio de la inmunoterapia se concentró en las patogénicas, por lo que solo estas definen la conducta.
+- TMB: número total de mutaciones somáticas codificantes por área del genoma, medido por NGS. Pembrolizumab está aprobado para tumores sólidos con TMB ≥ 10 mutaciones/megabase tras progresión, pero el estudio que lo sustentó no incluyó pacientes con CCR; en CCR con TMB alta la respuesta a pembrolizumab fue de 11%, y nivolumab con ipilimumab no tuvo actividad suficiente en tumores con estabilidad de microsatélites y TMB alta.
+
+### 8.7 Vía de la fosfatidilinositol 3-cinasa (PI3K) y aspirina adyuvante
+
+**Conducta**
+
+- Realizar el perfil molecular, que incluya las alteraciones somáticas de la vía de la fosfatidilinositol 3-cinasa (PI3K), en todos los cánceres colorrectales (CCR) en estadio II y III.
+- Si hay alteración de la vía PI3K en los estadios II–III: iniciar aspirina 100–162 mg por vía oral al día durante 3 años, salvo contraindicación, después de la recuperación de la cirugía (no antes), y de forma concurrente con la quimioterapia adyuvante si se administra.
+- Discutir con el paciente el riesgo de sangrado digestivo y de evento vascular cerebral hemorrágico de la aspirina.
+
+**Fundamento**
+
+- Alteraciones somáticas de la vía PI3K: mutaciones de PIK3CA en los exones 9 y 20; otras mutaciones de PIK3CA, PIK3R1 y PTEN; y deleciones profundas de PTEN.
+- DeVita: la aspirina después del diagnóstico parece beneficiar a los pacientes con tumores con mutación de PIK3CA y no a los de tipo silvestre.
+- NCCN (discusión): datos abundantes muestran que la aspirina a dosis bajas después del diagnóstico reduce el riesgo de recurrencia y de muerte; la mutación de PIK3CA podría predecir la respuesta, aunque los datos son algo inconsistentes. Los antiinflamatorios no esteroideos (AINE) distintos de la aspirina previenen mejor la recurrencia, pero la aspirina a dosis bajas es más segura y tiene mejor relación beneficio-riesgo.
+- Contraste normativo dentro de la NCCN: la sección de supervivencia de la discusión (actualizada antes) propone que cualquier sobreviviente de CCR considere aspirina 325 mg/día; el algoritmo vigente (versión 2.2026, COL-4 y COL-13) la indica a 100–162 mg/día durante 3 años solo ante alteraciones de la vía PI3K.
+
+### 8.8 ADN tumoral circulante, ensayos multigénicos e Immunoscore
+
+**Conducta**
+
+- No usar el ADN tumoral circulante (ctDNA) posquirúrgico, los ensayos multigénicos (Oncotype DX colon, ColoPrint, ColDx) ni el Immunoscore para estimar el riesgo de recurrencia o decidir la adyuvancia fuera de un ensayo clínico.
+- No desescalar el tratamiento ni tomar decisiones terapéuticas con base en el ctDNA.
+- No usar el ctDNA para la vigilancia.
+- Sí usar la biopsia líquida (paneles de NGS en sangre) para identificar biomarcadores en el cáncer colorrectal metastásico (CCRm) cuando sea necesario (ver 7.4).
+- Favorecer la inclusión en ensayos clínicos.
+
+**Fundamento**
+
+- El ctDNA es pronóstico, no predictivo: tras la cirugía de los estadios I–III, su positividad se asoció con un riesgo de recurrencia varias veces mayor, y todavía más si persiste tras la adyuvancia.
+- Ensayo DYNAMIC (estadio II): el manejo guiado por ctDNA redujo el uso de quimioterapia adyuvante (15% frente a 28%) con supervivencia libre de recurrencia y supervivencia global no inferiores a 5 años.
+- Estudio GALAXY (estadios II–IV resecables): el ctDNA positivo 4 semanas después de la cirugía se asoció a mayor recurrencia e identificó a los pacientes que se beneficiaron de la quimioterapia adyuvante; el momento de la prueba y el valor de cuantificarla siguen en estudio.
+- Inconveniente: un ctDNA positivo sin enfermedad evidente solo ayuda si existen opciones terapéuticas con posibilidad razonable de erradicar la enfermedad; sin ellas, conocer la recurrencia antes puede causar gran angustia.
+- Ensayos multigénicos:
+    - Oncotype DX colon (7 genes de recurrencia y 5 de referencia) clasifica el riesgo en bajo, intermedio o alto, con recurrencia a 3 años de 12%, 18% y 22%; es pronóstico de forma independiente del estadio, del estado de reparación, del grado y del número de ganglios, pero no predice el beneficio de la adyuvancia;
+    - ColoPrint (18 genes) y ColDx (634 sondas) clasifican en riesgo bajo o alto, también de forma independiente de otros factores de riesgo.
+- Immunoscore: percentiles de densidad de linfocitos CD3+ y CD8+ en regiones del tumor; la puntuación alta se asoció a menor recurrencia en el estadio III y al beneficio de la quimioterapia adyuvante.
+- La NCCN cuestiona el valor añadido de estas pruebas sobre los factores de riesgo clínicos; la European Society for Medical Oncology (ESMO) emitió recomendaciones similares.
+
+### 8.9 Farmacogenética: DPYD y UGT1A1 (COL-I)
+
+**Conducta**
+
+- DPYD (gen de la dihidropirimidina deshidrogenasa [DPD], enzima limitante del catabolismo de las fluoropirimidinas):
+    - estudiar las variantes de DPYD antes de iniciar capecitabina o fluorouracilo (5-FU), salvo que el tratamiento sea inmediato, conforme a la advertencia en recuadro de la Food and Drug Administration (FDA): capecitabina en octubre de 2025 y 5-FU en febrero de 2026;
+    - evitar capecitabina y 5-FU en portadores de variantes homocigotas o heterocigotas compuestas que causan deficiencia completa de DPD [metabolizador lento];
+    - en la deficiencia parcial [metabolizador intermedio], individualizar la dosis según la tolerancia y el objetivo del tratamiento; la recomendación del Clinical Pharmacogenetics Implementation Consortium (CPIC) es reducir 50% la dosis inicial con puntuación de actividad de 1.0–1.5 y aumentarla en los ciclos siguientes si no hay toxicidad, o casi ninguna, en los dos primeros;
+    - escalar la dosis en quien tolera la reducción inicial, sobre todo en la adyuvancia con intención curativa, para no infratratar;
+    - interpretar un resultado «negativo» de un ensayo dirigido como ausencia de las variantes incluidas, no como resultado «normal» ni como garantía de tolerancia;
+    - consultar a un farmacéutico clínico o especialista en farmacogenética si está disponible, y discutir la prueba con el paciente.
+- UGT1A1 (uridina difosfato glucuronosiltransferasa 1A1) e irinotecán:
+    - en metabolizadores lentos (UGT1A1\*28/\*28, \*6/\*6 o \*28/\*6), considerar reducir 30% la dosis inicial de irinotecán en el genotipo \*28/\*28 y aumentarla después si se tolera;
+    - en metabolizadores intermedios (\*1/\*28 o \*1/\*6), no reducir la dosis de forma preventiva;
+    - usar irinotecán con precaución y a menor dosis en pacientes con síndrome de Gilbert o bilirrubina sérica elevada;
+    - no solicitar la prueba de UGT1A1 a quien ya presentó toxicidad por irinotecán: requerirá reducción de dosis cualquiera que sea el resultado.
+
+**Fundamento**
+
+- DPYD:
+    - las variantes deletéreas reducen la actividad de la DPD desde una deficiencia parcial hasta completa; con dosis estándar aumentan la exposición al fármaco y causan reacciones graves, a veces mortales;
+    - entre 4% y 8% de la población, según ascendencia, porta variantes deletéreas; se conocen > 1000 variantes, la mayoría muy raras y sin caracterización funcional;
+    - las cuatro variantes mejor caracterizadas (sobre todo en ascendencia europea) son c.1905+1G>A (DPYD*2A), c.2846A>T (p.D949V), c.1679T>G (DPYD*13) y c.1236G>A (HapB3); en otras poblaciones se describieron c.557A>G (afroamericanos) y c.704G>A (sur de Asia);
+    - en una revisión de 13 929 pacientes, la mortalidad por tratamiento fue de 0.1% sin variantes y de 2.3% con variantes [riesgo de muerte cerca de 25 veces mayor]; con variantes seleccionadas y dosis estándar, la toxicidad grave supera 60%, y la reducción preventiva de la dosis disminuye la probabilidad y la intensidad de la toxicidad;
+    - la nomenclatura no es uniforme (alelos estrella, haplotipos, nomenclatura de la Human Genome Variation Society e identificadores rsID; metabolizador intermedio equivale a deficiencia parcial o portador heterocigoto);
+    - preocupación de la NCCN: la reducción de 50% podría infratratar (97% de los pacientes con reducción preventiva no alcanzó el nivel objetivo de 5-FU con la primera dosis), y una reducción de 25% podría bastar en portadores de HapB3 (puntuación de actividad 1.5);
+    - hasta esta advertencia, la FDA y la NCCN no recomendaban el genotipado universal porque los ensayos dirigidos no detectan variantes raras de poblaciones diversas y la secuenciación completa encuentra muchas variantes de significado incierto; los tiempos de respuesta actuales de 7–10 días hacen factible la prueba preventiva.
+- UGT1A1:
+    - la enzima inactiva por glucuronidación el metabolito activo del irinotecán (SN-38) y conjuga la bilirrubina; sus polimorfismos causan hiperbilirrubinemia no conjugada (síndromes de Gilbert y de Crigler-Najjar tipos I y II);
+    - el alelo \*28 es una repetición de dinucleótidos (TA7) en el promotor y el \*6 una mutación codificante (c.211G>A), ambos con menor función; los metabolizadores lentos acumulan SN-38 y tienen mayor riesgo de neutropenia grave, aunque no todos presentan toxicidad grave;
+    - la dosis máxima tolerada de irinotecán intravenoso cada 3 semanas fue de 850 mg, 700 mg y 400 mg en los genotipos \*1/\*1, \*1/\*28 y \*28/\*28;
+    - contraste normativo: DeVita (texto previo) señala que no había guías para ajustar la dosis por UGT1A1 y que el genotipo 7/7, más tóxico, también se asoció a mayor actividad antitumoral; la NCCN actual (COL-I) recomienda considerar la reducción de 30% en \*28/\*28, y la etiqueta del irinotecán advierte reducir la dosis inicial en homocigotos \*28.
