@@ -481,6 +481,83 @@
     - cáncer colorrectal hereditario no polipósico (HNPCC): prueba de inestabilidad de microsatélites en el tumor (o IHQ); si es positiva, secuenciar MLH1 y MSH2; si se halla la mutación, estudiar a la familia.
 - La NCCN considera definitiva para Lynch la identificación de una mutación germinal en un gen de reparación por secuenciación, pero normalmente se selecciona a los pacientes con la historia familiar y una prueba inicial en el tumor.
 
+### 4.4 Síndrome de Lynch (cáncer colorrectal hereditario no polipósico)
+
+**Conducta**
+
+- Sospechar síndrome de Lynch con los criterios clínicos (DeVita, tabla 40.4) y confirmarlo con la prueba germinal tras el cribado tumoral universal (ver 4.3):
+    - criterios de Amsterdam I: al menos tres familiares con cáncer colorrectal (CCR); uno debe ser familiar de primer grado de los otros dos; al menos dos generaciones sucesivas afectadas; al menos un CCR antes de los 50 años; exclusión de la poliposis adenomatosa familiar (PAF); tumores verificados por histopatología;
+    - criterios de Amsterdam II: al menos tres familiares con un cáncer asociado al síndrome (colorrectal, endometrial, de intestino delgado, de uréter o de pelvis renal); al menos dos generaciones sucesivas afectadas; al menos un caso antes de los 50 años; exclusión de PAF; verificación histopatológica;
+    - criterios de Bethesda (para seleccionar a quién estudiar la inestabilidad de microsatélites): familia que cumple Amsterdam; dos cánceres asociados al síndrome (colorrectales o extracolónicos); CCR con un familiar de primer grado con CCR, cáncer extracolónico asociado o adenoma colorrectal, con uno de los cánceres antes de los 45 años o el adenoma antes de los 40; CCR o cáncer de endometrio antes de los 45 años; CCR derecho con patrón histológico indiferenciado antes de los 45 años; CCR de células en anillo de sello antes de los 45 años; adenoma antes de los 40 años.
+- Vigilancia del portador (DeVita, tabla 40.6): colonoscopia cada 1–2 años desde los 20–25 años o desde 10 años antes del caso familiar más joven, lo que ocurra primero; considerar tamizaje de cáncer uterino y ovárico con histeroscopia y ultrasonido transvaginal, con frecuencia variable entre centros.
+- Indicar aspirina como quimioprevención (ver 2.5).
+- Tras el tratamiento de un CCR en un paciente con Lynch, hacer la colonoscopia de vigilancia con mayor frecuencia (anual) que en el CCR esporádico (ver 15.1).
+- † En portadoras con paridad satisfecha se ofrece histerectomía con salpingooforectomía bilateral de reducción de riesgo; el detalle del manejo de reducción de riesgo corresponde a la guía NCCN de evaluación de alto riesgo genético y familiar (colorrectal, endometrial y gástrico), no incluida en las fuentes.
+
+**Fundamento**
+
+- Frecuencia: es la forma más común de predisposición genética al cáncer de colon, con 2–4% de los CCR (NCCN); cerca de 3% según DeVita.
+- Genes: mutaciones germinales de los genes de reparación de errores de apareamiento MLH1, MSH2, MSH6 y PMS2, o de EPCAM (NCCN). Según DeVita, cerca de 60% de las mutaciones germinales está en MLH1 o MSH2, y las de MSH6, PMS1 y PMS2 son raras.
+- Herencia: autosómica dominante con penetrancia cercana a 80%. Se hereda la predisposición; en el tejido, el tumor aparece tras la pérdida somática del alelo normal, que podría ocurrir con más facilidad en el colon y el endometrio, o porque estos epitelios carecen de mecanismos de protección presentes en otras células.
+- Mecanismo: las enzimas de reparación de errores de apareamiento corrigen los errores de la replicación del ADN, espontáneos o inducidos por agentes exógenos (luz ultravioleta o carcinógenos químicos). Su pérdida produce inestabilidad de microsatélites y mutaciones somáticas de genes diana con secuencias repetidas, como el receptor 2 del factor de crecimiento transformante beta (TGF-β), BAX y el receptor del factor de crecimiento similar a la insulina tipo I.
+- Fenotipo (DeVita):
+    - hasta 100 pólipos colónicos (de ahí «no polipósico»), de preferencia en el colon derecho o proximal;
+    - progresión acelerada a cáncer en pólipos diminutos, a veces planos, con edad media de aparición del CCR de 43 años;
+    - tipo I: solo CCR; tipo II: además, tumores extracolónicos de estómago, intestino delgado, vía biliar, pelvis renal, uréter, vejiga, útero y ovario, piel y quizá páncreas;
+    - riesgo a lo largo de la vida: CCR 80%, cáncer de endometrio hasta 50–60% y otros cánceres 1–13%;
+    - variantes: síndrome de Muir-Torre (tumores cutáneos) y un tercio de las familias con síndrome de Turcot (tumores cerebrales).
+- Hasta un tercio de los tumores con inestabilidad de microsatélites alta (MSI-H) ocurre en el contexto del síndrome de Lynch; el resto se debe sobre todo a la metilación somática de MLH1 (ver 4.3).
+- La progresión de adenoma a carcinoma es más rápida con defectos de reparación, lo que justifica intervalos de colonoscopia cortos.
+- Contraste normativo: DeVita define clásicamente el síndrome con los criterios de Amsterdam modificados y describe la prueba germinal como la secuenciación de MLH1 y MSH2; la NCCN incluye MSH6, PMS2 y EPCAM y sustituye la selección por criterios clínicos por la prueba tumoral universal.
+
+### 4.5 Poliposis adenomatosa familiar, variantes y poliposis asociada a MUTYH
+
+**Conducta**
+
+- Sospechar poliposis adenomatosa familiar (PAF) ante cientos a miles de pólipos colónicos entre la adolescencia y los 30 años, aun sin historia familiar (cerca de 30% de los casos son mutaciones de novo).
+- Confirmar con la prueba de truncamiento de la proteína APC y estudiar a los familiares en riesgo (ver 4.3).
+- Tamizaje (DeVita, tabla 40.6): sigmoidoscopia flexible desde los 10–12 años, prueba genética y endoscopia superior con endoscopio de visión lateral cada 1–3 años por el riesgo de adenocarcinoma duodenal o ampular.
+- Indicar colectomía: sin ella, 100% de los pacientes progresa a cáncer colorrectal (CCR). Opciones quirúrgicas:
+    - colectomía abdominal total con anastomosis ileorrectal y vigilancia proctoscópica cuidadosa del recto remanente, si no hay carcinoma por debajo de la reflexión peritoneal;
+    - proctocolectomía total, a menudo preferida porque extirpa todo el tejido en riesgo; en esta población, frecuentemente muy joven, la mayoría de los cirujanos prefiere un procedimiento continente de descenso (pull-through) sobre la resección abdominoperineal con ileostomía terminal permanente, porque preserva la continencia fecal y un estilo de vida relativamente normal.
+- Vigilar las manifestaciones extracolónicas, en particular los tumores desmoides (pueden causar obstrucción), los tumores tiroideos, los pólipos gástricos y de intestino delgado y los tumores cerebrales.
+
+**Fundamento**
+
+- Frecuencia: 1% de la incidencia de CCR. Herencia autosómica dominante con penetrancia cercana a 100%.
+- Gen: APC, en 5q21 (identificado por una deleción intersticial de 5q y análisis de ligamiento); tiene 15 exones y codifica una proteína de cerca de 2850 aminoácidos (310 kDa). Casi todas las mutaciones germinales producen una proteína truncada, lo que permite detectarlas con pruebas moleculares de truncamiento.
+- Mecanismo de dos eventos: el paciente hereda una copia mutada de APC y durante la vida inactiva la copia restante, lo que acelera la progresión a CCR.
+- Correlación genotipo-fenotipo: la localización de la mutación en APC se asocia a la hipertrofia congénita del epitelio pigmentario de la retina, a los tumores desmoides y a la forma clásica frente a la atenuada.
+- Manifestaciones extracolónicas:
+    - benignas: hipertrofia congénita del epitelio pigmentario de la retina, osteomas mandibulares, dientes supernumerarios, quistes epidérmicos, adenomas corticosuprarrenales y tumores desmoides;
+    - malignas: tumores tiroideos, pólipos gástricos y de intestino delgado con riesgo de 5–10% de adenocarcinoma duodenal o ampular, y tumores cerebrales.
+- Síndrome de Turcot: asociación de poliposis colónica y tumores cerebrales (glioblastoma multiforme o meduloblastoma), con pólipos menos numerosos y más grandes que en la PAF clásica; dos tercios de las familias tienen mutación de APC y un tercio, de genes de reparación.
+- PAF atenuada: hasta 100 pólipos colónicos y CCR entre los 50 y los 60 años.
+- Variante I1307K de APC: mayor riesgo de CCR en ciertas familias judías asquenazíes, no observado en otros grupos étnicos.
+- MUTYH (MYH): DeVita la incluye entre las causas familiares de pólipos adenomatosos (historia familiar de pólipos adenomatosos); la NCCN remite el manejo de la PAF, de la PAF atenuada y de los demás síndromes a su guía de evaluación de alto riesgo genético y familiar.
+
+### 4.6 Síndromes de poliposis hamartomatosa y otras predisposiciones
+
+**Conducta**
+
+- Sospechar un síndrome hamartomatoso en niños y adolescentes con pólipos que sangran u obstruyen, y buscar los signos cutáneos y extradigestivos de cada síndrome.
+- Derivar a evaluación de alto riesgo genético a quienes tengan variantes germinales del dominio exonucleasa de POLE o POLD1 (poliposis asociada a la corrección de lectura de la polimerasa), cuyo manejo detalla la guía NCCN de alto riesgo genético y familiar.
+
+**Fundamento**
+
+- Síndromes hamartomatosos: raros, sobre todo pediátricos y adolescentes; < 1% de los cánceres colorrectales (CCR) al año.
+- Síndrome de Peutz-Jeghers (gen LKB1, una serina-treonina cinasa):
+    - pólipos grandes pero escasos en colon e intestino delgado, que se manifiestan por sangrado digestivo u obstrucción, con mayor riesgo de CCR;
+    - el pólipo se distingue por una banda de músculo liso en la submucosa;
+    - pecas en las manos, alrededor de los labios, en la mucosa bucal y periorbitarias;
+    - pólipos sinusales, bronquiales y vesicales; 5–10% de tumores de los cordones sexuales; adenocarcinomas de pulmón y de páncreas.
+- Poliposis juvenil: superposición clínica con Peutz-Jeghers, con pólipos casi siempre limitados al colon (se describen gástricos y de intestino delgado) y mayor riesgo de CCR, sin manifestaciones extracolónicas prevalentes; mutaciones germinales de PTEN, SMAD4, BMPR1 y otros genes.
+- Síndrome de Cowden (PTEN): pólipos hamartomatosos en cualquier parte del tubo digestivo sin aumento del riesgo de CCR según DeVita; cerca de 10% de tumores tiroideos y cerca de 50% de tumores mamarios.
+- Otros síndromes hamartomatosos: Bannayan-Ruvalcaba-Riley y poliposis mixta.
+- Poliposis asociada a la corrección de lectura de la polimerasa (POLE o POLD1 germinal): predispone de forma dominante a múltiples adenomas y carcinomas colorrectales; los tumores tienen miles de mutaciones con microsatélites estables.
+- Otras predisposiciones: cáncer familiar de colon y mama, mutación de BRCA1 (ver 2.1) y susceptibilidades poligénicas aún no identificadas (20–30% de los CCR).
+- Valor biológico de los síndromes: revelaron el papel central de la vía Wnt y los efectos tempranos y limitantes de la inactivación de APC o de la activación de CTNNB1; la pérdida de STK11 (LKB1) y de PTEN en tumores hereditarios y esporádicos iluminó vías moleculares cruciales.
+
 ## 5. Tamizaje
 
 ### 5.1 Principios y elección del método
@@ -884,6 +961,125 @@
     - es pronóstica en los estadios II–III con MSI baja o estabilidad de microsatélites y empeora la supervivencia tras la recurrencia del estadio III resecado, sobre todo en tumores del colon distal;
     - se asocia a localización proximal, tumores T4 y mala diferenciación.
 
+### 8.5 HER2 (ERBB2)
+
+**Conducta**
+
+- Estudiar la sobreexpresión o amplificación del receptor 2 del factor de crecimiento epidérmico humano (HER2, gen ERBB2) en todo cáncer colorrectal metastásico (CCRm), salvo que ya se conozca una mutación de RAS o BRAF (la amplificación es muy rara en ese subgrupo).
+- Métodos: inmunohistoquímica (IHQ), hibridación in situ con fluorescencia (FISH) o secuenciación de nueva generación (NGS). Interpretación:
+    - IHQ 3+ en > 50% de las células tumorales [positivo]; 3+ es una tinción de membrana intensa, circunferencial, basolateral o lateral;
+    - IHQ 2+ [equívoco]: completar con FISH;
+    - FISH con cociente HER2:CEP17 ≥ 2 en > 50% de las células [amplificado];
+    - NGS: otra metodología para detectar la amplificación.
+- Indicar terapia anti-HER2 de inhibición de la señal (trastuzumab con pertuzumab, o trastuzumab con tucatinib) en tumores IHQ 3+, IHQ 2+ con hibridación in situ positiva o amplificados por NGS, que además sean KRAS, NRAS y BRAF de tipo silvestre (ver 14.5).
+- Reservar trastuzumab deruxtecán para los tumores con sobreexpresión por IHQ 3+.
+
+**Fundamento**
+
+- HER2 pertenece a la misma familia de receptores cinasa que el receptor del factor de crecimiento epidérmico (EGFR) y es diana terapéutica establecida en cáncer de mama.
+- Frecuencia: cerca de 3% del cáncer colorrectal (CCR), y 5–14% de los tumores RAS y BRAF silvestres.
+- No tiene valor pronóstico demostrado, pero podría predecir resistencia a los anti-EGFR: con un anti-EGFR, la supervivencia libre de progresión fue de 2.8 meses con HER2 amplificado frente a 8.1 meses sin amplificación, sin diferencia cuando el tratamiento no incluía anti-EGFR.
+
+### 8.6 Fusiones de NTRK y RET, POLE/POLD1, carga mutacional tumoral y KRAS G12C
+
+**Conducta**
+
+- Buscar estas alteraciones raras y accionables dentro del panel multigénico del cáncer colorrectal metastásico (CCRm), en tejido o en sangre.
+- Fusiones de NTRK 1/2/3:
+    - indicar inhibidores de TRK solo ante fusiones, no ante mutaciones puntuales de NTRK, porque solo las fusiones responden;
+    - detectar por IHQ, FISH, NGS de ADN o NGS de ARN; confirmar toda IHQ positiva con NGS de ARN, porque cerca de 1 de cada 5 positivos por IHQ es falso positivo.
+- Fusiones de RET: indicar selpercatinib, inhibidor de RET aprobado por la FDA para tumores sólidos con fusiones activadoras de RET; preferir la NGS de ARN, que detecta fusiones con cualquier gen socio, e interpretar con cautela las fusiones de RET halladas en ADN tumoral circulante tras terapia anti-EGFR.
+- POLE/POLD1: tratar el CCRm con variantes patogénicas funcionales del dominio exonucleasa igual que el dMMR/MSI-H, con inhibidores de puntos de control inmunitario (ver 13.6); el panel multigénico es preferible porque, además de detectar la variante, demuestra la pérdida de corrección de lectura mediante una carga mutacional tumoral (TMB) alta.
+- No solicitar la TMB como biomarcador fuera de un ensayo clínico.
+- KRAS G12C: identificarla, porque habilita la combinación de sotorasib o adagrasib con un anti-EGFR en líneas posteriores (ver 14.5).
+
+**Fundamento**
+
+- NTRK:
+    - los tres genes NTRK codifican las proteínas TRK, expresadas sobre todo en el sistema nervioso, donde regulan el dolor, la propiocepción, el apetito y la memoria; la fusión produce sobreexpresión de una proteína TRK con señalización constitutivamente activa;
+    - frecuencia: 0.2–1% de los CCR (0.35% en una serie de 2314 tumores), limitadas a tumores KRAS, NRAS y BRAF silvestres y, en su mayoría, con deficiencia del sistema de reparación (dMMR por MLH1) e inestabilidad alta (MSI-H);
+    - en un estudio, la NGS de ADN tuvo sensibilidad de 81.1% y especificidad de 99.9%, y la IHQ, sensibilidad de 87.9% y especificidad de 81.1%; la NGS de ARN es la vía óptima porque elimina los intrones y demuestra la transcripción funcional de la fusión.
+- RET:
+    - receptor tirosina cinasa necesario para tejidos neurales, genitourinarios, hematopoyéticos y neuroendocrinos, que señaliza por las vías de las cinasas activadas por mitógenos y de la fosfatidilinositol 3-cinasa;
+    - las variantes germinales activadoras causan neoplasia endocrina múltiple tipo 2, y las de pérdida de función, enfermedad de Hirschsprung y anomalías congénitas renales y de las vías urinarias;
+    - en el CCR, las fusiones que conservan el dominio cinasa C-terminal (socios más comunes KIF5B, CCDC6 y NCOA4) activan RET sin ligando; aparecen en < 1% de los casos, con más frecuencia en pacientes mayores, con estado funcional del Eastern Cooperative Oncology Group (ECOG) 1–2, tumores derechos, primario no resecado y MSI-H, y siempre en tumores RAS y BRAF silvestres.
+- POLE/POLD1:
+    - las variantes del dominio exonucleasa anulan la corrección de lectura de la polimerasa y generan numerosas variantes de un solo nucleótido, con fenotipo ultrahipermutado (TMB > 50 mutaciones/megabase); en general se considera TMB alta un valor > 10 mutaciones/megabase;
+    - las mutaciones somáticas de POLE aparecen en 2–8% de los CCR con estabilidad de microsatélites; las germinales causan poliposis asociada a la corrección de lectura de la polimerasa (ver 4.6);
+    - tienen mejor pronóstico en los estadios II–III, probablemente por la respuesta inmunitaria a los neoantígenos, y responden bien a los inhibidores de puntos de control;
+    - de las mutaciones de POLE identificadas en una serie, solo 15.0% era patogénica, 15.9% benigna y 69.1% de significado incierto; el beneficio de la inmunoterapia se concentró en las patogénicas, por lo que solo estas definen la conducta.
+- TMB: número total de mutaciones somáticas codificantes por área del genoma, medido por NGS. Pembrolizumab está aprobado para tumores sólidos con TMB ≥ 10 mutaciones/megabase tras progresión, pero el estudio que lo sustentó no incluyó pacientes con CCR; en CCR con TMB alta la respuesta a pembrolizumab fue de 11%, y nivolumab con ipilimumab no tuvo actividad suficiente en tumores con estabilidad de microsatélites y TMB alta.
+
+### 8.7 Vía de la fosfatidilinositol 3-cinasa (PI3K) y aspirina adyuvante
+
+**Conducta**
+
+- Realizar el perfil molecular, que incluya las alteraciones somáticas de la vía de la fosfatidilinositol 3-cinasa (PI3K), en todos los cánceres colorrectales (CCR) en estadio II y III.
+- Si hay alteración de la vía PI3K en los estadios II–III: iniciar aspirina 100–162 mg por vía oral al día durante 3 años, salvo contraindicación, después de la recuperación de la cirugía (no antes), y de forma concurrente con la quimioterapia adyuvante si se administra.
+- Discutir con el paciente el riesgo de sangrado digestivo y de evento vascular cerebral hemorrágico de la aspirina.
+
+**Fundamento**
+
+- Alteraciones somáticas de la vía PI3K: mutaciones de PIK3CA en los exones 9 y 20; otras mutaciones de PIK3CA, PIK3R1 y PTEN; y deleciones profundas de PTEN.
+- DeVita: la aspirina después del diagnóstico parece beneficiar a los pacientes con tumores con mutación de PIK3CA y no a los de tipo silvestre.
+- NCCN (discusión): datos abundantes muestran que la aspirina a dosis bajas después del diagnóstico reduce el riesgo de recurrencia y de muerte; la mutación de PIK3CA podría predecir la respuesta, aunque los datos son algo inconsistentes. Los antiinflamatorios no esteroideos (AINE) distintos de la aspirina previenen mejor la recurrencia, pero la aspirina a dosis bajas es más segura y tiene mejor relación beneficio-riesgo.
+- Contraste normativo dentro de la NCCN: la sección de supervivencia de la discusión (actualizada antes) propone que cualquier sobreviviente de CCR considere aspirina 325 mg/día; el algoritmo vigente (versión 2.2026, COL-4 y COL-13) la indica a 100–162 mg/día durante 3 años solo ante alteraciones de la vía PI3K.
+
+### 8.8 ADN tumoral circulante, ensayos multigénicos e Immunoscore
+
+**Conducta**
+
+- No usar el ADN tumoral circulante (ctDNA) posquirúrgico, los ensayos multigénicos (Oncotype DX colon, ColoPrint, ColDx) ni el Immunoscore para estimar el riesgo de recurrencia o decidir la adyuvancia fuera de un ensayo clínico.
+- No desescalar el tratamiento ni tomar decisiones terapéuticas con base en el ctDNA.
+- No usar el ctDNA para la vigilancia.
+- Sí usar la biopsia líquida (paneles de NGS en sangre) para identificar biomarcadores en el cáncer colorrectal metastásico (CCRm) cuando sea necesario (ver 7.4).
+- Favorecer la inclusión en ensayos clínicos.
+
+**Fundamento**
+
+- El ctDNA es pronóstico, no predictivo: tras la cirugía de los estadios I–III, su positividad se asoció con un riesgo de recurrencia varias veces mayor, y todavía más si persiste tras la adyuvancia.
+- Ensayo DYNAMIC (estadio II): el manejo guiado por ctDNA redujo el uso de quimioterapia adyuvante (15% frente a 28%) con supervivencia libre de recurrencia y supervivencia global no inferiores a 5 años.
+- Estudio GALAXY (estadios II–IV resecables): el ctDNA positivo 4 semanas después de la cirugía se asoció a mayor recurrencia e identificó a los pacientes que se beneficiaron de la quimioterapia adyuvante; el momento de la prueba y el valor de cuantificarla siguen en estudio.
+- Inconveniente: un ctDNA positivo sin enfermedad evidente solo ayuda si existen opciones terapéuticas con posibilidad razonable de erradicar la enfermedad; sin ellas, conocer la recurrencia antes puede causar gran angustia.
+- Ensayos multigénicos:
+    - Oncotype DX colon (7 genes de recurrencia y 5 de referencia) clasifica el riesgo en bajo, intermedio o alto, con recurrencia a 3 años de 12%, 18% y 22%; es pronóstico de forma independiente del estadio, del estado de reparación, del grado y del número de ganglios, pero no predice el beneficio de la adyuvancia;
+    - ColoPrint (18 genes) y ColDx (634 sondas) clasifican en riesgo bajo o alto, también de forma independiente de otros factores de riesgo.
+- Immunoscore: percentiles de densidad de linfocitos CD3+ y CD8+ en regiones del tumor; la puntuación alta se asoció a menor recurrencia en el estadio III y al beneficio de la quimioterapia adyuvante.
+- La NCCN cuestiona el valor añadido de estas pruebas sobre los factores de riesgo clínicos; la European Society for Medical Oncology (ESMO) emitió recomendaciones similares.
+
+### 8.9 Farmacogenética: DPYD y UGT1A1 (COL-I)
+
+**Conducta**
+
+- DPYD (gen de la dihidropirimidina deshidrogenasa [DPD], enzima limitante del catabolismo de las fluoropirimidinas):
+    - estudiar las variantes de DPYD antes de iniciar capecitabina o fluorouracilo (5-FU), salvo que el tratamiento sea inmediato, conforme a la advertencia en recuadro de la Food and Drug Administration (FDA): capecitabina en octubre de 2025 y 5-FU en febrero de 2026;
+    - evitar capecitabina y 5-FU en portadores de variantes homocigotas o heterocigotas compuestas que causan deficiencia completa de DPD [metabolizador lento];
+    - en la deficiencia parcial [metabolizador intermedio], individualizar la dosis según la tolerancia y el objetivo del tratamiento; la recomendación del Clinical Pharmacogenetics Implementation Consortium (CPIC) es reducir 50% la dosis inicial con puntuación de actividad de 1.0–1.5 y aumentarla en los ciclos siguientes si no hay toxicidad, o casi ninguna, en los dos primeros;
+    - escalar la dosis en quien tolera la reducción inicial, sobre todo en la adyuvancia con intención curativa, para no infratratar;
+    - interpretar un resultado «negativo» de un ensayo dirigido como ausencia de las variantes incluidas, no como resultado «normal» ni como garantía de tolerancia;
+    - consultar a un farmacéutico clínico o especialista en farmacogenética si está disponible, y discutir la prueba con el paciente.
+- UGT1A1 (uridina difosfato glucuronosiltransferasa 1A1) e irinotecán:
+    - en metabolizadores lentos (UGT1A1\*28/\*28, \*6/\*6 o \*28/\*6), considerar reducir 30% la dosis inicial de irinotecán en el genotipo \*28/\*28 y aumentarla después si se tolera;
+    - en metabolizadores intermedios (\*1/\*28 o \*1/\*6), no reducir la dosis de forma preventiva;
+    - usar irinotecán con precaución y a menor dosis en pacientes con síndrome de Gilbert o bilirrubina sérica elevada;
+    - no solicitar la prueba de UGT1A1 a quien ya presentó toxicidad por irinotecán: requerirá reducción de dosis cualquiera que sea el resultado.
+
+**Fundamento**
+
+- DPYD:
+    - las variantes deletéreas reducen la actividad de la DPD desde una deficiencia parcial hasta completa; con dosis estándar aumentan la exposición al fármaco y causan reacciones graves, a veces mortales;
+    - entre 4% y 8% de la población, según ascendencia, porta variantes deletéreas; se conocen > 1000 variantes, la mayoría muy raras y sin caracterización funcional;
+    - las cuatro variantes mejor caracterizadas (sobre todo en ascendencia europea) son c.1905+1G>A (DPYD*2A), c.2846A>T (p.D949V), c.1679T>G (DPYD*13) y c.1236G>A (HapB3); en otras poblaciones se describieron c.557A>G (afroamericanos) y c.704G>A (sur de Asia);
+    - en una revisión de 13 929 pacientes, la mortalidad por tratamiento fue de 0.1% sin variantes y de 2.3% con variantes [riesgo de muerte cerca de 25 veces mayor]; con variantes seleccionadas y dosis estándar, la toxicidad grave supera 60%, y la reducción preventiva de la dosis disminuye la probabilidad y la intensidad de la toxicidad;
+    - la nomenclatura no es uniforme (alelos estrella, haplotipos, nomenclatura de la Human Genome Variation Society e identificadores rsID; metabolizador intermedio equivale a deficiencia parcial o portador heterocigoto);
+    - preocupación de la NCCN: la reducción de 50% podría infratratar (97% de los pacientes con reducción preventiva no alcanzó el nivel objetivo de 5-FU con la primera dosis), y una reducción de 25% podría bastar en portadores de HapB3 (puntuación de actividad 1.5);
+    - hasta esta advertencia, la FDA y la NCCN no recomendaban el genotipado universal porque los ensayos dirigidos no detectan variantes raras de poblaciones diversas y la secuenciación completa encuentra muchas variantes de significado incierto; los tiempos de respuesta actuales de 7–10 días hacen factible la prueba preventiva.
+- UGT1A1:
+    - la enzima inactiva por glucuronidación el metabolito activo del irinotecán (SN-38) y conjuga la bilirrubina; sus polimorfismos causan hiperbilirrubinemia no conjugada (síndromes de Gilbert y de Crigler-Najjar tipos I y II);
+    - el alelo \*28 es una repetición de dinucleótidos (TA7) en el promotor y el \*6 una mutación codificante (c.211G>A), ambos con menor función; los metabolizadores lentos acumulan SN-38 y tienen mayor riesgo de neutropenia grave, aunque no todos presentan toxicidad grave;
+    - la dosis máxima tolerada de irinotecán intravenoso cada 3 semanas fue de 850 mg, 700 mg y 400 mg en los genotipos \*1/\*1, \*1/\*28 y \*28/\*28;
+    - contraste normativo: DeVita (texto previo) señala que no había guías para ajustar la dosis por UGT1A1 y que el genotipo 7/7, más tóxico, también se asoció a mayor actividad antitumoral; la NCCN actual (COL-I) recomienda considerar la reducción de 30% en \*28/\*28, y la etiqueta del irinotecán advierte reducir la dosis inicial en homocigotos \*28.
+
 ## 9. Estadificación y factores pronósticos
 
 ### 9.1 Clasificación TNM del American Joint Committee on Cancer (AJCC), 8.ª edición
@@ -1245,6 +1441,94 @@
 - Estadio III con MSI-H: pese al mejor pronóstico, estos pacientes se benefician de la adyuvancia basada en 5-FU, y más aún de la basada en oxaliplatino, porque los aductos platino-ADN no se eliminan mediante las enzimas de reparación de errores de apareamiento (DeVita).
 - Contraste normativo: DeVita (2022) consideraba investigacionales los inhibidores de puntos de control inmunitario en el estadio III con MSI-H y no los recomendaba fuera de ensayos; la NCCN v2.2026, tras el ensayo ATOMIC, incluye FOLFOX o CAPEOX con atezolizumab entre las opciones preferidas.
 
+### 11.5 Pacientes de edad avanzada
+
+**Conducta**
+
+- Ofrecer adyuvancia también a los pacientes mayores: el beneficio y la toxicidad del fluorouracilo con leucovorina (5-FU/LV) son similares a los de los jóvenes.
+- Individualizar la adición de oxaliplatino en ≥ 70 años: su beneficio no se ha demostrado en el estadio II ni en el III a esa edad.
+- Usar las herramientas de la guía NCCN de oncología geriátrica para valorar al paciente (ver 7.6).
+
+**Fundamento**
+
+- El uso de adyuvancia disminuye con la edad, en parte porque los adultos mayores están subrepresentados en los ensayos.
+- Estudios poblacionales mostraron beneficio de la adyuvancia en el estadio III en ≥ 65 años (5-FU/LV) y en ≥ 75 años.
+- Oxaliplatino en mayores:
+    - beneficio pequeño y no significativo en ≥ 75 años y beneficio reducido en ≥ 70 años en la base Adjuvant Colon Cancer Endpoints (ACCENT);
+    - sin beneficio en ≥ 70 años en los subgrupos de NSABP C-07 (con tendencia a peor supervivencia y más toxicidad de grado 4–5) y de MOSAIC (70–75 años);
+    - un análisis agrupado mostró que la adyuvancia con oxaliplatino reducía la mortalidad 26% en < 70 años, sin mejoría en ≥ 70 años;
+    - en contraste, el análisis agrupado de NSABP C-08, XELOXA, X-ACT y AVANT mostró mejor supervivencia libre de enfermedad y global con CAPEOX o FOLFOX que con 5-FU/LV en ≥ 70 años, y en TOSCA el tiempo a la recurrencia no difirió por edad tras ajustar por otros factores.
+- Mortalidad temprana: aumenta con la edad de forma no lineal, pero su riesgo absoluto es muy bajo (mortalidad a 30 días de 1.8% a los 80 años).
+- Contraste normativo: DeVita señala que, desde 2013, las guías de consenso recomiendan individualizar el oxaliplatino en el adulto mayor; la NCCN advierte que su beneficio en ≥ 70 años no está demostrado.
+
+### 11.6 Esquemas adyuvantes y dosis (COL-G)
+
+**Conducta**
+
+- FOLFOX6 modificado (mFOLFOX6), cada 2 semanas (6 meses equivalen a 12 ciclos):
+    - oxaliplatino 85 mg/m² intravenoso el día 1, en 2 horas o más rápido a 1 mg/m²/min, con la infusión de leucovorina ajustada al mismo tiempo;
+    - leucovorina 400 mg/m² intravenosa el día 1 (equivale a levoleucovorina 200 mg/m²);
+    - fluorouracilo (5-FU) 400 mg/m² en bolo intravenoso el día 1, seguido de 1200 mg/m²/día durante 2 días en infusión continua (2400 mg/m² en 46–48 horas).
+- CAPEOX, cada 3 semanas (6 meses equivalen a 8 ciclos):
+    - oxaliplatino 130 mg/m² intravenoso el día 1;
+    - capecitabina 1000 mg/m² por vía oral dos veces al día durante 14 días.
+- Capecitabina en monoterapia: 1000–1250 mg/m² por vía oral dos veces al día durante 14 días, cada 3 semanas.
+- Fluorouracilo con leucovorina:
+    - esquema semanal: leucovorina 500 mg/m² en infusión de 2 horas y 5-FU 500 mg/m² en bolo 1 hora después de iniciar la leucovorina, semanalmente durante 6 semanas, cada 8 semanas por 4 ciclos;
+    - esquema infusional quincenal simplificado (sLV5FU2): leucovorina 400 mg/m² intravenosa el día 1, 5-FU 400 mg/m² en bolo y después 1200 mg/m²/día durante 2 días en infusión continua (2400 mg/m² en 46–48 horas), cada 2 semanas.
+- FOLFOX o CAPEOX con atezolizumab (tumores con deficiencia del sistema de reparación): ver 11.4.
+- Antes de iniciar una fluoropirimidina, considerar la prueba de DPYD (ver 8.9).
+
+**Fundamento**
+
+- Capecitabina: la mayoría de los datos de eficacia y seguridad provienen de Europa, donde la dosis inicial estándar es 1000 mg/m² dos veces al día durante 14 días cada 21 días; los pacientes de Norteamérica parecen tener más toxicidad con la capecitabina y con otras fluoropirimidinas y podrían requerir dosis menores.
+- mFOLFOX6 ha sido el brazo control de todos los ensayos adyuvantes recientes del National Cancer Institute (NCI) y es el FOLFOX preferido en adyuvancia y en enfermedad metastásica.
+
+### 11.7 Medidas complementarias: momento de inicio, escasez de leucovorina, aspirina y actividad física
+
+**Conducta**
+
+- Iniciar la adyuvancia en cuanto el paciente esté médicamente apto tras recuperarse de la cirugía; tradicionalmente se inicia entre las 3 y las 8 semanas.
+- Ante escasez de leucovorina:
+    - usar levoleucovorina (200 mg/m² equivalen a 400 mg/m² de leucovorina), solo durante la escasez porque es mucho más cara;
+    - o usar dosis menores de leucovorina en todos los pacientes, probablemente tan eficaces como las altas;
+    - si ninguna está disponible, tratar sin leucovorina y, si el paciente no presenta toxicidad de grado ≥ 2, considerar un aumento modesto del 5-FU (cerca de 10%).
+- Aspirina en los estadios II–III con alteraciones de la vía de la fosfatidilinositol 3-cinasa (PI3K): 100–162 mg/día durante 3 años tras recuperarse de la cirugía, concurrente con la quimioterapia (ver 8.7).
+- Actividad física: facilitar al menos 150 minutos semanales de actividad moderada a vigorosa (ver 15.2).
+
+**Fundamento**
+
+- Un metaanálisis mostró que cada 4 semanas de retraso de la quimioterapia reduce 14% la supervivencia global; los retrasos > 6 semanas y > 8 semanas se asociaron a peor supervivencia en registros.
+- Contraste: estos análisis tienen sesgos de confusión (quienes empiezan tarde suelen ser > 65 años, operados de urgencia o con hospitalización posoperatoria prolongada); DeVita los considera generadores de hipótesis, no definitivos.
+- Dosis de leucovorina: en QUASAR, 175 mg y 25 mg de leucovorina con 5-FU en bolo dieron supervivencia y recurrencia similares, y en enfermedad metastásica la respuesta y la supervivencia no difirieron entre 500 mg/m² y 20 mg/m².
+
+### 11.8 Evolución histórica de la adyuvancia y esquemas no recomendados
+
+**Conducta**
+
+- No usar en la adyuvancia del cáncer de colon:
+    - esquemas con irinotecán (IFL, FOLFIRI): no aportan beneficio y aumentan la toxicidad, incluida la letal;
+    - bevacizumab: no mejora la curación y podría ser perjudicial;
+    - cetuximab o panitumumab: sin beneficio y con más toxicidad, incluso en tumores KRAS silvestres;
+    - FLOX (ver 11.3).
+- No usar fuera de investigación: infusión portal, quimioterapia intraperitoneal hipertérmica adyuvante, vacunas ni inmunoterapia activa específica.
+
+**Fundamento**
+
+- Etapa inicial (1950–1986): ensayos pequeños con fármacos hoy sabidos inactivos en enfermedad metastásica; un metaanálisis hasta 1986 solo mostró una tendencia de beneficio, lo que indicó la necesidad de ensayos mucho mayores.
+- Década de 1990 (fluorouracilo): beneficio claro en el estadio III; 6 meses suficientes; el levamisol, que se creía activo, resultaba inactivo; la leucovorina a dosis altas no superó a las bajas; el esquema diario por 5 días de la Clínica Mayo fue más tóxico que el semanal en bolo o el quincenal en infusión; el interferón alfa añadió toxicidad sin beneficio.
+- Fluoropirimidinas orales: el 5-FU oral tiene biodisponibilidad errática por el efecto variable de la dihidropirimidina deshidrogenasa (DPD) en el primer paso hepático; por eso se desarrollaron profármacos orales: capecitabina (equivalente al 5-FU/LV en bolo) y uracilo-tegafur con leucovorina (equivalente al 5-FU intravenoso en NSABP C-06, no disponible en EE. UU.); la S-1, usada en Japón, fue no inferior al uracilo-tegafur.
+- Combinaciones: se supuso que la actividad en enfermedad metastásica se traduciría en curación adyuvante, lo que resultó simplista y a menudo falso; solo el oxaliplatino añadido a las fluoropirimidinas aportó beneficio.
+- Irinotecán:
+    - CALGB 89803 (IFL): exceso de muertes tempranas (18 frente a 6 en los primeros 4 meses) y sin beneficio en supervivencia, por lo que se cruzaron los límites de futilidad;
+    - ACCORD 02 y PETACC-3 (FOLFIRI frente a 5-FU/LV infusional): sin beneficio y con más toxicidad digestiva y neutropenia; el supuesto beneficio en tumores con inestabilidad de microsatélites alta no se confirmó.
+- Bevacizumab (NSABP C-08, AVANT y QUASAR 2): sin mejoría de la supervivencia libre de enfermedad ni global; en C-08 las curvas se separaron al año y convergieron hacia el tercer año, lo que indica que solo retrasa la progresión de las micrometástasis mientras se administra, sin erradicarlas; en AVANT hubo una tendencia a peor supervivencia.
+- Cetuximab (N0147 y PETACC-8): sin beneficio en tumores KRAS silvestres, con más eventos adversos de grado 3–4 y daño en > 70 años; panitumumab comparte diana, mecanismo y resistencias, por lo que se le aplica la misma conclusión.
+- Enfoques investigacionales (DeVita):
+    - infusión portal de 5-FU (NSABP C-02 y estudio suizo): mejoría modesta de la supervivencia libre de enfermedad sin reducir las recurrencias hepáticas; en un metaanálisis, mejoría de solo 4% en la supervivencia global a 5 años; la variante OCTREE (5-FU y oxaliplatino intraoperatorios seguidos de mFOLFOX6) está en evaluación;
+    - quimioterapia intraperitoneal hipertérmica adyuvante en T4 o perforados: el ensayo COLOPEC no mejoró la supervivencia libre de enfermedad peritoneal y causó complicaciones en 14%;
+    - vacunas: el antígeno carcinoembrionario es poco inmunógeno; la mucina MUC1 hipoglucosilada es un objetivo prometedor; la inmunización con células tumorales propias irradiadas más bacilo de Calmette-Guérin no mostró beneficio.
+
 ## 12. Enfermedad localmente avanzada, neoadyuvancia y radioterapia
 
 ### 12.1 cT4b o enfermedad ganglionar voluminosa con sistema de reparación competente (COL-3)
@@ -1424,290 +1708,6 @@
 - La perforación del primario con bevacizumab es rara y no disminuye al resecarlo.
 - Metástasis peritoneales: cerca de 17% de los CCRm tiene carcinomatosis peritoneal y 2% la tiene como único sitio; la supervivencia es menor y el objetivo suele ser paliativo, con terapia sistémica y cirugía o endoprótesis para la obstrucción.
 
-### 4.4 Síndrome de Lynch (cáncer colorrectal hereditario no polipósico)
-
-**Conducta**
-
-- Sospechar síndrome de Lynch con los criterios clínicos (DeVita, tabla 40.4) y confirmarlo con la prueba germinal tras el cribado tumoral universal (ver 4.3):
-    - criterios de Amsterdam I: al menos tres familiares con cáncer colorrectal (CCR); uno debe ser familiar de primer grado de los otros dos; al menos dos generaciones sucesivas afectadas; al menos un CCR antes de los 50 años; exclusión de la poliposis adenomatosa familiar (PAF); tumores verificados por histopatología;
-    - criterios de Amsterdam II: al menos tres familiares con un cáncer asociado al síndrome (colorrectal, endometrial, de intestino delgado, de uréter o de pelvis renal); al menos dos generaciones sucesivas afectadas; al menos un caso antes de los 50 años; exclusión de PAF; verificación histopatológica;
-    - criterios de Bethesda (para seleccionar a quién estudiar la inestabilidad de microsatélites): familia que cumple Amsterdam; dos cánceres asociados al síndrome (colorrectales o extracolónicos); CCR con un familiar de primer grado con CCR, cáncer extracolónico asociado o adenoma colorrectal, con uno de los cánceres antes de los 45 años o el adenoma antes de los 40; CCR o cáncer de endometrio antes de los 45 años; CCR derecho con patrón histológico indiferenciado antes de los 45 años; CCR de células en anillo de sello antes de los 45 años; adenoma antes de los 40 años.
-- Vigilancia del portador (DeVita, tabla 40.6): colonoscopia cada 1–2 años desde los 20–25 años o desde 10 años antes del caso familiar más joven, lo que ocurra primero; considerar tamizaje de cáncer uterino y ovárico con histeroscopia y ultrasonido transvaginal, con frecuencia variable entre centros.
-- Indicar aspirina como quimioprevención (ver 2.5).
-- Tras el tratamiento de un CCR en un paciente con Lynch, hacer la colonoscopia de vigilancia con mayor frecuencia (anual) que en el CCR esporádico (ver 15.1).
-- † En portadoras con paridad satisfecha se ofrece histerectomía con salpingooforectomía bilateral de reducción de riesgo; el detalle del manejo de reducción de riesgo corresponde a la guía NCCN de evaluación de alto riesgo genético y familiar (colorrectal, endometrial y gástrico), no incluida en las fuentes.
-
-**Fundamento**
-
-- Frecuencia: es la forma más común de predisposición genética al cáncer de colon, con 2–4% de los CCR (NCCN); cerca de 3% según DeVita.
-- Genes: mutaciones germinales de los genes de reparación de errores de apareamiento MLH1, MSH2, MSH6 y PMS2, o de EPCAM (NCCN). Según DeVita, cerca de 60% de las mutaciones germinales está en MLH1 o MSH2, y las de MSH6, PMS1 y PMS2 son raras.
-- Herencia: autosómica dominante con penetrancia cercana a 80%. Se hereda la predisposición; en el tejido, el tumor aparece tras la pérdida somática del alelo normal, que podría ocurrir con más facilidad en el colon y el endometrio, o porque estos epitelios carecen de mecanismos de protección presentes en otras células.
-- Mecanismo: las enzimas de reparación de errores de apareamiento corrigen los errores de la replicación del ADN, espontáneos o inducidos por agentes exógenos (luz ultravioleta o carcinógenos químicos). Su pérdida produce inestabilidad de microsatélites y mutaciones somáticas de genes diana con secuencias repetidas, como el receptor 2 del factor de crecimiento transformante beta (TGF-β), BAX y el receptor del factor de crecimiento similar a la insulina tipo I.
-- Fenotipo (DeVita):
-    - hasta 100 pólipos colónicos (de ahí «no polipósico»), de preferencia en el colon derecho o proximal;
-    - progresión acelerada a cáncer en pólipos diminutos, a veces planos, con edad media de aparición del CCR de 43 años;
-    - tipo I: solo CCR; tipo II: además, tumores extracolónicos de estómago, intestino delgado, vía biliar, pelvis renal, uréter, vejiga, útero y ovario, piel y quizá páncreas;
-    - riesgo a lo largo de la vida: CCR 80%, cáncer de endometrio hasta 50–60% y otros cánceres 1–13%;
-    - variantes: síndrome de Muir-Torre (tumores cutáneos) y un tercio de las familias con síndrome de Turcot (tumores cerebrales).
-- Hasta un tercio de los tumores con inestabilidad de microsatélites alta (MSI-H) ocurre en el contexto del síndrome de Lynch; el resto se debe sobre todo a la metilación somática de MLH1 (ver 4.3).
-- La progresión de adenoma a carcinoma es más rápida con defectos de reparación, lo que justifica intervalos de colonoscopia cortos.
-- Contraste normativo: DeVita define clásicamente el síndrome con los criterios de Amsterdam modificados y describe la prueba germinal como la secuenciación de MLH1 y MSH2; la NCCN incluye MSH6, PMS2 y EPCAM y sustituye la selección por criterios clínicos por la prueba tumoral universal.
-
-### 4.5 Poliposis adenomatosa familiar, variantes y poliposis asociada a MUTYH
-
-**Conducta**
-
-- Sospechar poliposis adenomatosa familiar (PAF) ante cientos a miles de pólipos colónicos entre la adolescencia y los 30 años, aun sin historia familiar (cerca de 30% de los casos son mutaciones de novo).
-- Confirmar con la prueba de truncamiento de la proteína APC y estudiar a los familiares en riesgo (ver 4.3).
-- Tamizaje (DeVita, tabla 40.6): sigmoidoscopia flexible desde los 10–12 años, prueba genética y endoscopia superior con endoscopio de visión lateral cada 1–3 años por el riesgo de adenocarcinoma duodenal o ampular.
-- Indicar colectomía: sin ella, 100% de los pacientes progresa a cáncer colorrectal (CCR). Opciones quirúrgicas:
-    - colectomía abdominal total con anastomosis ileorrectal y vigilancia proctoscópica cuidadosa del recto remanente, si no hay carcinoma por debajo de la reflexión peritoneal;
-    - proctocolectomía total, a menudo preferida porque extirpa todo el tejido en riesgo; en esta población, frecuentemente muy joven, la mayoría de los cirujanos prefiere un procedimiento continente de descenso (pull-through) sobre la resección abdominoperineal con ileostomía terminal permanente, porque preserva la continencia fecal y un estilo de vida relativamente normal.
-- Vigilar las manifestaciones extracolónicas, en particular los tumores desmoides (pueden causar obstrucción), los tumores tiroideos, los pólipos gástricos y de intestino delgado y los tumores cerebrales.
-
-**Fundamento**
-
-- Frecuencia: 1% de la incidencia de CCR. Herencia autosómica dominante con penetrancia cercana a 100%.
-- Gen: APC, en 5q21 (identificado por una deleción intersticial de 5q y análisis de ligamiento); tiene 15 exones y codifica una proteína de cerca de 2850 aminoácidos (310 kDa). Casi todas las mutaciones germinales producen una proteína truncada, lo que permite detectarlas con pruebas moleculares de truncamiento.
-- Mecanismo de dos eventos: el paciente hereda una copia mutada de APC y durante la vida inactiva la copia restante, lo que acelera la progresión a CCR.
-- Correlación genotipo-fenotipo: la localización de la mutación en APC se asocia a la hipertrofia congénita del epitelio pigmentario de la retina, a los tumores desmoides y a la forma clásica frente a la atenuada.
-- Manifestaciones extracolónicas:
-    - benignas: hipertrofia congénita del epitelio pigmentario de la retina, osteomas mandibulares, dientes supernumerarios, quistes epidérmicos, adenomas corticosuprarrenales y tumores desmoides;
-    - malignas: tumores tiroideos, pólipos gástricos y de intestino delgado con riesgo de 5–10% de adenocarcinoma duodenal o ampular, y tumores cerebrales.
-- Síndrome de Turcot: asociación de poliposis colónica y tumores cerebrales (glioblastoma multiforme o meduloblastoma), con pólipos menos numerosos y más grandes que en la PAF clásica; dos tercios de las familias tienen mutación de APC y un tercio, de genes de reparación.
-- PAF atenuada: hasta 100 pólipos colónicos y CCR entre los 50 y los 60 años.
-- Variante I1307K de APC: mayor riesgo de CCR en ciertas familias judías asquenazíes, no observado en otros grupos étnicos.
-- MUTYH (MYH): DeVita la incluye entre las causas familiares de pólipos adenomatosos (historia familiar de pólipos adenomatosos); la NCCN remite el manejo de la PAF, de la PAF atenuada y de los demás síndromes a su guía de evaluación de alto riesgo genético y familiar.
-
-### 4.6 Síndromes de poliposis hamartomatosa y otras predisposiciones
-
-**Conducta**
-
-- Sospechar un síndrome hamartomatoso en niños y adolescentes con pólipos que sangran u obstruyen, y buscar los signos cutáneos y extradigestivos de cada síndrome.
-- Derivar a evaluación de alto riesgo genético a quienes tengan variantes germinales del dominio exonucleasa de POLE o POLD1 (poliposis asociada a la corrección de lectura de la polimerasa), cuyo manejo detalla la guía NCCN de alto riesgo genético y familiar.
-
-**Fundamento**
-
-- Síndromes hamartomatosos: raros, sobre todo pediátricos y adolescentes; < 1% de los cánceres colorrectales (CCR) al año.
-- Síndrome de Peutz-Jeghers (gen LKB1, una serina-treonina cinasa):
-    - pólipos grandes pero escasos en colon e intestino delgado, que se manifiestan por sangrado digestivo u obstrucción, con mayor riesgo de CCR;
-    - el pólipo se distingue por una banda de músculo liso en la submucosa;
-    - pecas en las manos, alrededor de los labios, en la mucosa bucal y periorbitarias;
-    - pólipos sinusales, bronquiales y vesicales; 5–10% de tumores de los cordones sexuales; adenocarcinomas de pulmón y de páncreas.
-- Poliposis juvenil: superposición clínica con Peutz-Jeghers, con pólipos casi siempre limitados al colon (se describen gástricos y de intestino delgado) y mayor riesgo de CCR, sin manifestaciones extracolónicas prevalentes; mutaciones germinales de PTEN, SMAD4, BMPR1 y otros genes.
-- Síndrome de Cowden (PTEN): pólipos hamartomatosos en cualquier parte del tubo digestivo sin aumento del riesgo de CCR según DeVita; cerca de 10% de tumores tiroideos y cerca de 50% de tumores mamarios.
-- Otros síndromes hamartomatosos: Bannayan-Ruvalcaba-Riley y poliposis mixta.
-- Poliposis asociada a la corrección de lectura de la polimerasa (POLE o POLD1 germinal): predispone de forma dominante a múltiples adenomas y carcinomas colorrectales; los tumores tienen miles de mutaciones con microsatélites estables.
-- Otras predisposiciones: cáncer familiar de colon y mama, mutación de BRCA1 (ver 2.1) y susceptibilidades poligénicas aún no identificadas (20–30% de los CCR).
-- Valor biológico de los síndromes: revelaron el papel central de la vía Wnt y los efectos tempranos y limitantes de la inactivación de APC o de la activación de CTNNB1; la pérdida de STK11 (LKB1) y de PTEN en tumores hereditarios y esporádicos iluminó vías moleculares cruciales.
-
-### 8.5 HER2 (ERBB2)
-
-**Conducta**
-
-- Estudiar la sobreexpresión o amplificación del receptor 2 del factor de crecimiento epidérmico humano (HER2, gen ERBB2) en todo cáncer colorrectal metastásico (CCRm), salvo que ya se conozca una mutación de RAS o BRAF (la amplificación es muy rara en ese subgrupo).
-- Métodos: inmunohistoquímica (IHQ), hibridación in situ con fluorescencia (FISH) o secuenciación de nueva generación (NGS). Interpretación:
-    - IHQ 3+ en > 50% de las células tumorales [positivo]; 3+ es una tinción de membrana intensa, circunferencial, basolateral o lateral;
-    - IHQ 2+ [equívoco]: completar con FISH;
-    - FISH con cociente HER2:CEP17 ≥ 2 en > 50% de las células [amplificado];
-    - NGS: otra metodología para detectar la amplificación.
-- Indicar terapia anti-HER2 de inhibición de la señal (trastuzumab con pertuzumab, o trastuzumab con tucatinib) en tumores IHQ 3+, IHQ 2+ con hibridación in situ positiva o amplificados por NGS, que además sean KRAS, NRAS y BRAF de tipo silvestre (ver 14.5).
-- Reservar trastuzumab deruxtecán para los tumores con sobreexpresión por IHQ 3+.
-
-**Fundamento**
-
-- HER2 pertenece a la misma familia de receptores cinasa que el receptor del factor de crecimiento epidérmico (EGFR) y es diana terapéutica establecida en cáncer de mama.
-- Frecuencia: cerca de 3% del cáncer colorrectal (CCR), y 5–14% de los tumores RAS y BRAF silvestres.
-- No tiene valor pronóstico demostrado, pero podría predecir resistencia a los anti-EGFR: con un anti-EGFR, la supervivencia libre de progresión fue de 2.8 meses con HER2 amplificado frente a 8.1 meses sin amplificación, sin diferencia cuando el tratamiento no incluía anti-EGFR.
-
-### 8.6 Fusiones de NTRK y RET, POLE/POLD1, carga mutacional tumoral y KRAS G12C
-
-**Conducta**
-
-- Buscar estas alteraciones raras y accionables dentro del panel multigénico del cáncer colorrectal metastásico (CCRm), en tejido o en sangre.
-- Fusiones de NTRK 1/2/3:
-    - indicar inhibidores de TRK solo ante fusiones, no ante mutaciones puntuales de NTRK, porque solo las fusiones responden;
-    - detectar por IHQ, FISH, NGS de ADN o NGS de ARN; confirmar toda IHQ positiva con NGS de ARN, porque cerca de 1 de cada 5 positivos por IHQ es falso positivo.
-- Fusiones de RET: indicar selpercatinib, inhibidor de RET aprobado por la FDA para tumores sólidos con fusiones activadoras de RET; preferir la NGS de ARN, que detecta fusiones con cualquier gen socio, e interpretar con cautela las fusiones de RET halladas en ADN tumoral circulante tras terapia anti-EGFR.
-- POLE/POLD1: tratar el CCRm con variantes patogénicas funcionales del dominio exonucleasa igual que el dMMR/MSI-H, con inhibidores de puntos de control inmunitario (ver 13.6); el panel multigénico es preferible porque, además de detectar la variante, demuestra la pérdida de corrección de lectura mediante una carga mutacional tumoral (TMB) alta.
-- No solicitar la TMB como biomarcador fuera de un ensayo clínico.
-- KRAS G12C: identificarla, porque habilita la combinación de sotorasib o adagrasib con un anti-EGFR en líneas posteriores (ver 14.5).
-
-**Fundamento**
-
-- NTRK:
-    - los tres genes NTRK codifican las proteínas TRK, expresadas sobre todo en el sistema nervioso, donde regulan el dolor, la propiocepción, el apetito y la memoria; la fusión produce sobreexpresión de una proteína TRK con señalización constitutivamente activa;
-    - frecuencia: 0.2–1% de los CCR (0.35% en una serie de 2314 tumores), limitadas a tumores KRAS, NRAS y BRAF silvestres y, en su mayoría, con deficiencia del sistema de reparación (dMMR por MLH1) e inestabilidad alta (MSI-H);
-    - en un estudio, la NGS de ADN tuvo sensibilidad de 81.1% y especificidad de 99.9%, y la IHQ, sensibilidad de 87.9% y especificidad de 81.1%; la NGS de ARN es la vía óptima porque elimina los intrones y demuestra la transcripción funcional de la fusión.
-- RET:
-    - receptor tirosina cinasa necesario para tejidos neurales, genitourinarios, hematopoyéticos y neuroendocrinos, que señaliza por las vías de las cinasas activadas por mitógenos y de la fosfatidilinositol 3-cinasa;
-    - las variantes germinales activadoras causan neoplasia endocrina múltiple tipo 2, y las de pérdida de función, enfermedad de Hirschsprung y anomalías congénitas renales y de las vías urinarias;
-    - en el CCR, las fusiones que conservan el dominio cinasa C-terminal (socios más comunes KIF5B, CCDC6 y NCOA4) activan RET sin ligando; aparecen en < 1% de los casos, con más frecuencia en pacientes mayores, con estado funcional del Eastern Cooperative Oncology Group (ECOG) 1–2, tumores derechos, primario no resecado y MSI-H, y siempre en tumores RAS y BRAF silvestres.
-- POLE/POLD1:
-    - las variantes del dominio exonucleasa anulan la corrección de lectura de la polimerasa y generan numerosas variantes de un solo nucleótido, con fenotipo ultrahipermutado (TMB > 50 mutaciones/megabase); en general se considera TMB alta un valor > 10 mutaciones/megabase;
-    - las mutaciones somáticas de POLE aparecen en 2–8% de los CCR con estabilidad de microsatélites; las germinales causan poliposis asociada a la corrección de lectura de la polimerasa (ver 4.6);
-    - tienen mejor pronóstico en los estadios II–III, probablemente por la respuesta inmunitaria a los neoantígenos, y responden bien a los inhibidores de puntos de control;
-    - de las mutaciones de POLE identificadas en una serie, solo 15.0% era patogénica, 15.9% benigna y 69.1% de significado incierto; el beneficio de la inmunoterapia se concentró en las patogénicas, por lo que solo estas definen la conducta.
-- TMB: número total de mutaciones somáticas codificantes por área del genoma, medido por NGS. Pembrolizumab está aprobado para tumores sólidos con TMB ≥ 10 mutaciones/megabase tras progresión, pero el estudio que lo sustentó no incluyó pacientes con CCR; en CCR con TMB alta la respuesta a pembrolizumab fue de 11%, y nivolumab con ipilimumab no tuvo actividad suficiente en tumores con estabilidad de microsatélites y TMB alta.
-
-### 8.7 Vía de la fosfatidilinositol 3-cinasa (PI3K) y aspirina adyuvante
-
-**Conducta**
-
-- Realizar el perfil molecular, que incluya las alteraciones somáticas de la vía de la fosfatidilinositol 3-cinasa (PI3K), en todos los cánceres colorrectales (CCR) en estadio II y III.
-- Si hay alteración de la vía PI3K en los estadios II–III: iniciar aspirina 100–162 mg por vía oral al día durante 3 años, salvo contraindicación, después de la recuperación de la cirugía (no antes), y de forma concurrente con la quimioterapia adyuvante si se administra.
-- Discutir con el paciente el riesgo de sangrado digestivo y de evento vascular cerebral hemorrágico de la aspirina.
-
-**Fundamento**
-
-- Alteraciones somáticas de la vía PI3K: mutaciones de PIK3CA en los exones 9 y 20; otras mutaciones de PIK3CA, PIK3R1 y PTEN; y deleciones profundas de PTEN.
-- DeVita: la aspirina después del diagnóstico parece beneficiar a los pacientes con tumores con mutación de PIK3CA y no a los de tipo silvestre.
-- NCCN (discusión): datos abundantes muestran que la aspirina a dosis bajas después del diagnóstico reduce el riesgo de recurrencia y de muerte; la mutación de PIK3CA podría predecir la respuesta, aunque los datos son algo inconsistentes. Los antiinflamatorios no esteroideos (AINE) distintos de la aspirina previenen mejor la recurrencia, pero la aspirina a dosis bajas es más segura y tiene mejor relación beneficio-riesgo.
-- Contraste normativo dentro de la NCCN: la sección de supervivencia de la discusión (actualizada antes) propone que cualquier sobreviviente de CCR considere aspirina 325 mg/día; el algoritmo vigente (versión 2.2026, COL-4 y COL-13) la indica a 100–162 mg/día durante 3 años solo ante alteraciones de la vía PI3K.
-
-### 8.8 ADN tumoral circulante, ensayos multigénicos e Immunoscore
-
-**Conducta**
-
-- No usar el ADN tumoral circulante (ctDNA) posquirúrgico, los ensayos multigénicos (Oncotype DX colon, ColoPrint, ColDx) ni el Immunoscore para estimar el riesgo de recurrencia o decidir la adyuvancia fuera de un ensayo clínico.
-- No desescalar el tratamiento ni tomar decisiones terapéuticas con base en el ctDNA.
-- No usar el ctDNA para la vigilancia.
-- Sí usar la biopsia líquida (paneles de NGS en sangre) para identificar biomarcadores en el cáncer colorrectal metastásico (CCRm) cuando sea necesario (ver 7.4).
-- Favorecer la inclusión en ensayos clínicos.
-
-**Fundamento**
-
-- El ctDNA es pronóstico, no predictivo: tras la cirugía de los estadios I–III, su positividad se asoció con un riesgo de recurrencia varias veces mayor, y todavía más si persiste tras la adyuvancia.
-- Ensayo DYNAMIC (estadio II): el manejo guiado por ctDNA redujo el uso de quimioterapia adyuvante (15% frente a 28%) con supervivencia libre de recurrencia y supervivencia global no inferiores a 5 años.
-- Estudio GALAXY (estadios II–IV resecables): el ctDNA positivo 4 semanas después de la cirugía se asoció a mayor recurrencia e identificó a los pacientes que se beneficiaron de la quimioterapia adyuvante; el momento de la prueba y el valor de cuantificarla siguen en estudio.
-- Inconveniente: un ctDNA positivo sin enfermedad evidente solo ayuda si existen opciones terapéuticas con posibilidad razonable de erradicar la enfermedad; sin ellas, conocer la recurrencia antes puede causar gran angustia.
-- Ensayos multigénicos:
-    - Oncotype DX colon (7 genes de recurrencia y 5 de referencia) clasifica el riesgo en bajo, intermedio o alto, con recurrencia a 3 años de 12%, 18% y 22%; es pronóstico de forma independiente del estadio, del estado de reparación, del grado y del número de ganglios, pero no predice el beneficio de la adyuvancia;
-    - ColoPrint (18 genes) y ColDx (634 sondas) clasifican en riesgo bajo o alto, también de forma independiente de otros factores de riesgo.
-- Immunoscore: percentiles de densidad de linfocitos CD3+ y CD8+ en regiones del tumor; la puntuación alta se asoció a menor recurrencia en el estadio III y al beneficio de la quimioterapia adyuvante.
-- La NCCN cuestiona el valor añadido de estas pruebas sobre los factores de riesgo clínicos; la European Society for Medical Oncology (ESMO) emitió recomendaciones similares.
-
-### 8.9 Farmacogenética: DPYD y UGT1A1 (COL-I)
-
-**Conducta**
-
-- DPYD (gen de la dihidropirimidina deshidrogenasa [DPD], enzima limitante del catabolismo de las fluoropirimidinas):
-    - estudiar las variantes de DPYD antes de iniciar capecitabina o fluorouracilo (5-FU), salvo que el tratamiento sea inmediato, conforme a la advertencia en recuadro de la Food and Drug Administration (FDA): capecitabina en octubre de 2025 y 5-FU en febrero de 2026;
-    - evitar capecitabina y 5-FU en portadores de variantes homocigotas o heterocigotas compuestas que causan deficiencia completa de DPD [metabolizador lento];
-    - en la deficiencia parcial [metabolizador intermedio], individualizar la dosis según la tolerancia y el objetivo del tratamiento; la recomendación del Clinical Pharmacogenetics Implementation Consortium (CPIC) es reducir 50% la dosis inicial con puntuación de actividad de 1.0–1.5 y aumentarla en los ciclos siguientes si no hay toxicidad, o casi ninguna, en los dos primeros;
-    - escalar la dosis en quien tolera la reducción inicial, sobre todo en la adyuvancia con intención curativa, para no infratratar;
-    - interpretar un resultado «negativo» de un ensayo dirigido como ausencia de las variantes incluidas, no como resultado «normal» ni como garantía de tolerancia;
-    - consultar a un farmacéutico clínico o especialista en farmacogenética si está disponible, y discutir la prueba con el paciente.
-- UGT1A1 (uridina difosfato glucuronosiltransferasa 1A1) e irinotecán:
-    - en metabolizadores lentos (UGT1A1\*28/\*28, \*6/\*6 o \*28/\*6), considerar reducir 30% la dosis inicial de irinotecán en el genotipo \*28/\*28 y aumentarla después si se tolera;
-    - en metabolizadores intermedios (\*1/\*28 o \*1/\*6), no reducir la dosis de forma preventiva;
-    - usar irinotecán con precaución y a menor dosis en pacientes con síndrome de Gilbert o bilirrubina sérica elevada;
-    - no solicitar la prueba de UGT1A1 a quien ya presentó toxicidad por irinotecán: requerirá reducción de dosis cualquiera que sea el resultado.
-
-**Fundamento**
-
-- DPYD:
-    - las variantes deletéreas reducen la actividad de la DPD desde una deficiencia parcial hasta completa; con dosis estándar aumentan la exposición al fármaco y causan reacciones graves, a veces mortales;
-    - entre 4% y 8% de la población, según ascendencia, porta variantes deletéreas; se conocen > 1000 variantes, la mayoría muy raras y sin caracterización funcional;
-    - las cuatro variantes mejor caracterizadas (sobre todo en ascendencia europea) son c.1905+1G>A (DPYD*2A), c.2846A>T (p.D949V), c.1679T>G (DPYD*13) y c.1236G>A (HapB3); en otras poblaciones se describieron c.557A>G (afroamericanos) y c.704G>A (sur de Asia);
-    - en una revisión de 13 929 pacientes, la mortalidad por tratamiento fue de 0.1% sin variantes y de 2.3% con variantes [riesgo de muerte cerca de 25 veces mayor]; con variantes seleccionadas y dosis estándar, la toxicidad grave supera 60%, y la reducción preventiva de la dosis disminuye la probabilidad y la intensidad de la toxicidad;
-    - la nomenclatura no es uniforme (alelos estrella, haplotipos, nomenclatura de la Human Genome Variation Society e identificadores rsID; metabolizador intermedio equivale a deficiencia parcial o portador heterocigoto);
-    - preocupación de la NCCN: la reducción de 50% podría infratratar (97% de los pacientes con reducción preventiva no alcanzó el nivel objetivo de 5-FU con la primera dosis), y una reducción de 25% podría bastar en portadores de HapB3 (puntuación de actividad 1.5);
-    - hasta esta advertencia, la FDA y la NCCN no recomendaban el genotipado universal porque los ensayos dirigidos no detectan variantes raras de poblaciones diversas y la secuenciación completa encuentra muchas variantes de significado incierto; los tiempos de respuesta actuales de 7–10 días hacen factible la prueba preventiva.
-- UGT1A1:
-    - la enzima inactiva por glucuronidación el metabolito activo del irinotecán (SN-38) y conjuga la bilirrubina; sus polimorfismos causan hiperbilirrubinemia no conjugada (síndromes de Gilbert y de Crigler-Najjar tipos I y II);
-    - el alelo \*28 es una repetición de dinucleótidos (TA7) en el promotor y el \*6 una mutación codificante (c.211G>A), ambos con menor función; los metabolizadores lentos acumulan SN-38 y tienen mayor riesgo de neutropenia grave, aunque no todos presentan toxicidad grave;
-    - la dosis máxima tolerada de irinotecán intravenoso cada 3 semanas fue de 850 mg, 700 mg y 400 mg en los genotipos \*1/\*1, \*1/\*28 y \*28/\*28;
-    - contraste normativo: DeVita (texto previo) señala que no había guías para ajustar la dosis por UGT1A1 y que el genotipo 7/7, más tóxico, también se asoció a mayor actividad antitumoral; la NCCN actual (COL-I) recomienda considerar la reducción de 30% en \*28/\*28, y la etiqueta del irinotecán advierte reducir la dosis inicial en homocigotos \*28.
-
-### 11.5 Pacientes de edad avanzada
-
-**Conducta**
-
-- Ofrecer adyuvancia también a los pacientes mayores: el beneficio y la toxicidad del fluorouracilo con leucovorina (5-FU/LV) son similares a los de los jóvenes.
-- Individualizar la adición de oxaliplatino en ≥ 70 años: su beneficio no se ha demostrado en el estadio II ni en el III a esa edad.
-- Usar las herramientas de la guía NCCN de oncología geriátrica para valorar al paciente (ver 7.6).
-
-**Fundamento**
-
-- El uso de adyuvancia disminuye con la edad, en parte porque los adultos mayores están subrepresentados en los ensayos.
-- Estudios poblacionales mostraron beneficio de la adyuvancia en el estadio III en ≥ 65 años (5-FU/LV) y en ≥ 75 años.
-- Oxaliplatino en mayores:
-    - beneficio pequeño y no significativo en ≥ 75 años y beneficio reducido en ≥ 70 años en la base Adjuvant Colon Cancer Endpoints (ACCENT);
-    - sin beneficio en ≥ 70 años en los subgrupos de NSABP C-07 (con tendencia a peor supervivencia y más toxicidad de grado 4–5) y de MOSAIC (70–75 años);
-    - un análisis agrupado mostró que la adyuvancia con oxaliplatino reducía la mortalidad 26% en < 70 años, sin mejoría en ≥ 70 años;
-    - en contraste, el análisis agrupado de NSABP C-08, XELOXA, X-ACT y AVANT mostró mejor supervivencia libre de enfermedad y global con CAPEOX o FOLFOX que con 5-FU/LV en ≥ 70 años, y en TOSCA el tiempo a la recurrencia no difirió por edad tras ajustar por otros factores.
-- Mortalidad temprana: aumenta con la edad de forma no lineal, pero su riesgo absoluto es muy bajo (mortalidad a 30 días de 1.8% a los 80 años).
-- Contraste normativo: DeVita señala que, desde 2013, las guías de consenso recomiendan individualizar el oxaliplatino en el adulto mayor; la NCCN advierte que su beneficio en ≥ 70 años no está demostrado.
-
-### 11.6 Esquemas adyuvantes y dosis (COL-G)
-
-**Conducta**
-
-- FOLFOX6 modificado (mFOLFOX6), cada 2 semanas (6 meses equivalen a 12 ciclos):
-    - oxaliplatino 85 mg/m² intravenoso el día 1, en 2 horas o más rápido a 1 mg/m²/min, con la infusión de leucovorina ajustada al mismo tiempo;
-    - leucovorina 400 mg/m² intravenosa el día 1 (equivale a levoleucovorina 200 mg/m²);
-    - fluorouracilo (5-FU) 400 mg/m² en bolo intravenoso el día 1, seguido de 1200 mg/m²/día durante 2 días en infusión continua (2400 mg/m² en 46–48 horas).
-- CAPEOX, cada 3 semanas (6 meses equivalen a 8 ciclos):
-    - oxaliplatino 130 mg/m² intravenoso el día 1;
-    - capecitabina 1000 mg/m² por vía oral dos veces al día durante 14 días.
-- Capecitabina en monoterapia: 1000–1250 mg/m² por vía oral dos veces al día durante 14 días, cada 3 semanas.
-- Fluorouracilo con leucovorina:
-    - esquema semanal: leucovorina 500 mg/m² en infusión de 2 horas y 5-FU 500 mg/m² en bolo 1 hora después de iniciar la leucovorina, semanalmente durante 6 semanas, cada 8 semanas por 4 ciclos;
-    - esquema infusional quincenal simplificado (sLV5FU2): leucovorina 400 mg/m² intravenosa el día 1, 5-FU 400 mg/m² en bolo y después 1200 mg/m²/día durante 2 días en infusión continua (2400 mg/m² en 46–48 horas), cada 2 semanas.
-- FOLFOX o CAPEOX con atezolizumab (tumores con deficiencia del sistema de reparación): ver 11.4.
-- Antes de iniciar una fluoropirimidina, considerar la prueba de DPYD (ver 8.9).
-
-**Fundamento**
-
-- Capecitabina: la mayoría de los datos de eficacia y seguridad provienen de Europa, donde la dosis inicial estándar es 1000 mg/m² dos veces al día durante 14 días cada 21 días; los pacientes de Norteamérica parecen tener más toxicidad con la capecitabina y con otras fluoropirimidinas y podrían requerir dosis menores.
-- mFOLFOX6 ha sido el brazo control de todos los ensayos adyuvantes recientes del National Cancer Institute (NCI) y es el FOLFOX preferido en adyuvancia y en enfermedad metastásica.
-
-### 11.7 Medidas complementarias: momento de inicio, escasez de leucovorina, aspirina y actividad física
-
-**Conducta**
-
-- Iniciar la adyuvancia en cuanto el paciente esté médicamente apto tras recuperarse de la cirugía; tradicionalmente se inicia entre las 3 y las 8 semanas.
-- Ante escasez de leucovorina:
-    - usar levoleucovorina (200 mg/m² equivalen a 400 mg/m² de leucovorina), solo durante la escasez porque es mucho más cara;
-    - o usar dosis menores de leucovorina en todos los pacientes, probablemente tan eficaces como las altas;
-    - si ninguna está disponible, tratar sin leucovorina y, si el paciente no presenta toxicidad de grado ≥ 2, considerar un aumento modesto del 5-FU (cerca de 10%).
-- Aspirina en los estadios II–III con alteraciones de la vía de la fosfatidilinositol 3-cinasa (PI3K): 100–162 mg/día durante 3 años tras recuperarse de la cirugía, concurrente con la quimioterapia (ver 8.7).
-- Actividad física: facilitar al menos 150 minutos semanales de actividad moderada a vigorosa (ver 15.2).
-
-**Fundamento**
-
-- Un metaanálisis mostró que cada 4 semanas de retraso de la quimioterapia reduce 14% la supervivencia global; los retrasos > 6 semanas y > 8 semanas se asociaron a peor supervivencia en registros.
-- Contraste: estos análisis tienen sesgos de confusión (quienes empiezan tarde suelen ser > 65 años, operados de urgencia o con hospitalización posoperatoria prolongada); DeVita los considera generadores de hipótesis, no definitivos.
-- Dosis de leucovorina: en QUASAR, 175 mg y 25 mg de leucovorina con 5-FU en bolo dieron supervivencia y recurrencia similares, y en enfermedad metastásica la respuesta y la supervivencia no difirieron entre 500 mg/m² y 20 mg/m².
-
-### 11.8 Evolución histórica de la adyuvancia y esquemas no recomendados
-
-**Conducta**
-
-- No usar en la adyuvancia del cáncer de colon:
-    - esquemas con irinotecán (IFL, FOLFIRI): no aportan beneficio y aumentan la toxicidad, incluida la letal;
-    - bevacizumab: no mejora la curación y podría ser perjudicial;
-    - cetuximab o panitumumab: sin beneficio y con más toxicidad, incluso en tumores KRAS silvestres;
-    - FLOX (ver 11.3).
-- No usar fuera de investigación: infusión portal, quimioterapia intraperitoneal hipertérmica adyuvante, vacunas ni inmunoterapia activa específica.
-
-**Fundamento**
-
-- Etapa inicial (1950–1986): ensayos pequeños con fármacos hoy sabidos inactivos en enfermedad metastásica; un metaanálisis hasta 1986 solo mostró una tendencia de beneficio, lo que indicó la necesidad de ensayos mucho mayores.
-- Década de 1990 (fluorouracilo): beneficio claro en el estadio III; 6 meses suficientes; el levamisol, que se creía activo, resultaba inactivo; la leucovorina a dosis altas no superó a las bajas; el esquema diario por 5 días de la Clínica Mayo fue más tóxico que el semanal en bolo o el quincenal en infusión; el interferón alfa añadió toxicidad sin beneficio.
-- Fluoropirimidinas orales: el 5-FU oral tiene biodisponibilidad errática por el efecto variable de la dihidropirimidina deshidrogenasa (DPD) en el primer paso hepático; por eso se desarrollaron profármacos orales: capecitabina (equivalente al 5-FU/LV en bolo) y uracilo-tegafur con leucovorina (equivalente al 5-FU intravenoso en NSABP C-06, no disponible en EE. UU.); la S-1, usada en Japón, fue no inferior al uracilo-tegafur.
-- Combinaciones: se supuso que la actividad en enfermedad metastásica se traduciría en curación adyuvante, lo que resultó simplista y a menudo falso; solo el oxaliplatino añadido a las fluoropirimidinas aportó beneficio.
-- Irinotecán:
-    - CALGB 89803 (IFL): exceso de muertes tempranas (18 frente a 6 en los primeros 4 meses) y sin beneficio en supervivencia, por lo que se cruzaron los límites de futilidad;
-    - ACCORD 02 y PETACC-3 (FOLFIRI frente a 5-FU/LV infusional): sin beneficio y con más toxicidad digestiva y neutropenia; el supuesto beneficio en tumores con inestabilidad de microsatélites alta no se confirmó.
-- Bevacizumab (NSABP C-08, AVANT y QUASAR 2): sin mejoría de la supervivencia libre de enfermedad ni global; en C-08 las curvas se separaron al año y convergieron hacia el tercer año, lo que indica que solo retrasa la progresión de las micrometástasis mientras se administra, sin erradicarlas; en AVANT hubo una tendencia a peor supervivencia.
-- Cetuximab (N0147 y PETACC-8): sin beneficio en tumores KRAS silvestres, con más eventos adversos de grado 3–4 y daño en > 70 años; panitumumab comparte diana, mecanismo y resistencias, por lo que se le aplica la misma conclusión.
-- Enfoques investigacionales (DeVita):
-    - infusión portal de 5-FU (NSABP C-02 y estudio suizo): mejoría modesta de la supervivencia libre de enfermedad sin reducir las recurrencias hepáticas; en un metaanálisis, mejoría de solo 4% en la supervivencia global a 5 años; la variante OCTREE (5-FU y oxaliplatino intraoperatorios seguidos de mFOLFOX6) está en evaluación;
-    - quimioterapia intraperitoneal hipertérmica adyuvante en T4 o perforados: el ensayo COLOPEC no mejoró la supervivencia libre de enfermedad peritoneal y causó complicaciones en 14%;
-    - vacunas: el antígeno carcinoembrionario es poco inmunógeno; la mucina MUC1 hipoglucosilada es un objetivo prometedor; la inmunización con células tumorales propias irradiadas más bacilo de Calmette-Guérin no mostró beneficio.
-
 ### 13.5 Recurrencia y metástasis metacrónicas con sistema competente (COL-9, COL-10 y COL-11)
 
 **Conducta**
@@ -1811,3 +1811,443 @@
     - tras una citorreducción completa, la quimioterapia sistémica adyuvante se asoció a mayor supervivencia en un registro;
     - DeVita: la mitomicina C se asoció a mejor supervivencia que el oxaliplatino en la carga peritoneal baja.
 - Citorreducción paliativa: en el ensayo ORCHESTRA, tratar ≥ 80% de la enfermedad metastásica en pacientes con múltiples sitios no mejoró la supervivencia global.
+
+## 14. Terapia sistémica de la enfermedad avanzada o metastásica
+
+### 14.1 Principios generales: objetivos, continuo de tratamiento y riesgo de toxicidad (COL-D)
+
+**Conducta**
+
+- Elegir el tratamiento del cáncer colorrectal metastásico (CCRm) según cuatro ejes: el objetivo (paliación o conversión a resecabilidad con intención curativa; ver 13.1 y 13.3), el tipo y el momento de la terapia previa, incluida la adyuvancia; el perfil molecular del tumor (KRAS, NRAS, BRAF, HER2, estado del sistema de reparación de errores de apareamiento y fusiones raras; ver 8), y el perfil de toxicidad de cada fármaco.
+- Entender las líneas de tratamiento como un continuo y no como etapas separadas: si el oxaliplatino de la primera línea se suspende a las ≤ 12 semanas por neurotoxicidad progresiva, continuar el resto del esquema sigue siendo terapia inicial.
+- Planear desde el inicio qué hacer ante respuesta, enfermedad estable o progresión, y cómo ajustar el tratamiento ante cada toxicidad; tras la primera progresión, elegir según lo ya recibido para exponer al paciente a toda la gama de citotóxicos activos.
+- Valorar en cada esquema no solo los fármacos, sino también sus dosis, calendario y vía de administración, la posibilidad de cura quirúrgica y el estado funcional.
+- Reglas del continuo de tratamiento:
+    - suspender el oxaliplatino tras 3–4 meses, o antes si la neurotoxicidad es inaceptable, y mantener los demás fármacos hasta la progresión; reintroducirlo si se suspendió por neurotoxicidad y no por progresión, y solo cuando la neurotoxicidad se haya resuelto casi por completo;
+    - no usar una fluoropirimidina en monoterapia después de progresar con un esquema que ya la contenía;
+    - preferir bevacizumab como antiangiogénico; puede continuarse en la segunda línea y en las siguientes;
+    - no continuar un anticuerpo contra el receptor del factor de crecimiento epidérmico (anti-EGFR: cetuximab o panitumumab) más allá de la progresión, ni cambiar uno por otro al progresar;
+    - reservar ziv-aflibercept y ramucirumab para combinarlos con FOLFIRI (leucovorina, fluorouracilo e irinotecán) en pacientes que nunca recibieron FOLFIRI;
+    - reexponer a un tratamiento al progresar solo si se había suspendido por otra causa (adyuvancia, toxicidad acumulada, pausa electiva o preferencia del paciente); no repetir un esquema con el que la enfermedad progresó.
+- Evaluación del riesgo de toxicidad antes de iniciar:
+    - estudiar las variantes de DPYD antes de capecitabina o fluorouracilo (5-FU), y usar el irinotecán con precaución ante síndrome de Gilbert o bilirrubina sérica elevada (ver 8.9);
+    - suspender el antiangiogénico al menos 28 días antes de una cirugía electiva y no administrarlo durante los 28 días posteriores a una cirugía mayor ni hasta que la herida cicatrice;
+    - aplicar las medidas de prevención de infecciones propias de las terapias dirigidas (guía NCCN de infecciones relacionadas con el cáncer).
+- Vigilar la respuesta con tomografía computarizada (TC) contrastada de tórax, abdomen y pelvis, o con TC de tórax y resonancia magnética (RM) contrastada de abdomen y pelvis; no usar la tomografía por emisión de positrones con fluorodesoxiglucosa (FDG-PET/TC) para medir la respuesta (ver 7.5).
+- No repetir el perfil molecular después de quimioterapia citotóxica estándar; considerarlo después de una terapia dirigida (ver 8.3).
+- Sustituir cualquier biológico recomendado (bevacizumab, trastuzumab) por un biosimilar aprobado por la Food and Drug Administration (FDA) cuando convenga.
+- Contraste normativo: el algoritmo (COL-D) fija ≥ 28 días entre el antiangiogénico y la cirugía; la discusión de la NCCN pide, para bevacizumab, ≥ 6 semanas entre la última dosis y la cirugía electiva [dos vidas medias del fármaco] y reiniciarlo 6–8 semanas después de la operación, también en la terapia de conversión.
+
+**Fundamento**
+
+- DeVita: casi todos los ensayos en enfermedad metastásica incluyeron por diseño a pacientes en buen estado general, con estado funcional favorable, función medular, renal y hepática aceptable e ingesta nutricional razonable; sus resultados no se extrapolan a quien no cumple esos criterios.
+    - En el paciente con mal estado funcional, la probabilidad de beneficio disminuye mucho y la de un evento adverso grave aumenta mucho; la comorbilidad importante orienta a terapia menos agresiva o solo a cuidados de soporte.
+    - La disfunción hepática o renal aumenta la toxicidad de los fármacos que esos órganos metabolizan o eliminan; la ingesta marginal empeora con los fármacos que causan náusea o anorexia, y la obstrucción intestinal parcial o completa, o cualquier tránsito digestivo prolongado, aumenta la toxicidad de los fármacos con recirculación enterohepática.
+    - En cambio, el paciente motivado, con buen estado funcional, buena reserva medular y buena función orgánica, tiene una posibilidad sustancial de beneficio y debe considerarse para tratamiento intensivo.
+- Estado funcional 2: en 6286 pacientes de nueve ensayos, la primera línea intensiva tuvo eficacia similar con estado funcional 2 que con 0–1, pero más toxicidad digestiva (ver 7.6).
+- Secuencia de fármacos:
+    - antes de los agentes dirigidos, dar primero la terapia intensiva o empezar con una menos intensiva y escalar después tuvo resultados clínicos parecidos; DeVita añade que los ensayos CAIRO y FOCUS mostraron que el tratamiento secuencial es aceptable;
+    - FOLFOX (leucovorina, fluorouracilo y oxaliplatino) seguido de FOLFIRI, o a la inversa, no difirió en supervivencia libre de progresión ni global;
+    - en siete ensayos fase III, la supervivencia mediana aumentó con la exposición a los tres citotóxicos (5-FU con leucovorina, oxaliplatino e irinotecán) en algún momento del continuo, sin relación con el orden en que se recibieron;
+    - ensayo C-cubed: iniciar con fluoropirimidina, oxaliplatino y bevacizumab frente a fluoropirimidina con bevacizumab y oxaliplatino al progresar dio igual supervivencia global (unos 27 meses), pero más respuestas con la combinación inicial (51.7% frente a 33.1%) [la combinación inicial aporta respuesta, no supervivencia].
+- Reexposición: la mayoría de los datos son retrospectivos, de series pequeñas que no distinguen si el tratamiento se suspendió por progresión o por otra causa; por ello la NCCN solo acepta reexponer cuando la suspensión no fue por progresión.
+
+### 14.2 Primera línea con sistema de reparación competente: terapia intensiva frente a menos intensiva
+
+**Conducta**
+
+- Aplicar estas opciones al cáncer colorrectal metastásico (CCRm) con sistema de reparación competente (pMMR) o estabilidad de microsatélites (MSS), y al tumor con deficiencia del sistema de reparación (dMMR), inestabilidad alta de microsatélites (MSI-H) o mutación ultrahipermutante de POLE/POLD1 (carga mutacional > 50 mutaciones/megabase) que no es candidato a inmunoterapia o progresó con ella; si el tumor es dMMR/MSI-H y el paciente es candidato, la primera línea es un inhibidor de puntos de control (ver 13.6 y 14.5).
+- Separar a los candidatos a terapia intensiva («terapia inicial») de quienes no la toleran («terapia menos intensiva», válida en cualquier línea si no se dio antes); la NCCN no considera ningún esquema inicial superior a otro ni prefiere un biológico concreto (bevacizumab, cetuximab, panitumumab o ninguno).
+- KRAS, NRAS y BRAF de tipo silvestre (COL-D 2):
+    - terapia inicial: CAPEOX (capecitabina y oxaliplatino), FOLFOX (leucovorina, fluorouracilo y oxaliplatino), FOLFIRI (leucovorina, fluorouracilo e irinotecán) o FOLFIRINOX (leucovorina, fluorouracilo, irinotecán y oxaliplatino), cada uno con o sin bevacizumab; o CAPEOX, FOLFOX o FOLFIRI con cetuximab o panitumumab, solo si el primario es izquierdo;
+    - terapia menos intensiva: capecitabina, o fluorouracilo (5-FU) con leucovorina, con o sin bevacizumab; cetuximab o panitumumab en monoterapia (en primera línea, solo con primario izquierdo; en general se combinan con irinotecán y quedan solos en quien no lo tolera); pertuzumab o tucatinib con trastuzumab si hay sobreexpresión o amplificación de HER2 (receptor 2 del factor de crecimiento epidérmico humano) sin anti-HER2 previo; terapia agnóstica del tumor (ver 14.5); o mejor cuidado de soporte.
+- KRAS o NRAS mutados con BRAF silvestre (COL-D 3):
+    - terapia inicial: CAPEOX, FOLFOX, FOLFIRI o FOLFIRINOX, con o sin bevacizumab; sin anti-EGFR (anticuerpo contra el receptor del factor de crecimiento epidérmico), que está contraindicado (ver 8.3);
+    - terapia menos intensiva: capecitabina, o 5-FU con leucovorina, con o sin bevacizumab; adagrasib o sotorasib en monoterapia si la mutación es KRAS G12C; terapia agnóstica; o mejor cuidado de soporte.
+- BRAF V600E con KRAS y NRAS silvestres (COL-D 4):
+    - terapia inicial preferida: FOLFOX o FOLFIRI con encorafenib más cetuximab o panitumumab;
+    - otras opciones iniciales: CAPEOX con encorafenib más cetuximab o panitumumab; CAPEOX, FOLFOX, FOLFIRI o FOLFIRINOX con o sin bevacizumab;
+    - terapia menos intensiva: capecitabina, o 5-FU con leucovorina, con o sin bevacizumab; encorafenib con cetuximab o panitumumab; terapia agnóstica; o mejor cuidado de soporte;
+    - todo paciente con BRAF V600E debe recibir un esquema con encorafenib en alguna línea, y en la primera se prefiere la opción que incluye quimioterapia (ver 14.5).
+- Elección del doblete: FOLFOX, CAPEOX y FOLFIRI son intercambiables en eficacia, con o sin bevacizumab; decidir por el perfil de toxicidad (neuropatía acumulativa con oxaliplatino; diarrea, neutropenia y alopecia con irinotecán; síndrome mano-pie con capecitabina; ver 14.3) y por la situación del paciente.
+- Triplete: indicar FOLFIRINOX, con o sin bevacizumab, solo con estado funcional excelente que permita tolerar su mayor toxicidad; es la opción de mayor respuesta cuando se busca la conversión a resecabilidad (ver 13.3). Preferirlo a FOLFOXIRI, que usa 5-FU 3200 mg/m² en 48 horas, porque FOLFIRINOX usa la dosis de FOLFOX y FOLFIRI (2400 mg/m² en 46 horas) y los pacientes de Estados Unidos toleran peor el 5-FU.
+- Biológico en RAS y BRAF silvestres: bevacizumab, cetuximab o panitumumab añadidos a la quimioterapia se consideran equivalentes en primera línea, siempre que el anti-EGFR se limite al primario izquierdo:
+    - colon izquierdo: del ángulo esplénico al recto;
+    - colon derecho: del ciego al ángulo hepático, con respuesta improbable a cetuximab y panitumumab en primera línea;
+    - colon transverso (ángulo hepático a ángulo esplénico): sin datos de respuesta.
+- No combinar nunca un anti-EGFR con bevacizumab.
+- Terapia menos intensiva: si el estado funcional no mejora con ella, pasar a mejor cuidado de soporte (guía NCCN de cuidados paliativos); si mejora, cambiar a una opción de terapia inicial.
+
+**Fundamento**
+
+- Dobletes equivalentes:
+    - FOLFOX frente a FOLFIRI con cruce a la progresión (ensayo de Tournigand): respuesta y supervivencia libre de progresión similares en cualquier orden; FOLFOX6 causó más neuropatía grado 3 (34%) y FOLFIRI más alopecia (DeVita); otro ensayo fase III no encontró diferencias en respuesta ni en supervivencia libre de progresión o global;
+    - CAPEOX no fue inferior a FOLFOX (supervivencia libre de progresión de 8.0 frente a 8.5 meses en 2034 pacientes), y un registro de > 2000 pacientes apoya su equivalencia;
+    - ensayo N9741 (DeVita): FOLFOX4 superó a IFL (irinotecán con 5-FU en bolo y leucovorina) y a IROX (irinotecán con oxaliplatino sin 5-FU), y desde entonces los esquemas con 5-FU en bolo dejaron de recomendarse (ver 14.9).
+- Triplete:
+    - FOLFOXIRI frente a FOLFIRI: en el ensayo GONO mejoró la supervivencia libre de progresión (9.8 frente a 6.9 meses) y la global (22.6 frente a 16.7 meses), con beneficio mantenido a 5 años; en el ensayo HORG no hubo diferencia en supervivencia global; ambos mostraron más neurotoxicidad, neutropenia, diarrea y alopecia, sin más muertes tóxicas;
+    - ensayo TRIBE: FOLFOXIRI con bevacizumab frente a FOLFIRI con bevacizumab logró más respuestas (65% frente a 53%), mayor supervivencia libre de progresión (12.1 frente a 9.7 meses) y mayor supervivencia global (29.8 frente a 25.8 meses), con más diarrea, estomatitis, neurotoxicidad y neutropenia; no hubo beneficio en quienes ya habían recibido oxaliplatino adyuvante;
+    - ensayo TRIBE2: el triplete con bevacizumab superó a la secuencia FOLFOX-bevacizumab seguida de FOLFIRI-bevacizumab (supervivencia libre de progresión de 19.2 frente a 16.4 meses), con más eventos adversos graves (25% frente a 17%);
+    - ensayo OLIVIA (metástasis hepáticas irresecables): más resecciones R0 con el triplete que con mFOLFOX6 con bevacizumab (49% frente a 23%) [ventaja en la conversión]; los ensayos CHARTA y STEAM y los análisis conjuntos coinciden en mejores resultados a costa de más toxicidad, y en < 50 años la eficacia fue la misma, con menos neutropenia, diarrea y astenia graves pero más náusea y vómito;
+    - ensayo TRIPLETE: con panitumumab, mFOLFOXIRI no superó a mFOLFOX6 (respuesta de 73% frente a 76%) y aumentó la diarrea grado > 2 (23% frente a 7%) [por eso, en COL-D, FOLFIRINOX solo se combina con bevacizumab].
+- Bevacizumab en primera línea:
+    - con IFL prolongó la supervivencia global de 15.6 a 20.3 meses, y con 5-FU y leucovorina, de 14.6 a 17.9 meses;
+    - con oxaliplatino (ensayo NO16966, CAPEOX o FOLFOX) solo añadió 1.4 meses de supervivencia libre de progresión, sin diferencia significativa en la global ni en la respuesta; los metaanálisis y el análisis de SEER-Medicare concentran el beneficio en los esquemas con irinotecán [beneficio clínico global modesto];
+    - FOLFIRI con bevacizumab no tiene ensayo aleatorizado frente a FOLFIRI solo (respuesta agrupada de 51.4% y supervivencia global de 23.7 meses), y en un ensayo japonés no fue inferior a mFOLFOX6 con bevacizumab.
+- Anti-EGFR y lateralidad del primario:
+    - CALGB/SWOG 80405 (FOLFOX o FOLFIRI con cetuximab o con bevacizumab): supervivencia global equivalente en todo el grupo (30.0 frente a 29.0 meses); en tumores izquierdos RAS silvestres, 39.3 meses con cetuximab frente a 32.6 con bevacizumab, y en derechos, 13.6 frente a 29.2 meses [en el colon derecho, el anti-EGFR reduce la supervivencia a menos de la mitad];
+    - en una serie italiana no respondió ningún tumor derecho frente a 41% de los izquierdos; la NCCN interpreta la lateralidad como marcador sustituto de la distribución no aleatoria de subtipos moleculares a lo largo del colon;
+    - FIRE-3 (FOLFIRI con cetuximab frente a bevacizumab): sin diferencia en respuesta ni en supervivencia libre de progresión, con más supervivencia global con cetuximab solo en tumores izquierdos; la NCCN critica la falta de revisión independiente y la baja tasa de segunda línea, y DeVita lo considera generador de hipótesis;
+    - PARADIGM (FOLFOX con panitumumab frente a bevacizumab, 75% izquierdos): supervivencia global de 37.9 frente a 34.3 meses en izquierdos y de 36.2 frente a 31.3 en todo el grupo, con más respuestas y resecciones R0; como las curvas se separan después de la mediana de supervivencia libre de progresión, la diferencia podría deberse a los tratamientos posteriores; PEAK (fase II) mostró mejor supervivencia libre de progresión con panitumumab, con conclusiones limitadas por su tamaño.
+- Anti-EGFR con cada doblete:
+    - CRYSTAL: FOLFIRI con cetuximab mejoró la supervivencia global en KRAS exón 2 silvestre (23.5 frente a 20.0 meses), beneficio que al reanalizar RAS ampliado quedó limitado a RAS silvestre, sin empeorar la calidad de vida; panitumumab con FOLFIRI se acepta por extrapolación de datos de segunda línea;
+    - PRIME: FOLFOX con panitumumab mejoró la supervivencia libre de progresión y la global en KRAS y NRAS silvestres, y la empeoró con RAS mutado;
+    - FOLFOX con cetuximab: OPUS aumentó la respuesta sin ganancia en supervivencia global; COIN no mostró beneficio con FOLFOX o CAPEOX (quizá con FOLFOX); NORDIC VII no mostró beneficio con FLOX (5-FU en bolo, leucovorina y oxaliplatino); TAILOR, en RAS silvestre, mejoró la supervivencia libre de progresión (9.2 frente a 7.4 meses), la global (20.7 frente a 17.8 meses) y la respuesta (61.1% frente a 39.5%);
+    - CAPEOX con cetuximab tuvo respuesta similar a FOLFOX con cetuximab (61.5% frente a 66.7%) en tumores RAS, BRAF y PIK3CA silvestres.
+- Contraste normativo: DeVita (texto previo) concluye que el anti-EGFR no aporta beneficio con oxaliplatino o FLOX y que CAPOX con cetuximab fue peor (COIN y NORDIC VII); la NCCN 2026, con los datos de TAILOR y de CAPEOX con cetuximab, recomienda FOLFOX o CAPEOX con cetuximab o panitumumab en el primario izquierdo RAS y BRAF silvestre.
+- Terapia menos intensiva:
+    - ensayo AVEX (≥ 70 años): capecitabina con bevacizumab prolongó la supervivencia libre de progresión de 5.1 a 9.1 meses;
+    - en ≥ 75 años, FOLFIRI frente a 5-FU con leucovorina aumentó la toxicidad grado 3–4 (76.3% frente a 52.2%) sin mejorar la supervivencia [en el anciano frágil, la base es la fluoropirimidina con o sin bevacizumab].
+
+### 14.3 Farmacología de los citotóxicos: mecanismo, toxicidad y manejo
+
+**Conducta**
+
+- Fluorouracilo (5-FU):
+    - administrarlo en esquemas infusionales quincenales (bolo de 400 mg/m² seguido de 2400 mg/m² en 46–48 horas), que son menos tóxicos que los esquemas en bolo; nunca dar 5-FU en bolo junto con irinotecán u oxaliplatino;
+    - estudiar DPYD antes de iniciarlo (ver 8.9);
+    - ante toxicidad temprana y grave por fluoropirimidinas, o sobredosis, genotipificar DPYD y considerar uridina triacetato, antídoto oral que debe darse dentro de las primeras 96 horas.
+- Leucovorina: 400 mg/m² equivalen a levoleucovorina 200 mg/m²; durante la escasez de leucovorina, ver 11.7.
+- Capecitabina:
+    - dosis inicial de 1000 mg/m² dos veces al día los días 1–14 cada 21 días en combinación (850–1250 mg/m² en monoterapia), menor que la registrada, porque los pacientes norteamericanos la toleran peor;
+    - ajustar la dosis si la depuración de creatinina está disminuida, porque el fármaco se acumula;
+    - vigilar desde el primer ciclo el síndrome mano-pie (eritrodisestesia palmoplantar) y la diarrea para reducir la dosis ante los primeros signos;
+    - indicarla solo a un paciente motivado y confiable, capaz de tomar muchas tabletas con un calendario complejo aun con el oxaliplatino emetogénico.
+- Irinotecán:
+    - vigilar la diarrea temprana y la tardía, la deshidratación y la neutropenia grave;
+    - usarlo con precaución y a menor dosis ante síndrome de Gilbert o bilirrubina sérica elevada, y considerar el genotipo de UGT1A1 (uridina difosfato glucuronosiltransferasa 1A1; ver 8.9);
+    - † tratar la diarrea temprana, de mecanismo colinérgico, con atropina, y la tardía con loperamida a dosis altas e hidratación.
+- Oxaliplatino:
+    - advertir al paciente desde el inicio que el fármaco se suspenderá de forma planeada (estrategia de «parar y reanudar») para que no se alarme cuando se retire;
+    - suspenderlo tras 3 meses, o antes si la neuropatía es inaceptable, y reintroducirlo solo con resolución casi total de la neurotoxicidad (ver 14.1);
+    - no indicar infusiones de calcio y magnesio para prevenir la neurotoxicidad;
+    - infundirlo en 2 horas o más rápido, a 1 mg/m²/min, con la leucovorina en el mismo tiempo.
+- Hepatotoxicidad de la quimioterapia preoperatoria: el irinotecán causa esteatohepatitis y el oxaliplatino lesión sinusoidal; limitar la quimioterapia previa a la resección de metástasis a 2–3 meses (ver 13.3).
+- Trifluridina-tipiracilo (TAS-102): vigilar la biometría hemática por la neutropenia, su toxicidad principal.
+
+**Fundamento**
+
+- 5-FU:
+    - desarrollado por Heidelberger y patentado en 1957; más de 50 años después sigue siendo el centro de casi todos los esquemas contra el cáncer colorrectal;
+    - debe metabolizarse para ejercer su efecto citotóxico [† sus metabolitos inhiben la timidilato sintasa y se incorporan al ARN y al ADN; la leucovorina estabiliza la unión del metabolito a la timidilato sintasa];
+    - leucovorina: de todos los moduladores del 5-FU es la única que persiste, aunque su aporte es debatible; con la misma dosis de 5-FU aumenta la actividad y la toxicidad, y frente a una dosis equitóxica menor de 5-FU con leucovorina la actividad es equivalente;
+    - los esquemas infusionales tienen un beneficio ligero en eficacia frente al bolo, y su ventaja en toxicidad se hizo evidente al combinarlos con otros fármacos.
+- Uridina triacetato: análogo pirimidínico oral que compite por los receptores de las células normales y reduce el efecto tóxico del exceso de fluoropirimidina; en 135 pacientes con sobredosis o toxicidad grave temprana, 96% sobrevivió, con reversión rápida de la toxicidad cardíaca y neurológica grave, y 38% reanudó la quimioterapia en ≤ 30 días; de los cuatro tratados después de 96 horas, murieron dos (50%) [el beneficio depende de darlo a tiempo].
+- Capecitabina:
+    - profármaco del 5-FU que se absorbe intacto y se activa por una serie de pasos enzimáticos; la timidina fosforilasa es más abundante en el tumor, pero los ensayos no muestran un índice terapéutico mejor que el del 5-FU;
+    - es al menos tan eficaz como el 5-FU con leucovorina intravenoso; la dosis de los ensayos pivotales fue de 1250 mg/m² dos veces al día durante 14 días con 7 de descanso;
+    - su toxicidad limitante es el síndrome mano-pie, más frecuente que con el 5-FU en bolo o infusional; los estadounidenses la toleran peor que los europeos, quizá por mayores niveles séricos de folato, por lo que suele iniciarse a dosis menor y escalarse si no hay toxicidad;
+    - en un análisis, la reacción mano-pie se asoció a mayor supervivencia global (75.8 frente a 41.0 meses) [casi el doble en quienes la presentan].
+- Irinotecán (CPT-11):
+    - derivado semisintético de la camptotecina, alcaloide del árbol asiático Camptotheca acuminata; la carboxilesterasa del hígado y del intestino lo convierte en SN-38, hasta 1000 veces más potente como inhibidor de la topoisomerasa I;
+    - la topoisomerasa I corta de forma reversible una hebra del ADN para aliviar la tensión torsional y luego la sella; el irinotecán y el SN-38 estabilizan esos cortes, y el choque de las horquillas de replicación contra ellos produce cortes de doble hebra y fragmentación letal del ADN;
+    - la UGT1A1 inactiva el SN-38 por glucuronidación, lo que explica la mayor toxicidad en el síndrome de Gilbert y en los genotipos de baja actividad.
+- Comparación de toxicidad FOLFIRI (leucovorina, fluorouracilo e irinotecán) frente a FOLFOX6 (leucovorina, fluorouracilo y oxaliplatino), ensayo de Tournigand en DeVita:
+    - neutropenia grado 3–4: 25% frente a 44%; fiebre neutropénica: 6% frente a 1%;
+    - diarrea grado 3–4: 14% frente a 11%;
+    - neuropatía grado 3: 0% frente a 34% [la neuropatía es la toxicidad que define al oxaliplatino];
+    - alopecia grado 2: 24% frente a 9% [la alopecia es la que define al irinotecán].
+- Oxaliplatino:
+    - platino de tercera generación de la familia del diaminociclohexano, sin nefrotoxicidad significativa; causa náusea y vómito, leucopenia mínima y trombocitopenia rara [† forma aductos de platino que entrecruzan el ADN y bloquean su replicación y transcripción];
+    - neurotoxicidad: parestesias y disestesias de manos, pies, región perioral y garganta, inducidas o agravadas por el frío; la disestesia faringolaríngea es una sensación de asfixia sin obstrucción real de la vía aérea;
+    - FOLFOX4 frente a LV5FU2 (5-FU infusional con leucovorina): neurotoxicidad sensitiva grado 3 en 18%, neutropenia grado 3–4 en 42% frente a 5% y diarrea grado 3–4 en 12% frente a 5%;
+    - el oxaliplatino solo es prácticamente inactivo en la enfermedad refractaria al 5-FU (respuesta de 1%, frente a 10% con FOLFOX4) [siempre se combina con una fluoropirimidina];
+    - estrategia de «parar y reanudar»: OPTIMOX1 redujo la neurotoxicidad sin afectar la supervivencia global; en CONcePT, las pausas de oxaliplatino mejoraron la neuropatía aguda y el tiempo hasta el fracaso del tratamiento; un metaanálisis mostró que la administración intermitente no compromete la supervivencia global;
+    - calcio y magnesio: el ensayo N08CB, en 353 pacientes con FOLFOX adyuvante, no mostró reducción de la neurotoxicidad sensitiva acumulativa.
+- Trifluridina-tipiracilo: combinación oral de trifluridina, análogo citotóxico de la timidina, y tipiracilo, inhibidor de la timidina fosforilasa que impide la degradación de la trifluridina; en el ensayo RECOURSE causó neutropenia grado ≥ 3 en 38%, leucopenia en 21% y fiebre neutropénica en 4%, con una muerte relacionada con el fármaco.
+
+### 14.4 Farmacología de los agentes biológicos y de los inhibidores de cinasa: antiangiogénicos y anti-EGFR
+
+**Conducta**
+
+- Bevacizumab (anticuerpo contra el factor de crecimiento del endotelio vascular [VEGF]):
+    - medir la presión arterial en cada ciclo y tratar la hipertensión con antihipertensivos, como parte rutinaria del manejo;
+    - valorar el riesgo de eventos trombóticos arteriales antes de indicarlo, sobre todo con antecedente cardiovascular o aterosclerótico y en ≥ 65 años;
+    - respetar los intervalos con la cirugía, porque altera la cicatrización (ver 14.1);
+    - sospechar perforación digestiva, fístula (perineal, anal o colovesical) y fascitis necrosante; la cirugía intraabdominal extensa previa, como la peritonectomía, predispone a la perforación;
+    - ante una fístula, suspenderlo: cicatriza casi siempre, aunque algunos pacientes requieren derivación fecal;
+    - no resecar un primario asintomático solo para poder usar bevacizumab: el primario intacto no aumenta el riesgo de perforación (ver 13.4);
+    - no usarlo en monoterapia;
+    - puede infundirse a 0.5 mg/kg/min (5 mg/kg en 10 minutos y 7.5 mg/kg en 15 minutos).
+- Ziv-aflibercept y ramucirumab: combinarlos solo con FOLFIRI (leucovorina, fluorouracilo e irinotecán) o irinotecán en pacientes que no recibieron FOLFIRI; ante la elección, preferir bevacizumab por toxicidad o costo.
+- Cetuximab y panitumumab (anticuerpos contra el receptor del factor de crecimiento epidérmico [anti-EGFR]):
+    - indicarlos solo con KRAS, NRAS y BRAF de tipo silvestre (ver 8.3 y 8.4);
+    - erupción acneiforme: usar humectantes; contraindicar los agentes secantes y los retinoides que se usan en el acné; considerar un antibiótico oral profiláctico, que puede atenuar su intensidad;
+    - usar la erupción como marcador clínico: su ausencia después del primer mes es prácticamente incompatible con beneficio;
+    - reacciones de hipersensibilidad anafilactoides, casi siempre con la primera dosis: en regiones de alta incidencia de hipersensibilidad a cetuximab, preferir panitumumab; quien reacciona a cetuximab suele tolerar panitumumab;
+    - medir el magnesio sérico de forma regular y reponerlo por vía intravenosa cuando esté indicado: el magnesio oral rara vez basta porque la diarrea limita su dosis;
+    - no usar la inmunohistoquímica (IHQ) de EGFR para seleccionar ni para excluir pacientes;
+    - cetuximab: 400 mg/m² en 2 horas la primera vez y después 250 mg/m² semanales, o 500 mg/m² cada 2 semanas (preferido si el esquema es quincenal); panitumumab: 6 mg/kg en 60 minutos cada 2 semanas.
+- Regorafenib: vigilar la reacción cutánea mano-pie, la fatiga, la hipertensión y la diarrea, y † la función hepática por el riesgo de hepatotoxicidad grave; la escalada de dosis en el primer ciclo (80 mg, luego 120 mg y después 160 mg diarios) es una alternativa aceptable a la dosis plena.
+- Fruquintinib: vigilar la hipertensión, la astenia y el síndrome mano-pie.
+
+**Fundamento**
+
+- Bevacizumab:
+    - anticuerpo monoclonal humanizado que se une al VEGF circulante, reduce de forma sustancial el ligando disponible e impide la activación del receptor; el VEGF es un factor central de la angiogénesis tumoral;
+    - ensayo pivotal con IFL (irinotecán con 5-FU en bolo y leucovorina): hipertensión grado 3 en 11% frente a 2%; sin diferencia en eventos tromboembólicos totales ni en proteinuria; perforaciones digestivas en 6 pacientes, una mortal, frente a ninguna sin bevacizumab;
+    - eventos trombóticos arteriales (evento vascular cerebral, infarto de miocardio, isquemia cerebral transitoria y angina): 5.0% frente a 2.5% [el riesgo se duplica], mayor con antecedente cardiovascular o aterosclerótico y constante a lo largo del tratamiento;
+    - fístula: 4.1% en 222 pacientes, dos tercios perineales o anales y el resto colovesicales, en promedio 3.9 meses después de iniciar;
+    - NCCN: aumenta la mortalidad relacionada con el tratamiento, sobre todo por hemorragia (23.5% de las muertes), neutropenia (12.2%) y perforación digestiva (7.1%), pero no el tromboembolismo venoso; la FDA (Food and Drug Administration) advierte de fascitis necrosante, a veces mortal, casi siempre secundaria a complicaciones de la herida;
+    - cicatrización: con cirugía mayor durante el tratamiento, complicaciones de la herida en 13% frente a 3.4%; con ≥ 6 semanas entre la cirugía y el bevacizumab posoperatorio, 1.3% frente a 0.5% [el intervalo elimina el exceso de riesgo];
+    - perforación y primario intacto: en cáncer de ovario, la perforación se asoció a la cirugía citorreductora peritoneal y no a la presencia de tumor; no hay datos que apoyen resecar el primario asintomático antes del bevacizumab;
+    - no hay «efecto rebote»: suspenderlo no aceleró la progresión ni la mortalidad en un metaanálisis de 4205 pacientes ni en el ensayo C-08;
+    - en monoterapia su respuesta fue de 3% (ensayo E3200) [sin actividad útil].
+- Ziv-aflibercept: proteína de fusión recombinante con los dominios de unión de los receptores 1 y 2 del VEGF unidos al fragmento Fc de la inmunoglobulina G1; actúa como «trampa» que une todas las isoformas del VEGF-A, el VEGF-B y el factor de crecimiento placentario con más afinidad que los receptores nativos; en VELOUR, 26.6% suspendió por eventos adversos frente a 12.1% con placebo (astenia o fatiga, infecciones, diarrea, hipertensión y tromboembolismo venoso).
+- Ramucirumab: anticuerpo monoclonal humano contra el dominio extracelular del receptor 2 del VEGF; en RAISE, 11.5% suspendió por eventos adversos frente a 4.5% (los más frecuentes de grado ≥ 3 fueron neutropenia, hipertensión, diarrea y fatiga), y un metaanálisis no mostró aumento de eventos tromboembólicos arteriales o venosos ni de hemorragia grave [podría diferir de los otros antiangiogénicos en este riesgo].
+- DeVita: bevacizumab, aflibercept y ramucirumab tienen un beneficio parecido y modesto en segunda línea y perfiles de toxicidad similares; ninguno tiene actividad de rescate tras el fracaso de otro, sino que potencian una segunda línea activa, y el ramucirumab es difícil de justificar frente a alternativas mucho más baratas.
+- Receptor del factor de crecimiento epidérmico (EGFR, también llamado HER-1):
+    - glicoproteína transmembrana; al unirse sus ligandos (factor de crecimiento epidérmico o factor de crecimiento transformante alfa) se dimeriza con otro EGFR o con otro miembro de la familia, se fosforilan las tirosina cinasas intracelulares y se activa la cascada que regula proliferación, migración, adhesión, diferenciación y supervivencia;
+    - cetuximab es un anticuerpo IgG1 quimérico y panitumumab un IgG2 totalmente humano; ambos se unen al dominio extracelular sin activarlo e interfieren estéricamente con el sitio de unión del ligando.
+- Toxicidad anti-EGFR:
+    - erupción acneiforme en 75–100% de los pacientes, con sequedad de piel y fisuras paroniquiales; no es acné; no forma parte de las reacciones a la infusión y su frecuencia es similar con ambos fármacos;
+    - correlación con el beneficio: el beneficio se limita casi por completo a quienes presentan erupción grado 2–3, aunque una erupción intensa no garantiza respuesta;
+    - hipersensibilidad: cerca de 3% con cetuximab y < 1% con panitumumab; con cetuximab llega a 20% en Carolina del Norte y Tennessee, frente a < 1% en el noreste de Estados Unidos, por IgE específica con reactividad cruzada con un alérgeno ambiental;
+    - hipomagnesemia por pérdida renal de magnesio, atribuida al antagonismo del EGFR en el asa de Henle; también aumentan la diarrea y el tromboembolismo venoso;
+    - la intensidad de la expresión de EGFR por IHQ no se correlaciona con la respuesta: en tumores EGFR negativos respondió 25% [la IHQ de EGFR no tiene valor predictivo];
+    - no hay base para usar uno tras el fracaso clínico del otro.
+- Regorafenib: inhibidor oral de múltiples cinasas (receptores del VEGF, del factor de crecimiento de fibroblastos y del factor de crecimiento derivado de plaquetas, BRAF, KIT y RET), derivado del sorafenib del que difiere en un átomo de flúor:
+    - eventos adversos grado ≥ 3 en CORRECT: reacción mano-pie 17%, fatiga 10%, hipertensión 7%, diarrea 7% y erupción o descamación 6%; hepatotoxicidad grave o mortal en 0.3% de 1100 pacientes;
+    - en un metaanálisis, la reacción mano-pie de cualquier grado apareció en 60.5% (46.6% en cáncer colorrectal) y la de alto grado en 20.4%;
+    - ReDOS: con la escalada de dosis llegó al tercer ciclo 43% de los pacientes frente a 26% con la dosis estándar, con menos eventos adversos [mejor tolerancia sin perder el tratamiento].
+- Fruquintinib: inhibidor oral de cinasa de los receptores 1, 2 y 3 del VEGF; en FRESCO-2, eventos grado ≥ 3 en 63% frente a 50% con placebo (hipertensión 14%, astenia 8% y síndrome mano-pie 6%), y solo 20% lo suspendió por toxicidad.
+
+### 14.5 Terapias dirigidas por biomarcador e inmunoterapia (COL-D 4, 5 y 6)
+
+**Conducta**
+
+- Deficiencia del sistema de reparación (dMMR), inestabilidad alta de microsatélites (MSI-H) o mutación de POLE/POLD1 con fenotipo ultrahipermutado (carga mutacional > 50 mutaciones/megabase):
+    - sin inmunoterapia previa y candidato a ella: inhibidor de puntos de control inmunitario en cualquier línea, de preferencia en la primera, sea o no candidato a terapia intensiva;
+    - opciones contra el receptor de muerte programada 1 (anti-PD-1): cemiplimab, dostarlimab, nivolumab, pembrolizumab, penpulimab, retifanlimab, tislelizumab o toripalimab;
+    - opciones contra su ligando (anti-PD-L1): atezolizumab, avelumab, cosibelimab o durvalumab;
+    - bloqueo doble de PD-1 y del antígeno 4 asociado al linfocito T citotóxico (CTLA-4): ipilimumab con nivolumab, con más supervivencia pero también más toxicidad; la discusión de la NCCN lo deja en categoría 2B cuando no se recomienda terapia intensiva;
+    - seguir al paciente de cerca durante 10 semanas para evaluar la respuesta; algunos de estos fármacos no se estudiaron en cáncer colorrectal y se incluyen por efecto de clase;
+    - con inmunoterapia previa: terapia sistémica estándar (ver 14.2 y 14.6), o ipilimumab con nivolumab si antes recibió monoterapia con un inhibidor de puntos de control;
+    - si hay respuesta, considerar suspender el inhibidor a los 2 años;
+    - si el tumor es a la vez dMMR/MSI-H y BRAF V600E, empezar con el inhibidor de puntos de control y reservar el esquema con inhibidor de BRAF para una línea posterior;
+    - no solicitar PD-L1 por inmunohistoquímica: no tiene papel en el cáncer colorrectal fuera de ensayos;
+    - las formulaciones subcutáneas de nivolumab, pembrolizumab y atezolizumab con hialuronidasa pueden sustituir a la intravenosa, con dosis y administración propias; la de nivolumab solo sirve en monoterapia, no con ipilimumab intravenoso;
+    - manejar los eventos adversos inmunomediados con la guía NCCN de toxicidades por inhibidores de puntos de control.
+- BRAF V600E con sistema competente: encorafenib (inhibidor de BRAF) siempre con cetuximab o panitumumab (anti-EGFR):
+    - primera línea preferida: FOLFOX (leucovorina, fluorouracilo y oxaliplatino) o FOLFIRI (leucovorina, fluorouracilo e irinotecán) con encorafenib y anti-EGFR (ver 14.2);
+    - líneas posteriores: encorafenib con anti-EGFR, solo o con FOLFIRI, FOLFOX o CAPEOX (capecitabina y oxaliplatino); añadir FOLFOX o CAPEOX solo sin neuropatía residual, con buena tolerancia previa y si no recibió antes oxaliplatino ni un esquema anti-BRAF;
+    - no añadir binimetinib (inhibidor de MEK) ni usar esquemas con vemurafenib o con dabrafenib y trametinib.
+- Sobreexpresión o amplificación de HER2 (receptor 2 del factor de crecimiento epidérmico humano):
+    - con KRAS, NRAS y BRAF silvestres y sin anti-HER2 previo: trastuzumab con pertuzumab o trastuzumab con tucatinib, en líneas posteriores o como terapia menos intensiva en primera línea;
+    - inmunohistoquímica 3+: trastuzumab deruxtecán en líneas posteriores, también tras un anti-HER2 previo; puede no estar indicado si hay enfermedad pulmonar de base por su toxicidad pulmonar.
+- KRAS G12C: sotorasib o adagrasib con cetuximab o panitumumab tras oxaliplatino e irinotecán; en monoterapia si preocupa la toxicidad del anti-EGFR o como terapia menos intensiva.
+- Fusiones de NTRK 1/2/3: larotrectinib, entrectinib o repotrectinib en líneas posteriores; la mayoría de los pacientes no los necesitará por la rareza de la fusión.
+- Fusiones de RET: selpercatinib en líneas posteriores.
+- Terapias agnósticas del tumor recomendadas (COL-D 6): HER2 por inmunohistoquímica 3+ (trastuzumab deruxtecán), fusiones de NTRK (entrectinib, larotrectinib o repotrectinib) y fusiones de RET (selpercatinib); otras aprobaciones agnósticas, como pembrolizumab por carga mutacional alta, no se recomiendan en cáncer colorrectal (ver 8.6).
+
+**Fundamento**
+
+- Base de la inmunoterapia: los tumores dMMR acumulan miles de mutaciones que codifican proteínas mutantes reconocibles por el sistema inmunitario; las células tumorales expresan los ligandos de muerte programada 1 y 2 (PD-L1 y PD-L2), que al unirse al PD-1 del linfocito T efector suprimen la respuesta, un freno fisiológico contra la respuesta inmunitaria descontrolada; pembrolizumab, nivolumab y dostarlimab son anticuerpos IgG4 anti-PD-1 que bloquean esa unión y liberan el reconocimiento inmunitario.
+- Primera línea en dMMR/MSI-H:
+    - KEYNOTE-177 (pembrolizumab frente a quimioterapia con o sin bevacizumab o cetuximab): supervivencia libre de progresión de 16.5 frente a 8.2 meses [la duplica], respuesta de 43.8% frente a 33.1% y eventos grado ≥ 3 en 22% frente a 66%, con mejor calidad de vida; la supervivencia global no difirió de forma significativa porque 60% del grupo de quimioterapia cruzó a inmunoterapia;
+    - CheckMate 142 (nivolumab con ipilimumab en primera línea): respuesta de 69%, 13% completa; a 5 años, respuesta de 71%, con supervivencia libre de progresión de 51% y global de 72% a 48 meses; eventos grado 3–4 en 20%;
+    - CheckMate 8HW (nivolumab con ipilimumab frente a quimioterapia): reducción de 79% del riesgo de progresión o muerte, con menos eventos grado ≥ 3 (23% frente a 48%), aunque con dos muertes por el tratamiento;
+    - dostarlimab no tiene datos en enfermedad no tratada, pero la NCCN considera intercambiables los inhibidores de puntos de control en dMMR/MSI-H.
+- Líneas posteriores en dMMR/MSI-H:
+    - pembrolizumab en enfermedad refractaria: respuesta de 40% en dMMR frente a 0% en sistema competente [la inestabilidad de microsatélites predice la respuesta en cualquier tumor]; KEYNOTE-164: respuesta de 33%;
+    - CheckMate 142: nivolumab solo, respuesta de 31% (39% en el seguimiento largo), y con ipilimumab, 55% (65% en el seguimiento largo), con eventos grado 3–4 en 32% que tienden a aparecer pronto y se resuelven con los algoritmos de manejo;
+    - GARNET (dostarlimab): respuesta de 43.5%, 12.2% completa, en 115 pacientes con cáncer colorrectal;
+    - DeVita coincide: pembrolizumab 33% y nivolumab 31% en enfermedad refractaria, y nivolumab con ipilimumab 55%.
+- Toxicidad de la inmunoterapia: eventos adversos graves, muchos inmunomediados, en 21–41%; los órganos más afectados son piel, hígado, riñón, tubo digestivo, pulmón y glándulas endocrinas; la neumonitis, en 3–7%, es uno de los más graves.
+- POLE/POLD1: con variantes patogénicas, la inmunoterapia logró beneficio clínico en 82.4% frente a 30.0% con variantes benignas, y supervivencia global de 29.5 frente a 6.8 meses, por eso se tratan como dMMR (ver 8.6).
+- BRAF V600E:
+    - DeVita: tras fracasar la primera línea, la supervivencia global es de solo 4–6 meses;
+    - BEACON (fase III, enfermedad previamente tratada): supervivencia global de 5.9 meses con el control (cetuximab con irinotecán o FOLFIRI), 9.3 con el doblete encorafenib-cetuximab y 9.3 con el triplete con binimetinib; respuestas de 1.8%, 19.5% y 26.8%; el triplete fue el más tóxico sin mejorar la supervivencia, y doblete y triplete conservaron la calidad de vida por igual [por eso solo se recomienda el doblete];
+    - contraste normativo: DeVita y la discusión de la NCCN describen el inhibidor de BRAF solo en líneas posteriores (BEACON); el algoritmo 2026 lo adelanta a la primera línea, como opción preferida con FOLFOX o FOLFIRI, con base en el ensayo BREAKWATER.
+- HER2:
+    - trastuzumab con pertuzumab: respuesta de 32% (MyPathway) y 25% (TAPUR), con eventos grado 3–4 en 37% (hipopotasemia y dolor abdominal);
+    - trastuzumab con tucatinib (MOUNTAINEER, enfermedad refractaria con RAS silvestre): respuesta de 38.1%, con 3 respuestas completas; la diarrea fue el evento más frecuente;
+    - trastuzumab deruxtecán, conjugado de anticuerpo anti-HER2 e inhibidor de topoisomerasa (DESTINY-CRC01): respuesta de 45.3% con inmunohistoquímica 3+ o 2+ con hibridación in situ positiva, y ninguna con 2+ negativa por hibridación o con 1+; supervivencia libre de progresión de 6.9 meses y global de 15.5 meses; enfermedad pulmonar intersticial o neumonitis con 3 muertes (3.5% de los pacientes);
+    - DESTINY-CRC02: respuesta de 37.8% con 5.4 mg/kg frente a 27.5% con 6.4 mg/kg, con actividad independiente del estado de RAS y del anti-HER2 previo [5.4 mg/kg es la dosis recomendada];
+    - contraste normativo dentro de la NCCN: la discusión aún menciona trastuzumab con lapatinib (respuesta de 30% en HERACLES), pero la versión 1.2026 del algoritmo retiró el lapatinib.
+- KRAS G12C:
+    - sotorasib solo: respuesta de 7.1–9.7% (CodeBreaK 100); con panitumumab: 30%, con supervivencia libre de progresión de 5.7 meses y global de 15.2 meses (CodeBreaK 101);
+    - adagrasib solo: respuesta de 19% y supervivencia libre de progresión de 5.6 meses; con cetuximab: respuesta de 34–46%, supervivencia libre de progresión de 6.9 meses y global de 15.9 meses; eventos grado ≥ 3 en 34% con monoterapia frente a 16% con la combinación [la combinación es más activa y no más tóxica];
+    - ya se describieron mecanismos de resistencia adquirida a ambos inhibidores.
+- NTRK: larotrectinib logró respuestas de 75–80% en tumores sólidos con fusión (25% en colon según la ficha técnica; en 8 pacientes con cáncer de colon, 50% de respuestas parciales y 50% de enfermedad estable), con 93% de eventos grado 1–2; entrectinib, 57%, con actividad en metástasis del sistema nervioso central; repotrectinib, 58% sin inhibidor previo y 50% tras larotrectinib o entrectinib, con mareo como evento más frecuente.
+- RET: selpercatinib, inhibidor muy selectivo de la cinasa RET (LIBRETTO-001), logró respuesta de 43.9% en todo el grupo y de 20% en 10 pacientes con cáncer de colon; sus eventos grado ≥ 3 más frecuentes fueron hipertensión y elevación de transaminasas, con lesión hepática inducida por fármaco como evento grave.
+
+### 14.6 Segunda línea y líneas posteriores con sistema de reparación competente
+
+**Conducta**
+
+- Elegir la terapia posterior según lo ya recibido (COL-D 2, 3 y 4), siempre que no se haya dado antes:
+    - tras oxaliplatino (FOLFOX [leucovorina, fluorouracilo y oxaliplatino] o CAPEOX [capecitabina y oxaliplatino]): FOLFIRI (leucovorina, fluorouracilo e irinotecán) o irinotecán, con o sin bevacizumab (preferido), ziv-aflibercept o ramucirumab; si KRAS, NRAS y BRAF son silvestres y no recibió anti-EGFR (anticuerpo contra el receptor del factor de crecimiento epidérmico), FOLFIRI o irinotecán con cetuximab o panitumumab;
+    - tras irinotecán: FOLFOX o CAPEOX con o sin bevacizumab; si son silvestres, FOLFOX o CAPEOX con cetuximab o panitumumab, o irinotecán con cetuximab o panitumumab;
+    - tras oxaliplatino e irinotecán, o más allá de la segunda línea: terapias por biomarcador (trastuzumab deruxtecán con HER2 por inmunohistoquímica 3+; pertuzumab o tucatinib con trastuzumab con HER2 y RAS/BRAF silvestres; sotorasib o adagrasib con anti-EGFR con KRAS G12C; terapias agnósticas del tumor; ver 14.5);
+    - progresión a todos los esquemas disponibles: trifluridina-tipiracilo con o sin bevacizumab (preferida la combinación), fruquintinib o regorafenib, en cualquier orden porque ningún dato define la mejor secuencia; o mejor cuidado de soporte.
+- Antiangiogénico en segunda línea:
+    - continuar bevacizumab tras progresar con él, añadido a cualquier esquema que no contenga otro agente dirigido; 5 mg/kg es la dosis adecuada en segunda línea;
+    - considerar añadirlo a la segunda línea si la primera no lo incluía, pero nunca agregarlo al mismo esquema con el que la enfermedad progresó;
+    - con irinotecán solo no hay datos de beneficio, aunque la NCCN acepta la opción, sobre todo tras progresar con 5-FU (fluorouracilo) o capecitabina;
+    - preferir bevacizumab a ziv-aflibercept y ramucirumab por toxicidad o costo.
+- Anti-EGFR en líneas posteriores:
+    - ofrecerlo a todo tumor RAS y BRAF silvestre que no lo haya recibido, cualquiera que sea el lado del primario, mientras no haya datos definitivos sobre la lateralidad en estas líneas;
+    - no usarlo tras progresar con un anti-EGFR, salvo la reexposición (ver 14.1), ni cambiar cetuximab por panitumumab o a la inversa.
+- Trifluridina-tipiracilo: no indicarlo en primera línea, con o sin bevacizumab.
+- Metástasis hepáticas predominantes refractarias a quimioterapia: considerar terapia arterial dirigida, sobre todo radioembolización con itrio 90, en pacientes muy seleccionados (ver 13.7).
+
+**Fundamento**
+
+- Citotóxicos en segunda línea: el irinotecán solo tras la primera progresión mejoró la supervivencia global frente al mejor cuidado de soporte (supervivencia a 1 año de 36.2% frente a 13.8%) y la supervivencia libre de progresión frente al 5-FU infusional (4.2 frente a 2.9 meses); FOLFIRI no superó al irinotecán solo en supervivencia global (metaanálisis) y, en el ensayo N9841, FOLFOX tampoco superó al irinotecán solo.
+- Agentes dirigidos tras la primera línea: mejoran los resultados pero aumentan la toxicidad, y continuar un antiangiogénico después de progresar con otro mejora la supervivencia libre de progresión y la global (metaanálisis).
+- Bevacizumab más allá de la progresión:
+    - TML: supervivencia global de 11.2 frente a 9.8 meses [ganancia de 1.4 meses], con efecto independiente de KRAS y con algo más de hemorragia grado 3–5 (2% frente a 1%), perforación digestiva (2% frente a 1%) y tromboembolismo venoso (5% frente a 3%) según DeVita;
+    - BEBYP: supervivencia libre de progresión de 6.8 frente a 5.0 meses; EAGLE: 5 y 10 mg/kg con FOLFIRI tuvieron igual eficacia; las cohortes observacionales (ARIES y una base de datos comunitaria) confirmaron mayor supervivencia posterior a la progresión.
+- Bevacizumab en segunda línea sin uso previo (E3200): FOLFOX con bevacizumab, supervivencia global de 12.9 frente a 10.8 meses; el bevacizumab solo fue inferior y no debe usarse.
+- Ziv-aflibercept (VELOUR, tras oxaliplatino): supervivencia global de 13.5 frente a 12.1 meses, supervivencia libre de progresión de 6.9 frente a 4.67 meses y respuesta de 19.8% frente a 11.1%, con beneficio con o sin bevacizumab previo; en primera línea (AFFIRM) no aportó beneficio y aumentó la toxicidad; DeVita no lo recomienda con oxaliplatino.
+- Ramucirumab (RAISE, tras fluoropirimidina, oxaliplatino y bevacizumab): supervivencia global de 13.3 frente a 11.7 meses y libre de progresión de 5.7 frente a 4.5 meses, con eficacia similar según KRAS, tiempo hasta la progresión y edad.
+- Anti-EGFR en líneas posteriores:
+    - cetuximab solo frente a mejor cuidado de soporte, KRAS silvestre (CO.17): supervivencia global de 9.5 frente a 4.8 meses [la duplica];
+    - panitumumab solo frente a soporte: respuesta de 17% con KRAS silvestre frente a 0% con KRAS mutado; en otro ensayo, supervivencia global de 10.0 frente a 7.4 meses;
+    - ASPECCT: panitumumab no fue inferior a cetuximab en monoterapia (supervivencia global de 10.4 frente a 10.0 meses) [son intercambiables];
+    - FOLFIRI con panitumumab (estudio 181): supervivencia libre de progresión de 5.9 frente a 3.9 meses, beneficio limitado a RAS silvestre; PICCOLO (irinotecán con panitumumab) no mejoró la supervivencia global y sugirió daño con BRAF mutado;
+    - irinotecán con cetuximab: en el reanálisis por RAS, supervivencia libre de progresión de 5.4 frente a 2.6 meses y respuesta de 29.4% frente a 5.0%, con supervivencia global similar (unos 12 meses) porque casi la mitad del grupo control recibió cetuximab después;
+    - SPIRITT: tras oxaliplatino con bevacizumab, FOLFIRI con panitumumab o con bevacizumab no difirió en supervivencia libre de progresión;
+    - en tercera línea con RAS y BRAF silvestres, el anti-EGFR logró mayor supervivencia libre de progresión que otras terapias (6.4 frente a 3.9 meses; análisis de TRIBE y TRIBE2).
+- Enfermedad refractaria:
+    - regorafenib (CORRECT, pacientes con estado funcional 0–1 del Eastern Cooperative Oncology Group [ECOG] tras todas las terapias estándar): supervivencia global de 6.4 frente a 5.0 meses [ganancia de 1.4 meses] con respuesta de solo 1%; en CONCUR (Asia), 8.8 frente a 6.3 meses; CONSIGN, REBECCA y CORRELATE confirmaron el perfil de seguridad;
+    - trifluridina-tipiracilo (RECOURSE, tras ≥ 2 esquemas): supervivencia global de 7.1 frente a 5.3 meses [ganancia de 1.7 meses], con beneficio similar según edad, región, KRAS y regorafenib previo; en la práctica real, la adherencia es mejor que con regorafenib;
+    - trifluridina-tipiracilo con bevacizumab (SUNLIGHT, 72% con anti-VEGF previo): supervivencia global de 10.8 frente a 7.5 meses y libre de progresión de 5.6 frente a 2.4 meses, sin muertes por el tratamiento [suma más de 3 meses de supervivencia, por eso la combinación es la preferida];
+    - fruquintinib: en FRESCO (China, tras ≥ 2 líneas y sin inhibidor del VEGF previo), supervivencia global de 9.3 frente a 6.6 meses; en FRESCO-2 (mediana de 4 líneas previas, 97% con anti-VEGF y casi la mitad tras trifluridina-tipiracilo y regorafenib), 7.4 frente a 4.8 meses.
+- Trifluridina-tipiracilo en primera línea: SOLSTICE y TASCO1, frente a capecitabina con bevacizumab en pacientes no candidatos a terapia intensiva, dieron supervivencias similares; la NCCN no lo recomienda por su toxicidad hematológica y financiera frente a la capecitabina.
+
+### 14.7 Mantenimiento, pausas y duración del tratamiento
+
+**Conducta**
+
+- Mantenimiento: tras una primera línea intensiva con buena respuesta, discutir con el paciente, en decisión compartida, pasar a una terapia menos intensiva hasta la progresión; la observación es una alternativa aceptable porque el mantenimiento mejora la supervivencia libre de progresión pero no la global.
+    - Opciones con respaldo: fluoropirimidina (capecitabina o 5-FU [fluorouracilo] con leucovorina) con o sin bevacizumab; tras FOLFOX (leucovorina, fluorouracilo y oxaliplatino) o CAPEOX (capecitabina y oxaliplatino), la fluoropirimidina restante es en sí misma el mantenimiento de la estrategia de «parar y reanudar» del oxaliplatino.
+    - Reintroducir el esquema de inducción al progresar, si se suspendió sin progresión (ver 14.1).
+- Pausas sin quimioterapia: no programarlas de forma temprana para todos los pacientes; decidirlas caso por caso, con juicio clínico, en quien responde bien después de un periodo razonable de tratamiento, y reiniciar al progresar.
+- No usar bevacizumab solo durante las pausas sin quimioterapia (DeVita: no tiene actividad en monoterapia ni datos que lo respalden).
+- Oxaliplatino: suspender tras 3–4 meses y mantener el resto (ver 14.1 y 14.3).
+- Inhibidores de puntos de control: si hay respuesta, considerar suspenderlos a los 2 años (ver 14.5).
+- Duración: no continuar la quimioterapia de forma indefinida por sistema; muchos pacientes necesitan y aprovechan las pausas, física y psicológicamente, porque hoy viven varios años con la enfermedad.
+
+**Fundamento**
+
+- Mantenimiento con bevacizumab:
+    - CAIRO3 (capecitabina con bevacizumab tras CAPEOX con bevacizumab, frente a observación): el tiempo hasta la segunda progresión mejoró de 8.5 a 11.7 meses, con tendencia no significativa en supervivencia global (21.6 frente a 18.1 meses); no afectó la calidad de vida, aunque 23% presentó síndrome mano-pie; el beneficio se observó en todos los subgrupos moleculares y fue mayor con RAS/BRAF silvestres o BRAF V600E;
+    - AIO 0207: el bevacizumab solo no fue inferior a la fluoropirimidina con bevacizumab, pero no dar mantenimiento sí fue inferior; solo un tercio recibió la reinducción planeada y no hubo diferencia en supervivencia global;
+    - PRODIGE 9: mantener bevacizumab en las pausas tras FOLFIRI con bevacizumab no mejoró la supervivencia libre de progresión (9.2 frente a 8.9 meses) ni la global (21.7 frente a 22.0 meses);
+    - SAKK 41/06: no se demostró que suspender todo fuera no inferior a continuar bevacizumab solo, sin diferencia en supervivencia global;
+    - GERCOR DREAM (OPTIMOX3): bevacizumab con erlotinib mejoró la supervivencia libre de progresión y la global frente a bevacizumab solo, aunque un ensayo menor no lo confirmó; la combinación no figura entre las opciones del algoritmo (ver 14.9).
+- Mantenimiento con fluoropirimidina sola:
+    - capecitabina tras FOLFOX o CAPEOX: supervivencia libre de progresión de 6.4 frente a 3.4 meses, sin diferencia significativa en la global y con toxicidad aceptable;
+    - FOCUS4-N (capecitabina frente a vigilancia activa): supervivencia libre de progresión de 3.88 frente a 1.87 meses y global de 15.2 frente a 14.8 meses [beneficio solo en el control de la enfermedad];
+    - un metaanálisis en red de 12 ensayos y 5540 pacientes confirmó que la fluoropirimidina con o sin bevacizumab mejora la supervivencia libre de progresión, no la global.
+- Pausas y duración:
+    - ensayo de Maughan (5-FU o raltitrexed): suspender a las 12 semanas y reiniciar al progresar no empeoró la supervivencia global frente a continuar;
+    - OPTIMOX2: la pausa completa temprana y programada tras 6 ciclos acortó la duración del control de la enfermedad (9.2 frente a 13.1 meses con mantenimiento de 5-FU con leucovorina) [no conviene programar la pausa para todos];
+    - reexposición: tras una pausa planeada, la reintroducción del 5-FU logró 17% de respuestas (mediana de 11.7 meses hasta el reinicio), y suspender el irinotecán a las 24 semanas no empeoró la supervivencia ni la calidad de vida;
+    - en un análisis retrospectivo de los estudios OPTIMOX, la supervivencia fue mayor en quienes tomaron una pausa (37.5 frente a 21.2 meses), sobre todo si la pausa empezó después de 3 meses de tratamiento (42–44 frente a 24 meses) [sesgo de selección: las pausas las toman quienes responden];
+    - un ensayo turco confirmó que la estrategia de «parar y reanudar» es segura con CAPEOX y bevacizumab, y un metaanálisis mostró que la administración intermitente no compromete la supervivencia global.
+- Contraste normativo: DeVita afirma que en OPTIMOX2 la pausa temprana empeoró la duración del control, la supervivencia libre de progresión y la global; la discusión de la NCCN reporta solo la duración del control como significativamente peor, sin diferencia significativa en supervivencia global (19.5 frente a 23.8 meses).
+
+### 14.8 Esquemas y dosis de la enfermedad metastásica (COL-D 8–13)
+
+**Conducta**
+
+- Notas comunes a todos los esquemas:
+    - el oxaliplatino puede infundirse en 2 horas o a 1 mg/m²/min, con la leucovorina en el mismo tiempo;
+    - leucovorina 400 mg/m² equivale a levoleucovorina 200 mg/m²;
+    - el bevacizumab puede darse a 0.5 mg/kg/min (5 mg/kg en 10 minutos y 7.5 mg/kg en 15 minutos);
+    - capecitabina: la dosis inicial estándar europea es 1000 mg/m² dos veces al día durante 14 días cada 21 días, y los pacientes norteamericanos pueden requerir menos;
+    - antes de cualquier fluoropirimidina, estudiar DPYD (ver 8.9).
+- Esquemas con oxaliplatino:
+    - FOLFOX6 modificado (mFOLFOX6; leucovorina, fluorouracilo y oxaliplatino): oxaliplatino 85 mg/m² intravenoso el día 1, leucovorina 400 mg/m² intravenosa el día 1 y fluorouracilo (5-FU) 400 mg/m² en bolo el día 1, seguido de 1200 mg/m²/día durante 2 días (2400 mg/m² en 46–48 horas) en infusión continua; cada 2 semanas;
+    - FOLFOX7 modificado: igual, pero sin el bolo de 5-FU; cada 2 semanas;
+    - FOLFOX con bevacizumab 5 mg/kg el día 1, con panitumumab 6 mg/kg en 60 minutos el día 1, o con cetuximab 400 mg/m² en 2 horas la primera vez y después 250 mg/m² en 60 minutos semanales, o 500 mg/m² en 2 horas cada 2 semanas (preferido); cada 2 semanas;
+    - CAPEOX (capecitabina y oxaliplatino): oxaliplatino 130 mg/m² intravenoso el día 1 y capecitabina 1000 mg/m² por vía oral dos veces al día durante 14 días; cada 3 semanas;
+    - CAPEOX con bevacizumab 7.5 mg/kg el día 1 cada 3 semanas; CAPEOX con cetuximab (semanal o 500 mg/m² cada 2 semanas) o con panitumumab 6 mg/kg cada 2 semanas.
+- Esquemas con irinotecán:
+    - FOLFIRI (leucovorina, fluorouracilo e irinotecán): irinotecán 180 mg/m² en 30–90 minutos el día 1, leucovorina 400 mg/m² en infusión de la misma duración que el irinotecán el día 1 y 5-FU 400 mg/m² en bolo el día 1, seguido de 2400 mg/m² en 46–48 horas; cada 2 semanas;
+    - FOLFIRI con bevacizumab 5 mg/kg, panitumumab 6 mg/kg, ziv-aflibercept 4 mg/kg en 60 minutos o ramucirumab 8 mg/kg en 60 minutos, todos el día 1 cada 2 semanas; o con cetuximab semanal o 500 mg/m² cada 2 semanas;
+    - irinotecán solo: 125 mg/m² los días 1 y 8 cada 3 semanas, 180 mg/m² cada 2 semanas o 300–350 mg/m² cada 3 semanas, siempre en 30–90 minutos;
+    - irinotecán con bevacizumab: 180 mg/m² con 5 mg/kg cada 2 semanas, o 300–350 mg/m² con 7.5 mg/kg cada 3 semanas;
+    - irinotecán con cetuximab (400 mg/m² y después 250 mg/m² semanales, o 500 mg/m² cada 2 semanas), con panitumumab 6 mg/kg cada 2 semanas, con ramucirumab 8 mg/kg cada 2 semanas o con ziv-aflibercept 4 mg/kg (irinotecán 180 mg/m²) cada 2 semanas.
+- Tripletes:
+    - FOLFIRINOX (leucovorina, fluorouracilo, irinotecán y oxaliplatino): oxaliplatino 85 mg/m², leucovorina 400 mg/m² en 2 horas, irinotecán 165–180 mg/m² en 30–90 minutos, 5-FU 400 mg/m² en bolo y 2400 mg/m² en 46 horas, todos iniciados el día 1; cada 2 semanas;
+    - FOLFIRINOX modificado: oxaliplatino 85 mg/m², leucovorina 400 mg/m², irinotecán 150 mg/m² y 5-FU 2400 mg/m² en 46 horas, sin bolo; cada 2 semanas;
+    - cualquiera de los dos con bevacizumab 5 mg/kg el día 1 cada 2 semanas.
+- Fluoropirimidinas sin oxaliplatino ni irinotecán:
+    - esquema de Roswell Park: leucovorina 500 mg/m² en 2 horas y 5-FU 500 mg/m² en bolo 1 hora después de iniciar la leucovorina, los días 1, 8, 15, 22, 29 y 36; cada 8 semanas;
+    - esquema infusional quincenal simplificado (sLV5FU2): leucovorina 400 mg/m² en 2 horas el día 1, 5-FU 400 mg/m² en bolo y después 2400 mg/m² en 46–48 horas; cada 2 semanas;
+    - semanal: leucovorina 20 mg/m² en 2 horas y 5-FU 500 mg/m² en bolo 1 hora después; o 5-FU 2600 mg/m² en infusión de 24 horas con leucovorina 500 mg/m²; cada semana;
+    - 5-FU en bolo o infusional con bevacizumab 5 mg/kg cada 2 semanas;
+    - capecitabina 850–1250 mg/m² por vía oral dos veces al día durante 14 días, cada 3 semanas, sola o con bevacizumab 7.5 mg/kg cada 3 semanas.
+- Anticuerpos anti-EGFR (contra el receptor del factor de crecimiento epidérmico) solos: cetuximab 400 mg/m² y después 250 mg/m² semanales, o 500 mg/m² cada 2 semanas (preferido); panitumumab 6 mg/kg en 60 minutos cada 2 semanas.
+- Enfermedad refractaria:
+    - regorafenib 160 mg por vía oral al día los días 1–21, o escalada en el primer ciclo (80 mg los días 1–7, 120 mg los días 8–14 y 160 mg los días 15–21) y 160 mg en los siguientes; cada 28 días;
+    - trifluridina-tipiracilo 35 mg/m² por dosis (máximo 80 mg por dosis, calculado por la trifluridina) por vía oral dos veces al día los días 1–5 y 8–12, con o sin bevacizumab 5 mg/kg los días 1 y 15; cada 28 días;
+    - fruquintinib 5 mg por vía oral al día los días 1–21; cada 28 días.
+- Inhibidores de puntos de control (dMMR/MSI-H o POLE/POLD1 ultrahipermutado):
+    - pembrolizumab 2 mg/kg o 200 mg cada 3 semanas, o 400 mg o 4 mg/kg cada 6 semanas;
+    - nivolumab 3 mg/kg o 240 mg cada 2 semanas, o 480 mg o 6 mg/kg cada 4 semanas;
+    - ipilimumab con nivolumab: nivolumab 3 mg/kg e ipilimumab 1 mg/kg, cada uno en 30 minutos, cada 3 semanas por 4 dosis; después nivolumab 3 mg/kg o 240 mg cada 2 semanas, o 480 mg cada 4 semanas;
+    - dostarlimab 500 mg cada 3 semanas por 4 dosis y después 1000 mg cada 6 semanas;
+    - cemiplimab 350 mg cada 3 semanas; retifanlimab 500 mg cada 4 semanas; tislelizumab 200 mg cada 3 semanas; toripalimab 3 mg/kg cada 2 semanas; penpulimab 200 mg cada 2 semanas;
+    - atezolizumab 840 mg cada 14 días, 1200 mg cada 21 días o 1680 mg cada 28 días; avelumab 800 mg cada 14 días; cosibelimab 1200 mg cada 21 días; durvalumab 1500 mg cada 28 días.
+- HER2 (receptor 2 del factor de crecimiento epidérmico humano):
+    - trastuzumab 8 mg/kg de carga el día 1 del primer ciclo y después 6 mg/kg cada 21 días, con pertuzumab 840 mg de carga y después 420 mg cada 21 días, o con tucatinib 300 mg por vía oral dos veces al día;
+    - trastuzumab deruxtecán 5.4 mg/kg el día 1 cada 21 días.
+- BRAF V600E: encorafenib 300 mg por vía oral al día con cetuximab (400 mg/m² y después 250 mg/m² semanales, o 500 mg/m² cada 2 semanas) o con panitumumab 6 mg/kg cada 14 días; combinado con mFOLFOX6 o con FOLFIRI cada 2 semanas (con cetuximab 500 mg/m² o panitumumab 6 mg/kg cada 14 días), o con CAPEOX cada 3 semanas (oxaliplatino 130 mg/m² y capecitabina 1000 mg/m² dos veces al día por 14 días, con el anti-EGFR cada 14 días).
+- KRAS G12C: adagrasib 600 mg por vía oral dos veces al día o sotorasib 960 mg por vía oral al día, solos o con cetuximab 500 mg/m² o panitumumab 6 mg/kg cada 2 semanas.
+- Fusiones: larotrectinib 100 mg dos veces al día; entrectinib 600 mg una vez al día; repotrectinib 160 mg al día los primeros 14 días y después 160 mg dos veces al día (NTRK); selpercatinib 160 mg dos veces al día con peso ≥ 50 kg o 120 mg dos veces al día con < 50 kg (RET); todos por vía oral.
+
+**Fundamento**
+
+- FOLFIRINOX en lugar de FOLFOXIRI: FOLFOXIRI usa 5-FU 3200 mg/m² en 48 horas, y los pacientes de Estados Unidos tienen más toxicidad con el 5-FU; la dosis de FOLFIRINOX (2400 mg/m² en 46 horas) coincide con la de FOLFOX y FOLFIRI. DeVita coincide en que el triplete italiano usó dosis de 5-FU probablemente intolerables para pacientes estadounidenses.
+- Evolución de FOLFOX (DeVita): FOLFOX1, 2 y 3 son de interés histórico; FOLFOX4 (leucovorina 200 mg/m² y 5-FU en bolo de 400 mg/m² seguido de 600 mg/m² en 22 horas los días 1 y 2) fue el único registrado en Estados Unidos; FOLFOX6 subió el oxaliplatino a 100 mg/m² con el 5-FU simplificado, y FOLFOX7 a 130 mg/m² sin bolo; mFOLFOX6, con oxaliplatino 85 mg/m², es el razonable para uso rutinario porque las respuestas a 12 semanas no justifican dosis mayores.
+- Contraste normativo: DeVita incluye esquemas que la NCCN ya no lista para enfermedad metastásica, como la infusión venosa prolongada de 5-FU (300 mg/m²/día), LV5FU2 original (de Gramont), FOLFOX4, FUFIRI y FUFOX; la NCCN conserva Roswell Park, sLV5FU2, los esquemas semanales (el de 5-FU 2600 mg/m² en 24 horas corresponde al esquema alemán AIO) y mFOLFOX6 como base.
+
+### 14.9 Esquemas y prácticas no recomendados y evolución histórica
+
+**Conducta**
+
+- No usar en el cáncer colorrectal metastásico:
+    - IFL (irinotecán con 5-FU [fluorouracilo] en bolo y leucovorina) en ningún momento, ni ningún esquema de 5-FU en bolo combinado con irinotecán u oxaliplatino (como bFOL o FLOX); el 5-FU combinado se da en infusión quincenal, o se usa capecitabina con oxaliplatino;
+    - CapeIRI (capecitabina con irinotecán), con o sin bevacizumab, en primera línea;
+    - un anti-EGFR (cetuximab o panitumumab) junto con bevacizumab, ni más de un biológico a la vez;
+    - combinaciones negativas en fase III: sunitinib con FOLFIRI, cetuximab con brivanib, erlotinib con bevacizumab, cediranib con FOLFOX o CAPEOX, y atezolizumab con cobimetinib;
+    - bevacizumab, oxaliplatino, ziv-aflibercept o ramucirumab en monoterapia, y ziv-aflibercept con oxaliplatino;
+    - ziv-aflibercept o ramucirumab con FOLFIRI tras progresar con FOLFIRI y bevacizumab, o a la inversa;
+    - trifluridina-tipiracilo en primera línea;
+    - infusiones de calcio y magnesio para prevenir la neuropatía por oxaliplatino;
+    - inhibidores de la ciclooxigenasa 2 (celecoxib) junto con la quimioterapia;
+    - IROX (irinotecán con oxaliplatino sin 5-FU) de rutina;
+    - inhibidores orales de la tirosina cinasa del EGFR (gefitinib, erlotinib) y del VEGF (sunitinib, sorafenib, vatalanib), salvo regorafenib y fruquintinib;
+    - esquemas con vemurafenib o con dabrafenib y trametinib, el triplete con binimetinib y trastuzumab con lapatinib;
+    - FOLFOXIRI con 5-FU 3200 mg/m² en pacientes estadounidenses (usar FOLFIRINOX).
+- No solicitar para elegir el tratamiento: inmunohistoquímica de EGFR, PD-L1, carga mutacional tumoral, ni niveles tumorales de timidilato sintasa, dihidropirimidina deshidrogenasa o timidina fosforilasa (distinto del genotipo germinal de DPYD, que sí se estudia; ver 8.9).
+
+**Fundamento**
+
+- Evolución histórica (DeVita):
+    - durante casi cuatro décadas el 5-FU fue el único fármaco disponible, y de todos sus moduladores solo persiste la leucovorina;
+    - IFL superó al esquema de la Clínica Mayo de 5-FU con leucovorina en respuesta, tiempo a la progresión y supervivencia global, pero con más diarrea y vómito; el ensayo N9741 (FOLFOX4 frente a IFL y a IROX) mostró la superioridad de FOLFOX4 en respuesta (45% frente a 31%), tiempo a la progresión (8.7 frente a 6.9 meses) y supervivencia global (19.5 frente a 15.0 meses), con menos fiebre neutropénica (4% frente a 15%) y menos diarrea grado 3–4 (12% frente a 28%), aunque con más neuropatía grado 3 (18% frente a 3%);
+    - la mortalidad por cualquier causa a 60 días (4.5% con IFL, 2.6% con FOLFOX4 y 2.7% con IROX) no difirió de forma significativa y resultó similar a la histórica de 5–8% con 5-FU y leucovorina;
+    - BICC-C: FOLFIRI superó al IFL modificado (supervivencia libre de progresión de 7.6 frente a 5.8 meses) y a CapeIRI (5.7 meses), y FOLFIRI con bevacizumab superó al IFL modificado con bevacizumab en supervivencia global; el celecoxib no aportó beneficio en seguridad ni en eficacia;
+    - TREE-1 y TREE-2: el oxaliplatino con 5-FU en bolo (bFOL) fue algo menos activo que FOLFOX o CAPEOX.
+- CapeIRI: más tóxico (vómito, diarrea y deshidratación graves) y menos eficaz que FOLFIRI en BICC-C; el ensayo EORTC 40015 se cerró tras siete muertes relacionadas con el tratamiento, cinco con CapeIRI; los ensayos europeos con bevacizumab (incluido HeCOG) mostraron toxicidad razonable, pero la NCCN no lo recomienda porque la toxicidad podría diferir entre pacientes estadounidenses y europeos.
+- Doble biológico: en PACCE, añadir panitumumab a quimioterapia con bevacizumab acortó la supervivencia libre de progresión y aumentó la toxicidad con KRAS silvestre o mutado; en CAIRO2, añadir cetuximab a capecitabina, oxaliplatino y bevacizumab acortó la supervivencia libre de progresión (9.4 frente a 10.7 meses) y, con KRAS mutado, la supervivencia global (17.2 frente a 24.9 meses) [el doble bloqueo perjudica].
+- Inhibidores orales: gefitinib y erlotinib fueron esencialmente negativos porque la mutación activadora del EGFR del cáncer de pulmón no aparece en el cáncer colorrectal; sunitinib no tuvo actividad en monoterapia, y los ensayos con sunitinib, sorafenib o vatalanib (PTK-787) añadidos a la quimioterapia se cerraron por futilidad o fueron negativos.
+- Inhibidores de la ciclooxigenasa 2: la ciclooxigenasa 2 está sobreexpresada en tejido maligno y premaligno y se asocia a invasión, resistencia a la apoptosis y angiogénesis, pero falta evidencia de beneficio terapéutico; muchos clínicos los añadían suponiendo que no podían dañar, y el rofecoxib se retiró del mercado por seguridad.
+- Marcadores predictivos de quimioterapia: niveles tumorales altos de timidilato sintasa, dihidropirimidina deshidrogenasa o timidina fosforilasa medidos por PCR con transcriptasa inversa predicen falta de respuesta al 5-FU infusional, pero no bastan para excluirlo y no tienen papel en la práctica (DeVita).
+- Contraste normativo: DeVita describe la aspirina adyuvante como prometedora con datos observacionales (reducción de mortalidad específica de 23–30%) y beneficio quizá limitado a tumores con mutación de PIK3CA; la NCCN 2026 la convirtió en indicación del algoritmo en los estadios II–III con alteraciones de la vía PI3K (ver 8.7), sin papel definido en la enfermedad metastásica.
