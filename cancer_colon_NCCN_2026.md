@@ -1022,6 +1022,315 @@
 - Esteroides: en un ensayo pequeño, una dosis preoperatoria de dexametasona (antiemética) se asoció a más recurrencia a distancia, sin diferencia en supervivencia; el hallazgo es preocupante y requiere más estudio.
 - Marcadores moleculares sin uso clínico rutinario: p53 (datos contradictorios), timidilato sintasa y expresión de EGFR (ver 4.2).
 
+## 10. Pólipo maligno y cirugía del cáncer no metastásico
+
+### 10.1 Pólipo maligno: observación o colectomía (COL-1)
+
+**Conducta**
+
+- Confirmar que el pólipo tiene cáncer invasor (pT1) y completar el estudio (ver 7.2) antes de decidir.
+- Espécimen único, resecado por completo, con rasgos histológicos favorables y márgenes libres: observación o colectomía con extirpación en bloque de los ganglios regionales.
+- Espécimen fragmentado, margen no evaluable o rasgos histológicos desfavorables: colectomía con extirpación en bloque de los ganglios regionales (la laparoscopia es una opción).
+- Criterios histológicos (COL-B):
+    - favorables (todos): bajo grado según la Organización Mundial de la Salud (OMS, 2019; antes bien a moderadamente diferenciado), sin invasión angiolinfática, profundidad de invasión submucosa < 1 mm, gemación tumoral baja y margen de resección negativo;
+    - desfavorables (cualquiera): alto grado (antes poco diferenciado), invasión angiolinfática, invasión submucosa > 1 mm, gemación alta o margen positivo;
+    - margen positivo: células tumorales en el margen de sección o a < 1 mm de él.
+- Tras la decisión, seguir el estadio patológico y la adyuvancia según el estado del sistema de reparación de errores de apareamiento: competente (pMMR) o estabilidad de microsatélites (MSS) en COL-4 y deficiente (dMMR) o inestabilidad alta (MSI-H) en COL-13 (ver 11).
+- No dar quimioterapia adyuvante en el estadio I.
+- Hacer colonoscopia total a todo paciente al que se le reseca un pólipo maligno, para descartar pólipos sincrónicos, y continuar con endoscopia de vigilancia.
+- En pólipos pediculados, resecar el tallo completo hasta su base; orientar la pieza para que el patólogo identifique la base y el margen, y tatuar el sitio (ver 10.2).
+
+**Fundamento**
+
+- El pTis no es «pólipo maligno» y no tiene potencial biológico de metastatizar; el pT1 sí, porque alcanza la submucosa, donde nacen los linfáticos (ver 3.1).
+- La mayoría de los cánceres en pólipos se diagnostica después de la polipectomía; por eso la pieza debe permitir evaluar el margen.
+- Pólipo sésil frente a pediculado: los datos históricos mostraron en los sésiles resecados por endoscopia más desenlaces adversos (enfermedad residual, recurrencia, mortalidad y metástasis hematógena, pero no metástasis ganglionares), probablemente por la mayor probabilidad de margen positivo; la evidencia reciente indica que el estado del margen y los rasgos histológicos desfavorables son los mejores predictores de enfermedad residual o ganglionar, cualquiera que sea la morfología. Un pólipo sésil de bajo grado, con invasión submucosa < 1 mm, márgenes negativos y sin invasión linfovascular puede tratarse con polipectomía endoscópica.
+- No existe consenso sobre la definición de margen positivo: se ha definido como tumor a 1–2 mm del margen de sección o células tumorales dentro de la zona de diatermia.
+- La gemación tumoral alta se asocia a desenlaces adversos y puede hacer insuficiente la polipectomía.
+- Contraste normativo: DeVita mantiene los criterios de consenso clásicos: en el pólipo pediculado no se requiere más cirugía si el margen negativo es > 2 mm, el tumor es bien diferenciado, no hay invasión linfovascular y no hay extensión más allá del tallo (niveles 1–3 de Haggitt); las lesiones sésiles con cáncer invasor en la biopsia y los pólipos grandes se tratan con resección segmentaria. La NCCN actual usa un margen de 1 mm, añade la profundidad submucosa < 1 mm y la gemación, y permite observar el pólipo sésil con rasgos favorables.
+- Tras la resección completa de un estadio I no se requiere adyuvancia y la supervivencia a 5 años supera 95%.
+
+### 10.2 Resección endoscópica de pólipos, marcaje y preparación intestinal
+
+**Conducta**
+
+- Buscar en la resección endoscópica que la lesión salga entera y con su arquitectura conservada, para que sea a la vez terapéutica y diagnóstica; el aspecto endoscópico orienta, pero solo el estudio patológico es definitivo.
+- Elegir la técnica por el tamaño y la forma (DeVita):
+    - lesiones polipoides pequeñas (hasta 5–8 mm): extirpación completa con pinza de biopsia y un borde de mucosa normal; el sangrado suele ser mínimo y se controla con electrocauterio si persiste;
+    - pólipos pediculados grandes: asa y electrocauterio en la base; si no caben por el canal de trabajo, retirarlos sujetos con el asa junto con el colonoscopio;
+    - lesiones grandes de base ancha o sésiles: biopsiar (múltiples biopsias) en lugar de resecar, por el mayor riesgo de perforación o de márgenes inadecuados; si la sospecha de malignidad es baja, puede intentarse la resección mucosa o submucosa endoscópica por un endoscopista con experiencia avanzada.
+- Marcar el sitio con tinta: 1 mL inyectado en la submucosa de cada uno de los cuatro cuadrantes, para reconocerlo después desde la luz y desde la serosa; registrar además referencias anatómicas (orificio apendicular, válvula ileocecal y sombras hepática o esplénica en los ángulos), porque la profundidad de inserción del colonoscopio flexible es muy inexacta.
+- Ante cualquier sospecha de carcinoma invasor en una lesión sésil o de base ancha no resecable por endoscopia, hacer una resección oncológica definitiva: la estadificación formal solo se conoce tras la resección.
+- Preparación intestinal para la colectomía: limpieza mecánica (catártico o agente de desplazamiento de volumen) más profilaxis antibiótica apropiada.
+- Para la cirugía mínimamente invasiva, localizar el tumor antes de operar (identificación radiológica, marcaje endoscópico o referencias endoscópicas).
+
+**Fundamento**
+
+- El sangrado y la perforación, aunque poco frecuentes, son más comunes en la colonoscopia terapéutica que en la diagnóstica.
+- La preparación mecánica reduce las complicaciones posoperatorias y facilita la visualización, sobre todo por laparoscopia; algunos estudios sugieren que podría ser innecesaria, lo que sigue en debate.
+- Lavado rectal distal (tumores rectales y sigmoides bajos): busca eliminar células tumorales exfoliadas intraluminales; un metaanálisis no aleatorizado mostró casi la mitad de recurrencias locales, por lo que sus autores proponen reconsiderarlo dado su bajo costo y riesgo.
+
+### 10.3 Colectomía oncológica: linfadenectomía y extensión según la localización
+
+**Conducta**
+
+- Indicar colectomía con extirpación en bloque de los ganglios regionales como procedimiento preferido del cáncer de colon no metastásico resecable (COL-3; ver 6.2 para el tumor obstructivo y 12 para el localmente avanzado).
+- Linfadenectomía correcta: ligadura proximal del o de los pedículos vasculares con extirpación en bloque del segmento colónico y su mesenterio; biopsiar o extirpar los ganglios clínicamente sospechosos fuera del campo estándar y el ganglio apical; examinar ≥ 12 ganglios. Los ganglios positivos que se dejan hacen la resección incompleta (R2); la resección debe ser completa para considerarse curativa.
+- Extensión según la localización (DeVita):
+    - ciego y colon ascendente: hemicolectomía derecha; se moviliza el colon del retroperitoneo protegiendo uréter, vena cava inferior, duodeno y vasos gonadales, y en el ángulo hepático la vesícula y el duodeno; se ligan los vasos ileocólicos, cólicos derechos y la rama derecha de los cólicos medios, con ligadura proximal para extraer el mesenterio y sus ganglios; anastomosis ileotransversa manual o mecánica;
+    - ángulo hepático y transverso proximal: hemicolectomía derecha ampliada hasta incluir los vasos cólicos medios, con anastomosis ileocólica, que tiene menor riesgo de fuga que la colocolónica por la mejor irrigación del mesenterio del delgado;
+    - transverso distal: hemicolectomía izquierda ampliada;
+    - transverso medio: colectomía transversa con resección del epiplón desde la curvatura mayor hasta el hilio esplénico (puede albergar micrometástasis), ligadura del tronco de la cólica media y anastomosis del colon derecho movilizado al descendente; con frecuencia es más seguro resecar colon derecho y transverso y anastomosar el íleon al descendente, lo que deja reserva cólica suficiente para absorber agua y mantener evacuaciones normales;
+    - descendente proximal: movilización del ángulo esplénico, ligadura de la cólica izquierda y anastomosis del transverso a la región sigmoidea;
+    - descendente medio: hemicolectomía izquierda con ligadura de la cólica izquierda y de algunas ramas sigmoideas, con mesenterio suficiente para estadificar;
+    - sigmoide: sigmoidectomía con márgenes a ambos lados y anastomosis colorrectal; el mesenterio se divide a nivel de las ramas sigmoideas (preservando la cólica izquierda) o en el origen de la arteria mesentérica inferior; en pacientes de alto riesgo puede preservarse la mesentérica inferior y la cólica izquierda;
+    - lesiones por debajo de la reflexión peritoneal: se tratan como cáncer de recto.
+- Colectomía abdominal total: en colitis ulcerosa o síndromes de poliposis familiar con carcinoma invasor o riesgo significativo de desarrollarlo (ver 4.5).
+- Pacientes con síndrome hereditario conocido o sospechado: seguir las consideraciones quirúrgicas de la guía NCCN de alto riesgo genético y familiar.
+
+**Fundamento**
+
+- La extensión de la resección la define la irrigación y la necesidad de extraer los ganglios de drenaje (ver 3.2); un conocimiento cuidadoso de la anatomía vascular es crítico para una operación segura y oncológicamente eficaz.
+- La técnica de «no tocar» (no-touch) no modifica la recurrencia ni la siembra a distancia.
+- En la sigmoidectomía, la ligadura en el origen de la mesentérica inferior logra más movilización y más ganglios, pero ni esta ni una hemicolectomía izquierda más extensa mejoraron la supervivencia.
+- Escisión mesocólica completa con ligadura vascular central: aplica al colon los principios de la escisión total del mesorrecto; la NCCN destaca la atención creciente a la calidad de la colectomía:
+    - en el ensayo de fase III ESCME, la supervivencia libre de recurrencia local a 5 años fue similar, pero la escisión mesocólica redujo el riesgo absoluto de muerte o progresión (9.1% en los estadios I–III y 16.1% en el estadio III);
+    - un estudio poblacional danés mostró mejor supervivencia libre de enfermedad a 4 años, y una revisión sistemática encontró más ganglios y mejor supervivencia en cuatro de nueve estudios prospectivos, con mejor calidad del espécimen en el resto;
+    - frente a la cirugía D3 japonesa, obtuvo más mesenterio y más ganglios;
+    - DeVita: los estudios de cohorte muestran mejor supervivencia y más detección de depósitos tumorales (lo que permite tratar como N1c a pacientes reestadificados), y un ensayo no aleatorizado mostró mejor supervivencia libre de recurrencia local en los estadios II y III sin más complicaciones; los autores piden estandarizarla, sobre todo en tumores avanzados.
+
+### 10.4 Abordaje mínimamente invasivo
+
+**Conducta**
+
+- Ofrecer la colectomía laparoscópica o asistida por robot cuando:
+    - el cirujano tiene experiencia en estas técnicas;
+    - el tumor está localizado antes de la cirugía (identificación radiológica, marcaje endoscópico o referencias endoscópicas);
+    - puede hacerse una exploración y evaluación abdominal completas.
+- No indicarla, en general, en cáncer localmente avanzado (invasión de estructuras adyacentes, T4) ni en obstrucción o perforación aguda por el tumor, aunque puede considerarse con experiencia apropiada.
+- No indicarla en pacientes con alto riesgo de adherencias prohibitivas, y convertir a cirugía abierta si se encuentran durante la exploración.
+
+**Fundamento**
+
+- Ensayos aleatorizados frente a la cirugía abierta:
+    - COST: resultados oncológicos equivalentes (recurrencia y supervivencia global a 5 años), con beneficio modesto y a corto plazo en calidad de vida;
+    - CLASICC: sin diferencias en supervivencia global, supervivencia libre de enfermedad ni recurrencia local, mantenidas en el seguimiento a largo plazo;
+    - COLOR: supervivencia libre de enfermedad, global y recurrencia similares a 10 años; los resultados a corto plazo (conversión, ganglios obtenidos y complicaciones) fueron mejores en hospitales de alto volumen;
+    - Barcelona: posible ventaja modesta en supervivencia, recuperación más rápida y estancia más corta; un ensayo de Australia y Nueva Zelanda no mostró diferencias en los desenlaces oncológicos.
+- Varios metaanálisis confirman resultados a largo plazo similares en recurrencia local y supervivencia, y uno mostró menos complicaciones cardíacas con la laparoscopia.
+- Con un programa de recuperación mejorada (ensayo EnROL), la única diferencia fue una estancia más corta con laparoscopia (5 frente a 7 días).
+- Ventajas técnicas (DeVita): la magnificación permite disecciones más finas y seguir los vasos del mesenterio para ligaduras altas que obtienen más ganglios. Las preocupaciones iniciales (márgenes, muestreo ganglionar y siembra en los puertos) no se confirmaron. Los mayores costos de quirófano se compensan con una estancia más corta.
+- Cirugía robótica (estudios observacionales): tiempos quirúrgicos más largos y mayor costo, con menos sangrado, recuperación intestinal más rápida, estancia más corta y menos complicaciones e infecciones; su mayor potencial está en la disección rectal.
+- Otras técnicas (DeVita): la colectomía laparoscópica por incisión única es factible, con resultados oncológicos equivalentes a 2 años; la extracción de la pieza por orificios naturales (transvaginal o transrectal) en tumores sigmoides y de recto superior mostró recurrencia local y supervivencia libre de enfermedad similares, con menos complicaciones, menos dolor, recuperación intestinal más rápida y estancia más corta, a costa de un tiempo quirúrgico algo mayor.
+
+## 11. Tratamiento adyuvante
+
+### 11.1 Selección por estadio en tumores con sistema de reparación competente (COL-4)
+
+**Conducta**
+
+- Aplicar este algoritmo a tumores con sistema de reparación de errores de apareamiento competente (pMMR) o estabilidad de microsatélites (MSS):
+    - Tis, T1 N0 o T2 N0 (estadios 0–I): observación;
+    - T3 N0 sin rasgos de alto riesgo (estadio IIA de bajo riesgo): observación (preferida) o considerar capecitabina durante 6 meses o fluorouracilo con leucovorina (5-FU/LV) durante 6 meses;
+    - T3 N0 con alto riesgo de recurrencia sistémica, o T4 N0 (estadios IIB–IIC): capecitabina (6 meses), 5-FU/LV (6 meses), FOLFOX (leucovorina, 5-fluorouracilo y oxaliplatino; 6 meses), CAPEOX (capecitabina y oxaliplatino; 3 meses) u observación; ninguna opción es preferida;
+    - T1–T3 N1 (estadio III de bajo riesgo): preferidos CAPEOX durante 3 meses o FOLFOX durante 3–6 meses; otras opciones, capecitabina o 5-FU/LV durante 6 meses;
+    - T4 N1–N2 o cualquier T N2 (estadio III de alto riesgo): preferidos CAPEOX durante 3–6 meses o FOLFOX durante 6 meses; otras opciones, capecitabina o 5-FU/LV durante 6 meses.
+- Reservar la capecitabina o el 5-FU/LV en monoterapia para quien no sea candidato a oxaliplatino.
+- En T4 que penetra una estructura fija, considerar radioterapia (ver 12.4).
+- En todos los estadios, acompañar la adyuvancia o la observación de:
+    - opciones para lograr ≥ 150 minutos semanales de actividad física moderada a vigorosa (ver 15.2);
+    - vigilancia concurrente (ver 15.1);
+    - aspirina en los estadios II–III con alteraciones de la vía de la fosfatidilinositol 3-cinasa (PI3K) (ver 8.7).
+- Limitar el tratamiento perioperatorio total (neoadyuvante más adyuvante) a un máximo de 6 meses.
+- Iniciar la adyuvancia en cuanto el paciente esté médicamente apto (ver 11.7).
+
+**Fundamento**
+
+- La quimioterapia basada en 5-FU frente a cirugía sola mostró un beneficio claro en la supervivencia libre de enfermedad a 5 años (en esencia, mayor tasa de curación) en el estadio III; 6 meses fueron suficientes y prolongar a 9 o 12 meses no aportó más (DeVita).
+- El beneficio es mayor cuanto mayor es el riesgo: en un metaanálisis, la supervivencia libre de enfermedad a 5 años en el estadio II fue similar con y sin adyuvancia (79.3% y 81.4%), mientras que en el estadio III subió de 49.0% sin adyuvancia a 63.6% con ella.
+- En bases poblacionales, los pacientes con estadio III o II de alto riesgo tratados conforme a esta guía vivieron más que quienes no la siguieron.
+- La mayoría de las recurrencias ocurre en los 2 primeros años tras la cirugía; después de 5 y 8 años la tasa anual cae a < 1.5% y < 0.5% [la vigilancia intensiva se concentra en los primeros años]. Para evaluar la supervivencia global en los ensayos actuales se requieren al menos 6 años de seguimiento.
+- Los esquemas y sus dosis se detallan en 11.6, la radioterapia en 12.4 y las razones para no usar irinotecán ni agentes biológicos en 11.8.
+
+### 11.2 Estadio II: evaluación del riesgo y decisión (COL-F)
+
+**Conducta**
+
+- Decidir la adyuvancia del estadio II en una conversación médico-paciente que incluya:
+    - la evidencia, incluidas las suposiciones de beneficio por evidencia indirecta (del estadio III);
+    - la morbilidad del tratamiento;
+    - las características de alto riesgo;
+    - las preferencias del paciente.
+- Considerar los rasgos de alto riesgo de recurrencia (excluidos los tumores con inestabilidad de microsatélites alta [MSI-H]):
+    - histología poco diferenciada o indiferenciada;
+    - invasión linfática o vascular;
+    - obstrucción intestinal;
+    - < 12 ganglios examinados;
+    - invasión perineural;
+    - perforación localizada;
+    - márgenes cercanos, indeterminados o positivos;
+    - gemación tumoral de nivel alto;
+    - T4 (estadios IIB–IIC).
+- Valorar las comorbilidades y la expectativa de vida, y explicar que el beneficio de la quimioterapia adyuvante no mejora la supervivencia en > 5%.
+- Solicitar siempre la prueba de MMR o MSI: el estadio II con MSI-H no se beneficia de la fluoropirimidina sola y el de bajo riesgo no debe recibir adyuvancia (ver 11.4).
+- Usar FOLFOX solo en el estadio II con múltiples rasgos de alto riesgo; no indicarlo en el estadio II de riesgo bueno o promedio.
+- No usar ensayos multigénicos ni ADN tumoral circulante para decidir (ver 8.8).
+- Considerar la observación y la participación en ensayos clínicos.
+
+**Fundamento**
+
+- El estadio II de riesgo promedio tiene muy buen pronóstico, por lo que el beneficio posible de la adyuvancia es pequeño.
+- La definición actual de alto riesgo es claramente inadecuada: muchos pacientes con rasgos de alto riesgo no recurren y algunos de riesgo promedio sí; además, ningún rasgo predice el beneficio de la quimioterapia ni orienta la elección del esquema.
+- Evidencia de eficacia en el estadio II:
+    - QUASAR mostró un beneficio pequeño del 5-FU/LV, pero cerca de 64% de sus pacientes tenía < 12 ganglios examinados, es decir, quizá un riesgo mayor;
+    - en MOSAIC, añadir oxaliplatino no mejoró la supervivencia global a 10 años en el estadio II, ni siquiera con rasgos de alto riesgo; el ensayo C-07 (FLOX) fue similar;
+    - los estudios poblacionales son contradictorios, y uno sugiere que el beneficio se limita a los tumores pT4;
+    - SACURA (DeVita): 1 año de quimioterapia oral no mejoró la supervivencia libre de enfermedad ni la global en los estadios IIA–IIC, y la invasión linfovascular y la mala diferenciación no influyeron en la recurrencia; su debilidad fue usar un solo agente oral.
+- La NCCN acepta, como el panel de la American Society of Clinical Oncology (ASCO) de 2022, el beneficio relativo de la adyuvancia en el estadio III como evidencia indirecta para el estadio II, sobre todo con rasgos de alto riesgo.
+- Duración en el estadio II de alto riesgo: en el análisis agrupado de la colaboración International Duration Evaluation of Adjuvant Chemotherapy (IDEA), 3 meses no fueron no inferiores a 6 meses en conjunto; con CAPEOX la diferencia fue pequeña y no significativa, con menos toxicidad de grado 3–5. En ACHIEVE-2, 3 y 6 meses de CAPEOX dieron supervivencia libre de enfermedad a 3 años similar (88.2% y 88.4%) con menos abandonos y menos neuropatía con 3 meses.
+- Otros factores adversos del estadio II citados por DeVita: antígeno carcinoembrionario elevado antes o después de la cirugía, tumores sin MSI-H, pérdida de 18q, tumores macroscópicamente infiltrantes, CA 19-9 sérico alto, invasión venosa extensa, sexo masculino, edad > 50 años y tamaño tumoral pequeño (< 5 cm); con uno o más, el pronóstico se acerca al del estadio III. En el estadio II, la invasión perineural empeoró la supervivencia libre de enfermedad y la quimioterapia adyuvante pareció neutralizar ese efecto.
+- Contraste normativo: DeVita cita un consenso que no recomienda tratar a todos los pacientes con estadio II, pero sí una consulta con oncología médica para discutir pros y contras.
+
+### 11.3 Estadio III: esquema y duración
+
+**Conducta**
+
+- Indicar quimioterapia posoperatoria a todo paciente con ganglios positivos sin contraindicación médica o psiquiátrica.
+- Incorporar oxaliplatino como práctica estándar, salvo contraindicación: CAPEOX o FOLFOX son superiores al 5-FU/LV en el estadio III.
+- Elegir la duración por el riesgo (ver 11.1):
+    - bajo riesgo (T1–T3 N1): CAPEOX durante 3 meses (no inferior a 6 meses) o FOLFOX durante 3–6 meses;
+    - alto riesgo (T4 N1–N2 o cualquier T N2): CAPEOX durante 3–6 meses o FOLFOX durante 6 meses (FOLFOX durante 3 meses es inferior).
+- Preferir el FOLFOX6 modificado (mFOLFOX6), más práctico que el FOLFOX4 del ensayo pivotal.
+- Reservar CAPEOX para pacientes motivados y confiables, capaces de tomar varias tabletas de capecitabina (habitualmente 3–5, dos veces al día) durante 2 semanas de cada 3, junto con quimioterapia intravenosa emetógena.
+- Considerar el riesgo de neuropatía periférica, que puede ser permanente, al elegir esquema y duración; en pacientes con diabetes la neuropatía aparece con dosis acumuladas menores.
+- No usar el esquema de 5-FU en bolo diario por 5 días de la Clínica Mayo (más tóxico) ni FLOX (oxaliplatino con 5-FU en bolo semanal), por su tasa alta de diarrea grave.
+- No usar irinotecán, bevacizumab, cetuximab ni panitumumab en la adyuvancia (ver 11.8).
+
+**Fundamento**
+
+- MOSAIC (FOLFOX4 frente a 5-FU/LV infusional, estadios II–III): en el estadio III, FOLFOX mejoró la supervivencia libre de enfermedad a 5 años (66.4% frente a 58.9%) y la supervivencia global a 10 años (67.1% frente a 59.0%) [cerca de 8 pacientes más vivos por cada 100 tratados], con independencia del estado de reparación o de BRAF. Toxicidad: neutropenia de grado 3–4 en 41%, diarrea de grado 3–4 en 11% y neuropatía sensitiva de grado 3 en 12.4% [grado 3: interfiere con las actividades diarias]; a 4 años persistía neuropatía en 15.4%, sobre todo de grado 1, que se considera esencialmente permanente.
+- NO16968 (XELOXA): CAPEOX mejoró la supervivencia libre de enfermedad y la supervivencia global a 7 años frente al 5-FU/LV en bolo. Otro ensayo no mostró diferencias entre CAPEOX y mFOLFOX6, y los resultados de ambos esquemas justifican considerarlos intercambiables.
+- X-ACT: la capecitabina sola fue al menos equivalente al 5-FU/LV en bolo (esquema de la Clínica Mayo), con menos efectos adversos, también en ≥ 70 años.
+- NSABP C-07 (FLOX): mejoró la supervivencia libre de enfermedad sin mejorar la global, acortó la supervivencia tras la recurrencia y causó diarrea de grado 3–4 en 38% (frente a 10.8% con FOLFOX en MOSAIC), por lo que ya no se recomienda.
+- IDEA (12 834 pacientes, 3 frente a 6 meses de FOLFOX o CAPEOX):
+    - neurotoxicidad de grado ≥ 3 de 3% frente a 16% con FOLFOX y de 3% frente a 9% con CAPEOX; también menos neurotoxicidad de grado 2 y menos diarrea con 3 meses;
+    - la supervivencia libre de enfermedad a 3 años (74.6% frente a 75.5%) no cumplió el criterio de no inferioridad en la población global, una diferencia de 0.9% de dudosa relevancia clínica;
+    - en el análisis final, la supervivencia global a 5 años fue de 82.4% con 3 meses y 82.8% con 6 meses [diferencia de 0.4%, que debe ponderarse frente a la gran reducción de toxicidad]; con CAPEOX casi no hubo diferencia numérica.
+- ACHIEVE (pacientes asiáticos) confirmó resultados similares con menos neuropatía persistente a 3 años (9.7% frente a 24.3%).
+- Datos retrospectivos sugieren que suspender FOLFOX antes de 10 ciclos por toxicidad no empeora la supervivencia (DeVita).
+- Neuroprotección: ninguna intervención ha demostrado de forma convincente prevenir o tratar la neuropatía por oxaliplatino; un ensayo pequeño con ácidos grasos poliinsaturados omega-3 (600 mg tres veces al día) redujo su incidencia y gravedad y requiere validación.
+- Contraste normativo: DeVita (2022) considera CAPEOX la opción preferida en pacientes motivados y FLOX una alternativa si FOLFOX o CAPEOX no son factibles; la NCCN v2.2026 retiró FLOX.
+
+### 11.4 Tumores con deficiencia del sistema de reparación o mutación ultrahipermutante de POLE/POLD1 (COL-13)
+
+**Conducta**
+
+- Aplicar este algoritmo a tumores con deficiencia del sistema de reparación de errores de apareamiento (dMMR), inestabilidad de microsatélites alta (MSI-H) o mutación de POLE/POLD1 con fenotipo ultrahipermutado (carga mutacional tumoral > 50 mutaciones/megabase):
+    - Tis o T1–T4a N0 (estadios 0–IIB): observación;
+    - T4b N0 (estadio IIC): observación o considerar la adyuvancia del estadio III de bajo riesgo, porque este subgrupo tiene mayor riesgo que otros estadios II con dMMR;
+    - T1–T3 N1 (estadio III de bajo riesgo), preferidos: FOLFOX más atezolizumab, CAPEOX más atezolizumab, CAPEOX durante 3 meses o FOLFOX durante 3–6 meses;
+    - T4 N1–N2 o cualquier T N2 (estadio III de alto riesgo), preferidos: FOLFOX más atezolizumab, CAPEOX más atezolizumab, CAPEOX durante 3–6 meses o FOLFOX durante 6 meses; considerar radioterapia en T4 que penetra una estructura fija.
+- Pautas con atezolizumab (anticuerpo contra el ligando 1 de muerte programada [PD-L1]):
+    - FOLFOX más atezolizumab 840 mg intravenoso cada 2 semanas durante 12 ciclos (6 meses), seguido de mantenimiento con atezolizumab 840 mg cada 2 semanas durante 13 ciclos (12 meses en total);
+    - CAPEOX más atezolizumab 1200 mg intravenoso cada 3 semanas durante 8 ciclos (6 meses), seguido de mantenimiento con atezolizumab 1200 mg cada 3 semanas durante 8 ciclos (12 meses en total);
+    - la forma subcutánea de atezolizumab con hialuronidasa puede sustituir a la intravenosa, con dosis y administración propias.
+- No dar fluoropirimidina sola en el estadio II con MSI-H, y no considerar la mala diferenciación como rasgo de alto riesgo en estos tumores.
+- Si el paciente recibió inmunoterapia neoadyuvante, tener presente que el papel de la inmunoterapia adyuvante no está definido (ver 12.2).
+- Mantener la actividad física, la vigilancia concurrente y la aspirina ante alteraciones de la vía PI3K, igual que en los tumores pMMR.
+
+**Fundamento**
+
+- Ensayo ATOMIC (estadio III con dMMR): mFOLFOX6 más atezolizumab fue superior a mFOLFOX6 solo, con supervivencia libre de enfermedad a 3 años de 86.4% frente a 76.6% [la recurrencia se redujo cerca de a la mitad].
+- Estadio II con MSI-H: pronóstico favorable y sin beneficio del 5-FU; en la serie de Ribic, la supervivencia libre de enfermedad a 5 años con MSI-H fue de 83% sin quimioterapia y de 69% con 5-FU/LV [tendencia a daño], mientras que en los tumores MSS o con inestabilidad baja la quimioterapia sí mejoró la supervivencia.
+- Estadio III con MSI-H: pese al mejor pronóstico, estos pacientes se benefician de la adyuvancia basada en 5-FU, y más aún de la basada en oxaliplatino, porque los aductos platino-ADN no se eliminan mediante las enzimas de reparación de errores de apareamiento (DeVita).
+- Contraste normativo: DeVita (2022) consideraba investigacionales los inhibidores de puntos de control inmunitario en el estadio III con MSI-H y no los recomendaba fuera de ensayos; la NCCN v2.2026, tras el ensayo ATOMIC, incluye FOLFOX o CAPEOX con atezolizumab entre las opciones preferidas.
+
+## 12. Enfermedad localmente avanzada, neoadyuvancia y radioterapia
+
+### 12.1 cT4b o enfermedad ganglionar voluminosa con sistema de reparación competente (COL-3)
+
+**Conducta**
+
+- En el cáncer de colon con sistema de reparación de errores de apareamiento competente (pMMR) o estabilidad de microsatélites (MSS) en estadio clínico T4b o con enfermedad ganglionar voluminosa, considerar neoadyuvancia con FOLFOX (leucovorina, 5-fluorouracilo y oxaliplatino) o CAPEOX (capecitabina y oxaliplatino) y después colectomía con extirpación en bloque de los ganglios regionales.
+- Completar la adyuvancia según el estadio patológico (COL-4; ver 11.1), con un tratamiento perioperatorio total de hasta 6 meses.
+- Seleccionar a los candidatos con tomografía computarizada (TC), que identifica razonablemente los tumores T4 y los T3 con invasión extramural > 5 mm.
+
+**Fundamento**
+
+- Ensayo FOxTROT (T3 con invasión ≥ 5 mm más allá de la muscular propia, o T4):
+    - la fase piloto mostró que la quimioterapia preoperatoria es factible y segura, con reducción significativa del estadio y sin más morbilidad posoperatoria;
+    - en los resultados maduros, la enfermedad residual o recurrente a 2 años fue de 16.9% con neoadyuvancia frente a 21.5% en el control [28% menos recurrencia], con marcada reducción de la T y la N, regresión histológica y más resecciones completas (94% frente a 89%);
+    - el beneficio fue escaso en tumores con deficiencia del sistema de reparación (dMMR), lo que favorece la inmunoterapia en ese grupo (ver 12.2).
+- DeVita:
+    - en la base nacional de cáncer de EE. UU., solo 3% de los T3–T4 recibió neoadyuvancia; en T4b se asoció a 23% menos riesgo de muerte a 3 años, sin beneficio en T3 ni T4a;
+    - PRODIGE 22 (FOLFOX con o sin cetuximab perioperatorio) no alcanzó su objetivo de respuesta patológica mayor, aunque mostró tendencia a reducir el estadio; el brazo con cetuximab se cerró por falta de eficacia;
+    - la TC predijo 81% de los tumores T4 y 71% de los T3 con invasión extramural > 5 mm (solo 7% subestadificados); la resonancia magnética y el ultrasonido endoscópico son prometedores, y ninguna técnica predice bien la N.
+- Tras descomprimir un tumor obstructivo, la quimioterapia neoadyuvante también se investiga con buenos resultados (ver 6.2).
+
+### 12.2 Deficiencia del sistema de reparación o mutación ultrahipermutante de POLE/POLD1 no metastásica (COL-12)
+
+**Conducta**
+
+- Según el escenario:
+    - resecable, no obstructivo: colectomía con extirpación en bloque de los ganglios regionales, o considerar inmunoterapia neoadyuvante con inhibidor de puntos de control si el tumor es T4 o el primario es voluminoso;
+    - resecable, obstructivo: las mismas opciones que en el tumor competente (ver 6.2);
+    - cT4b o ganglios voluminosos: considerar neoadyuvancia con inhibidor de puntos de control (preferida) o con FOLFOX o CAPEOX, y después colectomía;
+    - localmente irresecable o médicamente inoperable: inhibidor de puntos de control (preferido) y considerar radioterapia con fluorouracilo infusional o capecitabina antes de la cirugía; evaluar respuesta completa o conversión a resecable; después, cirugía con o sin radioterapia intraoperatoria y adyuvancia (COL-14), o terapia sistémica (COL-16), u observación.
+- Usar como neoadyuvancia cualquiera de los esquemas de inhibidores de puntos de control recomendados para la enfermedad metastásica (ver 14.5).
+- Seguir el estadio patológico y la adyuvancia de COL-13 (ver 11.4); el papel de la inmunoterapia adyuvante tras la neoadyuvante no está definido.
+- Tratar como tumor competente (pMMR/MSS) al paciente que no es candidato a inmunoterapia, y manejar la toxicidad según la guía NCCN de efectos adversos inmunitarios.
+
+**Fundamento**
+
+- Ensayos NICHE y NICHE-2 (cáncer de colon dMMR no metastásico, ipilimumab más nivolumab neoadyuvantes):
+    - respuesta patológica en 98% (109 de 111), respuesta patológica mayor en 95% y respuesta patológica completa en 68% [en dos de cada tres pacientes no quedó tumor viable en la pieza];
+    - sin recurrencias con una mediana de seguimiento de 26 meses;
+    - eventos adversos inmunitarios de grado 3–4 en solo 4%.
+- La quimioterapia neoadyuvante con FOLFOX o CAPEOX sigue siendo una opción en el cT4b dMMR, pero el escaso beneficio observado en FOxTROT hace preferible el inhibidor de puntos de control.
+- Base biológica: los tumores dMMR tienen miles de mutaciones que generan neoantígenos, cuya respuesta inmunitaria liberan los inhibidores de PD-1, PD-L1 o CTLA-4 (ver 8.2).
+
+### 12.3 Enfermedad localmente irresecable o paciente médicamente inoperable con sistema competente
+
+**Conducta**
+
+- Indicar terapia sistémica (ver 14) y considerar radioterapia con fluorouracilo infusional o capecitabina antes de la cirugía, con el objetivo de convertir la lesión en resecable.
+- Reevaluar la conversión a enfermedad resecable con imagen:
+    - si se convierte: cirugía con o sin radioterapia intraoperatoria, seguida de adyuvancia con FOLFOX (preferido), CAPEOX (preferido), capecitabina o fluorouracilo con leucovorina, y vigilancia (ver 15.1);
+    - si no se convierte: continuar con terapia sistémica (ver 14).
+
+**Fundamento**
+
+- La quimiorradioterapia neoadyuvante con fluoropirimidina puede considerarse en el T4 no metastásico inicialmente irresecable o en pacientes médicamente inoperables para facilitar la resecabilidad; tras ella puede plantearse la cirugía con o sin radioterapia intraoperatoria o más líneas de terapia sistémica.
+- † La fluoropirimidina concurrente actúa como radiosensibilizador: potencia el daño del ADN inducido por la radiación en las células tumorales.
+
+### 12.4 Radioterapia en el cáncer de colon (COL-E)
+
+**Conducta**
+
+- Indicaciones:
+    - neoadyuvante, concurrente con fluoropirimidina, en el T4 no metastásico inicialmente irresecable o médicamente inoperable;
+    - posoperatoria (considerar) en el T4 que penetra una estructura fija;
+    - quimiorradioterapia perioperatoria en pacientes muy seleccionados con recurrencia;
+    - radioterapia ablativa de metástasis hepáticas o pulmonares limitadas (ver 13.7).
+- Esquemas concurrentes:
+    - fluorouracilo 225 mg/m² intravenoso en 24 horas los días 1–5 o 1–7 de cada semana durante 5 semanas, con la radioterapia;
+    - capecitabina 825 mg/m² por vía oral dos veces al día, de lunes a viernes, solo los días de radioterapia, durante todo el tratamiento (habitualmente 28–30 sesiones).
+- Volúmenes y dosis:
+    - incluir el lecho tumoral definido por la imagen preoperatoria o por los clips quirúrgicos;
+    - 45–50 Gy en 25–28 fracciones;
+    - considerar sobreimpresión (boost) con márgenes cercanos o positivos o en casos irresecables, tras evaluar la dosis acumulada en los órganos de riesgo;
+    - limitar la dosis al intestino delgado: dosis máxima 55 Gy, volumen que recibe 45 Gy ≤ 150 cc o volumen que recibe 50 Gy ≤ 30 cc en cada asa, si es posible; evaluar los órganos de riesgo en el histograma dosis-volumen.
+- Radioterapia intraoperatoria (si está disponible): considerarla como sobreimpresión en tumores T4 o recurrentes; si no está disponible, 10–20 Gy adicionales de radioterapia externa o braquiterapia a un volumen limitado.
+- Técnicas:
+    - radioterapia de intensidad modulada (IMRT) para situaciones particulares, como la reirradiación de recurrencias o anatomías que exigen cumplir dosis objetivo respetando los límites de los tejidos normales;
+    - radioterapia guiada por imagen (con kilovoltaje o TC de haz cónico) de rutina con IMRT y con radioterapia corporal estereotáctica (SBRT).
+- Cuidados de soporte: dilatadores vaginales e información sobre la estenosis vaginal; orientación sobre menopausia prematura y reemplazo hormonal; advertir que un útero irradiado no puede llevar un embarazo a término; informar sobre disfunción sexual, posible descenso futuro de testosterona y riesgo de infertilidad, con opciones de bancos de semen, ovocitos o tejido ovárico antes del tratamiento.
+
+**Fundamento**
+
+- La NCCN reserva la quimiorradioterapia perioperatoria del colon para pacientes muy seleccionados (T4 que penetra una estructura fija o enfermedad recurrente) y para la enfermedad localmente irresecable o el paciente inoperable; † a diferencia del recto, no es parte del tratamiento estándar del cáncer de colon resecable.
+- La IMRT concentra la radiación en el tumor mediante planificación inversa asistida por computadora y puede reducir la toxicidad en el tejido normal.
+
 ### 4.4 Síndrome de Lynch (cáncer colorrectal hereditario no polipósico)
 
 **Conducta**
@@ -1217,3 +1526,91 @@
     - el alelo \*28 es una repetición de dinucleótidos (TA7) en el promotor y el \*6 una mutación codificante (c.211G>A), ambos con menor función; los metabolizadores lentos acumulan SN-38 y tienen mayor riesgo de neutropenia grave, aunque no todos presentan toxicidad grave;
     - la dosis máxima tolerada de irinotecán intravenoso cada 3 semanas fue de 850 mg, 700 mg y 400 mg en los genotipos \*1/\*1, \*1/\*28 y \*28/\*28;
     - contraste normativo: DeVita (texto previo) señala que no había guías para ajustar la dosis por UGT1A1 y que el genotipo 7/7, más tóxico, también se asoció a mayor actividad antitumoral; la NCCN actual (COL-I) recomienda considerar la reducción de 30% en \*28/\*28, y la etiqueta del irinotecán advierte reducir la dosis inicial en homocigotos \*28.
+
+### 11.5 Pacientes de edad avanzada
+
+**Conducta**
+
+- Ofrecer adyuvancia también a los pacientes mayores: el beneficio y la toxicidad del fluorouracilo con leucovorina (5-FU/LV) son similares a los de los jóvenes.
+- Individualizar la adición de oxaliplatino en ≥ 70 años: su beneficio no se ha demostrado en el estadio II ni en el III a esa edad.
+- Usar las herramientas de la guía NCCN de oncología geriátrica para valorar al paciente (ver 7.6).
+
+**Fundamento**
+
+- El uso de adyuvancia disminuye con la edad, en parte porque los adultos mayores están subrepresentados en los ensayos.
+- Estudios poblacionales mostraron beneficio de la adyuvancia en el estadio III en ≥ 65 años (5-FU/LV) y en ≥ 75 años.
+- Oxaliplatino en mayores:
+    - beneficio pequeño y no significativo en ≥ 75 años y beneficio reducido en ≥ 70 años en la base Adjuvant Colon Cancer Endpoints (ACCENT);
+    - sin beneficio en ≥ 70 años en los subgrupos de NSABP C-07 (con tendencia a peor supervivencia y más toxicidad de grado 4–5) y de MOSAIC (70–75 años);
+    - un análisis agrupado mostró que la adyuvancia con oxaliplatino reducía la mortalidad 26% en < 70 años, sin mejoría en ≥ 70 años;
+    - en contraste, el análisis agrupado de NSABP C-08, XELOXA, X-ACT y AVANT mostró mejor supervivencia libre de enfermedad y global con CAPEOX o FOLFOX que con 5-FU/LV en ≥ 70 años, y en TOSCA el tiempo a la recurrencia no difirió por edad tras ajustar por otros factores.
+- Mortalidad temprana: aumenta con la edad de forma no lineal, pero su riesgo absoluto es muy bajo (mortalidad a 30 días de 1.8% a los 80 años).
+- Contraste normativo: DeVita señala que, desde 2013, las guías de consenso recomiendan individualizar el oxaliplatino en el adulto mayor; la NCCN advierte que su beneficio en ≥ 70 años no está demostrado.
+
+### 11.6 Esquemas adyuvantes y dosis (COL-G)
+
+**Conducta**
+
+- FOLFOX6 modificado (mFOLFOX6), cada 2 semanas (6 meses equivalen a 12 ciclos):
+    - oxaliplatino 85 mg/m² intravenoso el día 1, en 2 horas o más rápido a 1 mg/m²/min, con la infusión de leucovorina ajustada al mismo tiempo;
+    - leucovorina 400 mg/m² intravenosa el día 1 (equivale a levoleucovorina 200 mg/m²);
+    - fluorouracilo (5-FU) 400 mg/m² en bolo intravenoso el día 1, seguido de 1200 mg/m²/día durante 2 días en infusión continua (2400 mg/m² en 46–48 horas).
+- CAPEOX, cada 3 semanas (6 meses equivalen a 8 ciclos):
+    - oxaliplatino 130 mg/m² intravenoso el día 1;
+    - capecitabina 1000 mg/m² por vía oral dos veces al día durante 14 días.
+- Capecitabina en monoterapia: 1000–1250 mg/m² por vía oral dos veces al día durante 14 días, cada 3 semanas.
+- Fluorouracilo con leucovorina:
+    - esquema semanal: leucovorina 500 mg/m² en infusión de 2 horas y 5-FU 500 mg/m² en bolo 1 hora después de iniciar la leucovorina, semanalmente durante 6 semanas, cada 8 semanas por 4 ciclos;
+    - esquema infusional quincenal simplificado (sLV5FU2): leucovorina 400 mg/m² intravenosa el día 1, 5-FU 400 mg/m² en bolo y después 1200 mg/m²/día durante 2 días en infusión continua (2400 mg/m² en 46–48 horas), cada 2 semanas.
+- FOLFOX o CAPEOX con atezolizumab (tumores con deficiencia del sistema de reparación): ver 11.4.
+- Antes de iniciar una fluoropirimidina, considerar la prueba de DPYD (ver 8.9).
+
+**Fundamento**
+
+- Capecitabina: la mayoría de los datos de eficacia y seguridad provienen de Europa, donde la dosis inicial estándar es 1000 mg/m² dos veces al día durante 14 días cada 21 días; los pacientes de Norteamérica parecen tener más toxicidad con la capecitabina y con otras fluoropirimidinas y podrían requerir dosis menores.
+- mFOLFOX6 ha sido el brazo control de todos los ensayos adyuvantes recientes del National Cancer Institute (NCI) y es el FOLFOX preferido en adyuvancia y en enfermedad metastásica.
+
+### 11.7 Medidas complementarias: momento de inicio, escasez de leucovorina, aspirina y actividad física
+
+**Conducta**
+
+- Iniciar la adyuvancia en cuanto el paciente esté médicamente apto tras recuperarse de la cirugía; tradicionalmente se inicia entre las 3 y las 8 semanas.
+- Ante escasez de leucovorina:
+    - usar levoleucovorina (200 mg/m² equivalen a 400 mg/m² de leucovorina), solo durante la escasez porque es mucho más cara;
+    - o usar dosis menores de leucovorina en todos los pacientes, probablemente tan eficaces como las altas;
+    - si ninguna está disponible, tratar sin leucovorina y, si el paciente no presenta toxicidad de grado ≥ 2, considerar un aumento modesto del 5-FU (cerca de 10%).
+- Aspirina en los estadios II–III con alteraciones de la vía de la fosfatidilinositol 3-cinasa (PI3K): 100–162 mg/día durante 3 años tras recuperarse de la cirugía, concurrente con la quimioterapia (ver 8.7).
+- Actividad física: facilitar al menos 150 minutos semanales de actividad moderada a vigorosa (ver 15.2).
+
+**Fundamento**
+
+- Un metaanálisis mostró que cada 4 semanas de retraso de la quimioterapia reduce 14% la supervivencia global; los retrasos > 6 semanas y > 8 semanas se asociaron a peor supervivencia en registros.
+- Contraste: estos análisis tienen sesgos de confusión (quienes empiezan tarde suelen ser > 65 años, operados de urgencia o con hospitalización posoperatoria prolongada); DeVita los considera generadores de hipótesis, no definitivos.
+- Dosis de leucovorina: en QUASAR, 175 mg y 25 mg de leucovorina con 5-FU en bolo dieron supervivencia y recurrencia similares, y en enfermedad metastásica la respuesta y la supervivencia no difirieron entre 500 mg/m² y 20 mg/m².
+
+### 11.8 Evolución histórica de la adyuvancia y esquemas no recomendados
+
+**Conducta**
+
+- No usar en la adyuvancia del cáncer de colon:
+    - esquemas con irinotecán (IFL, FOLFIRI): no aportan beneficio y aumentan la toxicidad, incluida la letal;
+    - bevacizumab: no mejora la curación y podría ser perjudicial;
+    - cetuximab o panitumumab: sin beneficio y con más toxicidad, incluso en tumores KRAS silvestres;
+    - FLOX (ver 11.3).
+- No usar fuera de investigación: infusión portal, quimioterapia intraperitoneal hipertérmica adyuvante, vacunas ni inmunoterapia activa específica.
+
+**Fundamento**
+
+- Etapa inicial (1950–1986): ensayos pequeños con fármacos hoy sabidos inactivos en enfermedad metastásica; un metaanálisis hasta 1986 solo mostró una tendencia de beneficio, lo que indicó la necesidad de ensayos mucho mayores.
+- Década de 1990 (fluorouracilo): beneficio claro en el estadio III; 6 meses suficientes; el levamisol, que se creía activo, resultaba inactivo; la leucovorina a dosis altas no superó a las bajas; el esquema diario por 5 días de la Clínica Mayo fue más tóxico que el semanal en bolo o el quincenal en infusión; el interferón alfa añadió toxicidad sin beneficio.
+- Fluoropirimidinas orales: el 5-FU oral tiene biodisponibilidad errática por el efecto variable de la dihidropirimidina deshidrogenasa (DPD) en el primer paso hepático; por eso se desarrollaron profármacos orales: capecitabina (equivalente al 5-FU/LV en bolo) y uracilo-tegafur con leucovorina (equivalente al 5-FU intravenoso en NSABP C-06, no disponible en EE. UU.); la S-1, usada en Japón, fue no inferior al uracilo-tegafur.
+- Combinaciones: se supuso que la actividad en enfermedad metastásica se traduciría en curación adyuvante, lo que resultó simplista y a menudo falso; solo el oxaliplatino añadido a las fluoropirimidinas aportó beneficio.
+- Irinotecán:
+    - CALGB 89803 (IFL): exceso de muertes tempranas (18 frente a 6 en los primeros 4 meses) y sin beneficio en supervivencia, por lo que se cruzaron los límites de futilidad;
+    - ACCORD 02 y PETACC-3 (FOLFIRI frente a 5-FU/LV infusional): sin beneficio y con más toxicidad digestiva y neutropenia; el supuesto beneficio en tumores con inestabilidad de microsatélites alta no se confirmó.
+- Bevacizumab (NSABP C-08, AVANT y QUASAR 2): sin mejoría de la supervivencia libre de enfermedad ni global; en C-08 las curvas se separaron al año y convergieron hacia el tercer año, lo que indica que solo retrasa la progresión de las micrometástasis mientras se administra, sin erradicarlas; en AVANT hubo una tendencia a peor supervivencia.
+- Cetuximab (N0147 y PETACC-8): sin beneficio en tumores KRAS silvestres, con más eventos adversos de grado 3–4 y daño en > 70 años; panitumumab comparte diana, mecanismo y resistencias, por lo que se le aplica la misma conclusión.
+- Enfoques investigacionales (DeVita):
+    - infusión portal de 5-FU (NSABP C-02 y estudio suizo): mejoría modesta de la supervivencia libre de enfermedad sin reducir las recurrencias hepáticas; en un metaanálisis, mejoría de solo 4% en la supervivencia global a 5 años; la variante OCTREE (5-FU y oxaliplatino intraoperatorios seguidos de mFOLFOX6) está en evaluación;
+    - quimioterapia intraperitoneal hipertérmica adyuvante en T4 o perforados: el ensayo COLOPEC no mejoró la supervivencia libre de enfermedad peritoneal y causó complicaciones en 14%;
+    - vacunas: el antígeno carcinoembrionario es poco inmunógeno; la mucina MUC1 hipoglucosilada es un objetivo prometedor; la inmunización con células tumorales propias irradiadas más bacilo de Calmette-Guérin no mostró beneficio.
