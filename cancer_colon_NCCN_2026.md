@@ -1331,6 +1331,99 @@
 - La NCCN reserva la quimiorradioterapia perioperatoria del colon para pacientes muy seleccionados (T4 que penetra una estructura fija o enfermedad recurrente) y para la enfermedad localmente irresecable o el paciente inoperable; † a diferencia del recto, no es parte del tratamiento estándar del cáncer de colon resecable.
 - La IMRT concentra la radiación en el tumor mediante planificación inversa asistida por computadora y puede reducir la toxicidad en el tejido normal.
 
+## 13. Enfermedad metastásica
+
+### 13.1 Frecuencia, sitios, pronóstico y principios de resecabilidad
+
+**Conducta**
+
+- Evaluar a todo paciente con cáncer colorrectal metastásico (CCRm) potencialmente resecable en un equipo multidisciplinario desde el inicio, con un cirujano experto en metástasis hepatobiliares o pulmonares (ver 7.4).
+- Considerar resecable la enfermedad solo si es realista una resección completa de todo el tumor conocido con márgenes negativos (R0) y se conserva una reserva hepática adecuada: la resección incompleta o la citorreducción parcial (R1/R2) no ha demostrado beneficio.
+- No contraindicar la resección solo por el tamaño del tumor; si el hígado remanente es insuficiente en la volumetría, considerar embolización portal preoperatoria, hepatectomía por etapas o radioembolización con itrio 90 (ver 13.7).
+- Clasificar la presentación: sincrónica (al diagnóstico) o metacrónica (tras el tratamiento del primario), y resecable, potencialmente convertible o no convertible.
+- Determinar desde el diagnóstico del estadio IV el perfil molecular (RAS, BRAF, HER2, estado de reparación y panel multigénico; ver 8) y la lateralidad del primario, porque definen la terapia sistémica (ver 14).
+
+**Fundamento**
+
+- Entre 50% y 60% de los pacientes con CCR desarrolla metástasis y, de ellos, 80–90% tiene enfermedad hepática irresecable.
+- La metástasis es con más frecuencia metacrónica y el hígado es el sitio más afectado; 20–34% de los pacientes se presenta con metástasis hepáticas sincrónicas, que se asocian a enfermedad más diseminada (más sitios y más afectación bilobar) y peor pronóstico que las metacrónicas.
+- Más de la mitad de quienes mueren por CCR tiene metástasis hepáticas en la autopsia, que son la causa de muerte en la mayoría, y en un tercio el hígado es el único sitio metastásico [justifica el tratamiento local agresivo de la enfermedad limitada al hígado].
+- Factores de mal pronóstico: metástasis extrahepáticas, más de tres tumores e intervalo libre de enfermedad < 12 meses.
+- Resultados de la resección de metástasis hepáticas: supervivencia libre de enfermedad a 5 años cercana a 20% y supervivencia a 5 años de 38% en un metaanálisis, hasta 71% con metástasis única [la curación es posible y debe ser el objetivo en un número sustancial de pacientes]. DeVita: la resección hepática es la única opción curativa actual; solo cerca de 20% es candidato y la mayoría recurre.
+- La mayoría de las recomendaciones para metástasis hepáticas se aplica a las pulmonares; la resección de metástasis pulmonares logró supervivencia global a 3 años de 78%.
+- El ultrasonido con contraste puede usarse como herramienta de cribado de lesiones hepáticas en quienes no pueden recibir contraste en TC o RM o tienen lesiones indeterminadas, en centros con experiencia.
+- La enfermedad metastásica irresecable generalmente no es curable: el tratamiento busca paliar síntomas, controlar el crecimiento y prolongar la supervivencia libre de progresión y global, con una discusión franca de la calidad de vida.
+
+### 13.2 Metástasis sincrónicas hepáticas o pulmonares resecables con sistema competente (COL-6)
+
+**Conducta**
+
+- Opciones para el tumor con sistema de reparación competente (pMMR) o estabilidad de microsatélites (MSS):
+    1. colectomía sincrónica o por etapas con resección hepática o pulmonar (preferida) o terapia local, seguida de adyuvancia;
+    2. neoadyuvancia de 2–3 meses con FOLFOX (preferido), CAPEOX (preferido), FOLFIRI o FOLFIRINOX (estos dos, categoría 2B), seguida de colectomía sincrónica o por etapas con resección (preferida) o terapia local de las metástasis, y después adyuvancia;
+    3. colectomía, seguida de quimioterapia de 2–3 meses (mismos esquemas) y resección por etapas (preferida) o terapia local de las metástasis, y después adyuvancia.
+- Adyuvancia tras resecar la enfermedad metastásica: FOLFOX (preferido), CAPEOX (preferido), capecitabina o fluorouracilo con leucovorina, con un tratamiento perioperatorio total de hasta 6 meses; después, vigilancia (ver 15.1).
+- Preferir la resección sobre la ablación en metástasis hepáticas, salvo lesiones pequeñas (≤ 3 cm), en las que la ablación térmica equivale a la resección (ver 13.7).
+- Infusión arterial hepática con o sin quimioterapia sistémica (contraindicados los inhibidores del factor de crecimiento del endotelio vascular [VEGF]): opción de categoría 2B en instituciones con experiencia.
+- No usar bevacizumab, cetuximab ni panitumumab como neoadyuvancia de la enfermedad metastásica resecable.
+- Programar la cirugía en cuanto la enfermedad sea resecable y limitar la neoadyuvancia a 2–3 meses, por la hepatotoxicidad de la quimioterapia.
+
+**Fundamento**
+
+- Cirugía simultánea o por etapas: depende de la complejidad de la hepatectomía o de la colectomía, de las comorbilidades, de la exposición quirúrgica y de la experiencia del cirujano. Históricamente se resecaba primero el primario; hoy es aceptado resecar primero el hígado («hígado primero») y después el primario, seguido de adyuvancia.
+- Adyuvancia tras la resección: su beneficio es controvertido; en el ensayo JCOG0603 (hígado solo), 12 ciclos de mFOLFOX6 tras la hepatectomía mejoraron la supervivencia libre de enfermedad a 5 años (49.8% frente a 38.7%), pero la supervivencia global a 5 años fue mayor con hepatectomía sola (83.1% frente a 71.2%).
+- Ventajas de la quimioterapia preoperatoria: trata antes la enfermedad micrometastásica, permite valorar la respuesta (con valor pronóstico) y evita la cirugía en quienes progresan pronto. Desventajas: puede perderse la «ventana» de resección por progresión o por respuesta completa radiológica, que dificulta localizar las lesiones; aun con respuesta completa en la TC, la mayoría de los sitios conserva cáncer viable.
+- Hepatotoxicidad: el irinotecán causa esteatohepatitis y el oxaliplatino, lesión sinusoidal; ambas aumentan la morbilidad de la hepatectomía.
+- FOLFIRI y FOLFIRINOX neoadyuvantes tienen categoría 2B por la escasez de datos.
+- En el ensayo EORTC 40983, FOLFOX perioperatorio (6 ciclos antes y 6 después) mejoró la supervivencia libre de progresión a 3 años (8–9% absoluto) sin diferencia en supervivencia global; la respuesta parcial preoperatoria fue de 40% y la mortalidad operatoria < 1%.
+- Ante neoadyuvancia, puede considerarse colocar marcadores fiduciales en las lesiones pequeñas antes del tratamiento.
+
+### 13.3 Metástasis sincrónicas irresecables: conversión a resecabilidad (COL-7)
+
+**Conducta**
+
+- Terapia sistémica inicial en el tumor competente (pMMR/MSS):
+    - FOLFIRI, FOLFOX, CAPEOX o FOLFIRINOX, con o sin bevacizumab; o
+    - FOLFIRI o FOLFOX con cetuximab o panitumumab, solo en tumores KRAS, NRAS y BRAF silvestres del lado izquierdo.
+- Considerar la resección del colon solo ante riesgo inminente de obstrucción, sangrado significativo, perforación u otros síntomas importantes del tumor (ver 13.4).
+- Reevaluar la conversión a resecable cada 2 meses si la conversión es un objetivo razonable, con esquemas de alta tasa de respuesta en la enfermedad potencialmente convertible.
+- Si se convierte: resección sincronizada o por etapas (preferida) o terapia local del colon y de las metástasis, y después terapia sistémica con o sin biológico (categoría 2B para el biológico, que solo se justifica para continuar una respuesta favorable de la conversión), u observación o un ciclo abreviado de quimioterapia; tratamiento perioperatorio total preferido de 6 meses.
+- Si sigue irresecable: terapia sistémica (ver 14) y terapia local en pacientes seleccionados; la citorreducción o la ablación sin intención curativa no se recomiendan.
+- Con bevacizumab en la conversión: dejar al menos 6 semanas entre la última dosis y la cirugía electiva y reiniciarlo al menos 6–8 semanas después de la cirugía.
+- En metástasis solo hepáticas, la infusión arterial hepática con o sin fluorouracilo con leucovorina sistémico (categoría 2B) es una opción en centros con experiencia.
+
+**Fundamento**
+
+- La conversión se refiere casi siempre a enfermedad limitada al hígado que no puede resecarse por afectar estructuras críticas; los pacientes con muchas metástasis hepáticas o pulmonares rara vez logran una R0 solo por responder, porque la probabilidad de erradicar un depósito con terapia sistémica es baja, y deben considerarse no convertibles.
+- Cualquier esquema activo puede usarse para convertir, porque el objetivo es reducir las metástasis visibles, no erradicar la enfermedad micrometastásica.
+- Tasas de conversión: irinotecán con fluorouracilo y leucovorina permitió resecar 32.5%; FOLFOX, 40%; en una serie grande con oxaliplatino, 12.5% de «buenos respondedores» fue resecado; FOLFOXIRI duplicó las resecciones R0 frente a FOLFIRI y mejoró la supervivencia a 5 años (15% frente a 8%).
+- Bevacizumab: mejora modestamente la respuesta a los esquemas con irinotecán; con oxaliplatino los datos son mixtos (sin beneficio en un ensayo grande, pero más resecciones R0 en metástasis hepáticas RAS mutadas en el ensayo BECOME: 22.3% frente a 5.8%), por lo que su uso es aceptable. Aumenta las complicaciones de la herida si se opera durante su administración; el intervalo de 6 semanas corresponde a dos vidas medias.
+- FOLFOXIRI con bevacizumab: más beneficio que los dobletes en la enfermedad oligometastásica y más resecciones R0; en tumores derechos irresecables (CAIRO5) prolongó la supervivencia libre de progresión.
+- Anti-EGFR (tumores silvestres): cetuximab aumentó la resecabilidad (por ejemplo, de 32% a 60% en CELIM) y las resecciones R0 (25.7% frente a 7.4%); un metaanálisis mostró más respuesta, más resecciones R0 y mejor supervivencia libre de progresión, sin mejorar la global. En CAIRO5 (izquierdos, RAS/BRAF silvestres) bevacizumab y panitumumab no difirieron. FOLFOXIRI con panitumumab no superó a mFOLFOX6 con panitumumab y dio más toxicidad digestiva (TRIPLETE), por lo que la NCCN no recomienda FOLFIRINOX con anti-EGFR.
+- Hay datos contradictorios sobre FOLFOX con cetuximab en metástasis hepáticas potencialmente resecables: en New EPOC, cetuximab perioperatorio acortó la supervivencia libre de progresión y la global, por lo que se desaconseja en la enfermedad resecable y se usa con cautela en la potencialmente convertible.
+- DeVita: trasplante hepático en metástasis irresecables limitadas al hígado, en estudio (SECA-I y SECA-II, con supervivencia a 5 años de 60% y 83% en pacientes muy seleccionados; factores adversos: tumor > 5.5 cm, progresión con quimioterapia, intervalo < 24 meses desde la resección del primario y ACE > 80 µg/L).
+
+### 13.4 Primario intacto en enfermedad irresecable y metástasis abdominales o peritoneales sincrónicas (COL-5)
+
+**Conducta**
+
+- No resecar de rutina un primario asintomático cuando las metástasis son irresecables: considerar la resección paliativa solo ante riesgo inequívoco e inminente de obstrucción, sangrado agudo significativo, perforación u otros síntomas importantes del tumor.
+- Metástasis sincrónicas irresecables en otros sitios: terapia sistémica (ver 14).
+- Metástasis abdominales o peritoneales sincrónicas:
+    - sin obstrucción: terapia sistémica;
+    - con obstrucción o riesgo inminente: resección del colon, colostomía derivativa, derivación interna de la obstrucción inminente o endoprótesis, seguidas de terapia sistémica;
+    - en centros con experiencia y pacientes seleccionados con metástasis peritoneales limitadas en quienes puede lograrse una R0, considerar la cirugía citorreductora completa con o sin quimioterapia intraperitoneal (ver 13.7).
+- No considerar el primario intacto como contraindicación del bevacizumab, y advertir que bevacizumab con endoprótesis colónica o rectal podría aumentar el riesgo de perforación.
+
+**Fundamento**
+
+- La quimioterapia sistémica suele mejorar los síntomas del primario en 1–2 semanas, las complicaciones del primario intacto son poco frecuentes y su resección retrasa la quimioterapia; el Panel considera que los riesgos de operar superan los beneficios.
+- Ensayos aleatorizados: en JCOG1007, resecar el primario antes de la quimioterapia no mejoró la supervivencia (25.9 frente a 26.7 meses) y hubo muertes posoperatorias; en CAIRO4, la mortalidad a 60 días fue de 11% con resección frente a 3% sin ella; en NSABP C-10 (mFOLFOX6 con bevacizumab y primario asintomático) la morbilidad fue aceptable sin resección (14% de morbilidad mayor por el primario).
+- Contraste: algunos estudios retrospectivos y bases poblacionales sugirieron beneficio de resecar el primario, sesgados por la selección; DeVita añade que en una cohorte de adultos mayores la mortalidad a 30 días de estas resecciones fue de 10% y que 93% de los pacientes nunca requirió cirugía del primario.
+- Si se opera, la laparoscopia acorta la estancia, reduce las complicaciones y el sangrado. La mortalidad posoperatoria de la cirugía paliativa es mayor en ≥ 70 años con enfermedad local avanzada o metástasis extrahepáticas, en la cirugía de urgencia y con complicaciones médicas.
+- La perforación del primario con bevacizumab es rara y no disminuye al resecarlo.
+- Metástasis peritoneales: cerca de 17% de los CCRm tiene carcinomatosis peritoneal y 2% la tiene como único sitio; la supervivencia es menor y el objetivo suele ser paliativo, con terapia sistémica y cirugía o endoprótesis para la obstrucción.
+
 ### 4.4 Síndrome de Lynch (cáncer colorrectal hereditario no polipósico)
 
 **Conducta**
@@ -1614,3 +1707,107 @@
     - infusión portal de 5-FU (NSABP C-02 y estudio suizo): mejoría modesta de la supervivencia libre de enfermedad sin reducir las recurrencias hepáticas; en un metaanálisis, mejoría de solo 4% en la supervivencia global a 5 años; la variante OCTREE (5-FU y oxaliplatino intraoperatorios seguidos de mFOLFOX6) está en evaluación;
     - quimioterapia intraperitoneal hipertérmica adyuvante en T4 o perforados: el ensayo COLOPEC no mejoró la supervivencia libre de enfermedad peritoneal y causó complicaciones en 14%;
     - vacunas: el antígeno carcinoembrionario es poco inmunógeno; la mucina MUC1 hipoglucosilada es un objetivo prometedor; la inmunización con células tumorales propias irradiadas más bacilo de Calmette-Guérin no mostró beneficio.
+
+### 13.5 Recurrencia y metástasis metacrónicas con sistema competente (COL-9, COL-10 y COL-11)
+
+**Conducta**
+
+- Elevación seriada del antígeno carcinoembrionario (ACE): exploración física, colonoscopia y TC contrastada de tórax, abdomen y pelvis; si son negativas, considerar FDG-PET/TC y repetir la TC en 3 meses; si son positivas, tratar como metástasis metacrónicas documentadas (ver 8.1).
+- Metástasis metacrónicas documentadas por TC, RM o biopsia: determinar KRAS, NRAS, BRAF y HER2 (gen ERBB2) y el estado de reparación si no se hizo antes, dentro de un panel multigénico en tejido o sangre; evaluación multidisciplinaria con consulta quirúrgica; considerar FDG-PET/TC si la curación quirúrgica es factible.
+- Resecables (COL-10):
+    - sin quimioterapia previa: resección o terapia local seguida de FOLFOX o CAPEOX (preferidos), capecitabina o fluorouracilo con leucovorina; o neoadyuvancia de 2–3 meses con FOLFOX (preferido), CAPEOX (preferido) o capecitabina o fluorouracilo con leucovorina (categoría 2B), seguida de resección o terapia local y después FOLFOX, CAPEOX, capecitabina, fluorouracilo con leucovorina u observación;
+    - con quimioterapia previa: resección o terapia local seguida de observación (preferida si recibió oxaliplatino) o terapia sistémica con o sin biológico (categoría 2B para el biológico); o neoadyuvancia de 2–3 meses (FOLFOX o CAPEOX preferidos, o capecitabina o fluorouracilo con leucovorina), seguida de resección o terapia local y después FOLFOX, CAPEOX, capecitabina, fluorouracilo con leucovorina u observación;
+    - tratamiento perioperatorio total de hasta 6 meses, seguido de vigilancia.
+- Irresecables (COL-11):
+    - con FOLFOX o CAPEOX en los últimos 12 meses: FOLFIRI o irinotecán con o sin bevacizumab (preferido), ziv-aflibercept o ramucirumab; FOLFIRI o irinotecán con o sin cetuximab o panitumumab (KRAS, NRAS y BRAF silvestres y tumor izquierdo); encorafenib con cetuximab o panitumumab, con o sin FOLFIRI, FOLFOX o CAPEOX (BRAF V600E; añadir FOLFOX o CAPEOX solo sin neuropatía residual y con buena tolerancia previa); pertuzumab o tucatinib con trastuzumab (HER2 sobreexpresado o amplificado con RAS y BRAF silvestres) o trastuzumab deruxtecán (HER2 por inmunohistoquímica 3+); adagrasib o sotorasib con cetuximab o panitumumab (KRAS G12C; si no tolera el anti-EGFR, adagrasib o sotorasib solos);
+    - con FOLFOX o CAPEOX hace > 12 meses, con fluorouracilo con leucovorina o capecitabina previos, o sin quimioterapia previa: terapia sistémica como primera línea (ver 14.2);
+    - reevaluar la conversión cada 2 meses: si se convierte, resección (preferida) o terapia local y después terapia sistémica con o sin biológico u observación; si sigue irresecable, terapia sistémica y terapia local en pacientes seleccionados.
+- Infusión arterial hepática con o sin fluorouracilo con leucovorina sistémico (categoría 2B; contraindicado el anti-VEGF concurrente) en metástasis solo hepáticas, en centros con experiencia.
+- No usar cetuximab ni panitumumab como tratamiento perioperatorio de las metástasis metacrónicas resecables.
+- Vigilar con TC o RM cada 2–3 meses a quien recibe terapia sistémica paliativa.
+
+**Fundamento**
+
+- El manejo metacrónico se distingue del sincrónico por la ausencia de colectomía y por la necesidad de considerar la quimioterapia o la inmunoterapia previas al elegir el esquema.
+- La quimioterapia perioperatoria busca erradicar la enfermedad microscópica residual: los metaanálisis muestran mejor supervivencia libre de progresión y libre de enfermedad, sin beneficio demostrado en la supervivencia global.
+- Los biológicos no se recomiendan en el escenario perioperatorio, salvo en la conversión de enfermedad irresecable o con inhibidores de puntos de control en tumores con deficiencia del sistema de reparación; en New EPOC, cetuximab perioperatorio redujo la supervivencia libre de progresión y la global.
+- Resección repetida: puede hacerse con seguridad en la recurrencia limitada al hígado o al pulmón; la supervivencia disminuye con cada cirugía adicional y empeora con enfermedad extrahepática. Se benefician más quienes tienen intervalo libre de enfermedad largo y recurrencias únicas, pequeñas, unilobares y sin enfermedad extrahepática.
+- Tras resecar metástasis, 27% de las recurrencias pudo resecarse con intención curativa y una cuarta parte de esos pacientes quedó libre de enfermedad ≥ 36 meses, lo que justifica la vigilancia del estadio IV.
+
+### 13.6 Enfermedad metastásica con deficiencia del sistema de reparación o mutación de POLE/POLD1 (COL-14, COL-15 y COL-16)
+
+**Conducta**
+
+- Sincrónica, hepática o pulmonar resecable (COL-14):
+    - inmunoterapia con inhibidor de puntos de control (preferida), seguida de colectomía sincrónica o por etapas con resección (preferida) o terapia local de las metástasis, y vigilancia; los datos son limitados y el riesgo de progresión temprana podría ser mayor que con quimioterapia;
+    - o colectomía sincrónica o por etapas con resección o terapia local, seguida de FOLFOX, CAPEOX, FOLFOX con atezolizumab o CAPEOX con atezolizumab.
+- Sincrónica abdominal o peritoneal: sin obstrucción, tratamiento de la enfermedad irresecable (COL-16); con obstrucción o riesgo inminente, resección del colon, ostomía derivativa, derivación interna o endoprótesis y después COL-16.
+- Sincrónica irresecable: COL-16.
+- Metacrónica resecable (COL-15):
+    - sin inmunoterapia previa: inhibidor de puntos de control (preferido) seguido de observación o de resección o terapia local; o resección o terapia local seguida de FOLFOX, CAPEOX o cualquiera de ellos con atezolizumab;
+    - con inmunoterapia previa o contraindicación: resección o terapia local seguida de observación (preferida si recibió oxaliplatino) o terapia sistémica con o sin biológico (categoría 2B); o neoadyuvancia de 2–3 meses con FOLFOX o CAPEOX, resección o terapia local y después FOLFOX, CAPEOX u observación.
+- Irresecable (COL-16):
+    - candidato a inmunoterapia sin inmunoterapia previa: inhibidor de puntos de control, reevaluación cada 2–3 meses y después vigilancia, cirugía con o sin radioterapia, continuar la inmunoterapia, ipilimumab con nivolumab (si antes recibió monoterapia) o terapia sistémica;
+    - con inmunoterapia previa: terapia sistémica, o ipilimumab con nivolumab si antes recibió monoterapia con inhibidor de puntos de control.
+- Si hay respuesta, considerar suspender el inhibidor de puntos de control a los 2 años.
+- Si el tumor es a la vez dMMR/MSI-H y BRAF V600E, iniciar con inhibidor de puntos de control si es factible.
+- Tratar como tumor competente al paciente que no es candidato a inmunoterapia.
+- En la neoadyuvancia de la enfermedad metastásica resecable, preferir pembrolizumab, dostarlimab o nivolumab, solos o con ipilimumab, y vigilar de cerca la progresión, que podría volver irresecable una enfermedad resecable; la neoadyuvancia más la adyuvancia no deben superar 6 meses.
+- El papel de la inmunoterapia adyuvante tras la neoadyuvante no está definido.
+
+**Fundamento**
+
+- Los tumores con deficiencia del sistema de reparación representan solo 3.5–5% del estadio IV, pero su alta carga de neoantígenos los hace muy sensibles al bloqueo de PD-1, PD-L1 o CTLA-4 (ver 8.2 y 14.5).
+- No hay ensayos que respalden la inmunoterapia neoadyuvante en la enfermedad metastásica resecable, solo casos con respuestas notables; por eso la NCCN advierte el riesgo de progresión temprana.
+
+### 13.7 Terapias locorregionales de las metástasis (COL-C y COL-E)
+
+**Conducta**
+
+- Hígado (criterios de resecabilidad):
+    - la hepatectomía es el tratamiento de elección de las metástasis hepáticas resecables;
+    - la resección completa debe ser factible por anatomía y extensión, con función hepática remanente adecuada y sin enfermedad extrahepática irresecable; no se recomienda la citorreducción parcial (menos que R0);
+    - con primario in situ, resecar ambos sitios con intención curativa, en un tiempo o por etapas (hígado primero o primario primero);
+    - remanente insuficiente: embolización portal preoperatoria, hepatectomía por etapas o radioembolización con itrio 90 (lobectomía por radiación);
+    - pueden considerarse la re-resección y la re-ablación en pacientes seleccionados.
+- Pulmón: resección completa con función adecuada; el primario debe estar resecado (R0); las metástasis extrapulmonares resecables no la impiden; las sincrónicas pueden resecarse a la vez o por etapas; cirugía, ablación térmica o radioterapia corporal estereotáctica (SBRT) según la discusión multidisciplinaria y la preferencia del paciente.
+- Ablación guiada por imagen:
+    - térmica (radiofrecuencia, microondas o crioablación) o no térmica (electroporación irreversible, que forma poros irreversibles en la membrana y destruye la célula, para tumores junto a conductos biliares centrales u otras estructuras no protegibles);
+    - sola o con cirugía, siempre que todos los sitios originales puedan ablacionarse o resecarse con márgenes;
+    - en metástasis hepáticas ≤ 3 cm, priorizarla cuando sea factible, porque sus resultados equivalen a la resección con menos toxicidad;
+    - también para recurrencias tras hepatectomía o ablación y para metástasis pulmonares pequeñas.
+- Radioterapia externa a las metástasis: en pocos sitios (hígado, pulmón u otros seleccionados), si hay síntomas o en ensayos; preferir SBRT u otros esquemas hipofraccionados con dosis biológica efectiva (BED10) > 100 Gy en la enfermedad oligometastásica; no usarla de forma indiscriminada si la enfermedad es resecable o ablacionable.
+- Infusión arterial hepática: requisitos:
+    - experiencia multidisciplinaria;
+    - candidato a cirugía mayor;
+    - metástasis hepáticas irresecables, o resecables con alto riesgo de recurrencia;
+    - al menos una línea previa de quimioterapia sistémica;
+    - sin enfermedad extrahepática (el primario puede estar in situ);
+    - anatomía arterial hepática adecuada, sin hipertensión portal, sin hepatitis viral activa y sin radioterapia hepática previa;
+    - bilirrubina directa ≤ 1.5 mg/dL y fosfatasa alcalina < 2 veces el límite superior normal [función hepatobiliar conservada];
+    - no administrarla con bevacizumab ni otros inhibidores del VEGF.
+- Terapia arterial con radioembolización (itrio 90): en enfermedad resistente o refractaria a quimioterapia con predominio hepático; como lobectomía por radiación en lugar de la embolización portal o en enfermedad limítrofe que se beneficia de reducir el tumor e hipertrofiar el remanente; como segmentectomía por radiación en tumores pequeños no aptos para resección ni ablación.
+- Quimioembolización transarterial (con microesferas cargadas de irinotecán, DEBIRI): en pacientes muy seleccionados con enfermedad refractaria, función hepática conservada y predominio hepático; puede combinarse con quimioterapia basada en irinotecán.
+- Metástasis peritoneales: la citorreducción completa con o sin quimioterapia intraperitoneal puede considerarse en centros con experiencia para metástasis peritoneales limitadas con R0 alcanzable; es un enfoque muy controvertido.
+- No hacer citorreducción ni ablación sin intención curativa.
+
+**Fundamento**
+
+- Ablación:
+    - la de microondas supera a la radiofrecuencia porque evita el efecto de «disipación de calor» junto a los vasos, que impide ablacionar por completo los tumores perivasculares;
+    - con márgenes confirmados, el control local supera 93%, y sin progresión local cuando el margen es > 10 mm; los márgenes son especialmente importantes en metástasis con RAS mutado;
+    - el ensayo COLLISION mostró que la ablación térmica no es inferior a la resección en metástasis ≤ 3 cm, con menos eventos adversos, menor mortalidad y estancia más corta;
+    - estrategia de «prueba del tiempo»: ablacionar primero las lesiones pequeñas y vigilar de cerca permite que la biología de la enfermedad se manifieste; quien progresa de forma multifocal se ahorra una resección mórbida;
+    - añadir radiofrecuencia a la quimioterapia mejoró la supervivencia global a largo plazo frente a la quimioterapia sola, por lo que la quimioterapia sola ya no se justifica si las metástasis son ablacionables;
+    - en pulmón, la radiofrecuencia y la crioablación logran alto control local; la complicación más frecuente es el neumotórax; la ablación permite intervalos libres de quimioterapia en la enfermedad pulmonar oligometastásica.
+- SBRT: aunque el CCR es una histología relativamente radiorresistente, la SBRT logra control local eficaz con toxicidad mínima en hígado y pulmón; en SABR-COMET (≤ 5 metástasis, varios tumores), añadirla mejoró la supervivencia de forma duradera.
+- Infusión arterial hepática: tras la hepatectomía, floxuridina con dexametasona por vía arterial más fluorouracilo sistémico mejoró la supervivencia libre de enfermedad hepática a 2 años; la mayoría de los ensayos mejora la respuesta o el tiempo a la progresión hepática sin beneficio en supervivencia, y puede ayudar a la conversión; limitaciones: toxicidad biliar y experiencia técnica requerida.
+- Quimioembolización con DEBIRI: un ensayo mostró mejor supervivencia global que FOLFIRI sistémico (22 frente a 15 meses) y otro, más respuestas al añadirla a FOLFOX con bevacizumab.
+- Radioembolización: en primera línea (SIRFLOX, FOXFIRE) prolongó la supervivencia libre de progresión hepática sin mejorar la global (salvo en el subgrupo con primario derecho); en segunda línea (EPOCH) mejoró la supervivencia libre de progresión; una dosis tumoral ≥ 100 Gy predijo mejor supervivencia; su toxicidad es relativamente baja.
+- Peritoneo:
+    - en el ensayo de Verwaal, la cirugía citorreductora con quimioterapia intraperitoneal hipertérmica con mitomicina C prolongó la supervivencia frente a fluorouracilo con leucovorina (22.3 frente a 12.6 meses), pero con alta morbilidad y 8% de mortalidad, y sin los fármacos modernos; incluyó casos de origen apendicular, que se benefician más;
+    - en PRODIGE 7, añadir quimioterapia intraperitoneal hipertérmica con oxaliplatino a la citorreducción no mejoró la supervivencia (41.7 frente a 41.2 meses) y aumentó la morbilidad de grado 3–5 a 60 días; en PROPHYLOCHIP, la segunda revisión con quimioterapia hipertérmica empeoró la supervivencia libre de enfermedad;
+    - la hipertermia podría ser irrelevante; la morbilidad descrita es de 23–44% y la mortalidad de 0–12% (1–5% en centros de excelencia), y las recurrencias son muy frecuentes;
+    - tras una citorreducción completa, la quimioterapia sistémica adyuvante se asoció a mayor supervivencia en un registro;
+    - DeVita: la mitomicina C se asoció a mejor supervivencia que el oxaliplatino en la carga peritoneal baja.
+- Citorreducción paliativa: en el ensayo ORCHESTRA, tratar ≥ 80% de la enfermedad metastásica en pacientes con múltiples sitios no mejoró la supervivencia global.
